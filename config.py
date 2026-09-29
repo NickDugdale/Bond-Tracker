@@ -59,6 +59,12 @@ FX_TO_USD = {
     "AUD": 0.7111,
 }
 
+# ---------- Analysis window ----------
+# FINANCE: spreads move with the market, so pricing from a year ago says
+# little about today. Charts and stats use only the most recent 90 days,
+# even as the dataset keeps growing month after month.
+LOOKBACK_DAYS = 90
+
 # ---------- SEC EDGAR ----------
 # The SEC requires automated requests to say who is making them
 # (name + email), so they can contact you if a script misbehaves.

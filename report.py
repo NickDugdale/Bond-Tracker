@@ -1,6 +1,6 @@
 """
 report.py  (Stage 6)
-Builds the one-page "Weekly New Issue Market Update" as Word and PDF.
+Builds the one-page "New Issue Market Update" (weekly or monthly) as Word and PDF.
 
 THE KEY IDEA
 Every number in the note comes from Python (the dataset). Claude only
@@ -12,12 +12,18 @@ note.
 HOW TO RUN
     python report.py                          -> week ending on the latest deal
     python report.py --week-ending 2026-09-18 -> a specific week
-Output: output/reports/weekly_update_<week-end date>.docx and .pdf
-(The PDF step uses Microsoft Word, via docx2pdf.)
+    python report.py --period month           -> last full calendar month
+    python report.py --period month --month 2026-09
+Output: output/reports/<weekly|monthly>_update_<date>.docx and .pdf, plus a
+copy of the newest PDF as output/reports/latest.pdf (the README links to it).
+PDF conversion uses Microsoft Word on Windows, or LibreOffice elsewhere
+(e.g. when GitHub runs it automatically).
 """
 import argparse
 import json
 import re
+import shutil
+import subprocess
 from datetime import timedelta
 
 import pandas as pd
@@ -34,8 +40,12 @@ from analyse import comparable_spreads, load
 
 AUTHOR = "Nick Dugdale"
 NAVY, GREY, LIGHT = RGBColor(0x1F, 0x38, 0x64), RGBColor(0x52, 0x51, 0x4E), "EEF2F8"
-# Each week gets its own dated file, so older updates aren't overwritten
+# Each report gets its own dated file, so older updates aren't overwritten
 REPORTS_DIR = config.OUTPUT_DIR / "reports"
+
+# How far back the "prior period" comparison looks: the previous 4 weeks
+# for a weekly note, the previous 3 months for a monthly one.
+PRIOR_WINDOW = {"week": pd.Timedelta(weeks=4), "month": pd.DateOffset(months=3)}
 
 
 # ======================================================================
@@ -80,7 +90,7 @@ MIN_BONDS = 3   # fewer bonds than this in a tenor bucket = no meaningful median
 
 
 def tenor_comparison(week, before):
-    """FINANCE: compare this week's new-issue spreads with the prior period,
+    """FINANCE: compare this period's new-issue spreads with the prior period,
     tenor by tenor, but ONLY where both periods have enough bonds. One BBB
     30-year bond is a single print, not "the 30y part of the curve".
     The direction (tighter/wider) is worked out here in Python, so the
@@ -92,11 +102,11 @@ def tenor_comparison(week, before):
         p = before.loc[before["tenor_bucket"] == b, "spread_bps"]
         if w.empty:
             continue
-        row = {"bonds_this_week": int(len(w)), "median_this_week_bps": round(float(w.median())),
+        row = {"bonds_this_period": int(len(w)), "median_this_period_bps": round(float(w.median())),
                "bonds_prior": int(len(p)),
                "median_prior_bps": round(float(p.median())) if len(p) else None}
         if len(w) >= MIN_BONDS and len(p) >= MIN_BONDS:
-            diff = row["median_this_week_bps"] - row["median_prior_bps"]
+            diff = row["median_this_period_bps"] - row["median_prior_bps"]
             row["vs_prior"] = "tighter" if diff < -2 else "wider" if diff > 2 else "unchanged"
         else:
             row["vs_prior"] = "too few bonds to compare"
@@ -104,39 +114,63 @@ def tenor_comparison(week, before):
     return out
 
 
-def build_facts(df, week_end):
-    week_start = week_end - timedelta(days=6)
-    week = df[(df["trade_date"] >= week_start) & (df["trade_date"] <= week_end)]
-    before = df[df["trade_date"] < week_start]
-    if week.empty:
-        raise SystemExit(f"No deals priced between {week_start.date()} and {week_end.date()}.")
+def period_bounds(period, df, week_ending=None, month=None):
+    """Work out the start and end dates of the report period."""
+    if period == "month":
+        if month:
+            start = pd.Timestamp(month + "-01")
+        else:   # default: the last COMPLETE calendar month before today
+            start = (pd.Timestamp.today().normalize().replace(day=1) - pd.DateOffset(months=1))
+        end = start + pd.DateOffset(months=1) - pd.Timedelta(days=1)
+        return start, end, start.strftime("%B %Y")
+    end = pd.Timestamp(week_ending) if week_ending else df["trade_date"].max()
+    start = end - timedelta(days=6)
+    return start, end, f"Week ending {end.strftime('%d %b %Y')}"
 
-    n_prior_weeks = max(1, round((week_start - df["trade_date"].min()).days / 7))
-    deals = deal_table(week)
-    ig_w, ig_b = senior_ig(week), senior_ig(before)
-    curve = tenor_comparison(ig_w, ig_b)
+
+def build_facts(df, period, start, end, label):
+    this = df[(df["trade_date"] >= start) & (df["trade_date"] <= end)]
+    prior_start = max(start - PRIOR_WINDOW[period], df["trade_date"].min())
+    before = df[(df["trade_date"] >= prior_start) & (df["trade_date"] < start)]
+    if this.empty:
+        raise SystemExit(f"No deals priced between {start.date()} and {end.date()}.")
+
+    # FINANCE: average volume per week (or month) in the prior window, so
+    # "a quiet week" means quiet relative to recent activity.
+    days_per_period = 7 if period == "week" else 30.4
+    covered = (start - prior_start).days
+    n_prior = max(1, round(covered / days_per_period))
+    # Only quote an average if the data covers at least one full prior
+    # period; otherwise "avg" would really be a few days' worth.
+    has_full_prior = covered >= 0.9 * days_per_period
+    deals = deal_table(this)
+    curve = tenor_comparison(senior_ig(this), senior_ig(before))
+    chart_from = max(df["trade_date"].min(), end - pd.Timedelta(days=config.LOOKBACK_DAYS))
 
     return {
-        "week_start": week_start.strftime("%d %b %Y"),
-        "week_end": week_end.strftime("%d %b %Y"),
-        "week": {
-            "volume_usd_bn": round(week["size_usd_m"].sum() / 1000, 1),
+        "period": period,
+        "label": label,
+        "start": start.strftime("%d %b %Y"),
+        "end": end.strftime("%d %b %Y"),
+        "this_period": {
+            "volume_usd_bn": round(this["size_usd_m"].sum() / 1000, 1),
             "deals": int(deals.shape[0]),
-            "bonds": int(len(week)),
-            "ig_share_pct": round(100 * week.loc[week["grade"] == "IG", "size_usd_m"].sum()
-                                  / week["size_usd_m"].sum()),
-            "currencies": sorted(week["currency"].dropna().unique().tolist()),
+            "bonds": int(len(this)),
+            "ig_share_pct": round(100 * this.loc[this["grade"] == "IG", "size_usd_m"].sum()
+                                  / this["size_usd_m"].sum()),
+            "currencies": sorted(this["currency"].dropna().unique().tolist()),
             "hybrid_or_subordinated_deals": int(deals["hybrid_or_sub"].sum()),
-            "sector_volume_usd_bn": (week.groupby("sector")["size_usd_m"].sum() / 1000)
+            "sector_volume_usd_bn": (this.groupby("sector")["size_usd_m"].sum() / 1000)
                                     .round(1).sort_values(ascending=False).to_dict(),
         },
         "senior_ig_spreads_by_tenor": curve,
         "prior_period": {
-            "from": df["trade_date"].min().strftime("%d %b %Y"),
-            "weeks": n_prior_weeks,
-            "avg_weekly_volume_usd_bn": round(before["size_usd_m"].sum() / 1000 / n_prior_weeks, 1)
-                                        if len(before) else None,
+            "from": prior_start.strftime("%d %b %Y"),
+            f"{period}s": n_prior,
+            f"avg_{period}ly_volume_usd_bn": round(before["size_usd_m"].sum() / 1000 / n_prior, 1)
+                                             if len(before) and has_full_prior else None,
         },
+        "chart_window_from": chart_from.strftime("%d %b %Y"),
         "notable_deals": deals.head(6).to_dict("records"),
     }
 
@@ -146,12 +180,12 @@ def build_facts(df, week_end):
 # ======================================================================
 COMMENTARY_TOOL = {
     "name": "write_update",
-    "description": "Commentary for a weekly new-issue market update.",
+    "description": "Commentary for a new-issue market update.",
     "input_schema": {
         "type": "object",
         "properties": {
             "summary": {"type": "string",
-                        "description": "2-3 sentences, max 70 words: the week in one paragraph."},
+                        "description": "2-3 sentences, max 70 words: the period in one paragraph."},
             "themes": {"type": "array", "items": {"type": "string"}, "minItems": 3, "maxItems": 3,
                        "description": "Three market themes, max 30 words each."},
         },
@@ -159,7 +193,7 @@ COMMENTARY_TOOL = {
     },
 }
 
-SYSTEM = """You are a debt capital markets analyst writing the weekly new-issue
+SYSTEM = """You are a debt capital markets analyst writing the {period}ly new-issue
 update that goes to the syndicate desk. Style: concise, factual, market
 shorthand (e.g. "IG", "bps", "10y", "priced at T+85"). No hype, no advice.
 
@@ -199,7 +233,7 @@ def write_commentary(facts):
     allowed = allowed_numbers(facts)
     for attempt in (1, 2):   # one retry if it uses a number it wasn't given
         response = client.messages.create(
-            model=config.MODEL, max_tokens=800, system=SYSTEM,
+            model=config.MODEL, max_tokens=800, system=SYSTEM.replace("{period}", facts["period"]),
             tools=[COMMENTARY_TOOL], tool_choice={"type": "tool", "name": "write_update"},
             messages=[{"role": "user", "content": "Fact sheet:\n" + json.dumps(facts, indent=1)}],
         )
@@ -266,23 +300,24 @@ def build_docx(facts, words, results, docx_out):
     style.element.rPr.rFonts.set(qn("w:eastAsia"), "Arial")
 
     # --- Title block
-    para(doc, "Weekly New Issue Market Update", size=17, bold=True, color=NAVY, space_after=0)
-    para(doc, f"Week ending {facts['week_end']}  |  SEC-registered corporate bond issuance  |  "
+    title = "Weekly" if facts["period"] == "week" else "Monthly"
+    para(doc, f"{title} New Issue Market Update", size=17, bold=True, color=NAVY, space_after=0)
+    para(doc, f"{facts['label']}  |  SEC-registered corporate bond issuance  |  "
               f"Prepared by {AUTHOR}", size=8.5, color=GREY, space_after=6)
 
     # --- KPI strip
-    w, p = facts["week"], facts["prior_period"]
+    w, p, per = facts["this_period"], facts["prior_period"], facts["period"]
     curve = facts["senior_ig_spreads_by_tenor"]
     ten = curve.get("10y")
+    avg = p[f"avg_{per}ly_volume_usd_bn"]
     kpis = [
-        (f"${w['volume_usd_bn']}bn", "Volume this week"
-         + (f" (avg ${p['avg_weekly_volume_usd_bn']}bn)" if p["avg_weekly_volume_usd_bn"] else "")),
+        (f"${w['volume_usd_bn']}bn", f"Volume this {per}" + (f" (avg ${avg}bn)" if avg else "")),
         (f"{w['deals']} / {w['bonds']}", "Deals / bonds priced"),
         (f"{w['ig_share_pct']}%", "Investment grade share"),
-        (f"+{ten['median_this_week_bps']}bp" if ten else "-",
-         (f"Median senior IG 10y spread, {ten['bonds_this_week']} bond(s)"
+        (f"+{ten['median_this_period_bps']}bp" if ten else "-",
+         (f"Median senior IG 10y spread, {ten['bonds_this_period']} bond(s)"
           + (f" (prior +{ten['median_prior_bps']}bp)" if ten["median_prior_bps"] else ""))
-         if ten else "No senior IG 10y bonds this week"),
+         if ten else f"No senior IG 10y bonds this {per}"),
     ]
     t = doc.add_table(rows=2, cols=4)
     no_borders(t)
@@ -337,7 +372,7 @@ def build_docx(facts, words, results, docx_out):
               "(UST for USD, Bunds/mid-swaps for EUR, gilts for GBP).", size=6.5, color=GREY, space_after=0)
 
     # --- Charts (last 30 days of context)
-    heading(doc, f"Pricing context: {p['from']} to {facts['week_end']}")
+    heading(doc, f"Pricing context: {facts['chart_window_from']} to {facts['end']}")
     t = doc.add_table(rows=1, cols=2)
     no_borders(t)
     for i, name in enumerate(("2_spread_by_tenor.png", "1_spread_by_rating.png")):
@@ -362,7 +397,7 @@ def build_docx(facts, words, results, docx_out):
                         f"values traced to source filings; {s['accuracy_pct']}% correct on a manual "
                         f"spot check of {s['values_checked']} values.")
     small = (
-        f"Source: SEC EDGAR pricing term sheets (form FWP), {p['from']} to {facts['week_end']}. "
+        f"Source: SEC EDGAR pricing term sheets (form FWP), {p['from']} to {facts['end']}. "
         f"Terms extracted from filings with Claude ({config.MODEL}); all figures computed in Python "
         f"from the extracted data. Commentary drafted by Claude from those figures and checked "
         f"number-by-number against them.{accuracy} "
@@ -382,33 +417,53 @@ def build_docx(facts, words, results, docx_out):
 
 
 def to_pdf(docx_out):
+    """Word -> PDF. On Windows this uses Microsoft Word (docx2pdf); on
+    Linux (e.g. GitHub's servers) it uses LibreOffice instead."""
     pdf_out = docx_out.with_suffix(".pdf")
     try:
         from docx2pdf import convert
         convert(str(docx_out), str(pdf_out))
-        print(f"Saved {pdf_out}")
     except Exception as err:
-        print(f"PDF step skipped ({err}). Open the .docx in Word and use File > Save As > PDF.")
+        soffice = shutil.which("soffice") or shutil.which("libreoffice")
+        if not soffice:
+            print(f"PDF step skipped ({err}). Open the .docx in Word and use File > Save As > PDF.")
+            return None
+        subprocess.run([soffice, "--headless", "--convert-to", "pdf", "--outdir",
+                        str(docx_out.parent), str(docx_out)], check=True, capture_output=True)
+    print(f"Saved {pdf_out}")
+    return pdf_out
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Build the weekly new-issue update")
-    parser.add_argument("--week-ending", help="YYYY-MM-DD (default: latest trade date)")
+    parser = argparse.ArgumentParser(description="Build the new-issue market update")
+    parser.add_argument("--period", choices=["week", "month"], default="week")
+    parser.add_argument("--week-ending", help="YYYY-MM-DD (weekly; default: latest trade date)")
+    parser.add_argument("--month", help="YYYY-MM (monthly; default: last full month)")
     args = parser.parse_args()
 
     df = load()
-    week_end = pd.Timestamp(args.week_ending) if args.week_ending else df["trade_date"].max()
-    facts = build_facts(df, week_end)
-    (config.OUTPUT_DIR / "weekly_facts.json").write_text(json.dumps(facts, indent=2, default=str))
+    start, end, label = period_bounds(args.period, df, args.week_ending, args.month)
+    facts = build_facts(df, args.period, start, end, label)
+    (config.OUTPUT_DIR / f"{args.period}ly_facts.json").write_text(
+        json.dumps(facts, indent=2, default=str))
 
+    # Accuracy line for the small print: the spot check from results.json,
+    # plus the newest automatic grounding check if it has been re-run.
     results_path = config.VALIDATION_DIR / "results.json"
+    grounding_path = config.VALIDATION_DIR / "grounding.json"
     results = json.loads(results_path.read_text()) if results_path.exists() else None
+    if results and grounding_path.exists():
+        results["grounding"] = json.loads(grounding_path.read_text())
 
     words = write_commentary(facts)
     REPORTS_DIR.mkdir(parents=True, exist_ok=True)
-    docx_out = REPORTS_DIR / f"weekly_update_{week_end.date()}.docx"
+    stamp = end.strftime("%Y-%m") if args.period == "month" else str(end.date())
+    docx_out = REPORTS_DIR / f"{args.period}ly_update_{stamp}.docx"
     build_docx(facts, words, results, docx_out)
-    to_pdf(docx_out)
+    pdf = to_pdf(docx_out)
+    if pdf and pdf.exists():
+        shutil.copyfile(pdf, REPORTS_DIR / "latest.pdf")   # stable link for the README
+        print("Copied to latest.pdf")
 
 
 if __name__ == "__main__":

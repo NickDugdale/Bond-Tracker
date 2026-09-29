@@ -258,6 +258,8 @@ def summary(df, lt):
 
 def main():
     df = load()
+    cutoff = df["trade_date"].max() - pd.Timedelta(days=config.LOOKBACK_DAYS)
+    df = df[df["trade_date"] > cutoff]      # most recent 90 days only (see config.py)
     lt = league_table(df)
     lt.to_csv(config.OUTPUT_DIR / "league_table.csv", encoding="utf-8-sig")
     chart_spread_by_rating(df)
