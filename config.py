@@ -12,6 +12,13 @@ from dotenv import load_dotenv
 # without ever being written into the code
 load_dotenv()
 
+# Strip stray spaces or line breaks from the secrets. A key pasted with a
+# trailing newline (easy to do when copying into GitHub's secret box) is an
+# "illegal header" and every API call fails with a vague "Connection error".
+for _name in ("ANTHROPIC_API_KEY", "SEC_USER_AGENT"):
+    if os.environ.get(_name):
+        os.environ[_name] = os.environ[_name].strip()
+
 # ---------- Folders ----------
 # Path(__file__).parent is the folder this file lives in (bond-tracker),
 # so the paths work no matter where you run a script from.
