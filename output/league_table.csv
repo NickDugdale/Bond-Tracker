@@ -1,41 +1,47 @@
 ﻿bank,rank,deals,credited_usd_m
-BofA Securities,1,29,7331.0
-Citigroup,2,20,6602.0
-J.P. Morgan,3,25,6523.0
-Morgan Stanley,4,19,6520.0
-Wells Fargo,5,22,5636.0
+BofA Securities,1,30,7547.0
+J.P. Morgan,2,30,7373.0
+Citigroup,3,23,7370.0
+Morgan Stanley,4,22,6745.0
+Wells Fargo,5,23,5886.0
 Barclays,6,16,5132.0
 HSBC,7,8,4763.0
-Mizuho,8,15,3967.0
-Goldman Sachs,9,14,3936.0
-BMO,10,7,3214.0
-BNP Paribas,11,11,3204.0
+Mizuho,8,18,4577.0
+Goldman Sachs,9,16,4403.0
+BNP Paribas,10,13,3796.0
+BMO,11,7,3214.0
 U.S. Bancorp,12,13,2692.0
 TD Securities,13,8,2403.0
-RBC,14,11,1909.0
-Deutsche Bank,15,7,1755.0
-ING,16,4,1607.0
-Santander,17,5,1566.0
-MUFG,18,11,1472.0
-Truist,19,8,1428.0
-BNY Mellon Capital Markets,20,2,1394.0
-SMBC Nikko,21,7,1306.0
-Scotiabank,22,7,1258.0
+Deutsche Bank,14,9,2009.0
+ING,15,5,1982.0
+RBC,16,12,1946.0
+Truist,17,9,1678.0
+MUFG,18,13,1626.0
+Santander,19,5,1566.0
+SMBC Nikko,20,8,1449.0
+Scotiabank,21,8,1401.0
+BNY Mellon Capital Markets,22,2,1394.0
 Societe Generale,23,5,1239.0
 NatWest,24,2,1004.0
 PNC,25,9,1002.0
-UBS,26,2,563.0
-Standard Chartered Bank,27,1,542.0
-Jefferies,28,2,517.0
-CIBC,29,4,471.0
+CIBC,26,5,688.0
+UBS,27,3,601.0
+Jefferies,28,3,562.0
+Standard Chartered Bank,29,1,542.0
 BBVA,30,2,452.0
-Natixis,31,2,277.0
-Fifth Third Securities,32,1,188.0
-Allen & Company LLC,33,1,143.0
-Capital One Securities,34,1,136.0
-Keefe,35,1,125.0
-Credit Agricole,36,1,68.0
-KeyBanc,37,1,68.0
-Huntington Securities,38,1,58.0
-Raymond James & Associates,39,1,50.0
-Brookfield Securities LLC,40,1,21.0
+Keefe,31,3,312.0
+Natixis,32,2,277.0
+Piper Sandler & Co,33,2,188.0
+Fifth Third Securities,34,1,188.0
+Allen & Company LLC,35,1,143.0
+Capital One Securities,36,1,136.0
+Credit Agricole,37,1,68.0
+KeyBanc,38,1,68.0
+Huntington Securities,39,1,58.0
+Raymond James & Associates,40,1,50.0
+Leerink Partners LLC,41,1,45.0
+William Blair & Company L,42,1,45.0
+Brookfield Securities LLC,43,1,21.0
+Lucid Capital Markets,44,2,21.0
+Oppenheimer & Co,45,2,21.0
+B,46,1,11.0

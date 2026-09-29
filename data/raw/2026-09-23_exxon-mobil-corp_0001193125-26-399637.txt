@@ -1,0 +1,106 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/34088/000119312526399637/d188276dfwp.htm
+ISSUER (SEC filer): EXXON MOBIL CORP
+FILED: 2026-09-23
+========================================
+FWP
+1
+d188276dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration Statement
+No. 333-293558
+and
+333-293558-01
+September 23, 2026
+Pricing Term Sheet
+Exxon Mobil Corporation
+$185,883,000 Floating Rate Notes due 2076
+Issuer: | Exxon Mobil Corporation (the “ Company ”)
+Guarantor: | ExxonMobil Holdings Corporation (the “ Parent Guarantor ”)
+Security: | Floating Rate Notes due 2076 (the “ Notes ”)
+Trade Date: | September 23, 2026
+Settlement Date * : | September 25, 2026 (T+2)
+Denominations: | $1,000
+Anticipated Ratings ** : | Aa2 (Moody’s Investors Service, Inc.) AA- (S&P Global Ratings)
+Guarantee: | The Notes will be fully and unconditionally guaranteed by the Parent Guarantor on a senior unsecured basis and will rank equally with all other unsecured and unsubordinated guarantees and indebtedness of the Parent
+Guarantor.
+Principal Amount: | $185,883,000
+Maturity Date: | September 25, 2076
+Interest Rate and Interest Payment Dates: | Floating rate based on Compounded SOFR (calculated as described in that certain preliminary prospectus supplement of the Company dated September 21, 2026), minus 0.450%, calculated quarterly, and payable on
+March 25, June 25, September 25 and December 25 of each year, beginning December 25, 2026.
+Optional Redemption Provisions: | On or after September 25, 2056, the Company may redeem the Notes at its option, in whole or in part, at any time and from time to time, upon not less than 10 nor more than 60 calendar days’ notice, at the
+following redemption prices (in each case, expressed as a percentage of the principal amount), if redeemed during the twelve-month periods beginning on September 25 as set forth
+below:
+Twelve-Month Period Beginning On | Redemption Price
+September 25, 2056 | 105.000 | %
+September 25, 2057 | 104.500 | %
+September 25, 2058 | 104.000 | %
+September 25, 2059 | 103.500 | %
+September 25, 2060 | 103.000%
+September 25, 2061 | 102.500%
+September 25, 2062 | 102.000%
+September 25, 2063 | 101.500%
+September 25, 2064 | 101.000%
+September 25, 2065 | 100.500%
+September 25, 2066 | 100.000%
+and thereafter at 100.000% of the principal amount, in each case, together with any accrued and unpaid interest thereon to but excluding the redemption date.
+Repayment at Option of Holder: | The Notes will be repayable at the option of any holder of the Notes, in whole or in part, on the repayment dates and at the repayment prices (in each case, expressed as a percentage of the principal amount) as set
+forth below:
+Repayment Date | Repayment Price
+September 25, 2027 | 98.000 | %
+March 25, 2028 | 98.000 | %
+September 25, 2028 | 98.000 | %
+March 25, 2029 | 98.000 | %
+September 25, 2029 | 98.000 | %
+March 25, 2030 | 98.000 | %
+September 25, 2030 | 98.000 | %
+March 25, 2031 | 98.000 | %
+September 25, 2031 | 98.000 | %
+March 25, 2032 | 98.000 | %
+September 25, 2032 | 99.000 | %
+March 25, 2033 | 99.000 | %
+September 25, 2033 | 99.000 | %
+March 25, 2034 | 99.000 | %
+September 25, 2034 | 99.000 | %
+March 25, 2035 | 99.000 | %
+September 25, 2035 | 99.000 | %
+March 25, 2036 | 99.000 | %
+September 25, 2036 | 99.000 | %
+March 25, 2037 | 99.000 | %
+September 25, 2037 | 100.000 | %
+and on September 25 of every second year thereafter, through and including September 25, 2073, at 100.000% of the principal amount, in each case, together with any accrued and unpaid interest thereon to but
+excluding the repayment date.
+Price to Public: | 100.000%
+CUSIP/ISIN: | 30231G BT8 / US30231GBT85
+2
+Joint Book-Running Managers: | RBC Capital Markets, LLC Deutsche Bank
+Securities Inc. J.P. Morgan Securities LLC Morgan
+Stanley & Co. LLC UBS Securities LLC
+* | Note : We expect that delivery of the Notes will be made to investors on or about September 25,
+2026, which will be the second business day following the time of sale (this settlement cycle being referred to as “T+2”). Under Rule 15c6-1 under the Securities Exchange Act of 1934, trades in the
+secondary market generally are required to settle in one business day unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes prior to one business day before delivery of the Notes
+hereunder will be required, by virtue of the fact that the Notes initially will settle in T+2, to specify an alternative settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to trade the
+Notes prior to one business day before delivery of the Notes hereunder should consult their own advisors.
+** | Note : A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+The Company and the Parent Guarantor have filed a registration statement
+(including a preliminary prospectus supplement and an accompanying prospectus) with the Securities and Exchange Commission (the “
+SEC
+”) for the offering to which this communication relates. Before you invest, you
+should read the prospectus in that registration statement and other documents that the Company and the Parent Guarantor have filed with the SEC, including the preliminary prospectus supplement, for more complete information about the Company and
+this offering. You may get these documents for free by visiting the SEC website at www.sec.gov. Alternatively, the Company, any underwriter or any dealer participating in the offering will arrange to send you the preliminary prospectus supplement
+and the accompanying prospectus if you request it by contacting: RBC Capital Markets, LLC toll-free at
+1-866-375-6829;
+Deutsche
+Bank Securities Inc. toll-free at
+1-800-503-4611;
+J.P. Morgan Securities LLC at
+1-212-834-4533;
+Morgan Stanley & Co. LLC toll-free at
+1-866-718-1649;
+or UBS Securities LLC toll-free at
+1-833-481-0269.
+Any disclaimers or other notices that may appear below are not
+applicable to this communication and should be disregarded. Such disclaimers or other notices were automatically generated as a result of this communication being sent via Bloomberg or another email system.
+3

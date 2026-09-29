@@ -1,0 +1,154 @@
+{
+  "period": "month",
+  "label": "September 2026",
+  "start": "01 Sep 2026",
+  "end": "30 Sep 2026",
+  "this_period": {
+    "volume_usd_bn": 86.2,
+    "deals": 55,
+    "bonds": 105,
+    "ig_share_pct": 87,
+    "currencies": [
+      "EUR",
+      "GBP",
+      "USD"
+    ],
+    "hybrid_or_subordinated_deals": 10,
+    "sector_volume_usd_bn": {
+      "Financials": 31.3,
+      "Technology": 15.2,
+      "Industrials": 9.5,
+      "Consumer": 8.7,
+      "Healthcare": 6.7,
+      "Utilities": 5.8,
+      "Energy": 4.9,
+      "Government & Agency": 2.8,
+      "Telecoms & Media": 1.0,
+      "Real Estate": 0.4
+    }
+  },
+  "senior_ig_spreads_by_tenor": {
+    "1-3y": {
+      "bonds_this_period": 16,
+      "median_this_period_bps": 55,
+      "bonds_prior": 1,
+      "median_prior_bps": 73,
+      "vs_prior": "too few bonds to compare"
+    },
+    "5y": {
+      "bonds_this_period": 16,
+      "median_this_period_bps": 78,
+      "bonds_prior": 1,
+      "median_prior_bps": 90,
+      "vs_prior": "too few bonds to compare"
+    },
+    "7y": {
+      "bonds_this_period": 12,
+      "median_this_period_bps": 92,
+      "bonds_prior": 0,
+      "median_prior_bps": null,
+      "vs_prior": "too few bonds to compare"
+    },
+    "10y": {
+      "bonds_this_period": 16,
+      "median_this_period_bps": 102,
+      "bonds_prior": 0,
+      "median_prior_bps": null,
+      "vs_prior": "too few bonds to compare"
+    },
+    "20y": {
+      "bonds_this_period": 1,
+      "median_this_period_bps": 108,
+      "bonds_prior": 0,
+      "median_prior_bps": null,
+      "vs_prior": "too few bonds to compare"
+    },
+    "30y+": {
+      "bonds_this_period": 5,
+      "median_this_period_bps": 115,
+      "bonds_prior": 0,
+      "median_prior_bps": null,
+      "vs_prior": "too few bonds to compare"
+    }
+  },
+  "prior_period": {
+    "from": "20 Aug 2026",
+    "months": 1,
+    "avg_monthly_volume_usd_bn": null
+  },
+  "chart_window_from": "20 Aug 2026",
+  "notable_deals": [
+    {
+      "issuer": "Aon North America",
+      "trade_date": "14 Sep",
+      "rating": "BBB+",
+      "currency": "USD",
+      "size_usd_m": 13500,
+      "bonds": 7,
+      "tenors": "3y, 5y, 7y, 10y, 12y, 20y, 30y",
+      "spread_range": "+63 to +115",
+      "hybrid_or_sub": false,
+      "sector": "Financials"
+    },
+    {
+      "issuer": "GlaxoSmithKline Capital",
+      "trade_date": "08 Sep",
+      "rating": "A",
+      "currency": "USD",
+      "size_usd_m": 6500,
+      "bonds": 6,
+      "tenors": "3y, 5y, 7y, 10y, 30y",
+      "spread_range": "+40 to +80",
+      "hybrid_or_sub": false,
+      "sector": "Healthcare"
+    },
+    {
+      "issuer": "Amazon.com",
+      "trade_date": "09 Sep",
+      "rating": "AA-",
+      "currency": "GBP",
+      "size_usd_m": 5683,
+      "bonds": 4,
+      "tenors": "3y, 6y, 12y, 19y",
+      "spread_range": "+53 to +93",
+      "hybrid_or_sub": false,
+      "sector": "Consumer"
+    },
+    {
+      "issuer": "Uber Technologies",
+      "trade_date": "09 Sep",
+      "rating": "BBB+",
+      "currency": "EUR",
+      "size_usd_m": 5159,
+      "bonds": 5,
+      "tenors": "3y, 6y, 8y, 12y, 20y",
+      "spread_range": "+69 to +147",
+      "hybrid_or_sub": false,
+      "sector": "Technology"
+    },
+    {
+      "issuer": "Dell International",
+      "trade_date": "09 Sep",
+      "rating": "BBB+",
+      "currency": "USD",
+      "size_usd_m": 5000,
+      "bonds": 4,
+      "tenors": "3y, 5y, 7y, 11y",
+      "spread_range": "+60 to +110",
+      "hybrid_or_sub": false,
+      "sector": "Technology"
+    },
+    {
+      "issuer": "The Toronto-Dominion Bank",
+      "trade_date": "21 Sep",
+      "rating": "A",
+      "currency": "USD",
+      "size_usd_m": 3750,
+      "bonds": 4,
+      "tenors": "2y, 5y, 10y",
+      "spread_range": "+45 to +85",
+      "hybrid_or_sub": false,
+      "sector": "Financials"
+    }
+  ]
+}

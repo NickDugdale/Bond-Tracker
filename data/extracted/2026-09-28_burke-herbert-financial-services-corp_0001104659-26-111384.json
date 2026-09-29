@@ -1,0 +1,40 @@
+{
+  "source_file": "2026-09-28_burke-herbert-financial-services-corp_0001104659-26-111384.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-29T13:11:36",
+  "usage": {
+    "input_tokens": 5100,
+    "output_tokens": 551
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Burke & Herbert Financial Services Corp.",
+    "sector": "Financials",
+    "trade_date": "2026-09-28",
+    "settlement_date": "2026-09-30",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "Keefe, Bruyette & Woods, Inc."
+    ],
+    "use_of_proceeds": "Repay approximately $42.6 million of outstanding subordinated notes and preferred stock, and provide capital to subsidiary bank.",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 100000000,
+        "coupon_pct": 7.0,
+        "coupon_type": "fixed-to-floating",
+        "maturity_date": "2036-10-01",
+        "first_call_date": "2031-10-01",
+        "benchmark": "Three-Month Term SOFR plus 222 basis points",
+        "spread_bps": 222,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": "subordinated",
+        "pricing_quote": "From and including October 1, 2031, to, but excluding, the maturity date or the date of earlier redemption (the \"floating rate period\"), the Notes will bear interest at a floating rate per annum equal to the Three-Month Term SOFR, or such other Benchmark rate, plus 222 basis points for each quarterly interest period during the floating rate period"
+      }
+    ]
+  }
+}

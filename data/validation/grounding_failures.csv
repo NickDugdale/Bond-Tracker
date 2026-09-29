@@ -1,4 +1,5 @@
 ﻿source_file,bond,field,value,grounded
+2026-08-20_provident-financial-services-inc_0001552781-26-000458.txt,1,maturity_date,2036-09-01,False
 2026-09-03_swedish-export-credit-corp-swed_0001104659-26-105032.txt,1,spread_bps,22.5,False
 2026-09-08_ameren-corp_0001104659-26-105954.txt,1,spread_bps,186.8,False
 2026-09-09_fortis-inc_0001104659-26-106299.txt,1,spread_bps,201.6,False
@@ -14,3 +15,6 @@
 2026-09-14_aon-plc_0001193125-26-390790.txt,6,maturity_date,2046-09-17,False
 2026-09-14_cdw-corp_0001193125-26-390802.txt,-,rating_sp,BBB-,False
 2026-09-14_cdw-corp_0001193125-26-390802.txt,-,rating_fitch,BBB-,False
+2026-09-23_exxon-mobil-corp_0001193125-26-399637.txt,1,spread_bps,-45,False
+2026-09-24_kyndryl-holdings-inc_0001104659-26-110423.txt,1,first_call_date,2029-08-28,False
+2026-09-24_kyndryl-holdings-inc_0001104659-26-110423.txt,2,first_call_date,2031-12-15,False

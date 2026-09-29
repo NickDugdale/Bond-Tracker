@@ -1,0 +1,43 @@
+{
+  "source_file": "2026-09-25_runway-growth-finance-corp_0001193125-26-401325.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-29T13:11:30",
+  "usage": {
+    "input_tokens": 4143,
+    "output_tokens": 494
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Runway Growth Finance Corp.",
+    "sector": "Financials",
+    "trade_date": "2026-09-25",
+    "settlement_date": "2026-10-01",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "Oppenheimer & Co. Inc.",
+      "B. Riley Securities, Inc.",
+      "Lucid Capital Markets, LLC",
+      "MUFG Securities Americas Inc."
+    ],
+    "use_of_proceeds": "The Company intends to use the net proceeds to repay outstanding indebtedness including under its Credit Facility with KeyBank National Association and to redeem all of its outstanding 9.00% Senior Notes due 2027, and for general corporate purposes.",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 45000000,
+        "coupon_pct": 7.75,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-10-01",
+        "first_call_date": "2028-10-01",
+        "benchmark": null,
+        "spread_bps": null,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": null,
+        "pricing_quote": null
+      }
+    ]
+  }
+}

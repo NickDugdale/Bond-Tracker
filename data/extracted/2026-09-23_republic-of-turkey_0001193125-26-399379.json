@@ -1,0 +1,43 @@
+{
+  "source_file": "2026-09-23_republic-of-turkey_0001193125-26-399379.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-29T13:11:12",
+  "usage": {
+    "input_tokens": 3322,
+    "output_tokens": 476
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "The Republic of T\u00fcrkiye",
+    "sector": "Government & Agency",
+    "trade_date": "2026-09-23",
+    "settlement_date": "2026-09-30",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "BNP PARIBAS",
+      "Citigroup Global Markets Limited",
+      "ING Bank N.V.",
+      "J.P. Morgan Securities plc"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 1500000000,
+        "coupon_pct": 7.5,
+        "coupon_type": "fixed",
+        "maturity_date": "2037-01-30",
+        "first_call_date": null,
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 252.8,
+        "yield_pct": 7.65,
+        "issue_price_pct": 98.957,
+        "seniority": null,
+        "pricing_quote": "SPREAD TO BENCHMARK US TREASURY: 252.8 bps"
+      }
+    ]
+  }
+}

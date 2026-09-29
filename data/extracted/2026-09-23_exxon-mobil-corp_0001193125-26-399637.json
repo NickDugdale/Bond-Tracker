@@ -1,0 +1,44 @@
+{
+  "source_file": "2026-09-23_exxon-mobil-corp_0001193125-26-399637.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-29T13:11:05",
+  "usage": {
+    "input_tokens": 4161,
+    "output_tokens": 473
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Exxon Mobil Corporation",
+    "sector": "Energy",
+    "trade_date": "2026-09-23",
+    "settlement_date": "2026-09-25",
+    "rating_moodys": "Aa2",
+    "rating_sp": "AA-",
+    "rating_fitch": null,
+    "bookrunners": [
+      "RBC Capital Markets, LLC",
+      "Deutsche Bank Securities Inc.",
+      "J.P. Morgan Securities LLC",
+      "Morgan Stanley & Co. LLC",
+      "UBS Securities LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 185883000,
+        "coupon_pct": null,
+        "coupon_type": "floating",
+        "maturity_date": "2076-09-25",
+        "first_call_date": "2056-09-25",
+        "benchmark": "Compounded SOFR",
+        "spread_bps": -45,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Floating rate based on Compounded SOFR, minus 0.450%"
+      }
+    ]
+  }
+}

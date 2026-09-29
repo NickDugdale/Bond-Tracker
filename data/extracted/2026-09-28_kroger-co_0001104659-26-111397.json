@@ -1,0 +1,59 @@
+{
+  "source_file": "2026-09-28_kroger-co_0001104659-26-111397.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-29T13:11:41",
+  "usage": {
+    "input_tokens": 3745,
+    "output_tokens": 670
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "The Kroger Co.",
+    "sector": "Consumer",
+    "trade_date": "2026-09-28",
+    "settlement_date": "2026-10-05",
+    "rating_moodys": "Baa1",
+    "rating_sp": "BBB",
+    "rating_fitch": null,
+    "bookrunners": [
+      "Citigroup Global Markets Inc.",
+      "Mizuho Securities USA LLC",
+      "Wells Fargo Securities, LLC",
+      "J.P. Morgan Securities LLC",
+      "Truist Securities, Inc.",
+      "Goldman Sachs & Co. LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 650000000,
+        "coupon_pct": 5.8,
+        "coupon_type": "fixed",
+        "maturity_date": "2032-02-15",
+        "first_call_date": "2032-01-15",
+        "benchmark": "UST 5.000% due September 30, 2031",
+        "spread_bps": 75,
+        "yield_pct": 5.809,
+        "issue_price_pct": 99.967,
+        "seniority": "senior unsecured",
+        "pricing_quote": "T + 75 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 850000000,
+        "coupon_pct": 6.2,
+        "coupon_type": "fixed",
+        "maturity_date": "2036-11-01",
+        "first_call_date": "2036-08-01",
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 100,
+        "yield_pct": 6.232,
+        "issue_price_pct": 99.756,
+        "seniority": "senior unsecured",
+        "pricing_quote": "T + 100 basis points"
+      }
+    ]
+  }
+}

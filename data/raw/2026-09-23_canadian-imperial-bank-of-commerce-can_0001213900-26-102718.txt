@@ -1,0 +1,159 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1045520/000121390026102718/ea0306472-fwp_canadian.htm
+ISSUER (SEC filer): CANADIAN IMPERIAL BANK OF COMMERCE /CAN/
+FILED: 2026-09-23
+========================================
+FWP
+1
+ea0306472-fwp_canadian.htm
+FREE WRITING PROSPECTUS
+Filed Pursuant to Rule 433
+Registration Statement No. 333-282307
+(To Prospectus dated October 2, 2024 and
+Preliminary Prospectus Supplement dated
+September 23, 2026)
+A final base shelf prospectus containing important
+information relating to the securities described in this document has been filed with the U.S. Securities and Exchange Commission. A copy
+of the final base shelf prospectus, any amendment to the final base shelf prospectus and any applicable shelf prospectus supplement that
+has been filed, is required to be delivered with this document where required by applicable law.
+This document does not provide full disclosure
+of all material facts relating to the securities offered. Investors should read the final base shelf prospectus, any amendment and any
+applicable shelf prospectus supplement for disclosure of those facts, especially risk factors and tax consequences relating to the securities
+offered, before making an investment decision.
+Investing in the Notes involves risks. See the “Risk Factors” sections of
+the Prospectus Supplement and the accompanying Prospectus.
+CANADIAN IMPERIAL BANK OF COMMERCE
+US$300,000,000 Floating Rate Senior Notes due
+2030
+(the “
+Floating Rate Notes
+”)
+US$1,000,000,000 5.627% Fixed-to-Floating Rate
+Senior Notes due 2030
+(the “
+Fixed-to-Floating Rate Notes
+”)
+(together, the “
+Notes
+”)
+Pricing Term Sheet
+September 23, 2026
+Issuer: | Canadian Imperial Bank of Commerce (the “ Bank ”)
+Pricing Date: | September 23, 2026
+Settlement Date**: | September 29, 2026 (T+4)
+Joint Book-Running Managers: | CIBC World Markets Corp. BNP Paribas Securities Corp. BofA Securities, Inc. Deutsche Bank Securities Inc. Goldman Sachs & Co. LLC Mizuho Securities USA LLC
+Co-Managers: | Santander US Capital Markets LLC Academy Securities, Inc. Brookfield Securities LLC Loop Capital Markets LLC R. Seelaus & Co., LLC Blaylock Van, LLC
+Bail-inable Notes: | The Notes are bail-inable notes and subject
+to conversion in whole or in part—by means of a transaction or series of transactions and in one or more steps—into common
+shares of the Bank or any of its affiliates under subsection 39.2(2.3) of the Canada Deposit Insurance Corporation Act (the “ CDIC
+Act ”) and to variation or extinguishment in consequence, and subject to the application of the laws of the Province of Ontario
+and the federal laws of Canada applicable therein in respect of the operation of the CDIC Act with respect to the Notes. For a description
+of the Canadian bank resolution powers and related risk factors attaching to investment in the Notes, see information under the headings
+“ Description of the Notes—Special Provisions Related to Bail-in Regime ” and “ Risk Factors ”
+in the prospectus supplement relating to the Notes (the “ Prospectus Supplement ”)
+Use of Proceeds: | The net proceeds from the sale of the Notes will
+be added to the Bank’s funds and will be used for general corporate purposes
+US$300,000,000 Floating Rate Senior Notes
+due 2030
+Aggregate Principal Amount Offered: | US$300,000,000
+Maturity Date: | September 27, 2030
+Price to the Public: | 100.000% of the principal amount plus accrued
+interest, if any, from September 29, 2026
+Interest Rate: | The interest rate on the Floating Rate Notes for each interest period will be equal to Compounded SOFR plus the applicable margin
+Compounded SOFR: | A compounded average of daily Secured Overnight
+Financing Rate (“ SOFR ”) determined by reference to the SOFR Index (as defined in the Prospectus Supplement) for each
+quarterly interest period in accordance with the specific formula described under “ Description of the Notes—Interest—Secured
+Overnight Financing Rate and the SOFR Index ” in the Prospectus Supplement
+Margin: | +82 basis points
+Floating Rate Interest Payment Dates: | March 27, June 27, September 27 and December 27 of each year beginning on December 27, 2026 (short first coupon), and ending at maturity (or, if the Floating Rate Notes are redeemed earlier, the redemption date)
+1
+Interest Period: | The period from, and including any Floating
+Rate Interest Payment Date (or, with respect to the initial interest period only, from, and including, September 29, 2026) to, but excluding,
+the next succeeding Floating Rate Interest Payment Date, and in the case of the last such period, from, and including, the Floating Rate
+Interest Payment Date immediately preceding the maturity date to, but excluding, the maturity date of the Floating Rate Notes
+Floating Rate Interest Payment Determination Dates: | The date two U.S. Government Securities Business Days before each Floating Rate Interest Payment Date
+U.S. Government Securities Business Day: | Any day except for a Saturday, a Sunday or a day on which the Securities Industry and Financial Markets Association recommends that the fixed income departments of its members be closed for the entire day for purposes of trading in U.S. government securities
+Business Day: | A day that is a U.S. Government Securities
+Business Day and is neither a legal holiday nor a day on which banking institutions are authorized or obligated by law or executive order
+to close in the city of New York, New York or Toronto, Ontario
+Calculation Agent: | The Bank of New York Mellon
+Optional Redemption: | The Bank, at its option, may redeem the Floating Rate Notes (a) in whole, but not in part, on September 27, 2029 (one year prior to the maturity date of the Floating Rate Notes), or (b) in whole at any time or in part from time to time, on or after August 27, 2030 (one month prior to the maturity date of the Floating Rate Notes), in each case, upon at least 5 days’ but not more than 60 days’ prior notice, at a redemption price equal to 100% of the principal amount of the Floating Rate Notes to be redeemed, plus accrued and unpaid interest thereon to, but excluding, the redemption date
+Tax Redemption: | The Bank may redeem the Floating Rate Notes
+at its option in whole but not in part, upon the occurrence of certain events pertaining to Canadian taxation. This redemption would
+be at 100% of the principal amount, together with accrued and unpaid interest on the Floating Rate Notes to, but excluding, the redemption
+date
+CUSIP/ISIN: | 13607Q 7U0 / US 13607Q7U01
+US$1,000,000,000
+5.627% Fixed-to-Floating Rate Senior Notes due 2030
+Aggregate Principal Amount Offered: | US$1,000,000,000
+Maturity Date: | September 27, 2030
+Interest Reset Date: | September 27, 2029
+Fixed Rate Period: | The period from, and including, September 29, 2026 to, but excluding, the Interest Reset Date
+2
+Floating Rate Period: | The period from, and including, the Interest Reset Date to, but excluding, the maturity date of the Fixed-to-Floating Rate Notes
+Interest Rate: | (i) During the Fixed Rate Period, the Fixed-to-Floating Rate Notes will bear interest at a rate equal to 5.627% per annum, and (ii) during the Floating Rate Period, the Fixed-to-Floating Rate Notes will bear interest at a rate equal to Compounded SOFR plus the margin
+Compounded SOFR: | A compounded average of daily SOFR determined
+by reference to the SOFR Index for each quarterly interest period in accordance with the specific formula described under “ Description
+of the Notes—Interest—Secured Overnight Financing Rate and the SOFR Index ” in the Prospectus Supplement
+Margin: | +81 basis points
+Interest Payment Dates: | During the Fixed Rate Period, March 27 and September
+27 of each year, beginning on March 27, 2027 (short first coupon), and ending on the Interest Reset Date During the Floating Rate Period, on March 27, June 27, September 27
+and December 27, beginning on December 27, 2029 and ending at maturity (or, if the Fixed-to-Floating Rate Notes are redeemed earlier,
+the redemption date)
+Interest Period: | With respect to the Fixed Rate Period, the period
+from, and including, any Interest Payment Date (or, with respect to the initial interest period only, from and including September 29,
+2026) to, but excluding, the next succeeding Interest Payment Date, and in the case of the final such interest period, the Interest Reset
+Date (or, if the Fixed-to-Floating Rate Notes are redeemed earlier, the redemption date) With respect to the Floating Rate Period, the
+period from, and including, any Interest Payment Date (or, with respect to the initial interest period only, from, and including, the
+Interest Reset Date) to, but excluding, the next succeeding Interest Payment Date, and in the case of the final such interest period,
+from, and including, the Interest Payment Date immediately preceding the maturity date to, but excluding, such maturity date (or, if the
+Fixed-to-Floating Rate Notes are redeemed earlier, the redemption date)
+Floating Rate Interest Payment Determination Dates: | Two U.S. Government Securities Business Days preceding each Floating Rate Period Interest Payment Date (or, in the case of the final interest period, the maturity date or, if we elect to redeem in whole or in part the Fixed-to-Floating Rate Notes, the redemption date)
+Benchmark Treasury: | UST 4.375% due September 15, 2029
+Benchmark Treasury Price/Yield: | 98-11 ¼ / 4.977%
+Spread to Benchmark Treasury: | +65 basis points
+3
+Yield to Interest Reset Date: | 5.627%
+Price to the Public: | 100.000% of the principal amount plus accrued interest, if any, from September 29, 2026
+Day Count Convention: | 30/360 for the Fixed Rate Period and Actual/360 for the Floating Rate Period
+Business Day: | A day that is a U.S. Government Securities Business Day and is neither a legal holiday nor a day on which banking institutions are authorized or obligated by law or executive order to close in the city of New York, New York or Toronto, Ontario
+U.S. Government Securities Business Day: | Any day except for a Saturday, a Sunday or
+a day on which the Securities Industry and Financial Markets Association recommends that the fixed income departments of its members
+be closed for the entire day for purposes of trading in U.S. government securities
+Calculation Agent: | The Bank of New York Mellon
+Optional Redemption: | At any time after March 28, 2027 (the date that is 180 days after the
+issue date of the Fixed-to-Floating Rate Notes) (or, if additional notes are issued, after the date that is 180 days after the issue date
+of such additional notes) and prior to the Interest Reset Date (one year prior to the maturity date of the Fixed-to-Floating Rate Notes),
+the Bank may redeem the Fixed-to-Floating Rate Notes, in whole at any time or in part from time to time, at the Bank’s option, upon
+at least 5 days’ but not more than 60 days’ prior notice, at a redemption price equal to the greater of: (i) 100%
+of the principal amount of the Fixed-to-Floating Rate Notes to be redeemed; and (ii) (a) the
+sum of the present values of the remaining scheduled payments of principal and interest on the Fixed-to-Floating Rate Notes to be redeemed
+discounted to the redemption date (assuming the Fixed-to-Floating Rate Notes to be redeemed matured on the Interest Reset Date), on a
+semi-annual basis (assuming a 360-day year consisting of twelve 30-day months), at the Treasury Rate (as defined in the Prospectus
+Supplement) plus 10 basis points, less (b) interest accrued to, but excluding, the redemption date; plus, in either case, accrued and unpaid interest on the principal
+amount of the Fixed-to-Floating Rate Notes to be redeemed to, but excluding, the redemption date In addition, the Bank, at its option, may
+redeem the Fixed-to-Floating Rate Notes (a) in whole, but not in part, on the Interest Reset Date, or (b) in whole at any time or in
+part from time to time, on or after August 27, 2030 (one month prior to the maturity date of the Fixed-to-Floating Rate Notes), in each
+case at a redemption price equal to 100% of the principal amount of the Fixed-to-Floating Rate Notes to be redeemed, plus accrued and
+unpaid interest thereon to, but excluding, the redemption date
+4
+Tax Redemption: | The Bank may redeem the Fixed-to-Floating Rate Notes at its option in whole but not in part, upon the occurrence of certain events pertaining to Canadian taxation. This redemption would be at 100% of the principal amount, together with accrued and unpaid interest on the Fixed-to-Floating Rate Notes to, but excluding, the redemption date
+CUSIP/ISIN: | 13607Q 7T3 / US 13607Q7T38
+The Bank has filed a shelf registration statement
+on Form F-3 (File No. 333-282307) (including a base prospectus) and a preliminary prospectus supplement dated September 23, 2026 (including
+the base prospectus, the “
+Prospectus
+”) with the U.S. Securities and Exchange Commission (the “
+SEC
+”)
+for the offering to which this communication relates. Before you invest, you should read the Prospectus and the documents incorporated
+therein by reference that the Bank has filed with the SEC for more complete information about the Bank and this offering.
+You may obtain these documents for free by
+visiting EDGAR on the SEC website at www.sec.gov. Alternatively, the Bank or any underwriter participating in the offering will arrange
+to send you the Prospectus and any document incorporated therein by reference if you request such documents by calling CIBC World Markets
+Corp. toll-free at (800) 282-0822; BNP Paribas Securities Corp. toll-free at (800) 854-5674; BofA Securities, Inc. toll-free at (800)
+294-1322; Deutsche Bank Securities Inc. toll-free at (800) 503-4611; or Goldman Sachs & Co. LLC toll-free at (866) 471-2526.
+**We expect that delivery of the Notes will be made against payment therefor on or about September 29, 2026, which is four business days following the date of pricing of the Notes (this settlement cycle being referred to as “T+4”). Under Rule 15c6-1 of the U.S. Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade their Notes on any date prior to the business day before delivery will be required, by virtue of the fact that the Notes initially will settle in T+4, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of Notes who wish to trade their Notes on any date prior to one business day before delivery should consult their own advisor.
+Any legends, disclaimers or other notices that
+may appear below are not applicable to this communication and should be disregarded. Such legends, disclaimer or other notices have been
+automatically generated as a result of this communication having been sent via Bloomberg or another email system.
+5

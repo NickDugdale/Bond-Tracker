@@ -1,0 +1,148 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1867072/000110465926110423/tm2625717d3_fwp.htm
+ISSUER (SEC filer): Kyndryl Holdings, Inc.
+FILED: 2026-09-24
+========================================
+FWP
+1
+tm2625717d3_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Registration No. 333-276713
+September 24, 2026
+Relating to Preliminary Prospectus Supplement
+dated September 24, 2026
+PRICING TERM SHEET
+Kyndryl Holdings, Inc.
+$600,000,000 7.800% Senior Notes due 2029
+$400,000,000 7.875% Senior Notes due 2032
+This pricing term sheet (this “
+Pricing
+Term Sheet
+”) is qualified in its entirety by reference to the preliminary prospectus supplement, dated September 24,
+2026 (the “
+Preliminary Prospectus Supplement
+”), and the related base prospectus, dated January 26, 2024
+(the “
+Base Prospectus
+” and, together with the Preliminary Prospectus Supplement, including the documents incorporated
+by reference in the Preliminary Prospectus Supplement and the Base Prospectus, the “
+Prospectus
+”), of Kyndryl
+Holdings, Inc. The information in this Pricing Term Sheet supplements the Preliminary Prospectus Supplement and updates and supersedes
+the information in the Preliminary Prospectus Supplement to the extent it is inconsistent with the information in the Preliminary Prospectus
+Supplement. Capitalized terms used but not defined herein shall have the meaning ascribed to them in the Preliminary Prospectus Supplement.
+Issuer: | Kyndryl Holdings, Inc. (the
+“ Issuer ”)
+Security Description: | $600,000,000 7.800% Senior Notes due 2029 (the “ 2029
+Notes ”)
+$400,000,000 7.875% Senior Notes due 2032 (the “ 2032
+Notes ” and, together with the 2029 Notes, the “ Notes ”)
+Principal Amount: | 2029 Notes: $600,000,000
+2032 Notes: $400,000,000
+Coupon: | 2029 Notes: 7.800%
+2032 Notes: 7.875%
+Maturity Date: | 2029 Notes: September 28, 2029
+2032 Notes: January 15, 2032
+Offering Price: | 2029 Notes: 99.827% plus accrued interest, if any,
+from September 28, 2026
+2032 Notes: 98.821% plus accrued interest, if any,
+from September 28, 2026
+Yield to Maturity: | 2029 Notes: 7.866%
+2032 Notes: 8.158%
+Benchmark Treasury: | 2029 Notes: 4.375% due September 15, 2029
+2032 Notes: 4.375% due August 31, 2031
+Spread to Benchmark Treasury: | 2029 Notes: 287.5 basis points
+2032 Notes: 312.5 basis points
+Benchmark Treasury Price/Yield: | 2029 Notes: 98-10 ⅛ / 4.991%
+2032 Notes: 97-05 / 5.033%
+Expected Ratings*: | Baa3 (stable outlook) (Moody’s)
+BBB- (negative outlook) (S&P)
+BBB (stable outlook) (Fitch)
+Interest Payment Dates: | 2029 Notes: March 28 and September 28
+of each year, commencing on March 28, 2027
+2032 Notes: January 15 and July 15
+of each year, commencing on January 15, 2027
+Interest Rate Adjustment: | The interest rate payable on each series
+of Notes will be subject to adjustment from time to time if any of Moody’s, S&P or Fitch (or, in each case, a substitute
+rating agency therefor), downgrades (or subsequently upgrades) the debt rating applicable to such Notes, as set forth under the caption
+“Description of Notes—Interest Rate Adjustment” in the Preliminary Prospectus Supplement.
+Optional Redemption: | 2029 Notes : Prior to August 28,
+2029 (one month prior to their maturity date) (the “ 2029 Notes Par Call Date ”), the Issuer may redeem the
+2029 Notes at its option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage
+of principal amount and rounded to three decimal places) equal to the greater of:
+(1) | (a) the sum of the present
+values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the 2029
+Notes matured on the 2029 Notes Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months)
+at the Treasury Rate plus 45 basis points less (b) interest accrued to the date of redemption, and
+(2) | 100% of the principal amount of the 2029 Notes to be
+redeemed,
+plus, in either case, accrued and unpaid
+interest thereon to the redemption date.
+On or after the 2029 Notes Par Call Date,
+the Issuer may redeem the 2029 Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100%
+of the principal amount of the 2029 Notes being redeemed plus accrued and unpaid interest thereon to the redemption date.
+2032 Notes : Prior to December 15,
+2031 (one month prior to their maturity date) (the “ 2032 Notes Par Call Date ”), the Issuer may redeem the
+2032 Notes at its option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage
+of principal amount and rounded to three decimal places) equal to the greater of:
+(1) | (a) the sum of the present
+values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the 2032
+Notes matured on the 2032 Notes Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months)
+at the Treasury Rate plus 50 basis points less (b) interest accrued to the date of redemption, and
+(2) | 100% of the principal amount of the 2032 Notes to be
+redeemed,
+plus, in either case, accrued and unpaid
+interest thereon to the redemption date.
+On or after the 2032 Notes Par Call Date,
+the Issuer may redeem the 2032 Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100%
+of the principal amount of the 2032 Notes being redeemed plus accrued and unpaid interest thereon to the redemption date.
+Use of Proceeds: | The Issuer intends to use the net proceeds
+of this offering to repay at maturity the $700 million outstanding aggregate principal amount of its 2.05% senior notes due October 2026.
+The Issuer intends to use any remaining net proceeds from this offering, together with cash on hand, to repay the Outstanding Balance
+under its Revolving Credit Agreement, and for related fees and expenses.
+Trade Date: | September 24, 2026
+Settlement Date: | September 28, 2026 (T+2)
+CUSIP / ISIN: | 2029 Notes: 50155Q AP5 / US50155QAP54
+2032 Notes: 50155Q AQ3 / US50155QAQ38
+Denominations: | $2,000 and integral multiples of $1,000
+in excess thereof
+Joint Book-Running Managers: | J.P. Morgan Securities LLC
+Citigroup Global Markets Inc.
+Morgan Stanley & Co. LLC
+Mizuho Securities USA LLC
+MUFG Securities Americas Inc.
+Scotia Capital (USA) Inc.
+SMBC Nikko Securities America, Inc.
+Co-Managers: | BBVA Securities Inc.
+Deutsche Bank Securities Inc.
+Santander US Capital Markets LLC
+TD Securities (USA) LLC
+BNP Paribas Securities Corp.
+BofA Securities, Inc.
+Lloyds Securities Inc.
+* A securities rating is not a recommendation to buy, sell, or hold
+securities and may be subject to revision or withdrawal at any time. An explanation of the significance of ratings may be obtained from
+the ratings agencies. Generally, ratings agencies base their ratings on such material and information, and such of their own investigations,
+studies and assumptions, as they deem appropriate. Each of the security ratings above should be evaluated independently of any other
+security rating.
+It is expected that delivery of the Notes will be made against payment
+therefor on or about September 28, 2026, which will be the second business day following the date of pricing of the Notes (this
+settlement cycle being referred to as “T+2”). Under Rule 15c6-1 of the Exchange Act, trades in the secondary market
+generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers
+who wish to trade the Notes on any day prior to the business day before delivery of the Notes will be required, by virtue of the fact
+that the Notes initially will settle in T+2, to specify an alternate settlement cycle at the time of any such trade to prevent a failed
+settlement, and should consult their advisors.
+The Issuer has filed a registration statement (including a base prospectus)
+and the Preliminary Prospectus Supplement with the U.S. Securities and Exchange Commission (the “
+SEC
+”) for
+the offering to which this communication relates. Before you invest, you should read the Preliminary Prospectus Supplement, the accompanying
+base prospectus in that registration statement, this pricing term sheet and other documents the Issuer has filed with the SEC for more
+complete information about the Issuer and this offering. You may obtain these documents for free by visiting EDGAR on the SEC’s
+website at www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating in the offering will arrange to send you
+the Preliminary Prospectus Supplement, the final prospectus supplement (when available) and the accompanying base prospectus if you request
+it by calling J.P. Morgan Securities LLC at 1-212-834-4533, Citigroup Global Markets Inc. at 1-800-831-9146 or Morgan Stanley &
+Co. LLC at 1-866-718-1649.
+Any disclaimers or other notices that may appear below are not
+applicable to this communication and should be disregarded. Such disclaimers were automatically generated as a result of this communication
+being sent via Bloomberg or another email system.

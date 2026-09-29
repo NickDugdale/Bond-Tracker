@@ -1,0 +1,159 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1607678/000121390026102798/ea0306515-fwp_viking.htm
+ISSUER (SEC filer): Viking Therapeutics, Inc.
+FILED: 2026-09-24
+========================================
+FWP
+1
+ea0306515-fwp_viking.htm
+FREE WRITING PROSPECTUS
+Issuer Free Writing Prospectus
+Filed Pursuant to Rule 433
+Registration Statement No. 333-297820
+Relating to the
+Preliminary Prospectus Supplements
+Dated September 23, 2026
+(To Prospectus Dated July 29, 2026)
+PRICING TERM SHEET
+September 23, 2026
+Viking Therapeutics, Inc.
+Offerings of
+7,857,143 Shares of Common Stock
+and
+$225,000,000 Aggregate Principal Amount of
+2.00% Convertible Senior Notes due 2032
+The information in this pricing term sheet
+supplements Viking Therapeutics, Inc.’s preliminary prospectus supplement, dated September 23, 2026 (the “Common Stock Preliminary
+Prospectus Supplement”), relating to an offering of common stock (the “Common Stock Offering”), and Viking Therapeutics,
+Inc.’s preliminary prospectus supplement, dated September 23, 2026 (the “Convertible Note Preliminary Prospectus Supplement,”
+and, together with the Common Stock Preliminary Prospectus Supplement, the “Preliminary Prospectus Supplements”), relating
+to an offering of convertible senior notes due 2032 (the “Convertible Note Offering”), and supersedes the information in the
+applicable Preliminary Prospectus Supplement to the extent inconsistent with the information in that Preliminary Prospectus Supplement.
+Terms used, but not defined, in this pricing term sheet have the respective meanings set forth in the applicable Preliminary Prospectus
+Supplement. As used in this pricing term sheet, “we,” “our” and “us” refer to Viking Therapeutics,
+Inc. and not to its subsidiaries
+.
+Viking Therapeutics, Inc. has increased the size of the Common Stock Offering from $200,000,000
+to $275,000,005 (or $316,249,990 if the underwriters of the Common Stock Offering fully exercise their option to purchase additional Common
+Stock). In addition, Viking Therapeutics, Inc. has increased the size of the Convertible Note Offering from $200,000,000 to $225,000,000
+(or $258,750,000 if the underwriters of the Convertible Note Offering fully exercise their over-allotment option to purchase additional
+Notes). The final prospectus supplements relating to the Common Stock Offering and the Convertible Note Offering will reflect conforming
+changes relating to such increase in the size of the Common Stock Offering and the Convertible Note Offering, respectively.
+Common Stock Offering
+Issuer | Viking Therapeutics, Inc.
+Securities Offered | 7,857,143 (or, if the underwriters of the Common Stock Offering exercise in full their option to purchase additional shares, 9,035,714) shares of common stock, $0.00001 par value per share, of Viking Therapeutics, Inc. (the “Common Stock”).
+Ticker / Exchange for
+Common Stock | VKTX / Nasdaq Capital Market (“NASDAQ”).
+Last Reported Sale Price per
+Share of Common Stock on
+NASDAQ on
+September 23, 2026 | $41.65.
+Public Offering Price per
+Share of Common Stock | $35.00 per share of Common Stock.
+Underwriting Discount | $2.10 per share of Common Stock, and $16,500.000.30 in the aggregate (or $18,974,999.40 in the aggregate, if the underwriters of the Common Stock Offering exercise in full their option to purchase additional shares of Common Stock).
+Trade Date | September 24, 2026.
+Settlement Date | September 25, 2026.
+Use of Proceeds | We estimate that the net proceeds to us from the Common Stock Offering will be approximately $258.2 million (or approximately $297.0 million if the underwriters of the Common Stock Offering fully exercise their option to purchase additional Common Stock), after deducting the underwriting discounts and commissions and our estimated offering expenses. We intend to use the combined net proceeds from the Common Stock Offering and the Convertible Note Offering for the continued clinical development, advancement and commercialization of our VK2735 program, the continued clinical development and advancement of our VK3019 program and for other general research and development, working capital and general corporate purposes.
+Book-Running Managers | Morgan Stanley & Co. LLC
+J.P. Morgan Securities LLC
+Jefferies LLC
+Leerink Partners LLC
+William Blair & Company, L.L.C.
+Raymond James & Associates, Inc.
+Lead Manager | Oppenheimer & Co. Inc.
+Co-Managers | Canaccord Genuity LLC
+H.C. Wainright & Co., LLC
+B. Riley Securities, Inc.
+Maxim Group LLC
+Laidlaw & Company (UK) Ltd.
+CUSIP / ISIN Numbers for the Common Stock | 92686J106 / US92686J1060.
+-
+2
+-
+Convertible Note Offering
+Issuer | Viking Therapeutics, Inc.
+Ticker / Exchange for
+Common Stock | VKTX / NASDAQ.
+Trade Date | September 24, 2026.
+Settlement Date | September 25, 2026.
+Notes | 2.00% convertible senior notes due 2032 (the “Notes”).
+Principal Amount | $225,000,000 (or, if the underwriters exercise in full their option to purchase additional Notes, $258,750,000) aggregate principal amount of Notes.
+Public Offering Price | 100% of the principal amount of the Notes, plus accrued interest, if any, from the Settlement Date.
+Underwriting Discount | 3.00% of the principal amount of the Notes, and $6,750,000 in the aggregate (or $7,762,500 in the aggregate, if the underwriters of the Convertible Note Offering exercise in full their option to purchase additional Notes), in each case plus accrued interest, if any, from the Settlement Date.
+Maturity | October 15, 2032, unless earlier repurchased, redeemed or converted.
+Stated Interest Rate | 2.00% per annum.
+Interest Payment Dates | April 15 and October 15 of each year, beginning on April 15, 2027.
+Record Dates | April 1 and October 1.
+Last Reported Sale Price per
+Share of Common Stock on
+NASDAQ on
+September 23, 2026 | $41.65.
+Conversion Premium | Approximately 45.00% above the Public Offering Price per Share of Common Stock in the Common Stock Offering.
+Initial Conversion Price | Approximately $50.75 per share of our Common Stock.
+Initial Conversion Rate | 19.7044 shares of our Common Stock per $1,000 principal amount of Notes.
+-
+3
+-
+Provisional Redemption | We will have the right, at our election, to redeem (a “provisional redemption”) all, or any portion (subject to certain limitations described below), of the Notes, at any time, and from time to time, on or after October 22, 2029 and on or before the 25th scheduled trading day immediately before the maturity date, at a cash redemption price equal to the principal amount of the Notes to be redeemed, plus accrued and unpaid interest, if any, to, but excluding, the redemption date, but only if the last reported sale price per share of our Common Stock exceeds 130% of the conversion price on (x) each of at least 20 trading days, whether or not consecutive, during the 30 consecutive trading days ending on, and including, the trading day immediately before the date we send the related redemption notice; and (y) the trading day immediately before the date we send such notice. However, we may not redeem less than all of the outstanding Notes pursuant to a provisional redemption unless at least $100.0 million aggregate principal amount of Notes are outstanding and not called for redemption as of the time we send the related redemption notice. In addition, calling any Note for provisional redemption will constitute a make-whole fundamental change with respect to that Note, in which case the conversion rate applicable to the conversion of that Note will be increased in certain circumstances if it is converted after it is called for provisional redemption. See “Description of Notes—Optional Redemption—Provisional Redemption” in the Convertible Note Preliminary Prospectus Supplement.
+Cleanup Redemption | We will have the right, at our election, to redeem (a “cleanup redemption”) all, but not less than all, of the Notes, at any time, at a cash redemption price equal to the principal amount of the Notes to be redeemed, plus accrued and unpaid interest, if any, to, but excluding, the redemption date, but only if the principal amount of the Notes outstanding at the time we send the related redemption notice is less than 15% of the aggregate principal amount of the Notes issued in this offering (including any additional Notes issued pursuant to any exercise of the underwriters’ option to purchase additional Notes). In addition, calling the Notes for cleanup redemption will constitute a make-whole fundamental change, which will require us to increase the conversion rate in certain circumstances for a specified period of time. See “Description of Notes—Optional Redemption—Cleanup Redemption” in the Preliminary Prospectus Supplement.
+Use of Proceeds | We estimate that the net proceeds to us from the Convertible Note Offering will be approximately $218.0 million (or approximately $250.8 million if the underwriters of the Convertible Note Offering exercise in full their option to purchase additional Notes), after deducting the underwriting discounts and commissions and our estimated offering expenses. We intend to use the combined net proceeds from the Convertible Note Offering and the Common Stock Offering for the continued clinical development, advancement and commercialization of our VK2735 program, the continued clinical development and advancement of our VK3019 program and for other general research and development, working capital and general corporate purposes. See “Use of Proceeds” in the Convertible Note Preliminary Prospectus Supplement.
+Book-Running Managers | Morgan Stanley & Co. LLC
+J.P. Morgan Securities LLC
+Jefferies LLC
+Leerink Partners LLC
+William Blair & Company L.L.C.
+CUSIP / ISIN Numbers for
+the Notes | 92686J AA4 / US92686JAA43.
+-
+4
+-
+Increase to Conversion Rate in
+Connection with a
+Make-Whole Fundamental
+Change | If a make-whole fundamental change occurs with respect to any Note and the conversion date for the conversion of such Note occurs during the related make-whole fundamental change conversion period, then, subject to the provisions described in the Convertible Note Preliminary Prospectus Supplement under the caption “Description of Notes—Conversion Rights—Increase in Conversion Rate in Connection with a Make-Whole Fundamental Change,” the conversion rate applicable to such conversion will be increased by a number of shares set forth in the table below corresponding (after interpolation, as described below) to the make-whole fundamental change effective date and the stock price of such make-whole fundamental change:
+Stock Price
+Make-Whole Fundamental Change Effective Date | $35.00 | $40.00 | $50.75 | $60.00 | $65.98 | $75.00 | $150.00 | $250.00 | $350.00 | $450.00
+September 25, 2026 | 8.8670 | 7.2198 | 4.9344 | 3.7300 | 3.1666 | 2.5233 | 0.6186 | 0.1457 | 0.0284 | 0.0000
+October 15, 2027 | 8.8670 | 7.2198 | 4.9080 | 3.6583 | 3.0794 | 2.4244 | 0.5494 | 0.1169 | 0.0182 | 0.0000
+October 15, 2028 | 8.8670 | 7.2198 | 4.8319 | 3.5313 | 2.9371 | 2.2731 | 0.4611 | 0.0846 | 0.0082 | 0.0000
+October 15, 2029 | 8.8670 | 7.2198 | 4.6238 | 3.2790 | 2.6772 | 2.0177 | 0.3447 | 0.0498 | 0.0000 | 0.0000
+October 15, 2030 | 8.8670 | 7.0635 | 4.1890 | 2.8163 | 2.2245 | 1.5985 | 0.2033 | 0.0180 | 0.0000 | 0.0000
+October 15, 2031 | 8.8670 | 6.4403 | 3.3076 | 1.9550 | 1.4247 | 0.9144 | 0.0665 | 0.0009 | 0.0000 | 0.0000
+October 15, 2032 | 8.8670 | 5.2955 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000
+If such make-whole fundamental change effective
+date or stock price is not set forth in the table above, then:
+● | if such stock price is between two stock prices in the table above or the make-whole fundamental change
+effective date is between two dates in the table above, then the number of additional shares will be determined by straight-line interpolation
+between the numbers of additional shares set forth for the higher and lower stock prices in the table above or the earlier and later dates
+in the table above, based on a 365- or 366-day year, as applicable; and
+● | if the stock price is greater than $450.00 (subject to adjustment in the same manner as the stock prices
+set forth in the column headings of the table above are adjusted, as described in the Convertible Note Preliminary Prospectus Supplement
+under the caption “Description of Notes—Conversion Rights—Increase in Conversion Rate in Connection with a Make-Whole
+Fundamental Change—Adjustment of Stock Prices and Number of Additional Shares”), or less than $35.00 (subject to adjustment
+in the same manner), per share, then no additional shares will be added to the conversion rate.
+Notwithstanding anything to the contrary, in no
+event will the conversion rate be increased to an amount that exceeds 28.5714 shares of our Common Stock per $1,000 principal amount of
+Notes, which amount is subject to adjustment in the same manner as, and at the same time and for the same events for which, the conversion
+rate is required to be adjusted pursuant to the provisions described in the Convertible Note Preliminary Prospectus Supplement under the
+caption “Description of Notes—Conversion Rights—Conversion Rate Adjustments—Generally.”
+* * *
+We have filed a registration statement (including
+a prospectus) and the Preliminary Prospectus Supplements with the SEC for the offerings to which this communication relates. Before you
+invest, you should read the applicable Preliminary Prospectus Supplement and the prospectus in that registration statement and other documents
+we have filed with the SEC for more complete information about us and these offerings. You may get these documents free by visiting EDGAR
+on the SEC website at
+www.sec.gov
+. Alternatively, we, any underwriter or any dealer participating in the applicable offering will
+arrange to send you the applicable Preliminary Prospectus Supplement (or, when available, the applicable final prospectus supplement)
+and the accompanying prospectus upon request to: Morgan Stanley & Co. LLC at 180 Varick Street, 2nd Floor, New York, New York 10014,
+Attention: Prospectus Department; or J.P. Morgan Securities LLC, c/o Broadridge Financial Solutions, 1155 Long Island Avenue, Edgewood,
+New York 11717 or by email at prospectus-eq_fi@jpmchase.com and postsalemanualrequests@broadridge.com.
+The information in this pricing term sheet
+is not a complete description of the Common Stock, the Common Stock Offering, the Notes or the Convertible Note Offering. You should rely
+only on the information contained or incorporated by reference in the applicable Preliminary Prospectus Supplement and the accompanying
+prospectus, as supplemented by this pricing term sheet, in making an investment decision with respect to the Common Stock or the Notes.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR
+BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY GENERATED
+AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.
+-
+5
+-

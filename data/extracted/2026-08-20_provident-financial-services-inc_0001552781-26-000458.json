@@ -1,0 +1,41 @@
+{
+  "source_file": "2026-08-20_provident-financial-services-inc_0001552781-26-000458.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-29T13:10:55",
+  "usage": {
+    "input_tokens": 5224,
+    "output_tokens": 550
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Provident Financial Services, Inc.",
+    "sector": "Financials",
+    "trade_date": "2026-08-20",
+    "settlement_date": "2026-08-24",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "Piper Sandler & Co.",
+      "Keefe, Bruyette & Woods, Inc."
+    ],
+    "use_of_proceeds": "The Company intends to use the net proceeds from this offering to repay $150 million of outstanding 2.875% Fixed-to-Floating Rate Subordinated Notes due 2031 and $20 million of outstanding variable rate Junior Subordinated Notes due 2033, plus accrued interest, and for general corporate purposes.",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 175000000,
+        "coupon_pct": 6.5,
+        "coupon_type": "fixed-to-floating",
+        "maturity_date": "2036-09-01",
+        "first_call_date": "2031-09-01",
+        "benchmark": "Three-Month Term SOFR",
+        "spread_bps": 239,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": "subordinated",
+        "pricing_quote": "A floating rate per annum equal to the Benchmark rate (which is expected to be Three-Month Term SOFR) plus 239 basis points"
+      }
+    ]
+  }
+}

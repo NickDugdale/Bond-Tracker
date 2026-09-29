@@ -1,0 +1,94 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/712534/000119312526399650/d84048dfwp.htm
+ISSUER (SEC filer): FIRST MERCHANTS CORP
+FILED: 2026-09-23
+========================================
+FWP
+1
+d84048dfwp.htm
+FWP
+FWP
+Free Writing Prospectus
+Filed Pursuant to Rule 433
+Supplementing the Preliminary Prospectus Supplement
+Dated September 23, 2026
+Registration
+No. 333-298983
+$100,000,000
+6.750%
+Fixed-to-Floating
+Rate Subordinated Notes due 2036
+Term Sheet
+Issuer: | First Merchants Corporation (the “Company”)
+Security: | 6.750% Fixed-to-Floating Rate Subordinated Notes due 2036 (the “Notes”)
+Aggregate Principal Amount: | $100,000,000
+Expected Ratings: | BBB by Kroll Bond Rating Agency (Stable Outlook)
+A rating reflects only the view of the assigning rating agency, and it is not a recommendation to buy, sell or hold the Notes. Any rating can be revised upward or downward or withdrawn at any time by the assigning rating agency if
+such rating agency decides that circumstances warrant that change. Each rating should be evaluated independently of any other rating.
+Trade Date: | September 23, 2026
+Settlement Date: | September 25, 2026 (T + 2)
+Maturity Date (if not previously redeemed): | October 1, 2036
+Coupon: | Fixed rate period : A fixed rate per annum of 6.750%
+Floating rate period : A floating rate per annum equal to the Benchmark rate (which is expected to be Three-Month Term SOFR) (each as defined in the prospectus supplement under “Description of Notes —
+General” in the preliminary prospectus supplement), plus 202 basis points for each quarterly interest period during the floating rate period; provided, however , that if the Benchmark rate is less than zero, the Benchmark rate shall be
+deemed to be zero. For each interest period during the floating rate period, “Three-Month Term SOFR” means the rate for Term SOFR for a tenor of three months that is published by the Term SOFR Administrator at the Reference Time for any
+interest period, as determined by the calculation agent after giving effect to the Three-Month Term SOFR Conventions (each as defined under “Description of the Notes” in the preliminary prospectus supplement).
+If the calculation agent determines on or prior to the relevant Reference Time that a Benchmark Transition Event and its related Benchmark Replacement Date (each as defined under “Description of the Notes” in the
+preliminary prospectus supplement) have occurred with respect to Three-Month Term SOFR, then the provisions under “Description of the Notes — Effect of Benchmark Transition Event,” in the preliminary prospectus summary, which are
+referred to herein as the “benchmark transition provisions,” will thereafter apply to all determinations of the interest rate on the Notes for each interest period during the floating rate period. In accordance with the benchmark
+transition provisions, after a Benchmark Transition Event and its related Benchmark Replacement Date have occurred, the interest rate on the Notes for each interest period during the floating rate period will be an annual rate equal to the Benchmark
+Replacement (as defined under Description of the Notes) plus 202 basis points.
+The Company will appoint a calculation agent for the Notes (which may be the Company or an affiliate) prior to the commencement of the floating rate period. The Company will act as the initial calculation agent
+Interest Payment Dates: | Fixed rate period : April 1 and October 1 of each year, commencing on April 1, 2027. The last interest payment date for the fixed rate period will be October 1, 2031.
+Floating rate period : January 1, April 1, July 1 and October 1 of each year, commencing on January 1, 2032.
+Record Dates: | Interest on each Note will be payable to the person in whose name such Note is registered on the 15th day (whether or not a Business Day) immediately preceding the applicable interest payment date.
+Day Count Convention: | Fixed rate period : 360-day year consisting of twelve 30-day months.
+Floating rate period : 360-day year and the actual number of days elapsed.
+Optional Redemption: | The Company may, at its option, beginning with the interest payment date of October 1, 2031 and on any interest payment date thereafter, redeem the Notes, in whole at any time or in part, from time to time, subject to obtaining
+the prior approval of the Federal Reserve to the extent such approval is then required under the rules of the Federal Reserve, at a redemption price equal to 100% of the principal amount of the Notes being redeemed, plus accrued and unpaid interest
+to, but excluding, the date of redemption.
+Special Redemption: | The Company may redeem the Notes, at any time prior to their maturity including prior to October 1, 2031, in whole, but not in part, subject to obtaining the prior approval of the Federal Reserve to the extent such approval is
+then required under the rules of the Federal Reserve, if (i) a Tax Event (as defined under “Description of the Notes — Redemption” in the preliminary prospectus supplement), (ii) a subsequent event occurs that, as a result of
+which, there is more than an insubstantial risk that the Company would not be entitled to treat the Notes as Tier 2 capital for regulatory capital purposes, or (iii) the Company is required to register as an investment company under the
+Investment Company Act of 1940. In each case, the redemption would be at a redemption price equal to 100% of the principal amount of the Notes plus any accrued and unpaid interest to but excluding the redemption date.
+Denominations: | The Notes will be offered in book-entry form only through the facilities of The Depository Trust Company in minimum denominations of $1,000 and integral multiples of $1,000 in excess thereof.
+Use of Proceeds: | The Company intends to use the net proceeds from this offering, after payment of offering expenses, for general corporate purposes, including, but not limited to, repurchasing shares of the Company’s common stock.
+Price to Public: | 100%
+Ranking: | The Notes offered under the preliminary prospectus supplement will be issued by the Company under an Indenture between the Company and U.S. Bank Trust Company, National Association, as trustee (the “Trustee”), to be
+dated as of September 25, 2026 (the “Base Indenture”), as supplemented by a First Supplemental Indenture between the Company and the Trustee, to be dated as of the issue date (the “First Supplemental Indenture”). The
+Base Indenture, as supplemented by the First Supplemental Indenture, shall be referred to herein as the “Indenture.” The Notes will be unsecured, subordinated obligations of the Company and:
+• will rank junior in right of payment and upon the Company’s liquidation to any of the Company’s existing and all future senior
+indebtedness (as defined under “Description of the Notes — Subordination of the Notes” ), all as described under “Description of the Notes” in the preliminary prospectus supplement;
+• will rank equal in right of payment and upon the Company’s liquidation with any of the Company’s existing and all of the Company’s
+future indebtedness the terms of which provide that such indebtedness ranks equally with the Notes;
+• will rank senior in right of payment and upon the Company’s liquidation to (i) the Company’s existing junior subordinated debentures
+underlying outstanding trust preferred securities and (ii) any of the Company’s future indebtedness the terms of which provide that such indebtedness ranks junior in right of payment to indebtedness such as the Notes;
+and
+• will be (i) effectively subordinated to the Company’s future secured indebtedness to the extent of the value of the collateral securing
+such indebtedness, and (ii) structurally subordinated to the existing and future liabilities of the Company’s subsidiaries, including without limitation the Bank’s depositors, liabilities to general creditors and liabilities arising
+in the ordinary course of business or otherwise.
+As of June 30, 2026, on a consolidated basis, the Company’s outstanding deposits and other liabilities totaled approximately $18.7 billion, which includes approximately $18.6 billion of liabilities that would
+rank structurally senior to the Notes. In addition, as of June 30, 2026, the Company had $13 million in indebtedness that would rank senior to the Notes, $29 million aggregate principal amount of indebtedness that would rank pari
+passu to the Notes, and $52 million aggregate principal amount of indebtedness related to existing junior subordinated debentures underlying outstanding trust preferred securities that would rank junior to the Notes. See “Risk
+Factors— The Notes are subordinated obligations whose subordination and priority provisions may not operate as expected, which could materially reduce recoveries for holders “ in the prospectus supplement.
+The Indenture will not limit the amount of additional indebtedness the Company or its subsidiaries may incur.
+CUSIP/ISIN: | 320817AD1 / US320817AD18
+Sole Book-Running Manager: | Piper Sandler & Co.
+Co-Managers: | Keefe, Bruyette & Woods, Inc.
+Brean Capital, LLC
+Hovde Group, LLC
+This Pricing Term Sheet is qualified in its entirety by reference to the Preliminary Prospectus
+Supplement. The information in this Pricing Term Sheet supplements the Preliminary Prospectus Supplement and supersedes the information in the Preliminary Prospectus Supplement to the extent it is inconsistent with the information in the Preliminary
+Prospectus Supplement. Other information (including other financial information) presented in the Preliminary Prospectus Supplement is deemed to have changed to the extent affected by the information contained herein. Capitalized terms used in this
+Pricing Term Sheet but not defined have the meanings given them in the Preliminary Prospectus Supplement. The Company has filed a registration statement (including a prospectus) and a preliminary prospectus supplement with the Securities and
+Exchange Commission (“SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement, the preliminary prospectus supplement and other documents the Company has
+filed with the SEC for more complete information about the Company and this offering. You may get these documents for free by visiting EDGAR on the SEC’s website at www.sec.gov. Alternatively, the Company, the underwriters or any dealer
+participating in the offering will arrange to send you the prospectus and the related Preliminary Prospectus Supplement if you request it by emailing Piper Sandler & Co. at
+fsg-dcm@psc.com
+.
+Note: We expect that delivery of the Notes will be made against payment therefor on or about the second business day following the date of pricing
+of the Notes (this settlement cycle being referred to as “T + 2”). Under Rule
+15c6-1
+under the Securities Exchange Act of 1934, trades in the secondary market generally are required to settle in
+one business day (“T + 1”), unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes on the date of pricing or the next business day will be required, by virtue of the fact that
+the Notes initially will settle in T + 2, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to trade their Notes on the date of pricing or the next business day
+should consult their own advisor.
