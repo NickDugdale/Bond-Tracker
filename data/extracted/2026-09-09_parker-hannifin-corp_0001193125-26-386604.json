@@ -1,0 +1,75 @@
+{
+  "source_file": "2026-09-09_parker-hannifin-corp_0001193125-26-386604.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:45:14",
+  "usage": {
+    "input_tokens": 6419,
+    "output_tokens": 899
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Parker-Hannifin Corporation",
+    "sector": "Industrials",
+    "trade_date": "2026-09-09",
+    "settlement_date": "2026-09-14",
+    "rating_moodys": "A3",
+    "rating_sp": "BBB+",
+    "rating_fitch": "A-",
+    "bookrunners": [
+      "Barclays Bank PLC",
+      "Citigroup Global Markets Limited",
+      "Morgan Stanley & Co. International plc",
+      "Wells Fargo Securities International Limited",
+      "J.P. Morgan Securities plc",
+      "Merrill Lynch International",
+      "HSBC Bank plc",
+      "Mizuho International plc"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "EUR",
+        "principal_amount": 700000000,
+        "coupon_pct": 3.8,
+        "coupon_type": "fixed",
+        "maturity_date": "2030-03-01",
+        "first_call_date": "2030-02-01",
+        "benchmark": "OBL 2.500% due October 11, 2029",
+        "spread_bps": 72.6,
+        "yield_pct": 3.818,
+        "issue_price_pct": 99.96,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark German Government Security: +72.6 bps"
+      },
+      {
+        "currency": "EUR",
+        "principal_amount": 800000000,
+        "coupon_pct": 4.04,
+        "coupon_type": "fixed",
+        "maturity_date": "2032-03-03",
+        "first_call_date": "2032-01-03",
+        "benchmark": "DBR 0.000% due February 15, 2032",
+        "spread_bps": 86.4,
+        "yield_pct": 4.052,
+        "issue_price_pct": 99.962,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark German Government Security: +86.4 bps"
+      },
+      {
+        "currency": "EUR",
+        "principal_amount": 525000000,
+        "coupon_pct": 4.375,
+        "coupon_type": "fixed",
+        "maturity_date": "2036-03-05",
+        "first_call_date": "2035-12-05",
+        "benchmark": "DBR 2.900% due February 15, 2036",
+        "spread_bps": 99.3,
+        "yield_pct": 4.39,
+        "issue_price_pct": 99.909,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark German Government Security: +99.3 bps"
+      }
+    ]
+  }
+}

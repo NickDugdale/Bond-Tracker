@@ -1,0 +1,94 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1287750/000110465926105959/tm2624665d3_fwp.htm
+ISSUER (SEC filer): ARES CAPITAL CORP
+FILED: 2026-09-08
+========================================
+FWP
+1
+tm2624665d3_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Issuer Free Writing Prospectus dated September 8, 2026
+Relating to Preliminary Prospectus Supplement dated September 8, 2026 and
+Prospectus dated May 1, 2024
+Registration No. 333-279023
+Ares Capital Corporation
+$750,000,000
+6.250% Notes due 2033
+PRICING TERM SHEET
+September 8, 2026
+The following sets forth the final terms of the
+6.250% Notes due 2033 (the “Notes”) and should only be read together with the preliminary prospectus supplement dated September
+8, 2026, together with the accompanying prospectus dated May 1, 2024, relating to these securities (the “Preliminary Prospectus”),
+and supersedes the information in the Preliminary Prospectus to the extent inconsistent with the information in the Preliminary Prospectus.
+In all other respects, this pricing term sheet is qualified in its entirety by reference to the Preliminary Prospectus. Terms used herein
+but not defined herein shall have the respective meanings as set forth in the Preliminary Prospectus. All references to dollar amounts
+are references to U.S. dollars.
+Issuer | Ares Capital Corporation
+Security | 6.250% Notes due 2033
+Ratings (Moody’s / S&P / Fitch)* | Baa2/BBB/BBB (Stable/Stable/Positive)
+Aggregate Principal Amount Offered | $750,000,000
+Maturity | September 15, 2033, unless earlier repurchased or redeemed
+Trade Date | September 8, 2026
+Settlement Date** | September 15, 2026
+(T+5)
+Interest Payment Dates | March 15 and September 15,
+commencing March 15, 2027
+Price to Public (Issue Price) | 98.463% of the principal amount
+Coupon (Interest Rate) | 6.250%
+Yield to Maturity | 6.527%
+Benchmark Treasury | 4.500% due August 31,
+2033
+Benchmark Treasury Price / Yield | 98-30+ / 4.677%
+Spread to Benchmark Treasury | +185 basis
+points
+Change of Control | Holders have the right to require Ares Capital to repurchase the Notes at 100% of their principal amount plus accrued and unpaid interest, if any, in the event of a Change of Control Repurchase Event.
+Optional Redemption | Prior to July 15, 2033 (two months prior to their maturity date) (the
+“Par Call Date”), Ares Capital may redeem the Notes at its option, in whole or in part, at any time and from time to time,
+at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: 1) (a) the
+sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming
+the Notes matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury
+Rate plus 30 basis points less (b) interest accrued to the date of redemption, and 2) 100%
+of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption
+date. On or after the Par Call Date, Ares Capital may redeem the Notes,
+in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the Notes being
+redeemed plus accrued and unpaid interest thereon to the redemption date.
+Denomination | $2,000 and integral multiples of $1,000 in excess thereof
+CUSIP / ISIN | 04010L BP7 / US04010LBP76
+Joint Book-Running Managers | BofA Securities, Inc. J.P. Morgan Securities LLC RBC Capital Markets, LLC SMBC Nikko Securities America, Inc. Wells Fargo Securities, LLC Barclays Capital Inc. CIBC World Markets Corp. Mizuho Securities USA LLC MUFG Securities Americas Inc. TD Securities (USA) LLC Truist Securities, Inc. U.S. Bancorp Investments, Inc.
+Joint Lead Managers | BNP Paribas Securities Corp. Capital One Securities, Inc. HSBC Securities (USA) Inc. Morgan Stanley & Co. LLC Regions Securities LLC SG Americas Securities, LLC BNY Mellon Capital Markets, LLC Credit Agricole Securities (USA)
+Inc. Goldman Sachs & Co. LLC ICBC Standard Bank Plc Natixis Securities Americas LLC
+Co-Managers | Ares Management Capital Markets
+LLC Deutsche Bank Securities Inc. ING Financial Markets LLC R. Seelaus & Co., LLC Academy Securities, Inc. Citigroup Global Markets Inc. Keefe, Bruyette & Woods, Inc. Loop Capital Markets LLC Samuel A. Ramirez & Company, Inc. Siebert Williams Shank &
+Co., LLC
+* Note: A securities rating is not a recommendation
+to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+**Ares Capital Corporation
+expects that delivery of the Notes will be made to investors on or about
+September 15, 2026, which will be the fifth business
+day following the date hereof. Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended, trades in the secondary market
+are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who
+wish to trade Notes on any date prior to one business day before delivery will be required by virtue of the fact that the Notes initially
+settle in T+5, to specify an alternate settlement arrangement at the time of any such trade to prevent a failed settlement. Purchasers
+of the Notes who wish to trade the Notes on any date prior to one business day before delivery should consult their advisors.
+Investors are advised to carefully consider
+the investment objective, risks, charges and expenses of Ares Capital Corporation before investing. The Preliminary Prospectus, which
+has been filed with the Securities and Exchange Commission, contains this and other information about Ares Capital Corporation and should
+be read carefully before investing.
+The information
+in the Preliminary Prospectus and in this
+pricing term sheet is not complete and may be changed. The Preliminary Prospectus and
+this pricing term sheet are not offers to sell any securities of Ares Capital Corporation and are not soliciting an offer to buy such
+securities in any jurisdiction where such offer and sale is not permitted.
+The issuer has filed a registration statement,
+including a prospectus and a prospectus supplement with the SEC, for the offering to which this communication relates. Before you invest,
+you should read the prospectus and prospectus supplement in that registration statement and other documents the issuer has filed with
+the SEC for more complete information about the issuer and this offering. You may obtain these documents for free by visiting EDGAR on
+the SEC Web site at
+www.sec.gov
+. Alternatively, the issuer, any underwriter or any dealer participating in the offering will
+arrange to send you the prospectus and the prospectus supplement if you request them by calling BofA Securities, Inc., NC1-022-02-25,
+201 North Tryon Street, Charlotte, NC 28255-0001, Attn: Prospectus Department, or by calling 1-800-294-1322, or email dg.prospectus_requests@bofa.com;
+J.P. Morgan Securities LLC, 270 Park Avenue, New York, NY 10017, Attn: Investment Grade Syndicate Desk, 212-834-4533; RBC Capital Markets,
+LLC, Brookfield Place, 200 Vesey Street, 8th Floor, New York, NY 10281, by toll-free telephone at 1-866-375-6829 or email rbcnyfixedincomeprospectus@rbccm.com;
+SMBC Nikko Securities America, Inc. at 277 Park Avenue, New York, New York 10172, Attn: NikkoGCNotices@smbcnikko-si.com; or Wells Fargo
+Securities, LLC at 1-800-645-3751.

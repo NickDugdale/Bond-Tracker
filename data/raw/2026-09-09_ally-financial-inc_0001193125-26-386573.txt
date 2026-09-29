@@ -1,0 +1,81 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/40729/000119312526386573/d185184dfwp.htm
+ISSUER (SEC filer): Ally Financial Inc.
+FILED: 2026-09-09
+========================================
+FWP
+1
+d185184dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration No. 333-290659
+Final
+Pricing Term Sheet dated September 9, 2026
+5.525%
+Fixed-to-Floating
+Rate Senior Notes due 2030
+Issuer: | Ally Financial Inc. (“Ally”)
+Expected Ratings*: | Baa3 (Stable) / BBB- (Stable) / BBB- (Positive) (Moody’s / S&P / Fitch)
+Title of Securities: | 5.525% Fixed-to-Floating Rate Senior Notes due 2030 (the “Notes”)
+Legal Format: | SEC Registered
+Trade Date: | September 9, 2026
+Settlement Date**: | September 16, 2026 (T+5)
+Final Maturity Date: | September 16, 2030
+Aggregate Principal Amount: | $750,000,000
+Gross Proceeds: | $750,000,000
+Underwriting Discount: | 0.400%
+Net Proceeds to Ally before Estimated Expenses: | $747,000,000
+Fixed Rate Period: | From, and including, September 16, 2026, to, but excluding, September 16, 2029.
+Floating Rate Period: | From, and including, September 16, 2029, to, but excluding, the maturity date.
+Coupon: | Fixed Rate Period : 5.525% per annum. Floating Rate Period : Compounded SOFR, determined as set forth under “Description of Notes—Principal Amount; Maturity and
+Interest—Floating Rate Period” in the preliminary prospectus supplement, plus 117 basis points.
+Issue Price: | 100.000%
+Benchmark Treasury: | 4.250% due August 15, 2029
+Benchmark Treasury Yield: | 4.505%
+Spread to Benchmark Treasury: | T+102 bps
+Yield to Maturity: | 5.525%
+Interest Payment Dates: | Fixed Rate Period : Semi-annually, in arrears, on March 16 and September 16 of each year, beginning on March 16, 2027,
+and ending on September 16, 2029. Floating Rate Period : Quarterly, in
+arrears, on December 16, 2029, March 16, 2030, June 16, 2030, and at the maturity date.
+Optional Redemption: | The Notes will be redeemable at Ally’s option, in whole or in part, at any time and from time to time, on or after March 15, 2027
+(180 days from September 16, 2026) (or, if additional Notes are issued thereafter, beginning 180 days after the issue date of such additional Notes), and prior to September 16, 2029 (the date that is one year prior to the maturity date), at a
+redemption price (expressed as a percentage of the principal amount and rounded to three decimal places) equal to the greater of: • (a) the sum of the present values of the remaining scheduled payments of principal and interest on the Notes to be redeemed, discounted to the
+redemption date (assuming that the Notes to be redeemed matured on September 16, 2029 (the date that is one year prior to the maturity date)) on a semi-annual basis (assuming a 360-day year consisting of
+twelve 30-day months) at the Treasury Rate (as defined in the preliminary prospectus supplement) plus 20 basis points less (b) interest accrued on the Notes to be redeemed to the date of redemption;
+and • 100% of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon, if any, to, but excluding, the redemption date. In addition, Ally may, at its option, redeem the Notes (i) in whole but not in part
+on September 16, 2029 (the date that is one year prior to the maturity date) or (ii) in whole or in part, at any time and from time to time, on or after August 16, 2030 (the date that is one month prior to the maturity date), in each
+case at a redemption price equal to 100% of the aggregate principal amount of the Notes being redeemed, plus accrued and unpaid interest thereon, if any, to, but excluding, the redemption date. The Notes will not be subject to repayment at the option of the holder at any time prior
+to maturity.
+Day Count Convention: | Fixed Rate Period : 30/360 Floating
+Rate Period : Actual/360
+Business Days: | New York
+CUSIP/ISIN Numbers: | CUSIP: 02005N CC2 ISIN:
+US02005NCC20
+Joint Book-Running Managers: | BofA Securities, Inc. J.P. Morgan Securities
+LLC TD Securities (USA) LLC Wells Fargo Securities,
+LLC
+Co-Managers: | Lloyds Securities Inc. Academy Securities,
+Inc. Bancroft Capital, LLC Blaylock Van, LLC Cabrera Capital Markets LLC Independence Point Securities
+LLC
+Denominations: | $2,000 x $1,000
+* | Note : A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+** | It is expected that delivery of the Notes will be made in book-entry form only through the facilities of The
+Depository Trust Company against payment in New York, New York on or about the fifth business day following the date of this term sheet. Trades of securities in the secondary market generally are required to settle in one business day, referred to
+as T+1, unless the parties to a trade agree otherwise. Accordingly, by virtue of the fact that the initial delivery of the Notes will not be made on a T+1 basis, investors who wish to trade the Notes prior to one business day before the Settlement
+Date will be required to specify an alternative settlement cycle at the time of any such trade to prevent a failed settlement.
+The
+Issuer has filed a registration statement (including a prospectus and related preliminary prospectus supplement for the offering) with the U.S. Securities and Exchange Commission (the “SEC”) for the offering to which this communication
+relates. Before you invest, you should read the preliminary prospectus supplement, the accompanying prospectus in that registration statement and the other documents the Issuer has filed with the SEC for more complete information about the Issuer
+and this offering. You may get these documents for free by visiting EDGAR on the SEC’s website at www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if
+you request it by calling BofA Securities, Inc. toll-free at
+1-800-294-1322,
+J.P. Morgan Securities LLC toll-free at
+1-212-834-4533,
+TD Securities (USA) LLC toll-free at
+1-855-495-9846
+or Wells Fargo Securities, LLC toll-free at
+1-800-645-3751.
+This communication should be read in conjunction with the preliminary prospectus supplement and the
+accompanying prospectus for the Notes. The information in this communication supersedes the information in the preliminary prospectus supplement and the accompanying prospectus for the Notes to the extent it is inconsistent with the information in
+such preliminary prospectus supplement or the accompanying prospectus.

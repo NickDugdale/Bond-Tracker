@@ -1,0 +1,191 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1022837/000119312526379272/d177069dfwp.htm
+ISSUER (SEC filer): SUMITOMO MITSUI FINANCIAL GROUP, INC.
+FILED: 2026-09-02
+========================================
+FWP
+1
+d177069dfwp.htm
+FREE WRITING PROSPECTUS
+FREE WRITING PROSPECTUS
+Filed Pursuant to Rule 433
+Registration No. 333-276219
+Pricing Term Sheet – 6.950% Perpetual Subordinated Notes
+Certain terms used herein but not defined herein shall have the meanings assigned to them in the Preliminary Prospectus (as defined below).
+Issuer: | Sumitomo Mitsui Financial Group, Inc. (“SMFG”)
+Securities Offered: | U.S.$500,000,000 aggregate principal amount of 6.950% perpetual subordinated notes (the “Notes”)
+Offer and Sale: | SEC registered
+Expected Security Ratings:* | Baa3 (Moody’s) / BB+ (S&P)
+Denomination: | U.S.$200,000 and integral multiples of $1,000 in excess thereof
+Offering Price: | 100.000%
+Pricing Date: | September 1, 2026
+Settlement Date: | September 10, 2026
+Maturity Date: | Perpetual, with no fixed maturity or mandatory redemption date
+Ranking of the Notes: | The Notes will constitute direct and unsecured obligations of SMFG and shall at all times rank pari passu and without any preference
+among themselves and at least equally and ratably with all indebtedness of SMFG which is subordinated to Senior Indebtedness, which term, for the avoidance of doubt, shall include the dated subordinated debt securities of SMFG, subject to a
+Write-Down and Cancellation or Going Concern Write-Down (each as defined below). Upon the occurrence and continuation of a Liquidation Event (as defined below), the obligations of SMFG pursuant to the Notes shall be subordinated in right of
+payment to all existing and future Senior Indebtedness and, so long as such Liquidation Event continues, no payment will be made under the Notes, except as otherwise set forth in the perpetual subordinated indenture dated as of March 5, 2024
+between SMFG and The Bank of New York Mellon, as the trustee (the “Indenture”). A “Liquidation Event” means a liquidation proceeding ( seisan ), excluding a special liquidation proceeding ( tokubetsu seisan ), having
+been commenced by or in respect of SMFG under the Companies Act.
+Interest Payment Dates: | Payable semiannually in arrears on June 5 and December 5 (each an “Interest Payment Date”) of each year beginning on December 5, 2026 (short first coupon).
+Interest: | From (and including) the Settlement Date to (but excluding) December 5, 2036 (the “First Interest Rate Reset Date”), the interest on the Notes will accrue at the rate of 6.950% per
+annum .
+1
+The interest for the first Interest Payment Date on December 5,
+2026 will amount to U.S.$16.41 per each $1,000 in Original Principal Amount of the Notes and the semiannual interest for each subsequent Interest Payment Date until (and including) the First Interest Rate Reset Date will amount to U.S.$34.75 per
+each $1,000 in Original Principal Amount of the Notes, subject to any necessary amendments and recalculations of such interest amount for an interest period during which any Capital Ratio Event (as defined below) or Write-Up Date occurs, and the interest payment cancellation provisions, the Write-Down and Cancellation provisions and the subordination provisions, respectively, of the Notes, each as described in the
+Preliminary Prospectus. From (and including) each Interest Rate Reset Date (as
+defined below) to (but excluding) the next following Interest Rate Reset Date (each such period, a “Reset Interest Period”), the Notes will bear interest at a rate per annum equal to the sum of the applicable U.S. Treasury Rate
+(as defined below) as determined by the Calculation Agent (as defined below) on the applicable Reset Determination Date (as defined below) plus a margin of 2.143% per annum (the “Reset Interest Rate”). Interest will be calculated per each $1,000 in Original Principal Amount, subject to
+any Going Concern Write-Down or Write-Up of the Notes, and rounded to the nearest cent (half a cent being rounded upward). Notwithstanding anything to the contrary contained in the terms of the Notes, the obligations of SMFG to make payments of principal of or interest on the Notes
+are subject to the interest payment cancellation provisions, the Going Concern Write-Down and Write-Down and Cancellation provisions and the subordination provisions described in the Preliminary Prospectus.
+Interest Rate Reset Date: | December 5, 2036 and every date that falls five, or a multiple of five, years thereafter (each such date, an “Interest Rate Reset Date”)
+Reset Determination Date: | The second Business Day (as defined below) immediately preceding the Interest Rate Reset Date
+Benchmark Treasury: | 4.625% due August/2036 5.125% due
+August/2046
+Benchmark Treasury Spot (Price/Yield): | 98-21+ / 4.794% 98-06+ / 5.271%
+Interpolated Treasury Yield: | 4.809%
+Spread to Benchmark: | T+214.3 bps
+Reoffer Yield: | 6.952%
+Day Count Basis: | 30/360, following, unadjusted
+2
+Business Day: | New York, London and Tokyo
+Determination of Reset Interest Rate and the applicable U.S. Treasury Rate: | The Reset Interest Rate and the U.S. Treasury Rate in respect of each Reset Interest Period shall be determined by The Bank of New York
+Mellon as calculation agent (the “Calculation Agent”) as soon as practicable after 5:00 p.m. (New York City time) on the Reset Determination Date. “U.S. Treasury Rate” means, with respect to a Reset Interest Period, the rate per annum equal to: (1) the yield on U.S. Treasury
+securities having a maturity of five years for the most recent day appearing in the most recently published statistical release designated “H.15,” or any successor publication, as of 5:00 p.m. (New York City time) on the Reset
+Determination Date, that is published by the Board of Governors of the Federal Reserve System that establishes yields on actively traded U.S. Treasury securities adjusted to constant maturity, under the caption “Treasury constant
+maturities,” for the maturity of five years; or (2) if such release (or any successor release) is not published during any of the five New York Banking Days (as defined below) immediately prior to the Reset Determination Date or does not
+contain such yield, the rate per annum equal to the semi-annual equivalent yield to maturity of the Comparable Treasury Issue (as defined below), calculated using a price for the Comparable Treasury Issue (expressed as a percentage of its
+principal amount) equal to the Comparable Treasury Price (as defined below) for such Reset Determination Date. “Comparable Treasury Issue” means, with respect to a Reset Interest Period, the U.S. Treasury security that is selected by SMFG (and notified to
+the Calculation Agent) with a maturity date on or about (but not more than 30 calendar days before or after) the Interest Rate Reset Date immediately after the last day of the Reset Interest Period and that would be utilized, at the time of
+selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities denominated in U.S. dollars and having a maturity of five years; provided, however , that the selection of the Comparable
+Treasury Issue shall be at the sole discretion and judgment of SMFG, and that such determination shall be final and conclusive for all purposes and binding on the Calculation Agent, the trustee, the paying agent and the holders of the
+Notes.
+3
+“Comparable Treasury Price” means, with respect to a
+Reset Determination Date, (i) the arithmetic average, as determined by the Calculation Agent, of the Reference Treasury Dealer Quotations (as defined below) for the Comparable Treasury Issue as of the Reset Determination Date, after excluding
+the highest and lowest of such Reference Treasury Dealer Quotations, or (ii) if fewer than five such Reference Treasury Dealer Quotations are received, the arithmetic average, as determined by the Calculation Agent, of all such quotations, or
+(iii) if fewer than two such Reference Treasury Dealer Quotations are received, then the Reference Treasury Dealer Quotation as quoted by a Reference Treasury Dealer (as defined below). “New York Banking Day” means any day, other than a Saturday, Sunday, that
+is neither a legal holiday in The City of New York nor a day on which commercial banking institutions are authorized or required by law, regulation or executive order to close in The City of New York. “Reference Treasury Dealer” means each of up to five banks selected by SMFG
+(and notified to the Calculation Agent), or the affiliates of such banks, which are (i) primary U.S. Treasury securities dealers, and their respective successors, or (ii) market makers in pricing corporate bond issues denominated in U.S.
+dollars; provided, however , that the selection of the Reference Treasury Dealers shall be at the sole discretion and judgment of SMFG, and that such determination shall be final and conclusive for all purposes and binding on the Calculation
+Agent, the trustee, the paying agent and the holders of the Notes. “Reference
+Treasury Dealer Quotation” means, with respect to each Reference Treasury Dealer and a Reset Determination Date, the arithmetic average, as determined by the Calculation Agent, of the bid and asked prices quoted to SMFG (and notified to the
+Calculation Agent) by such Reference Treasury Dealer for the Comparable Treasury Issue, expressed in each case as a percentage of its principal amount, approximately at 11:00 a.m. (New York City time), on the Reset Determination Date.
+Optional Cancellation of Interest Payments: | If SMFG determines that it is necessary to cancel payment of interest on the Notes at any time and in its sole discretion, SMFG may cancel payment of all or part of the interest accrued on the Notes on an Interest Payment Date
+(including additional amounts with respect thereto, if any). SMFG may cancel any payment of all or part of interest pursuant to the foregoing, even if no cancellation of interest is required or the amount so cancelled exceeds the amount SMFG is
+required to cancel pursuant to the mandatory interest cancellation provisions in the Indenture.
+4
+If SMFG determines not to make an interest payment (or if SMFG
+determines to make a payment of a portion, but not all, of such interest payment) on any Interest Payment Date, such non-payment will be deemed to be an effective cancellation of such interest payment (or the
+portion of such interest payment not paid) without any further action being taken or any other condition being satisfied.
+Mandatory Cancellation of Interest Payments: | SMFG will be prohibited from paying, and will cancel, all or part of the interest on the Notes on an Interest Payment Date (including
+additional amounts with respect thereto, if any), if, and to the extent that, on such Interest Payment Date, the amount of Distributable Amounts (as defined below) is less than the sum of (1) the aggregate amount of interest that should have
+been paid in respect of the Notes on such Interest Payment Date (disregarding the effect of any non-business day adjustments), (2) the aggregate amount of interest and dividends that should have been paid in
+respect of any Additional Tier 1 Instruments on the same date as such Interest Payment Date (disregarding the effect of any non-business day adjustments), and (3) the aggregate amount of interest and
+dividends paid in respect of the Notes and Additional Tier 1 Instruments, excluding amounts already deducted from Distributable Amounts, on or after the first day of the fiscal year of SMFG in which such Interest Payment Date falls and before such
+Interest Payment Date (disregarding the effect of any non-business day adjustments). “Distributable Amounts” means, in respect of any Interest Payment Date of the Notes, SMFG’s distributable amounts ( bunpai kano gaku )
+on such Interest Payment Date calculated in accordance with the Companies Act.
+Agreement to Interest Cancellation: | Each holder and beneficial owner of the Notes, by its acquisition of the Notes, whether upon original issue or upon transfer, assignment or exchange thereof, accepts and agrees to the interest cancellation provisions set forth in
+the terms of the Notes.
+5
+Going Concern Write-Down Upon a Capital Ratio Event: | If a Capital Ratio Event occurs, the Notes will be subject to a Going Concern Write-Down on the relevant Going Concern Write-Down Date (as
+defined below) automatically and without any additional action by SMFG, the trustee, the agents or the holders or beneficial owners of the Notes. If a Capital Ratio Event occurs, on the relevant Going Concern Write-Down Date, (1) the Current
+Principal Amount of the Notes will be written down by an amount equal to the relevant Going Concern Write-Down Amount, (2) SMFG will be discharged and released from any and all of its obligations with respect to the payment of the Current
+Principal Amount of or interest on the Notes (including additional amounts with respect thereto, if any) to the extent related to the relevant Going Concern Write-Down Amount, except for payments of principal or interest (including additional
+amounts with respect thereto, if any) that have become due and payable prior to the occurrence of the Capital Ratio Event and remain unpaid, and (3) each of the holders and beneficial owners of the Notes will be deemed to have irrevocably
+waived its right to claim or receive, and will not have any rights against SMFG with respect to, and cannot instruct the trustee to enforce, the payment of principal of the Notes to the extent related to the relevant Going Concern Write-Down Amount
+or interest thereon (including additional amounts with respect thereto, if any), except for any payments of principal or interest (including additional amounts with respect thereto, if any) that have become due and payable prior to the occurrence of
+the Capital Ratio Event and remain unpaid (together, items (1), (2) and (3) describing a “Going Concern Write-Down”). A “Capital Ratio Event” will be deemed to have occurred if SMFG publicly announces (including without limitation by way of a public announcement
+made in accordance with applicable law or the rules of a relevant securities exchange) that its Consolidated Common Equity Tier 1 Capital Ratio, calculated by SMFG pursuant to the Applicable Capital Adequacy Regulations as of a Quarterly Financial
+Period End Date or any other date, has fallen below 5.125%, with certain exceptions as set forth in the Preliminary Prospectus. “Going Concern Write-Down Date” means the date on which a Going Concern Write-Down shall become effective. A Going Concern Write-Down Date shall
+occur following each Capital Ratio Event, unless the Current Principal Amount of the Notes is one cent per $1,000 in Original Principal Amount. Each Going Concern Write-Down Date shall be determined by SMFG after consultation with the Financial
+Services Agency of Japan (the “FSA”) and will be no less than one and no more than 30 days following the date of the relevant Capital Ratio Event. Following any write-down of the Current Principal Amount of the Notes upon a Capital Ratio Event, the Notes may be subject to Write-Up in certain limited circumstances, as described in the Preliminary Prospectus.
+6
+Write-Down and Cancellation Upon a Non-Viability Event or
+Bankruptcy Event: | If a Non-Viability Event (as defined below) or Bankruptcy Event occurs, the Notes will be subject to
+a Write-Down and Cancellation on the relevant Write-Down and Cancellation Date (as defined below) upon the occurrence of the Non-Viability Event, or immediately upon the occurrence of the Bankruptcy Event,
+automatically and without any additional action by SMFG, the trustee, the agents or the holders or beneficial owners of the Notes. Upon the occurrence of a Non-Viability Event or a Bankruptcy Event, the following will occur, (i) in the case of a Non-Viability Event, on the relevant Write-Down and Cancellation Date, or (ii) in the case of a Bankruptcy Event, immediately upon the occurrence of the Bankruptcy Event, (1) the Current Principal
+Amount of the Notes will be permanently written down to zero and the Notes will be deemed cancelled, (2) SMFG shall be discharged and released from any and all of its obligations to pay any amount of principal or interest (including additional
+amounts with respect thereto, if any) on the Notes, except for payments of principal or interest (including additional amounts with respect thereto, if any) that have become due and payable prior to the occurrence of the Non-Viability Event or Bankruptcy Event, as the case may be, and remain unpaid, and (3) each of the holders and beneficial owners of the Notes will be deemed to have irrevocably waived its right to claim or
+receive, and will not have any rights against SMFG with respect to, and cannot instruct the trustee to enforce, the payment of principal of or interest on the Notes (including additional amounts with respect thereto, if any), except for any payments
+of principal or interest (including additional amounts with respect thereto, if any) that have become due and payable prior to the occurrence of the Non-Viability Event or Bankruptcy Event, as the case may be,
+and remain unpaid (together, items (1), (2) and (3) describing a “Write-Down and Cancellation”). A “Non-Viability Event” will be deemed to have occurred at the time that the Prime Minister of Japan,
+following deliberation by Japan’s Financial Crisis Response Council pursuant to the Deposit Insurance Act, confirms ( nintei ) that “specified Item 2 measures ( tokutei dai nigo sochi ),” which are the measures set forth
+in Article 126-2, Paragraph 1, Item 2 of the Deposit Insurance Act (including any successor articles thereto), as then in effect, need to be applied to SMFG under circumstances where SMFG’s liabilities
+exceed or are likely to exceed its assets, or SMFG has suspended or is likely to suspend payment of SMFG’s obligations.
+7
+“Write-Down and Cancellation Date” means the date on
+which the Write-Down and Cancellation shall become effective. In the case of a Bankruptcy Event, the Write-Down and Cancellation Date shall be the date on and the time at which the Bankruptcy Event occurs. In the case of a Non-Viability Event, the Write-Down and Cancellation Date shall be determined by SMFG after consultation with the FSA and will be no less than one and no more than ten Business Days following the date of the
+Write-Down and Cancellation Notice.
+Agreement to Going Concern Write-Down and Write-Down and Cancellation: | Each holder and beneficial owner of the Notes, by its acquisition of the Notes, whether upon original issue or upon transfer, assignment or exchange thereof, accepts and agrees that (1) the Notes shall be subject to Going
+Concern Write-Down upon the occurrence of a Capital Ratio Event on the relevant Going Concern Write-Down Date, and (2) the Notes shall be subject to Write-Down and Cancellation on the relevant Write-Down and Cancellation Date upon the
+occurrence of a Non-Viability Event or immediately upon the occurrence of a Bankruptcy Event.
+No Events of Default or Rights of Acceleration: | Non-payment of principal of or interest on the Notes (including additional amounts with respect thereto, if any) or breach of covenants in the Indenture or the Notes shall not constitute an
+event of default or an event of acceleration under the Indenture or the Notes or give rise to any right of the holders or the trustee to declare the principal of or interest on the Notes to be due and payable or accelerate any payment of such
+principal or interest, and there are no events of default or circumstances in respect of the Notes that entitle the holders or the trustee to require that the Notes become immediately due and payable.
+Optional Redemption: | The Notes may be redeemed at the option of SMFG, in whole, but not in part, subject to prior confirmation of the FSA, if such confirmation is required under the Applicable Capital Adequacy Regulations, on December 5, 2036 or
+any subsequent Interest Rate Reset Date, and on giving not less than ten Business Days nor more than 60 days’ notice of redemption to the holders of the Notes and to the trustee, at a redemption price equal to 100% of the Original Principal
+Amount of the Notes together with any accrued and unpaid interest (including additional amounts with respect thereto, if any), to (but excluding) the date fixed for redemption; provided , however , that SMFG shall not have such option to
+redeem the Notes if the principal amount of the Notes has been subject to one or more Going Concern Write-Downs and such written down amount has not been reinstated in full on the date fixed for
+redemption.
+8
+Optional Tax Redemption: | The Notes may be redeemed at SMFG’s option, in whole, but not in part, subject to prior confirmation of the FSA, if such confirmation is required under the Applicable Capital Adequacy Regulations, at any time, on giving not
+less than ten Business Days nor more than 60 days’ notice of redemption to the holders of the Notes and to the trustee, at a redemption price equal to 100% of the Current Principal Amount of the Notes on the date fixed for redemption together
+with any accrued and unpaid interest (including additional amounts with respect thereto, if any) to (but excluding) the date fixed for redemption if (i) SMFG is or will be obliged to pay additional amounts with respect to the Notes as described
+in the Preliminary Prospectus, or (ii) there is more than an insubstantial risk that, for Japanese corporate tax purposes, any portion of the interest payable on the Notes is not or will not be deductible from SMFG’s taxable income or is
+or will be required to be deducted from the amount to be excluded from SMFG’s taxable gross receipts, in each case of (i) and (ii) above, as a result of any change in, or amendment to, the laws or regulations of Japan or any
+political subdivision or any authority thereof or therein having power to tax, or any change in application or official interpretation of such laws or regulations, which change or amendment becomes effective on or after the date of the issuance of
+the Notes; provided that such obligation cannot be avoided by SMFG through the taking of reasonable measures available to it; and provided further that, in the case of (i) above no such notice of redemption shall be given sooner
+than 90 days prior to the earliest date on which SMFG would be obliged to pay such additional amounts were a payment then due in respect of the Notes.
+Optional Regulatory Redemption: | The Notes may be redeemed at SMFG’s option, in whole, but not in part, subject to prior confirmation of the FSA, if such confirmation is required under the Applicable Capital Adequacy Regulations, at any time, on giving not
+less than ten Business Days nor more than 60 days’ notice of redemption to the holders of the Notes and to the trustee, at a redemption price equal to 100% of the Current Principal Amount of the Notes on the date fixed for redemption together
+with any accrued and unpaid interest (including additional amounts with respect thereto, if any) to (but excluding) the date fixed for redemption if SMFG determines after consultation with the FSA that there is more than an insubstantial risk that
+the Notes will be partially or fully excluded from SMFG’s Additional Tier 1 Capital under the applicable standards set forth in the Applicable Capital Adequacy Regulations and such exclusion cannot be avoided by SMFG through the taking of
+reasonable measures available to SMFG.
+9
+Use of Proceeds: | SMFG intends to use the net proceeds of the offering to extend a perpetual subordinated loan, intended to qualify as Additional Tier 1 Capital and internal TLAC, to Sumitomo Mitsui Banking Corporation (“SMBC”) and SMBC
+intends to use the proceeds of the loan for general corporate purposes.
+Listing: | Luxembourg Stock Exchange’s Euro MTF Market
+Settlement: | DTC, Euroclear and Clearstream
+CUSIP: | 86562MEY2
+ISIN: | US86562MEY21
+Common Code: | 348278622
+Legal Entity Identifier: | 35380028MYWPB6AUO129
+Joint Lead Managers and Joint Bookrunners: | SMBC Nikko Securities America, Inc. Goldman
+Sachs & Co. LLC BofA Securities, Inc. J.P. Morgan
+Securities LLC Jefferies LLC
+Co-Managers:** | Citigroup Global Markets Inc. Nomura Securities
+International, Inc. Barclays Capital Inc. Daiwa Capital
+Markets America Inc. HSBC Securities (USA) Inc. BNP
+PARIBAS UBS Securities LLC
+Stabilization Manager: | SMBC Nikko Securities America, Inc.
+Trustee, Paying Agent, Calculation Agent, Transfer Agent and Registrar: | The Bank of New York Mellon
+*Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or
+withdrawal at any time.
+** One or more of the underwriters may not be U.S.-registered broker-dealers. All sales of securities in the United States
+will be made by or through U.S.-registered broker-dealers, which may include affiliates of one or more of the underwriters.
+The issuer has filed a
+registration statement (including a prospectus dated January 11, 2024 (the “Base Prospectus”)) and a preliminary prospectus supplement dated September 1, 2026 (the “Preliminary Prospectus Supplement,” and together
+with the Base Prospectus, the “Preliminary Prospectus”) with the SEC for the offering to which this communication relates. Before you invest, you should read the Preliminary Prospectus and other documents the issuer has filed with the
+SEC for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering
+will arrange to send you the Preliminary Prospectus if you request it by calling SMBC Nikko Securities America, Inc. toll-free at
+1-888-868-6856,
+Goldman Sachs & Co. LLC at
+1-212-902-1171
+(Prospectus Department), BofA Securities, Inc. toll-free at
+1-800-294-1322,
+J.P. Morgan Securities LLC toll-free at
+1-
+212-834-4533
+(call collect) and Jefferies LLC toll-free at
+1-877-877-0696
+or calling SMFG’s investor relations department at
++81-3-3282-8111.
+10
+No PRIIPs KID or U.K. PRIIPs KID/CCI PRODUCT SUMMARY - No PRIIPs key information document (KID) or U.K.
+PRIIPs KID/CCI product summary has been prepared as not available to retail in EEA or U.K., respectively. See “PROHIBITION OF SALES TO EEA RETAIL INVESTORS” and “PROHIBITION OF SALES TO U.K. RETAIL INVESTORS” in the
+Preliminary Prospectus.
+This communication is intended for the sole use of the person to whom it is provided by us.
+This notice does not constitute an offer to sell or a solicitation of an offer to buy or an advertisement in respect of Notes in any jurisdiction where
+such offer or solicitation or advertisement would be unlawful.
+11

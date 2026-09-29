@@ -1,0 +1,57 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1089063/000114036126037339/ef20082617_fwp.htm
+ISSUER (SEC filer): DICK'S SPORTING GOODS, INC.
+FILED: 2026-09-22
+========================================
+FWP
+1
+ef20082617_fwp.htm
+FWP
+Filed pursuant to Rule 433
+Registration No. 333-299029
+Final Term Sheet
+DICK’S Sporting Goods, Inc.
+Pricing Term Sheet
+September 22, 2026
+$400,000,000 6.200% Senior Notes due 2036
+$600,000,000 6.900% Senior Notes due 2056
+Issuer: | DICK’S Sporting Goods, Inc.
+Ticker / Exchange for Common Stock: | DKS / New York Stock Exchange (“NYSE”)
+Ratings*: | Moody’s: Baa2 (Stable) / S&P: BBB (Stable)
+Trade Date: | September 22, 2026
+Settlement Date: | September 25, 2026 (T+3), Under Rule 15c6-1 of the Securities and Exchange Commission under the Securities Exchange Act of 1934, trades in the secondary market generally are required to
+settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes prior to the business day before the delivery of the Notes will be required, by virtue of the fact
+that the Notes initially will settle in T+3, to specify an alternative settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to trade the Notes prior to the business day before the
+delivery of the Notes should consult their own advisors.
+Notes: | 6.200% senior notes due 2036(the “2036 Notes”) | 6.900% senior notes due 2056 (the “2056 Notes”)
+Principal Amount: | $400,000,000 aggregate principal amount of the 2036 Notes | $600,000,000 aggregate principal amount of the 2056 Notes
+Price to Public: | 99.853% of the principal amount of the 2036 Notes, plus accrued interest thereon, if any, from the Settlement Date | 99.962% of the principal amount of the 2056 Notes, plus accrued interest thereon, if any, from the Settlement Date
+Maturity: | September 25, 2036, unless earlier repurchased or redeemed | September 25, 2056, unless earlier repurchased or redeemed
+Coupon (Interest Rate): | 6.200% | 6.900%
+Yield to Maturity: | 6.220% | 6.903%
+Spread to Benchmark Treasury: | +125 basis points | +160 basis points
+Benchmark Treasury: | 4.625% due August 15, 2036 | 5.000% due May 15, 2056
+Benchmark Treasury Price and Yield: | 97-10 +; 4.970% | 95-15+; 5.303%
+Interest Payment Dates: | Semi-annually on March 25 and September 25 of each year, commencing on March 25, 2027. | Semi-annually on March 25 and September 25 of each year, commencing on March 25, 2027.
+Optional Redemption: | Prior to June 25, 2036, make-whole call at T+20 bps; par call on and after June 25, 2036. | Prior to March 25, 2056, make-whole call at T+25 bps; par call on and after March 25, 2056.
+Change of Control: | If a change of control triggering event occurs, we will be required to make an offer to purchase the 2036 Notes at a purchase price equal to 101% of the principal amount of the 2036
+Notes, plus accrued and unpaid interest, if any, to, but excluding, the date of purchase. | If a change of control triggering event occurs, we will be required to make an offer to purchase the 2056 Notes at a purchase price equal to 101% of the principal amount of the 2056
+Notes, plus accrued and unpaid interest, if any, to, but excluding, the date of purchase.
+Denominations: | $2,000 and integral multiples of $1,000 in excess thereof | $2,000 and integral multiples of $1,000 in excess thereof
+2
+Day Count Convention: | 30/360 | 30/360
+CUSIP Number: | 253393 AK8 | 253393 AL6
+ISIN Number: | US253393AK89 | US253393AL62
+Book-Running Managers: | BofA Securities, Inc. Wells Fargo Securities, LLC PNC Capital Markets LLC U.S. Bancorp Investments, Inc. Goldman Sachs & Co. LLC
+Senior Co-Managers: | TD Securities (USA) LLC Truist Securities, Inc. Capital One Securities, Inc.
+Co-Managers: | Citizens JMP Securities, LLC HSBC Securities (USA) Inc.
+*Note:
+A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+The issuer has filed a registration statement (including a prospectus and a prospectus supplement) with the SEC for the offering to which this communication relates. Before
+you invest, you should read the prospectus and a prospectus supplement in that registration statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You may get these documents
+for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, BofA Securities, Inc. can arrange to send you the prospectus if you request it by calling or e-mailing BofA Securities, Inc. at 1-800-294-1322 or
+dg.prospectus_requests@bofa.com, PNC Capital Markets LLC can do so if you request it by calling or e-mailing PNC Capital Markets LLC at 1-855-881-0697 or pnccmprospectus@pnc.com or Wells Fargo Securities, LLC can do so if you request it by calling or
+e-mailing Wells Fargo Securities, LLC at 1-800-645-3751 or wfscustomerservice@wellsfargo.com.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE
+AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.
+3

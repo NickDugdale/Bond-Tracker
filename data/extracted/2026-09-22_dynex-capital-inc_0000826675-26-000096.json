@@ -1,0 +1,32 @@
+{
+  "source_file": "2026-09-22_dynex-capital-inc_0000826675-26-000096.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:48:08",
+  "usage": {
+    "input_tokens": 5490,
+    "output_tokens": 348
+  },
+  "data": {
+    "is_bond_pricing": false,
+    "not_bond_reason": "This is a preferred stock offering, not a bond issue.",
+    "issuer": "Dynex Capital, Inc.",
+    "sector": "Real Estate",
+    "trade_date": "2026-09-22",
+    "settlement_date": "2026-09-29",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "Morgan Stanley & Co. LLC",
+      "J.P. Morgan Securities LLC",
+      "RBC Capital Markets, LLC",
+      "UBS Securities LLC",
+      "Wells Fargo Securities, LLC",
+      "Citigroup Global Markets Inc.",
+      "Goldman Sachs & Co. LLC",
+      "Keefe, Bruyette & Woods, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": []
+  }
+}

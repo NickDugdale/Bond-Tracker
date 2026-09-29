@@ -1,0 +1,97 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/6281/000119312526392208/d72941dfwp.htm
+ISSUER (SEC filer): ANALOG DEVICES INC
+FILED: 2026-09-16
+========================================
+FWP
+1
+d72941dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration Statement
+No. 333-281670
+Pricing Term Sheet
+September 15, 2026
+Analog Devices, Inc.
+$500,000,000 5.100% Senior Notes due 2029 (the “2029 Notes”)
+$500,000,000 5.350% Senior Notes due 2031 (the “2031 Notes”)
+$1,000,000,000 5.600% Senior Notes due 2033 (the “2033 Notes”)
+$1,000,000,000 5.750% Senior Notes due 2036 (the “2036 Notes”)
+(the 2029 Notes, the 2031 Notes, the 2033 Notes and the 2036 Notes, the “Notes”)
+This pricing term sheet, dated September 15, 2026 (this “Pricing Term Sheet”), should be read together with the preliminary prospectus
+supplement, dated September 15, 2026 (the “Preliminary Prospectus Supplement”), of Analog Devices, Inc. (the “Issuer”). The information in this Pricing Term Sheet supplements the Preliminary Prospectus Supplement.
+Capitalized terms used but not defined in this Pricing Term Sheet shall have the meanings ascribed to them in the Preliminary Prospectus Supplement.
+*********************************************************************************************
+Issuer: | Analog Devices, Inc.
+Expected Ratings:** | Moody’s: A2 (Stable) S&P: A (Stable) Fitch: A (Stable)
+Offering Format: | SEC Registered
+Trade Date: | September 15, 2026
+Settlement Date (T+2):* | September 17, 2026
+Denominations: | $2,000 x $1,000
+Joint Book-Running Managers: | 2029 Notes: J.P. Morgan Securities LLC Barclays Capital Inc. BNP Paribas
+Securities Corp. BofA Securities, Inc. Citigroup Global Markets Inc. Morgan Stanley & Co. LLC 2031 Notes: J.P. Morgan Securities LLC Barclays Capital Inc. BNP Paribas
+Securities Corp. BofA Securities, Inc. Citigroup Global Markets Inc. Morgan Stanley & Co. LLC
+2033 Notes: J.P. Morgan Securities LLC Barclays Capital Inc. BNP Paribas
+Securities Corp. BofA Securities, Inc. Citigroup Global Markets Inc. Morgan Stanley & Co. LLC 2036 Notes: J.P. Morgan Securities LLC Barclays Capital Inc. BNP Paribas
+Securities Corp. BofA Securities, Inc. Citigroup Global Markets Inc. Morgan Stanley & Co. LLC Wells Fargo Securities,
+LLC
+Co-Managers: | 2029 Notes: BMO Capital Markets Corp. HSBC Securities (USA) Inc. Mizuho Securities USA LLC MUFG Securities Americas Inc. PNC Capital Markets LLC SMBC Nikko Securities America, Inc. TD Securities (USA) LLC Wells Fargo Securities, LLC Academy Securities, Inc. Roberts & Ryan, Inc. Blaylock Van, LLC Drexel Hamilton, LLC Guzman & Company R. Seelaus & Co., LLC Siebert Williams Shank & Co., LLC 2031 Notes: BMO Capital Markets Corp. HSBC Securities (USA) Inc. Mizuho Securities USA LLC MUFG Securities Americas Inc. PNC Capital Markets LLC SMBC Nikko Securities America, Inc. TD Securities (USA) LLC Wells Fargo Securities, LLC Academy Securities, Inc. Roberts & Ryan, Inc. Blaylock Van, LLC Drexel Hamilton, LLC Guzman & Company R. Seelaus & Co., LLC Siebert Williams Shank & Co., LLC 2033 Notes: BMO Capital Markets Corp. HSBC Securities (USA) Inc. Mizuho Securities USA LLC MUFG Securities Americas
+Inc.
+2
+PNC Capital Markets LLC SMBC Nikko Securities
+America, Inc. TD Securities (USA) LLC Wells Fargo Securities,
+LLC Academy Securities, Inc. Roberts & Ryan,
+Inc. Blaylock Van, LLC Drexel Hamilton, LLC Guzman & Company R. Seelaus & Co., LLC Siebert Williams Shank & Co., LLC 2036 Notes: BMO Capital Markets Corp. HSBC Securities (USA) Inc. Mizuho Securities USA LLC MUFG Securities Americas Inc. PNC Capital Markets LLC SMBC Nikko Securities America, Inc. TD Securities (USA) LLC Academy Securities, Inc. Roberts & Ryan, Inc. Blaylock Van, LLC Drexel Hamilton, LLC Guzman & Company R. Seelaus & Co., LLC Siebert Williams Shank &
+Co., LLC
+Maturity Date: | 2029 Notes: September 15, 2029 2031 Notes: October 1, 2031 2033 Notes: October 1, 2033 2036 Notes: October 1, 2036
+Aggregate Principal Amount: | 2029 Notes: $500,000,000 2031 Notes: $500,000,000 2033 Notes: $1,000,000,000 2036 Notes: $1,000,000,000
+Coupon: | 2029 Notes: 5.100% 2031 Notes: 5.350% 2033 Notes: 5.600% 2036 Notes: 5.750%
+Price to Public (Issue Price): | 2029 Notes: 99.959% of the principal amount 2031 Notes: 99.866% of the principal amount 2033 Notes: 99.957% of the principal amount 2036 Notes: 99.650% of the principal
+amount
+3
+Benchmark Treasury: | 2029 Notes: UST 4.375% due September 15, 2029 2031 Notes: UST 4.375% due August 31, 2031 2033 Notes: UST 4.500% due August 31, 2033 2036 Notes: UST 4.625% due August 15, 2036
+Benchmark Treasury Price and Yield: | 2029 Notes: 98-29+; 4.765% 2031 Notes: 98-00+; 4.830% 2033 Notes: 97-20; 4.907% 2036 Notes: 97-04; 4.996%
+Spread to Benchmark Treasury: | 2029 Notes: 35 basis points 2031 Notes: 55 basis points 2033 Notes: 70 basis points 2036 Notes: 80 basis points
+Re-offer Yield: | 2029 Notes: 5.115% 2031 Notes: 5.380% 2033 Notes: 5.607% 2036 Notes: 5.796%
+Interest Payment Dates: | 2029 Notes: Semi-annual in arrears on March 15 and September 15 of each year, beginning on March 15, 2027 2031 Notes: Semi-annual in arrears on April 1 and October 1 of each year,
+beginning on April 1, 2027 2033 Notes: Semi-annual in arrears on April 1
+and October 1 of each year, beginning on April 1, 2027 2036 Notes:
+Semi-annual in arrears on April 1 and October 1 of each year, beginning on April 1, 2027
+Optional Redemption: | Prior to the applicable Par Call Date, the Issuer may redeem the applicable series of Notes at the Issuer’s option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of
+principal amount and rounded to three decimal places) equal to the greater of: (1) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the Notes of such
+series matured on the applicable Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 10 basis
+points (in the case of the 2029 Notes), 10 basis points (in the case of the 2031 Notes), 15 basis points (in the case of the 2033 Notes) or 15 basis points (in the case of the 2036 Notes), in each case less (b) interest accrued to the date of
+redemption, and (2) 100% of the principal amount of the Notes of such series to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption date.
+4
+“Par Call Date” shall mean the date set forth below: • August 15, 2029 with respect to the 2029 Notes (the date that is one month prior to the maturity date of the 2029 Notes); • September 1, 2031 with respect to the 2031 Notes (the date that is one month prior to the maturity date of the 2031 Notes); • August 1, 2033 with respect to the 2033 Notes (the date that is two months prior to the maturity date of the 2033 Notes); • July 1, 2036 with respect to the 2036 Notes (the date that is three months prior to the maturity date of the 2036 Notes); See the Preliminary Prospectus Supplement for the definition of “Treasury
+Rate” and for further terms and provisions applicable to optional redemption. In addition, on or after the applicable Par Call Date, the Issuer will have the right, at its option, to redeem each series of Notes, in whole or in part, at
+any time and from time to time, at a redemption price equal to 100% of the principal amount of the Notes of such series being redeemed plus accrued and unpaid interest thereon to the redemption date.
+CUSIP/ISIN: | 2029 Notes: 032654BG9 / US032654BG94 2031 Notes: 032654BH7 / US032654BH77 2033 Notes: 032654BJ3 / US032654BJ34 2036 Notes: 032654BK0 / US032654BK07
+* | It is expected that delivery of the Notes to investors will be made on or about September 17, 2026, which
+will be the second business day following the date hereof (this settlement cycle being referred to as “T+2”). Pursuant to Rule 15c6-1 under the Securities Exchange Act of 1934, as
+amended, trades in the secondary market are generally required to settle in one business day unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes prior to one business day before
+delivery of the Notes will be required, by virtue of the fact that the Notes initially will settle in T+2, to specify alternative settlement arrangements to prevent a failed settlement, and should consult their advisors.
+** | An explanation of the significance of ratings may be obtained from the rating agencies. Generally, rating
+agencies base their ratings on such material and information, and such of their own investigations, studies and assumptions, as they deem appropriate. Each rating of the Notes should be evaluated independently of any other rating and of similar
+ratings of other securities. A credit rating of a security is not a recommendation to buy, sell or hold securities and may be subject to review, revision, suspension, reduction or withdrawal at any time by the assigning rating agency.
+5
+The Issuer has filed a Registration Statement (including a prospectus) and the Preliminary Prospectus
+Supplement with the Securities and Exchange Commission (the “SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that Registration Statement, the Preliminary Prospectus
+Supplement and other documents the Issuer has filed with the SEC for more complete information about the Issuer and this offering. You may obtain these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, the
+Issuer, any underwriter or any dealer participating in this offering will arrange to send you the Preliminary Prospectus Supplement and the accompanying prospectus if you request it by calling J.P. Morgan Securities LLC collect at
+1-212-834-4533,
+Barclays Capital Inc. toll-free at
+1-888-603-5847,
+BNP Paribas Securities Corp. toll-free at
+1-800-854-5674,
+BofA
+Securities, Inc. toll-free
+at 1-800-294-1322, Citigroup
+Global Markets Inc. toll-free at
+1-800-831-9146
+or Morgan Stanley & Co. LLC toll-free at
+1-866-718-1649.
+Any
+disclaimer or other notice that may appear below is not applicable to this communication and should be disregarded. Such disclaimer or notice was automatically generated as a result of this communication being sent by Bloomberg or another email
+system.
+6

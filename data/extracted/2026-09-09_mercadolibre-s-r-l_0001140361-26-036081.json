@@ -1,0 +1,46 @@
+{
+  "source_file": "2026-09-09_mercadolibre-s-r-l_0001140361-26-036081.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:44:54",
+  "usage": {
+    "input_tokens": 3759,
+    "output_tokens": 482
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "MercadoLibre, Inc.",
+    "sector": "Technology",
+    "trade_date": "2026-09-09",
+    "settlement_date": "2026-09-14",
+    "rating_moodys": "Baa3",
+    "rating_sp": "BBB-",
+    "rating_fitch": "BBB-",
+    "bookrunners": [
+      "BofA Securities, Inc.",
+      "Citigroup Global Markets Inc.",
+      "Goldman Sachs & Co. LLC",
+      "J.P. Morgan Securities LLC",
+      "Morgan Stanley & Co. LLC",
+      "Allen & Company LLC",
+      "Santander US Capital Markets LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 1000000000,
+        "coupon_pct": 5.85,
+        "coupon_type": "fixed",
+        "maturity_date": "2036-09-14",
+        "first_call_date": "2036-06-14",
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 130,
+        "yield_pct": 6.139,
+        "issue_price_pct": 97.864,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: 130 bps"
+      }
+    ]
+  }
+}

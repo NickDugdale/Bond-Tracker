@@ -1,0 +1,43 @@
+{
+  "source_file": "2026-09-14_southwestern-electric-power-co_0000092487-26-000024.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:46:59",
+  "usage": {
+    "input_tokens": 3165,
+    "output_tokens": 479
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Southwestern Electric Power Company",
+    "sector": "Utilities",
+    "trade_date": "2026-09-14",
+    "settlement_date": "2026-09-16",
+    "rating_moodys": "Baa2",
+    "rating_sp": "BBB+",
+    "rating_fitch": "BBB+",
+    "bookrunners": [
+      "CIBC World Markets Corp.",
+      "Fifth Third Securities, Inc.",
+      "J.P. Morgan Securities LLC",
+      "U.S. Bancorp Investments, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 750000000,
+        "coupon_pct": 6.0,
+        "coupon_type": "fixed",
+        "maturity_date": "2037-03-15",
+        "first_call_date": "2036-12-15",
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 110,
+        "yield_pct": 6.057,
+        "issue_price_pct": 99.562,
+        "seniority": "senior unsecured",
+        "pricing_quote": "T+110 basis points"
+      }
+    ]
+  }
+}

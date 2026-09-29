@@ -1,0 +1,114 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/352960/000110465926105032/tm2624783d1_fwp.htm
+ISSUER (SEC filer): SWEDISH EXPORT CREDIT CORP /SWED/
+FILED: 2026-09-03
+========================================
+FWP
+1
+tm2624783d1_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Registration Statement No. 333-275269
+AKTIEBOLAGET SVENSK EXPORTKREDIT (publ)
+(Swedish Export Credit Corporation or SEK)
+Pricing Term Sheet
+Issuer: | Swedish Export Credit Corporation (SEK)
+Principal Amount: | US$1,250,000,000.00
+Maturity: | June 11, 2031
+Issue Price: | 99.584% of principal amount plus accrued interest, if any, from September 11, 2026.
+Benchmark: | UST 4.375% due August 31, 2031
+Coupon: | 4.500%
+Coupon Payment Dates: | Every December 11 and June 11, commencing December 11, 2026 where there will be a short first coupon, up to and including the Maturity.
+Re-Offer Yield: | 4.600% (semi-annual)
+Underwriting Discount: | 0.125%
+Net Proceeds to Issuer: | US$1,243,237,500.00
+Optional Redemption: | Only after the occurrence of certain tax events, at 100.000% of the principal amount thereof plus accrued and unpaid interest to the redemption date.
+Redemption Price: | 100.000% of notional amount
+Business Days: | New York and London
+Day Count Fraction: | 30/360
+Payment Days: | Payments will be made on Business Days. If a due date for payment is not a Business Day, payment will be made on the following Business Day, with no adjustment to the amount due.
+Legal Format: | SEC Registered US Medium Term Note Program
+Status: | The notes will constitute our direct, unconditional, unsecured and unsubordinated obligations and will rank pari passu amongst themselves. The rights of holders of the notes in respect of or arising from the notes (including any damages awarded for breach of any obligations under the indenture, if any are payable) shall, in the event of our voluntary or involuntary liquidation ( Sw. likvidation ) or bankruptcy ( Sw. konkurs ), rank: (A) (subject to such mandatory exceptions as are from time to time applicable under Swedish law) at least pari passu with all our other unsecured and unsubordinated indebtedness from time to time outstanding; and (B) senior to any liabilities having senior non-preferred ranking (as defined under “ Description of the Notes—General Terms of the Notes ” in the prospectus supplement, dated November 2, 2023 (as amended, the “ Prospectus Supplement ”)), and to any subordinated liabilities.
+Governing Law: | New York
+Consent to Bail-in Power: | By investing in this offering, you acknowledge, agree to be bound by, and consent to the exercise of any Bail-in Power (as defined under “ Description of the Notes—Agreement with Respect to the Exercise of Bail-in Power ” in the Prospectus Supplement) by the Swedish National Debt Office, the Swedish resolution authority. All payments are subject to the exercise of any Bail-in Power by the relevant Swedish resolution authority. Under the Resolution Act (as defined under “ Description of the Notes—Recovery and Resolution Matters ” in the Prospectus Supplement), the Swedish National Debt Office may exercise a Bail-in Power under certain conditions which include that authority determining that: (i) a relevant entity is failing or is likely to fail; (ii) it is not reasonably likely that any action will be taken to avoid the entity’s failure (other than pursuant to the other stabilization powers under the Resolution Act); (iii) the exercise of the stabilization powers are necessary, taking into account certain public interest considerations such as the stability of the Swedish financial system, public confidence in the Swedish banking and resolution systems and the protection of depositors (also regulated by the Swedish Financial Supervisory Authority); and (iv) the objectives of the resolution measures would not be met to the same extent by the winding up of the entity. Notwithstanding these conditions, there remains uncertainty regarding how the Swedish National Debt Office would assess these conditions in deciding whether to exercise any Bail-in Power. The Bail-in Power includes any statutory write-down and conversion power, which allows for the cancellation of all, or a portion, of any amounts payable on the notes, including any repayment of principal and/or the conversion of all, or a portion, of any amounts payable on the notes, including principal, into shares or other securities or other obligations of ours or another person, including by means of a variation to the terms of the notes. Accordingly, if any Bail-in Power is exercised, you may lose all or a part of the value of your investment in the notes or receive a different security, which may be worth significantly less than the notes and which may have significantly fewer protections than those typically afforded to debt securities. Moreover, the Swedish National Debt Office may exercise its authority to implement the Bail-in Power without providing any advance notice to the holders of the notes. By your acquisition of the notes, you acknowledge, agree to be bound by, and consent to the exercise of any Bail-in Power by the relevant resolution authority. The exercise of any Bail-in Power with respect to the notes will not be a default or an Event of Default (as each term is defined in the indenture relating to the notes). The Bank of New York Mellon Trust Company, N.A. (the “ trustee ”) will not be liable for any action that the trustee takes, or abstains from taking, in accordance with the exercise of the Bail-in Power with respect to the notes. Your rights as a holder of the notes are subject to, and will be varied, if necessary, so as to give effect to the exercise of any Bail-in Power by the Swedish National Debt Office. This is only a summary. For more information, see “ Description of the Notes—Recovery and Resolution Matters ” and “ Description of the Notes—Agreement with Respect to the Exercise of Bail-in Power, ” beginning on pages S-41 and S-43 of the Prospectus Supplement, respectively.
+Pricing Date: | September 3, 2026
+Settlement Date*: | September 11, 2026
+CUSIP: | 01021NAJ1
+ISIN: | US01021NAJ19
+Joint Lead Managers: | Barclays Bank Ireland PLC BNP PARIBAS BofA Securities Europe SA Scotiabank (Ireland) Designated Activity Company
+Denominations: | US$200,000 with integral multiples of US$1,000 in excess thereof
+Settlement: | DTC, Euroclear and Clearstream
+Listing: | Application will be made to the Irish Stock Exchange plc (trading as Euronext Dublin) for the notes to be admitted to the Official List and traded on its regulated market. No assurance is offered as to whether listing and admission to trading will occur by the settlement date. They may not occur until a date that is later than the settlement date.
+Target Markets: | Manufacturers target market (MiFID II product governance) is professional clients and eligible counterparties only (all distribution channels).
+Advertisement: | The prospectus for purposes
+of the Prospectus Regulation, when published, will be available at https://live.euronext.com/ .
+European Economic Area
+MiFID II product governance / Professional
+investors and ECPs only target market
+Solely for the purposes of each
+manufacturer’s product approval process, the target market assessment in respect of the notes has led to the conclusion that: (i)
+the target market for the notes is eligible counterparties and professional clients only, each as defined in Directive 2014/65/EU (as
+amended, “
+MiFID II
+”); and (ii) all channels for distribution of the notes to eligible counterparties and professional
+clients are appropriate. Any person subsequently offering, selling or recommending the notes (a “
+distributor
+”) should
+take into consideration the manufacturers’ target market assessment; however, a distributor subject to MiFID II is responsible for
+undertaking its own target market assessment in respect of the notes (by either adopting or refining the manufacturers’ target market
+assessment) and determining appropriate distribution channels.
+PRIIPs Regulation / Prohibition of sales
+to EEA Retail Investors
+The notes are not intended to
+be offered, sold, distributed, or otherwise made available to and should not be offered, sold or otherwise made available to any retail
+investor in the European Economic Area (the “
+EEA
+”). For these purposes, (a) the expression “retail investor”
+means a person who is one (or more) of the following: (i) a retail client as defined in point (11) of Article 4(1) of MiFID II; or (ii)
+a customer within the meaning of Directive (EU) 2016/97 (as amended, the “
+Insurance Distribution Directive
+”), where
+that customer would not qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II; and (b) the expression
+“an offer” includes the communication in any form and by any means of sufficient information on the terms of the offer and
+the notes so as to enable an investor to decide to purchase or subscribe for the notes. Consequently, no key information document required
+by Regulation (EU) No 1286/2014 (the “
+PRIIPs Regulation
+”) for offering or selling the notes or otherwise making them
+available to retail investors in the EEA has been prepared and therefore offering or selling the notes or otherwise making them available
+to any retail investor in the EEA may be unlawful under the PRIIPs Regulation.
+United Kingdom
+Prohibition of sales to UK retail investors
+The notes are not intended to
+be offered, sold or otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in
+the UK. For these purposes, the expression “
+UK retail investor
+” means a person who is not a professional client, as
+defined in point (8) of Article 2(1) of Regulation (EU) No 600/2014 as it forms part of UK domestic law by virtue of the European Union
+(Withdrawal) Act 2018. Consequently no disclosure document required by the FCA Product Disclosure Sourcebook (“
+DISC
+”)
+for offering, selling or distributing the notes or otherwise making them available to retail investors in the UK has been prepared and
+therefore offering, selling or distributing the notes or otherwise making them available to any retail investor in the UK may be unlawful
+under DISC and the Consumer Composite Investments (Designated Activities) Regulations 2024.
+This communication is intended for the sole
+use of the person to whom it is provided by us.
+*Under Rule 15c6-1 of the U.S. Securities
+Exchange Act of 1934, as amended, trades in the secondary market generally are required to settle in one business day, unless the parties
+to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the notes prior to the delivery of the notes will
+be required, by virtue of the fact that the notes initially will not settle in T+1, to specify an alternative settlement cycle at the
+time of any such trade to prevent a failed settlement and should consult their own advisor.
+The issuer has filed a registration
+statement (including a
+prospectus,
+dated November 2, 2023
+(the “Prospectus”) and the
+Prospectus Supplement
+) with the SEC for the offering to which
+this communication relates. Before you invest, you should read the Prospectus and the Prospectus Supplement in that registration
+statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering.
+You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, the issuer, any
+underwriter or any dealer participating in the offering will arrange to send you the Prospectus and the Prospectus Supplement if you
+request it by calling Barclays Bank Ireland PLC at +1 888 603 5847, BNP PARIBAS at +44 (0)20 7595 8222, BofA Securities Europe SA at
++33 (0) 1 8770 0000 or Scotiabank (Ireland) Designated Activity Company at +353 1790 2189.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT
+APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT
+OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.

@@ -1,0 +1,284 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/927971/000119312526385387/d109202dfwp.htm
+ISSUER (SEC filer): BANK OF MONTREAL /CAN/
+FILED: 2026-09-08
+========================================
+FWP
+1
+d109202dfwp.htm
+FWP
+FWP
+Registration Statement No. 333-285508
+Filed Pursuant to Rule 433
+September 8, 2026
+Pricing Term
+Sheet
+Bank of Montreal
+US$1,000,000,000
+7.375%
+Fixed Rate Reset Limited Recourse Capital Notes, Series 7
+(Non-Viability
+Contingent Capital
+(NVCC))
+(Subordinated Indebtedness)
+Issuer: | Bank of Montreal (the “ Bank ”)
+Issue: | 7.375% Fixed Rate Reset Limited Recourse Capital Notes, Series 7 (Non-Viability Contingent Capital (NVCC)) (Subordinated Indebtedness) (the “ Notes ”)
+Expected Credit Ratings * : | S&P: BBB- Moody’s: Baa3
+(hyb)
+Format: | SEC Registered
+Principal Amount: | US$1,000,000,000
+Price to Public (Issue Price): | 100.000%
+Underwriting Commission: | 1.000% per Note
+Net Proceeds to the Bank after Underwriting Commission and before Expenses: | US$990,000,000
+Trade Date: | September 8, 2026
+Issue Date: | September 16, 2026 (T+6) (the “ Issue Date ”)
+Initial Interest Reset Date: | November 26, 2036 (the “ Initial Interest Reset Date ”)
+Maturity Date: | November 26, 2086 (60 years)
+Interest Reset Dates: | The Initial Interest Reset Date and each fifth anniversary date thereafter occurring prior to and not including the Maturity Date (each such date, an “ Interest Reset Date ”).
+Interest: | The Notes will bear interest on their principal amount (i) from and including the Issue Date to, but excluding, the Initial Interest Reset Date, at a rate of 7.375% per annum and (ii) during each Rate Reset Period (as
+defined in the Prospectus Supplement), at a rate per annum equal to the U.S. Treasury Rate (as defined in the Prospectus Supplement) on the applicable Interest Rate Calculation Date (as defined below) plus
+2.579%.
+For each Rate Reset Period, the U.S. Treasury Rate will be determined by the calculation agent on the third business day immediately
+preceding the applicable Interest Reset Date (each such date, an “ Interest Rate Calculation Date ”). The interest rate on the Notes will in no event be higher than the maximum rate permitted by New York law as the same may be modified by United States law of
+general application. In no event will the interest rate on the Notes be less than zero.
+Interest Payment Dates: | Quarterly on February 26, May 26, August 26 and November 26 of each year (each, an “ Interest Payment Date ”), beginning on November 26, 2026 (short first coupon).
+Interest Deferability: | Interest payments are non-deferrable. On any Failed Coupon Payment Date (as defined below), the principal amount of, and any
+accrued and unpaid interest on, all outstanding Notes will become immediately due and payable by the Bank, subject to the limited recourse feature described below. Upon delivery to all holders of Notes (the “ Noteholders ”) of their
+proportionate share of the Trust Assets (as defined below) following any Failed Coupon Payment Date in accordance with the limited recourse feature described below, all Notes will cease to be outstanding and each Noteholder will cease to be entitled
+to interest thereon. See “Limited Recourse” below. “ Failed
+Coupon Payment Date ” means the fifth business day immediately following an Interest Payment Date upon which the Bank does not pay interest on the Notes and has not cured such non-payment by
+subsequently paying such interest prior to such fifth business day.
+Initial Benchmark Treasury: | UST 4.625% due August 15, 2036
+Initial Benchmark Treasury Yield: | 4.796%
+Initial Re-Offer Spread to Benchmark Treasury: | +257.9 bps
+Initial Re-Offer Yield: | 7.375%
+Day Count / Business Day Convention: | 30/360; Following, Unadjusted
+Redemption: | The Notes may be redeemed, at the option of the Bank, with the prior written approval of the Superintendent of Financial Institutions
+(Canada) (the “ Superintendent ”) and without the consent of the Noteholders, in whole or in part, on not less than 10 days’ and not more than 60 days’ prior notice to the registered Noteholders, on the Initial
+Interest Reset Date and on each February 26, May 26, August 26 and November 26 thereafter, at the Redemption Price (as defined below) (an “ Optional Redemption ”). The Bank may also, at its option, with the prior written approval of the Superintendent
+and without the consent of the Noteholders, redeem the Notes, in whole but not in part, on not less than 10 days’ and not more than 60 days’ prior notice to the registered Noteholders (i) at any time following
+a
+2
+Regulatory Event Date (as defined in the Prospectus Supplement), or (ii) at any time following the occurrence of a Tax Event Date
+(as defined in the Prospectus Supplement), in each case at the Redemption Price (a “ Special Event Redemption ”). Upon any redemption by the Bank of the Non-Cumulative 5-Year Fixed Rate Reset
+Class B Preferred Shares, Series 56 (Non-Viability Contingent Capital (NVCC)) (the “ Preferred Shares ”) held in the Limited Recourse Trust (as defined below) in accordance with their
+terms prior to the Maturity Date (such redemption will be subject to the prior written approval of the Superintendent), outstanding Notes with an aggregate principal amount equal to the aggregate face amount of Preferred Shares redeemed by the Bank
+pursuant to such redemption shall automatically and immediately be redeemed, on a full and permanent basis, for a cash amount equal to the Redemption Price, without any action on the part of, or the consent of, the Noteholders. See the Pricing Term
+Sheet for the Preferred Shares attached hereto (the “ Preferred Share Term Sheet ”) for circumstances under which the Preferred Shares may be redeemed by the Bank. For certainty, to the extent that, in accordance with the terms of
+the Indenture (as defined in the Prospectus Supplement), the Bank has immediately prior to or concurrently with such redemption of Preferred Shares redeemed or purchased for cancellation outstanding Notes with an aggregate principal amount equal to
+the aggregate face amount of Preferred Shares being redeemed, such requirement to redeem a corresponding number of Notes shall be deemed satisfied. The Bank will not redeem the Notes under any circumstances if such redemption would, directly or indirectly, result in the Bank’s breach of any provision
+of the Bank Act (Canada) (the “ Bank Act ”) or the guidelines for capital adequacy requirements for banks in Canada of the Office of the Superintendent of Financial Institutions (Canada) (“ OSFI ”), as may be
+amended from time to time (the “ CAR Guideline ”). “ Redemption Price ” of the Notes means the aggregate of (i) the principal amount thereof, plus (ii) any accrued and unpaid interest
+thereon up to, but excluding, the date fixed for redemption.
+Limited Recourse: | If (i) a Failed Coupon Payment Date occurs, (ii) on the Maturity Date, the Bank does not pay the aggregate principal amount of the Notes, together with any accrued and unpaid interest thereon, in cash, (iii) an Event
+of Default occurs, (iv) in connection with the redemption of the Notes, on the date fixed for such redemption, the Bank does not pay the Redemption Price in cash, or (v) a Trigger Event occurs (each such event, a “ Recourse
+Event ”), while a Noteholder will have a claim against the Bank for the principal amount of the Notes and any accrued and unpaid interest thereon (which will then be due and payable), the Noteholder’s sole recourse in respect of such
+claim will be limited to such Noteholder’s proportionate share of the assets (the “ Trust Assets ”) held by a third party trustee (the “ LRT Trustee ”) in respect of the Notes in the BMO LRCN Trust (the
+“ Limited Recourse Trust ”). The LRT Trustee will hold assets in the Limited Recourse Trust in respect of more than one series of limited recourse capital notes and the assets (including the Bank’s preferred shares) for each
+such series will be held separate from the assets for other series. Computershare Trust Company of Canada will act as the LRT Trustee.
+3
+Initially, at the time of issuance of the Notes, the Trust Assets will consist of Preferred Shares issued on or before the Issue Date at an
+issue price equal to the Canadian Dollar Equivalent (as defined in the Preferred Share Term Sheet) of US$1,000 per Preferred Share. Following the issuance of the Notes, the Trust Assets may consist of (i) Preferred Shares (or proceeds with
+respect to the subscription for units of the Limited Recourse Trust by the Bank, which are to be used by the Limited Recourse Trust to subscribe for Preferred Shares), (ii) cash if the Preferred Shares are redeemed for cash, or purchased for
+cancellation, by the Bank with the prior written approval of the Superintendent (other than the portion of such cash in respect of any declared and unpaid dividends), (iii) common shares of the Bank (“ Common Shares ”) issued upon
+the conversion of the Preferred Shares into Common Shares as a result of a Trigger Event (other than any Dividend Common Shares (as defined below), if any), or (iv) any combination thereof, depending on the circumstances. At no time shall the
+Trust Assets include any dividends paid on the Preferred Shares, any right to receive declared, but unpaid, dividends on the Preferred Shares or any Dividend Common Shares. The number of Preferred Shares issued on or before the Issue Date will be equal to the total principal amount of the Notes divided by US$1,000. If the Trust
+Assets consist solely of Preferred Shares at the time a Recourse Event occurs, the LRT Trustee will deliver to each Noteholder one Preferred Share for each US$1,000 principal amount of Notes held by such Noteholder, which shall be applied to the
+payment of the principal amount of the Notes, and such delivery of Preferred Shares will be each Noteholder’s sole remedy against the Bank for repayment of the principal amount of the Notes and any accrued but unpaid interest thereon then due
+and payable. Upon the occurrence of a Recourse Event that is a Trigger Event, each Noteholder will be entitled to receive such Noteholder’s proportionate share of the Trust Assets and the LRT Trustee will deliver to each Noteholder such Noteholder’s proportionate share of Common Shares issued in connection
+with the Trigger Event upon the conversion of the Preferred Shares into Common Shares upon the happening of an NVCC Automatic Conversion (as defined in the Preferred Share Term Sheet) upon the occurrence of such Trigger Event (other than any
+Dividend Common Shares). The number of Common Shares issuable in connection with the Trigger Event will be calculated based on a Share Value (as defined in the Preferred Share Term Sheet) of US$1,000 plus declared and unpaid dividends, if any, up
+to, but excluding, the date of the Trigger Event, expressed in Canadian dollars. The delivery of such Common Shares (other than any Common Shares issued in respect of the portion of the Share Value, if any, equal to any declared and unpaid dividends
+(the “ Dividend Common Shares ”), which Dividend Common Shares shall not be delivered to the Noteholders and shall either be retained by the Limited Recourse Trust or sold by the Limited Recourse Trust with the proceeds distributed
+to the Bank) shall be applied to the payment of the principal amount of the Notes, and such delivery of Common Shares will be each Noteholder’s sole remedy against the Bank for repayment of the principal amount of the Notes and any accrued but
+unpaid interest thereon then due and payable. See “NVCC Automatic Conversion” below. The receipt by a Noteholder of such Noteholder’s proportionate share of the Trust Assets upon the occurrence of a Recourse Event shall exhaust the
+remedies of such Noteholders under the Notes. If a Noteholder does not receive its proportionate share of the Trust Assets under such circumstances, the sole remedy of such Noteholder for any claims against the Bank shall be limited to a claim for
+the delivery of such Trust Assets.
+4
+In case of any shortfall resulting from the value of the Trust Assets being less than the principal amount of and any accrued and unpaid
+interest on the Notes, all losses arising from such shortfall shall be borne by the Noteholders. All claims of any Noteholder against the Bank under the Notes will be extinguished upon receipt by such Noteholder of its proportionate share of the Trust
+Assets.
+NVCC Automatic Conversion: | Upon the occurrence of a Trigger Event, each outstanding Preferred Share will automatically and immediately be converted, on a full and
+permanent basis, without any action on the part of the holder thereof, into fully-paid and non-assessable Common Shares, the number of which is to be determined in accordance with the NVCC Automatic Conversion
+Formula (as defined in the Preferred Share Term Sheet). See “NVCC Automatic Conversion” in the Preferred Share Term Sheet for more details. Immediately following such NVCC Automatic Conversion (as defined in the Preferred Share Term Sheet), pursuant to the limited recourse feature described above,
+each Noteholder will be entitled to receive such Noteholder’s proportionate share of the Trust Assets and the LRT Trustee will deliver to each Noteholder such Noteholder’s proportionate share of Common Shares issued in connection with
+the Trigger Event (other than any Dividend Common Shares) upon the conversion of the Preferred Shares into Common Shares upon the happening of an NVCC Automatic Conversion upon the occurrence of such Trigger Event. See “Limited Recourse”
+above.
+Status and Subordination: | The Notes will be direct unsecured subordinated indebtedness of the Bank and rank subordinate to all of the Bank’s deposit liabilities
+and all of the Bank’s other indebtedness (including all of the Bank’s other unsecured and subordinated indebtedness) from time to time issued and outstanding, except for such indebtedness which by its terms ranks equally in right of
+payment with, or is subordinate to, the Notes. Upon the occurrence of a Recourse
+Event, including a Trigger Event or an Event of Default (as defined below), the recourse of each holder of the Notes will be limited to the holder’s proportionate share of the Trust Assets. The receipt by a Noteholder of its proportionate
+share of the Trust Assets upon the occurrence of a Recourse Event shall exhaust the remedies of such Noteholder under the Notes. If a Noteholder does not receive its proportionate share of the Trust Assets under such circumstances, the sole remedy
+of the Noteholder for any claims against the Bank will be limited to a claim for the delivery of such Trust Assets. If the Trust Assets that are delivered to the Noteholders under such circumstances comprise of Preferred Shares or Common Shares,
+such Preferred Shares or Common Shares will rank on parity with the Bank’s other Class B preferred shares or Common Shares, as applicable. The Notes will not constitute savings accounts, deposits or other obligations that are insured by the United States Federal Deposit Insurance Corporation, the
+Deposit Insurance Fund, the Canada Deposit Insurance Corporation or any other governmental agency or under the Canada Deposit Insurance Corporation Act (Canada), the Bank Act or any other deposit insurance regime designed to ensure the
+payment of all or a portion of a deposit upon the insolvency of the deposit taking financial institution.
+5
+Events of Default: | The only events of default under the Notes will be the bankruptcy, insolvency or liquidation of the Bank (each, an “ Event of
+Default ”). An Event of Default under the Notes will not include any non-payment by the Bank of the principal amount of or interest on the Notes, a default in the performance by the Bank of any other covenant of the Bank contained in the Indenture, or the occurrence of a Trigger
+Event (including an NVCC Automatic Conversion). The occurrence of an Event of
+Default is a Recourse Event for which the sole remedy of the Noteholders will be the delivery of the Trust Assets, and the delivery of the Trust Assets to the Noteholders will exhaust all remedies of such Noteholders in connection with such Event of
+Default. See “Limited Recourse” above.
+Prohibited Owners: | The terms and conditions of the Notes will contain provisions that will provide the Bank with the right not to deliver some or all, as applicable, of the Preferred Shares or Common Shares (issued upon a Recourse Event) to any person
+who the Bank or its transfer agent has reason to believe is an Ineligible Person (as defined in the Prospectus Supplement) or any person who, by virtue of that delivery, would become a Significant Shareholder (as defined in the Prospectus
+Supplement).
+Purchase for Cancellation: | The Bank may, at any time or from time to time, with the prior written approval of the Superintendent, purchase Notes in the open market or
+by tender, by private contract or otherwise. Any Notes so purchased will be cancelled by the Bank. If any Notes are so purchased for cancellation, subject to the provisions of the Bank Act, the consent of the Superintendent and various restrictions on the
+retirement of Preferred Shares, the Bank shall redeem a corresponding number of Preferred Shares (which Preferred Shares will have a face amount equal to the aggregate principal amount of the Notes to be cancelled) then held in the Limited Recourse
+Trust.
+Use of Proceeds: | The net proceeds will be contributed to the general funds of the Bank and will be utilized for general banking purposes, which may include the redemption of outstanding capital securities of the Bank and/or repayment of other
+outstanding liabilities of the Bank, and are expected to qualify as Additional Tier 1 capital of the Bank for regulatory purposes.
+Joint Book-Running Managers: | BMO Capital Markets Corp. Barclays Capital
+Inc. Citigroup Global Markets Inc. Goldman Sachs &
+Co. LLC Morgan Stanley & Co. LLC UBS Securities
+LLC
+Co-Managers: | BBVA Securities Inc. Desjardins
+Securities Inc. ABN AMRO Capital Markets (USA) LLC Natixis
+Securities Americas LLC Santander US Capital Markets LLC ANZ Securities, Inc. AmeriVet Securities, Inc. Brookfield Securities LLC CaixaBank, S.A. CastleOak Securities, L.P. Commonwealth Bank of Australia nabSecurities, LLC United Overseas Bank Limited
+Form and Denomination: | The Notes will be registered in the name of the nominee of The Depository Trust Company. Minimum of US$200,000 and integral multiples of US$1,000 in excess thereof.
+6
+CUSIP / ISIN: | 06368L 8W9 / US06368L8W98
+* | A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision
+or withdrawal at any time.
+Under Rule
+15c6-1
+of the Securities Exchange Act of 1934, as
+amended, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade their Notes more than one business day prior to
+the settlement date will be required, by virtue of the fact that the Notes initially will settle in six business days (T+6), to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement.
+Certain of the underwriters may not be U.S. registered broker-dealers and accordingly will not effect any sales within the United States except in
+compliance with applicable U.S. laws and regulations, including the rules of the Financial Industry Regulatory Authority, Inc.
+The Bank has filed
+a registration statement (File
+No. 333-285508)
+(including a prospectus) and a preliminary prospectus supplement with the SEC for the offering to which this communication relates. Before you invest, you
+should read those documents and the documents incorporated therein by reference that the Bank has filed with the SEC for more complete information about the Bank and this offering. You may get these documents for free by visiting EDGAR on the SEC
+website at www.sec.gov. Alternatively, the Bank, any underwriter or any dealer participating in the offering will arrange to send you the prospectus supplement and the prospectus if you request them by calling BMO Capital Markets Corp. toll-free at
+1-888-200-0266,
+Barclays Capital Inc. toll-free at
+1-888-603-5847,
+Citigroup Global Markets Inc. toll-free at
+1-800-831-9146,
+Goldman Sachs & Co. LLC toll-free at
+1-866-471-2526,
+Morgan Stanley & Co. LLC toll-free at
+1-866-718-1649
+and UBS Securities LLC toll-free at
+1-833-481-0269.
+Singapore SFA Product Classification: Solely for the purposes of its obligations
+pursuant to section 309B of the Securities and Futures Act 2001 of Singapore (the “SFA”) and the Securities and Futures (Capital Markets Products) Regulations 2018 of Singapore (the “CMP Regulations 2018”), the Bank has
+determined, and hereby notifies all relevant persons (as defined in Section 309A(1) of the SFA), that the Notes are prescribed capital markets products (as defined in the CMP Regulations 2018) and Excluded Investment Products (as defined in MAS
+Notice SFA 04-N12: Notice on the Sale of Investment Products and MAS Notice FAA-N16: Notice on Recommendations on Investment Products).
+7
+September 8, 2026
+Pricing Term Sheet
+Bank of Montreal 1,000,000 Non-Cumulative 5-Year Fixed Rate Reset Class B
+Preferred Shares, Series 56 (Non-Viability Contingent Capital (NVCC))
+Capitalized terms used in this document but not defined have the meaning given to them in the Pricing Term Sheet for 7.375% Fixed Rate Reset Limited Recourse Capital Notes, Series 7 (Non-Viability Contingent Capital (NVCC)) (subordinated indebtedness) (the “ Notes ”) to which this Preferred Share Term Sheet is attached.
+Issuer: | Bank of Montreal (the “ Bank ”)
+Issue: | 1,000,000 Non-Cumulative 5-Year Fixed Rate Reset Class B Preferred Shares, Series 56 (Non-Viability Contingent Capital (NVCC)) (the “ Preferred Shares ”) The Preferred Shares will be held in the Limited Recourse Trust for the benefit of the Bank and, in particular, to satisfy the recourse of Noteholders in
+respect of the Bank’s obligations under the Indenture.
+Expected Credit Ratings*: | S&P: BBB- Moody’s: Baa3 (hyb)
+Issue Size: | US$1,000,000,000
+Issue Price: | Canadian Dollar Equivalent (as defined below) of US$1,000 per Preferred Share
+Face Amount: | US$1,000 per Preferred Share
+Issue Date: | September 15, 2026 (T+5)
+Dividends: | During the period from and including the date of issue of the Preferred Shares to, but excluding, the Initial Reset Date (as defined below)
+(the “ Initial Fixed Rate Period ”), the holders of Preferred Shares will be entitled to receive fixed rate non-cumulative preferential cash dividends, as and when declared by the board of
+directors of the Bank, subject to the provisions of the Bank Act, payable quarterly in arrears on February 26, May 26, August 26 and November 26 of each year (each, a “ Dividend Payment Date ”) in an amount per
+Preferred Share per annum equal to the Initial Fixed Dividend Rate (as defined below) multiplied by US$1,000 (or if then held in the Limited Recourse Trust, the Canadian Dollar Equivalent of US$1,000); provided that, whenever it is necessary
+to compute any dividend amount in respect of the Preferred Shares for a period of less than one full quarterly dividend period, such dividend amount shall be calculated on the basis of the actual number of days in the period and a year of 365
+days. During each Subsequent Fixed Rate Period (as defined below), the holders of
+Preferred Shares will be entitled to receive fixed rate non-cumulative preferential cash dividends, as and when declared by the board of directors
+of
+8
+the Bank, subject to the provisions of the Bank Act, payable quarterly in arrears on each Dividend Payment Date, in an amount per Preferred
+Share per annum equal to the Annual Fixed Dividend Rate (as defined below) applicable to such Subsequent Fixed Rate Period multiplied by US$1,000 (or if then held in the Limited Recourse Trust, the Canadian Dollar Equivalent of US$1,000). The LRT Trustee, as trustee of the Limited Recourse Trust, will, by written notice,
+provide to the Bank a waiver (the “ Waiver ”) of its right to receive any and all dividends on the Preferred Shares during the period from and including the date of the waiver to and including the earlier of (a) the date upon
+which the LRT Trustee, as trustee, provides, by written notice, a revocation of the Waiver to the Bank, and (b) the date upon which the LRT Trustee, as trustee of the Limited Recourse Trust, is no longer the registered holder of Preferred
+Shares. Accordingly, no dividends are expected to be declared or paid on the Preferred Shares while the Preferred Shares are held in the Limited Recourse Trust. The Waiver is applicable to the LRT Trustee, as trustee of the Limited Recourse Trust,
+and will not bind a subsequent holder of the Preferred Shares. The Bank will
+covenant in favor of the Limited Recourse Trust that, at any time during which the Waiver is no longer in effect and the Limited Recourse Trust is a holder of the Preferred Shares, if it does not declare and pay dividends on the Preferred Shares, it
+will not declare and pay dividends on any of the other outstanding series of Class B preferred shares of the Bank. “ Annual Fixed Dividend Rate ” means, for any Subsequent Fixed Rate Period, the rate (expressed as a percentage rate rounded to the nearest
+one hundred–thousandth of one percent (with 0.000005% being rounded up)) equal to the sum of the U.S. Treasury Rate (as defined in the Prospectus Supplement, with respect to the Preferred Shares) on the applicable Fixed Rate Calculation Date
+(as defined below) plus 2.579%. “ Canadian Dollar Equivalent ”
+means the Canadian dollar equivalent of U.S. dollars using the spot exchange rate as of 4:30 p.m. New York City time on September 14, 2026. “ Fixed Period End Date ” means the Initial Reset Date and each November 26 every fifth year thereafter. “ Fixed Rate Calculation Date ” means, for any Subsequent Fixed Rate
+Period, the third business day immediately preceding the first day of such Subsequent Fixed Rate Period. “ Initial Fixed Dividend Rate ” means, for the Initial Fixed Rate Period, the rate equal to the interest rate per annum on the Notes in effect
+as of the Issue Date. “ Initial Reset Date ” means November 26,
+2036. “ Subsequent Fixed Rate Period ” means the period from and
+including the Initial Reset Date to, but excluding, the next Fixed Period End Date and each five-year period thereafter from and including such Fixed Period End Date to, but excluding, the next Fixed Period End Date.
+Dividend Deferability: | If the board of directors of the Bank does not declare dividends, or any part thereof, on the Preferred Shares on or before the relevant Dividend Payment Date for a particular period, then the entitlement of the holders of Preferred
+Shares to receive such dividends, or to any part thereof, for the relevant period shall be forever extinguished.
+9
+The Bank may also be restricted under the Bank Act from paying dividends on the Preferred Shares in certain circumstances.
+Restrictions on Dividends and Retirement of Shares: | So long as any of the Preferred Shares are outstanding, the Bank will not, without the approval of the holders of the Preferred Shares, declare, pay or set apart for payment any dividends on any Common Shares or any other shares of
+the Bank ranking junior to the Preferred Shares (other than stock dividends on any shares ranking junior to the Preferred Shares); redeem, purchase or otherwise retire any Common Shares or any other shares of the Bank ranking junior to the Preferred
+Shares (except out of the net cash proceeds of a substantially concurrent issue of shares ranking junior to the Preferred Shares); redeem, purchase or otherwise retire less than all of the Preferred Shares; or except pursuant to any purchase
+obligation, sinking fund, retraction privilege or mandatory redemption provision attaching to any series of preferred shares of the Bank, redeem, purchase, or otherwise retire any other shares ranking on a parity with the Preferred Shares, unless in
+each case all dividends up to and including the dividend payment date for the last completed period for which dividends are payable have been declared and paid, or set apart for payment, in respect of each series of cumulative Class B preferred
+shares then issued and outstanding and on all other cumulative shares ranking on a parity with the Class B preferred shares of the Bank and there will have been paid or set apart for payment all declared dividends in respect of each series of non-cumulative Class B preferred shares of the Bank (including the Preferred Shares) then issued and outstanding and on all other non-cumulative shares ranking on a
+parity with the Class B preferred shares of the Bank.
+Redemption: | Except as noted below, the Preferred Shares will not be redeemable by the Bank prior to the Initial Reset Date. Subject to the provisions of the Bank Act, the prior consent of the Superintendent and
+to the provisions of the Preferred Shares, the Bank may redeem all or any part of the outstanding Preferred Shares, at the option of the Bank and without the consent of the holder, on the Initial Reset Date and on each February 26, May 26,
+August 26 and November 26 thereafter, by the payment of an amount in cash for each such share so redeemed of US$1,000 (or if then held in the Limited Recourse Trust, the Canadian Dollar Equivalent of US$1,000) per Preferred Share, together
+with any declared and unpaid dividends (of which none are expected for so long as the Preferred Shares are held in the Limited Recourse Trust), up to, but excluding, the date fixed for redemption. If at any time the Bank redeems Notes in accordance with their terms (including in
+connection with an Optional Redemption or a Special Event Redemption) or purchases Notes, in whole or in part, by tender offer, open market purchases, negotiated transactions or otherwise, for cancellation, then the Bank shall, subject to the
+provisions of the Bank Act, the prior consent of the Superintendent and to the provisions of the Preferred Shares, redeem such number of Preferred Shares with an aggregate face amount equal to the aggregate principal amount of Notes redeemed or
+purchased for cancellation by the Bank, by the payment of an amount in cash for each such share so redeemed of the Canadian Dollar Equivalent of US$1,000 per Preferred Share, together with any declared and unpaid dividends (of which none are
+expected for so long as the Preferred Shares are held in the Limited Recourse Trust) up to, but excluding, the date fixed for redemption.
+10
+When the Preferred Shares are held in the Limited Recourse Trust, subject to the provisions of the Bank Act, the prior consent of the
+Superintendent and to the provisions of the Preferred Shares, the Bank may also redeem all but not less than all of the outstanding Preferred Shares (i) at any time following a Regulatory Event Date, or (ii) at any time following a Tax
+Event Date, at the Bank’s option without the consent of the holder, by the payment of an amount in cash for each such share so redeemed of the Canadian Dollar Equivalent of US$1,000 per Preferred Share, together with any declared and unpaid
+dividends (of which none are expected for so long as the Preferred Shares are held in the Limited Recourse Trust) up to, but excluding, the date fixed for redemption. Concurrently with or upon the maturity of the Notes, subject to the provisions of the Bank Act, the prior consent of the Superintendent and to the provisions
+of the Preferred Shares, the Bank may, at the Bank’s option, redeem all but not less than all of the outstanding Preferred Shares by the payment of an amount in cash for each such share so redeemed of the Canadian Dollar Equivalent of US$1,000
+per Preferred Share, together with any declared and unpaid dividends (of which none are expected for so long as the Preferred Shares are held in the Limited Recourse Trust) up to, but excluding, the date fixed for redemption. The Bank will give notice of any redemption to registered holders at least 10 and not
+more than 60 days prior to the redemption date.
+NVCC Automatic Conversion: | Upon the occurrence of a Trigger Event, each outstanding Preferred Share will automatically and immediately be converted, on a full and
+permanent basis, without any action on the part of the holder thereof, into fully-paid and non-assessable Common Shares, the number of which is to be determined in accordance with the NVCC Automatic Conversion
+Formula (as defined below); rounding down, if necessary, to the nearest whole number of Common Shares, such conversion being referred to herein as an “ NVCC Automatic Conversion ”. Fractions of Common Shares will not be issued or
+delivered pursuant to an NVCC Automatic Conversion and no cash payment will be made in lieu thereof. The “ NVCC Automatic Conversion Formula ” is (Multiplier x Share Value) ÷ Conversion Price = number of Common Shares into which each
+Preferred Share is converted upon a Trigger Event. “ Conversion
+Price ” means the greater of (i) the Floor Price and (ii) the Current Market Price. “ Current Market Price ” means the volume weighted average trading price of the Common Shares on the Toronto Stock Exchange or, if not then
+listed on the Toronto Stock Exchange, on another exchange or market chosen by the board of directors of the Bank on which the Common Shares are then traded, for the 10 consecutive trading days ending on the trading day immediately prior to the date
+on which the Trigger Event occurs (with the conversion occurring as of the start of business on the date on which the Trigger Event occurs), converted (if not denominated in Canadian dollars) into Canadian dollars on the basis of the closing
+exchange rate between Canadian dollars and the relevant currency reported by the Bank of Canada on the date immediately
+11
+preceding the date of the Trigger Event (or if not available on such date, the date on which such closing rate was last available prior to
+such date). If such exchange rate is no longer reported by the Bank of Canada, the relevant exchange rate for calculating the Current Market Price in Canadian dollars shall be the simple average of the closing exchange rates between Canadian dollars
+and the relevant currency quoted at approximately 4:00 p.m., New York City time, on such date by three major banks selected by the Bank. If no such trading prices are available, “Current Market Price” shall be the Floor Price. “ Floor Price ” means C$5.00, subject to adjustment. “ Multiplier ” means 1.0. “ Share Value ” means US$1,000 plus declared and unpaid dividends, if
+any, up to, but excluding the date of the Trigger Event, expressed in Canadian dollars. In determining the Share Value of any Preferred Share, the face amount thereof and any declared and unpaid dividends thereon shall be converted from U.S. dollars
+into Canadian dollars on the basis of the closing exchange rate between Canadian dollars and U.S. dollars (in Canadian dollars per U.S. dollar) reported by the Bank of Canada on the date immediately preceding the date of the Trigger Event (or if not
+available on such date, the date on which such closing rate was last available prior to such date). If such exchange rate is no longer reported by the Bank of Canada, the relevant exchange rate for calculating the Share Value in Canadian dollars
+shall be the simple average of the closing exchange rates between Canadian dollars and U.S. dollars (in Canadian dollars per U.S. dollar) quoted at approximately 4:00 p.m., New York City time, on such date by three major banks selected by the Bank.
+As a result of the Waiver, no declared and unpaid dividends are expected for so long as the Preferred Shares are held in the Limited Recourse Trust.
+Trigger Event: | A “ Trigger Event ” has the meaning set out in the CAR Guideline, Chapter 2, Definition of Capital, effective November
+2025, as such term may be amended or superseded by OSFI from time to time, which term currently provides that each of the following constitutes a Trigger Event: • the Superintendent publicly announces that the Bank has been advised, in writing, that the Superintendent is of the opinion that the Bank has ceased,
+or is about to cease, to be viable and that, after the conversion or write off, as applicable, of the Preferred Shares and all other contingent instruments issued by the Bank and taking into account any other factors or circumstances that are
+considered relevant or appropriate, it is reasonably likely that the viability of the Bank will be restored or maintained; or • a federal or provincial government in Canada publicly announces that the Bank has accepted or agreed to accept a capital injection, or equivalent
+support, from the federal government or any provincial government or political subdivision or agent or agency thereof without which the Bank would have been determined by the Superintendent to be non-viable.
+Conversion into Another Series of Preferred Shares: | The Bank may at any time that the Preferred Shares are not held in the Limited Recourse Trust, subject to the approval of the Superintendent, give the holders of Preferred Shares the right, at their option, to convert such Preferred
+Shares into a new series of Additional Tier 1 capital preferred shares of the Bank on a share-for-share basis.
+12
+Common Share Corporate Event: | In the event of a capital reorganization, consolidation, merger or amalgamation of the Bank or comparable transaction affecting the Common Shares, the Bank will take necessary action to ensure that the holders of the Preferred
+Shares receive, pursuant to an NVCC Automatic Conversion, the number of Common Shares or other securities that such holders would have received if the NVCC Automatic Conversion occurred immediately prior to the record date for such event.
+Purchase for Cancellation: | Subject to the provisions of the Bank Act, the prior written approval of the Superintendent and to the provisions of the Preferred Shares, the Bank may at any time or from time to time purchase for cancellation the whole or
+any part of the outstanding Preferred Shares in the open market (including by private contracts), by tender or otherwise at the lowest price or prices at which in the opinion of the board of directors of the Bank such shares are
+obtainable.
+* | A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision
+or withdrawal at any time.
+The Bank has filed a registration statement (File
+No. 333-285508)
+(including a prospectus) and a preliminary prospectus supplement with the SEC for the offering to which this communication relates. Before you invest, you should read those documents and
+the documents incorporated therein by reference that the Bank has filed with the SEC for more complete information about the Bank and this offering. You may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov.
+Alternatively, the Bank, any underwriter or any dealer participating in the offering will arrange to send you the prospectus supplement and the prospectus if you request them by calling BMO Capital Markets Corp. toll-free at
+1-888-200-0266,
+Barclays Capital Inc. toll-free at
+1-888-603-5847,
+Citigroup Global Markets Inc. toll-free at
+1-800-831-9146,
+Goldman Sachs & Co. LLC toll-free at
+1-866-471-2526,
+Morgan Stanley & Co. LLC toll-free at
+1-866-718-1649
+and UBS Securities LLC toll-free at
+1-833-481-0269.
+13

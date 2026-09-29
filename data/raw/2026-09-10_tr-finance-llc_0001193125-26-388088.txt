@@ -1,0 +1,98 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1814722/000119312526388088/d154015dfwp.htm
+ISSUER (SEC filer): TR Finance LLC
+FILED: 2026-09-10
+========================================
+FWP
+1
+d154015dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+File Nos.
+333-285907
+and
+333-285927
+Issuer Free Writing Prospectus dated September 10, 2026
+Relating to Preliminary Prospectus Supplement dated September 10, 2026
+TR Finance LLC
+US$800,000,000 5.100% Notes
+due 2028
+US$500,000,000 5.750% Notes due 2033
+Pricing Term Sheet
+September 10, 2026
+Issuer: | TR Finance LLC (“ TR Finance ”)
+Guarantors: | Thomson Reuters Corporation (“ TRC ”) West Publishing Corporation Thomson Reuters Applications Inc. Thomson Reuters (Tax & Accounting) Inc.
+Issues: | US$800,000,000 principal amount of 5.100% Notes due 2028 (the “ 2028 Notes ”) US$500,000,000 principal amount of 5.750% Notes due 2033 (the “ 2033 Notes ” and,
+together with the 2028 Notes, the “ Notes ”)
+Offering: | SEC Registered
+Expected Issue Ratings*: | Moody’s Investor Service Inc.: Baa1 (positive) Standard & Poor’s Global Ratings Service: A- (stable) Fitch Ratings Ltd.: A- (stable)
+Pricing Date: | September 10, 2026
+Settlement Date**: | September 17, 2026 (T+5)
+Maturity Date: | 2028 Notes: September 15, 2028 2033 Notes: September 15, 2033
+Offering Price: | 2028 Notes: 99.989%, plus accrued interest, if any, from September 17, 2026 2033 Notes: 99.756%, plus accrued interest, if any, from September 17, 2026
+Yield to Maturity: | 2028 Notes: 5.106% 2033 Notes: 5.793%
+Spread to Benchmark Treasury: | 2028 Notes: +55 basis points 2033 Notes: +95 basis points
+Benchmark Treasury: | 2028 Notes: 4.125% due August 31, 2028 2033 Notes: 4.500% due August 31, 2033
+Benchmark Treasury Price and Yield:
+Interest Payment Dates for each Series: | March 15 and September 15, commencing March 15, 2027
+Optional Redemption: | 2028 Notes: Prior to the maturity date, TR Finance may, at its option, redeem the 2028 Notes, in whole at any time or in part from time to time at a redemption price (expressed as a percentage of principal amount and rounded to
+three decimal places) which is equal to the greater of (i) (a) the sum of the present values, as calculated by TR Finance, of the remaining scheduled payments of principal and interest thereon discounted to the redemption date on a semi-annual
+basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 10 basis points less (b) interest accrued to the date of
+redemption, and (ii) 100% of the principal amount of the 2028 Notes to be redeemed, together in each case with accrued and unpaid interest to the date fixed for redemption.
+2033 Notes: Prior to July 15, 2033 (two months prior to the maturity date) (the “ Par Call Date ”), TR Finance may, at its option, redeem the 2033 Notes, in whole at any time or in part from time to time at a
+redemption price (expressed as a percentage of principal amount and rounded to three decimal places) which is equal to the greater of (i) (a) the sum of the present values, as calculated by TR Finance, of the remaining scheduled payments of
+principal and interest thereon discounted to the redemption date (assuming the 2033 Notes matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 15 basis points less (b) interest accrued to the date of redemption, and (ii) 100% of the principal amount of the 2033 Notes to be redeemed, together in each case with
+accrued and unpaid interest to the date fixed for redemption. On or after the Par Call Date, TR Finance may, at its option, redeem the 2033 Notes, in whole or in part at a redemption price which is equal to 100% of the principal amount of the 2033
+Notes outstanding, plus accrued and unpaid interest to the date fixed for redemption.
+Use of Proceeds: | The net proceeds from the sale of the Notes, together with the net proceeds of the Canadian Notes (as defined below), will be used for general corporate purposes, including, without limitation, to repay indebtedness under our
+commercial paper program (under which TR Finance and TRC are both issuers), which was previously incurred to fund working capital needs in the ordinary course.
+CUSIP/ISIN: | 2028 Notes: 87268LAF4 / US87268LAF40 2033 Notes: 87268LAG2 / US87268LAG23
+Denomination: | The Notes will be issued in minimum denominations of US$2,000 and integral multiples of US$1,000 in excess thereof.
+No PRIIPS KID or DISC Disclosure Document: | Not for retail investors in the EEA or the United Kingdom. No PRIIPS key information document (KID) or DISC disclosure document has been prepared as not available to retail in EEA or the United Kingdom.
+Joint Book-Running Managers***: | RBC Capital Markets, LLC BofA Securities, Inc. Barclays Capital Inc. Mizuho Securities USA LLC
+Co-Managers: | TD Securities (USA) LLC BMO Capital Markets Corp. Citigroup Global Markets Inc. Goldman Sachs & Co. LLC J.P. Morgan Securities LLC Morgan Stanley & Co. LLC Standard Chartered Bank Academy Securities, Inc.
+* | A credit rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at
+any time.
+** | We expect that delivery of the Notes will be made against payment therefor on or about September 17, 2026, which
+will be the fifth business day following the date of pricing of the Notes (this settlement cycle being referred to as “T+5”). Under Rule 15c6-1 under the Securities Exchange Act of 1934, as
+amended, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade Notes prior to the delivery date may be required,
+by virtue of the fact that the Notes initially will settle in T+5, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of Notes who wish to trade Notes prior to the delivery date should
+consult their own advisor.
+*** | This offering will be made in Canada on a private placement basis by broker-dealer affiliates of the Joint Book-Running
+Managers and the Co-Managers.
+2
+Changes to the Preliminary Prospectus Supplement
+On September 10, 2026, TRC commenced a Canadian-only offering of Canadian dollar-denominated senior unsecured notes in an aggregate principal amount of
+CAD$1,000,000,000 (the “
+Canadian Notes
+”), to be issued on or about September 17, 2026. The Canadian Notes will be new senior unsecured obligations of TRC, and will rank equally with all of TRC’s other existing and
+future senior unsecured obligations, including TRC’s guarantee of the Notes offered hereby. The net proceeds from the sale of the Canadian Notes, together with the net proceeds from the Notes offered hereby, will be used for general corporate
+purposes, including, without limitation, to repay indebtedness under our commercial paper program (under which TR Finance and TRC are both issuers), which was previously incurred to fund working capital needs in the ordinary course.
+Corresponding changes will be made elsewhere in the Preliminary Prospectus Supplement.
+The Canadian Notes are being offered exclusively to persons in the provinces of Canada on a private placement basis in reliance upon exemptions from the prospectus
+requirements under applicable securities laws in each of the provinces of Canada. The offering of the Canadian Notes is not being made in the United States. The offering of the Notes is not conditioned on the completion of the Canadian Notes
+offering, or vice versa. This Pricing Term Sheet does not constitute an offering of the Canadian Notes.
+The Issuer and the Guarantors have filed a joint
+shelf registration statement (including a prospectus) on Forms
+F-10
+and
+F-3
+and a prospectus supplement with the U.S. Securities and Exchange Commission (the
+“SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement, the prospectus supplement and other documents the Issuer and the Guarantors have filed with
+the SEC for more complete information about the Issuer, the Guarantors and this offering. You may obtain these documents for free by visiting EDGAR on the SEC website at www.sec.gov.
+Alternatively, TRC, any underwriter or any dealer participating in this offering will arrange to send you a copy of the prospectus upon request. Interested
+parties may obtain a prospectus and the related prospectus supplement from: RBC Capital Markets, LLC, Brookfield Place, 200 Vesey Street, 8th Floor, New York, NY 10281, Attention: Syndicate Operations, by telephone at
+1-866-375-6829,
+by fax at
+1-212-428-6308
+or by email at rbcnyfixedincomeprospectus@rbccm.com; BofA Securities, Inc., 201 North Tryon Street,
+NC1-022-02-25,
+Charlotte, NC 28255-0001, Attention: Prospectus Department, by telephone at
+1-800-294-1322
+or by email at dg.prospectus_requests@bofa.com; Barclays Capital Inc., c/o Broadridge Financial Solutions, 1155 Long Island Avenue, Edgewood, NY 11717,
+by telephone at
+1-888-603-5847
+or by email at barclaysprospectus@broadridge.com; or Mizuho Securities USA LLC, 1271 Avenue of the
+Americas, New York, NY 10020, Attention: Debt Capital Markets, or by telephone at
+1-866-271-7403.
+3

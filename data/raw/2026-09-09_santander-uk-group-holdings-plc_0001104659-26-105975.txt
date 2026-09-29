@@ -1,0 +1,106 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1649373/000110465926105975/tm2625029d1_fwp.htm
+ISSUER (SEC filer): SANTANDER UK GROUP HOLDINGS PLC
+FILED: 2026-09-09
+========================================
+FWP
+1
+tm2625029d1_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Registration No. 333-280673
+September 8, 2026
+PRICING TERM SHEET
+Santander UK Group Holdings plc
+$1,500,000,000 5.314% Fixed Rate/Floating Rate
+Notes due 2030 (the “Notes”)
+Issuer: | Santander UK Group Holdings plc
+Expected Issue Ratings: | Baa1 (Stable) (Moody’s) / BBB (Stable) (S&P) / A (Stable) (Fitch)*
+Status: | Senior, Unsecured
+Offering Format: | SEC-Registered
+Form of Notes: | Registered Global Notes
+Aggregate Principal Amount: | U.S.$1,500,000,000
+Trade Date: | September 8, 2026
+Settlement / Issue Date: | September 15, 2026, which is the fifth Business Day after the Trade Date
+Maturity Date: | September 15, 2030
+Interest Rate: | From (and including) the Issue Date to (but excluding) September 15, 2029 (the ‘‘Fixed Rate Period’’), interest will be payable at a rate of 5.314% per annum From (and including) September 15, 2029 to (but excluding) the Maturity Date (the ‘‘Floating Rate Period’’), the interest rate will be equal to the Floating Rate Benchmark plus the Floating Rate Margin. The interest rate on the Notes will be calculated quarterly on each Interest Determination Date
+Interest Payment Dates: | During the Fixed Rate Period, each March 15 and September 15, commencing on March 15, 2027 During the Floating Rate Period, on December 15, 2029, March 15, 2030, June 15, 2030 and on the Maturity Date (each a “Floating Rate Period Interest Payment Date”)
+Floating Rate Margin: | 0.995% per annum
+Fixed Rate Benchmark Treasury: | 4.250% UST due August 15, 2029
+Fixed Rate Re-offer Yield: | 5.314% (semi-annual)
+Floating Rate Benchmark: | Compounded SOFR Index Rate (as defined in the Preliminary Prospectus Supplement dated September 8, 2026 (the “Preliminary Prospectus Supplement”)) subject to the Benchmark Transition Provisions (as defined in the Preliminary Prospectus Supplement)
+Interest Determination Date: | The second U.S. Government Securities Business Day (as defined in the Preliminary Prospectus Supplement) preceding the applicable Floating Rate Period Interest Payment Date
+Floating Rate Interest Periods: | During the Floating Rate Period, the period beginning on (and including) a Floating Rate Period Interest Payment Date and ending on (but excluding) the next succeeding Floating Rate Period Interest Payment Date (each, a ‘‘Floating Rate Interest Period’’); provided that the first Floating Rate Interest Period will begin on (and include) September 15, 2029 and will end on (but exclude) the first Floating Rate Period Interest Payment Date
+Business Day: | Means any day, other than Saturday or Sunday, that is neither a legal holiday nor a day on which banking institutions in the City of New York or London, England are authorized or required by law, regulation or executive order to close
+Business Day Convention: | Following Business Day Convention during the Fixed Rate Period; Modified Following Business Day Convention during the Floating Rate Period
+Day Count Fraction: | 30/360 (following, unadjusted) during the Fixed Rate Period; actual/360 (modified following, adjusted) during the Floating Rate Period
+Fixed Rate Treasury Price and Yield: | 99-13¼ / 4.464%
+Fixed Rate Spread to Benchmark Treasury: | T+ 85 bps
+Price to Public: | 100.000% of the principal amount
+Underwriting Discount: | 0.200% of the principal amount
+All-in Price: | 99.800%
+All-in Yield: | 5.387% (semi-annual)
+Net Proceeds (before expenses): | U.S.$1,497,000,000
+Optional Redemption: | We may, subject to satisfaction of the Regulatory Redemption Conditions (as defined in the Preliminary Prospectus Supplement), redeem the Notes, at our option, in whole, but not in part, on September 15, 2029 at a redemption price equal to 100.000% of the principal amount of the Notes, plus accrued and unpaid interest, if any, to, but excluding the redemption date
+Loss Absorption Disqualification Event and Tax Event Redemption: | We may, subject to satisfaction of the Regulatory Redemption Conditions, redeem all but not some of the Notes upon the occurrence of a Loss Absorption Disqualification Event or a Tax Event (each as defined in the Preliminary Prospectus Supplement), in each case at a redemption price equal to 100.000% of the principal amount of the Notes plus accrued but unpaid interest, if any, to, but excluding, the redemption date
+Agreement with Respect to the Exercise of UK Bail-in Power: | Notwithstanding any other term of the Notes, the indenture or any other agreements, arrangements, or understandings between the Issuer and any holder of Notes, by its acquisition of the Notes, each holder of Notes (including each holder of a beneficial interest in the Notes) acknowledges, accepts, agrees to be bound by and consents to: (a) the effect of the exercise of the UK bail-in power (as defined below) by the relevant UK resolution authority (as defined below) arising in respect of the Notes whether or not imposed with prior notice, that may include and result in: (i) the reduction of all, or a portion, of the Amounts Due (as defined below); (ii) the conversion of all, or a portion, of the Amounts Due on the Notes into shares, other securities or other obligations of the Issuer or another person (and the issue to or conferral on the holders of Notes of such shares, securities or obligations), including by means of an amendment, modification or variation of the terms of the Notes; (iii) the cancellation of the Notes including any other Amounts Due on the Notes; (iv) the amendment or alteration of the maturity of the Notes or amendment of the amount of interest payable on the Notes, or the date on which the interest becomes payable, including by suspending payment for a temporary period; and (b) the variation, if necessary, of the indenture governing the terms of the Notes or the terms of the Notes as may be deemed necessary by the relevant UK resolution authority to give effect to the exercise of the UK bail-in power by the relevant UK resolution authority. For these purposes, “Amounts Due” are the principal amount of, and accrued but unpaid interest and any other amounts, including any Additional Amounts (as defined in the Preliminary Prospectus Supplement) due on, or in respect of, the Notes. References to principal and interest will include payments of principal and interest that have become due and payable but which have not been paid, prior to the exercise of any UK bail-in power by the relevant UK resolution authority. For purposes of the Notes, the “UK bail-in power” means the powers under the UK bail-in legislation to cancel, transfer or dilute shares issued by a person that is a bank or investment firm or affiliate of a bank or investment firm, to cancel, reduce, modify or change the form of a liability of such a person or any contract or instrument under which that liability arises, to convert all or part of that liability into shares, securities or obligations of that person or any other person, to provide that any such contract or instrument is to have effect as if a right had been exercised under it or to suspend any obligation in respect of that liability.
+2
+A reference to “UK bail-in legislation” means Part I of the UK Banking Act 2009 and any other law or regulation applicable in the UK relating to the resolution of unsound or failing banks, investment firms or other financial institutions or their affiliates (otherwise than through liquidation, administration or other insolvency proceedings). A reference to the “relevant UK resolution authority” is to the Bank of England or any other authority with the ability to exercise a UK bail-in power. By its acquisition of the Notes, each holder of the Notes (including each holder of a beneficial interest in the Notes), to the extent permitted by the Trust Indenture Act of 1939, will waive any and all claims, in law and/or in equity, against the trustee for, agree not to initiate a suit against the trustee in respect of, and agree that the trustee will not be liable for, any action that the trustee takes, or abstains from taking, in either case in accordance with the exercise of the UK bail-in power by the relevant UK resolution authority with respect to the Notes
+Sole Global Coordinator: | Santander US Capital Markets LLC
+Joint Book-Running Managers: | Goldman Sachs & Co. LLC, Jefferies LLC, J.P. Morgan Securities LLC, Morgan Stanley & Co. LLC, Santander US Capital Markets LLC, Wells Fargo Securities, LLC
+Co-Managers: | Cabrera Capital Markets, Independence Point Securities LLC
+Calculation Agent: | Citibank, N.A.
+Paying Agent and Trustee: | Citibank, N.A.
+Denominations: | U.S.$200,000 and integral multiples of U.S.$1,000 in excess thereof
+Delivery: | DTC delivery free of payment
+CUSIP: | 80281LBA2
+ISIN: | US80281LBA26
+Expected Listing: | New York Stock Exchange
+Governing Law: | The Notes and the indenture will be governed by the laws of the State of New York.
+****
+*Note: A securities rating is not a recommendation
+to buy, sell or hold securities and may be subject to revision or withdrawal at any time. The ratings are subject to revision or withdrawal
+at any time by Moody’s, S&P or Fitch. Each of the security ratings above should be evaluated independently of any other security
+rating.
+Santander UK Group Holdings plc has filed a
+registration statement (including a prospectus) with the SEC for the offering to which this communication relates. Before you invest,
+you should read the prospectus in that registration statement and other documents Santander UK Group Holdings plc has filed with the SEC
+for more complete information about Santander UK Group Holdings plc and this offering. You may get these documents for free by visiting
+EDGAR on the SEC Web site at
+www.sec.gov
+. Alternatively, Santander UK Group Holdings plc, any underwriter
+or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling Goldman Sachs &
+Co. LLC at +1-866-471-2526, Jefferies LLC at +1-877-877-0696, J.P. Morgan Securities LLC at +1-212-834-4533, Morgan Stanley &
+Co. LLC at +1-800-223-2440, Santander US Capital Markets LLC at +1-855-403-3636, and Wells Fargo Securities, LLC at +1-800-645-3751.
+Prohibition of sales to EEA retail investors -
+The Notes are not intended to be offered, sold or otherwise made available to and should not be offered, sold or otherwise made available
+to any retail investor in the European Economic Area (the “EEA”). For these purposes, the expression “retail investor”
+means a person who is one (or more) of the following: (i) a retail client as defined in point (11) of Article 4(1) of Directive
+2014/65/EU (as amended, “MiFID II”); or (ii) a customer within the meaning of Directive (EU) 2016/97 (as amended, the
+“Insurance Distribution Directive”), where that customer would not qualify as a professional client as defined in point (10) of
+Article 4(1) of MiFID II. Consequently, no key information document required by Regulation (EU) No 1286/2014 (the “PRIIPs
+Regulation”) for offering or selling the Notes or otherwise making them available to retail investors in the EEA has been prepared
+and therefore offering or selling the Notes or otherwise making them available to any retail investor in the EEA may be unlawful under
+the PRIIPs Regulation.
+3
+Prohibition of sales to UK retail investors -
+The Notes are not intended to be offered, sold, distributed or otherwise made available to and should not be offered, sold, distributed
+or otherwise made available to any retail investor in the United Kingdom (“UK”). For these purposes, the expression “retail
+investor” means a person who is not a professional client, as defined in point (8) of Article 2(1) of Regulation
+(EU) No 600/2014 as it forms part of UK domestic law by virtue of the European Union (Withdrawal) Act 2018 (as amended, varied, superseded
+or substituted from time to time, the “EUWA”). Consequently, no disclosure document required by the FCA Product Disclosure
+Sourcebook (“DISC”) for offering, selling or distributing the notes or otherwise making them available to retail investors
+in the UK has been prepared and therefore offering, selling or distributing the notes or otherwise making them available to retail investors
+in the UK may be unlawful under DISC and the Consumer Composite Investments (Designated Activities) Regulations 2024.
+It is expected that delivery of the Notes will
+be made to investors on or about September 15, 2026, which will be the fifth U.S. business days (as such term is used for purposes
+of Rule 15c6-1 of the U.S. Securities Exchange Act of 1934, as amended (the “Exchange Act”)) following the date hereof
+(such settlement cycle being referred to as “T+5”). Under Rule 15c6-1 of the Exchange Act, trades in the secondary market
+generally are required to settle in one business day unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers
+who wish to trade the Notes on any date prior to the business day before delivery will be required, by virtue of the fact that the Notes
+initially will not settle in T+1, to specify an alternative settlement cycle at the time of such trade to prevent a failed settlement
+and should consult their own adviser.
+Any disclaimers or other notices that may appear
+below are not applicable to this communication and should be disregarded (other than any statement relating to the identity of the legal
+entity authorizing or sending this communication in a non-US jurisdiction). Such disclaimers or other notices were automatically generated
+as a result of this communication having been sent via Bloomberg or another email system.
+4

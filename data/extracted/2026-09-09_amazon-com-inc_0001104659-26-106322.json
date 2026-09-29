@@ -1,0 +1,96 @@
+{
+  "source_file": "2026-09-09_amazon-com-inc_0001104659-26-106322.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:44:25",
+  "usage": {
+    "input_tokens": 6547,
+    "output_tokens": 1239
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Amazon.com, Inc.",
+    "sector": "Consumer",
+    "trade_date": "2026-09-09",
+    "settlement_date": "2026-09-14",
+    "rating_moodys": "A1",
+    "rating_sp": "AA",
+    "rating_fitch": "AA-",
+    "bookrunners": [
+      "Barclays Bank PLC",
+      "HSBC Bank plc",
+      "J.P. Morgan Securities plc",
+      "NatWest Markets Plc",
+      "Citigroup Global Markets Limited",
+      "Merrill Lynch International",
+      "Wells Fargo Securities International Limited",
+      "Deutsche Bank AG, London Branch",
+      "BNP PARIBAS",
+      "Goldman Sachs & Co. LLC",
+      "Morgan Stanley & Co. International plc",
+      "RBC Europe Limited",
+      "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+      "TD Global Finance unlimited company",
+      "The Bank of Nova Scotia, London Branch"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "GBP",
+        "principal_amount": 1250000000,
+        "coupon_pct": 5.2,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-09-14",
+        "first_call_date": "2029-08-14",
+        "benchmark": "UKT 4.125% due July 22, 2029",
+        "spread_bps": 53,
+        "yield_pct": 5.211,
+        "issue_price_pct": 99.97,
+        "seniority": "senior unsecured",
+        "pricing_quote": "2029 Notes: + 53 bps spread to UKT 4.125% due July 22, 2029 with yield to maturity 5.211%"
+      },
+      {
+        "currency": "GBP",
+        "principal_amount": 1000000000,
+        "coupon_pct": 5.55,
+        "coupon_type": "fixed",
+        "maturity_date": "2032-09-14",
+        "first_call_date": "2032-07-14",
+        "benchmark": "UKT 4.250% due June 7, 2032",
+        "spread_bps": 75,
+        "yield_pct": 5.561,
+        "issue_price_pct": 99.945,
+        "seniority": "senior unsecured",
+        "pricing_quote": "2032 Notes: + 75 bps spread to UKT 4.250% due June 7, 2032 with yield to maturity 5.561%"
+      },
+      {
+        "currency": "GBP",
+        "principal_amount": 1000000000,
+        "coupon_pct": 6.25,
+        "coupon_type": "fixed",
+        "maturity_date": "2038-09-14",
+        "first_call_date": "2038-06-14",
+        "benchmark": "UKT 3.750% due January 29, 2038",
+        "spread_bps": 90,
+        "yield_pct": 6.277,
+        "issue_price_pct": 99.775,
+        "seniority": "senior unsecured",
+        "pricing_quote": "2038 Notes: + 90 bps spread to UKT 3.750% due January 29, 2038 with yield to maturity 6.277%"
+      },
+      {
+        "currency": "GBP",
+        "principal_amount": 1000000000,
+        "coupon_pct": 6.65,
+        "coupon_type": "fixed",
+        "maturity_date": "2045-09-14",
+        "first_call_date": "2045-03-14",
+        "benchmark": "UKT 3.500% due January 22, 2045",
+        "spread_bps": 93,
+        "yield_pct": 6.691,
+        "issue_price_pct": 99.563,
+        "seniority": "senior unsecured",
+        "pricing_quote": "2045 Notes: + 93 bps spread to UKT 3.500% due January 22, 2045 with yield to maturity 6.691%"
+      }
+    ]
+  }
+}

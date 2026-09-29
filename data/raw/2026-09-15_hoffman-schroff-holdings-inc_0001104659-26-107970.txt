@@ -1,0 +1,59 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/2111694/000110465926107970/tm2625115d6_fwp.htm
+ISSUER (SEC filer): Hoffman Schroff Holdings, Inc.
+FILED: 2026-09-15
+========================================
+FWP
+1
+tm2625115d6_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Registration Statement No. 333-293530, 333-293530-01 and 333-293530-02
+September 15, 2026
+Hoffman Schroff Holdings, Inc.
+Pricing Term Sheet
+Issuer: | Hoffman Schroff Holdings, Inc.
+Guarantors: | nVent Electric plc and nVent Finance S.à r.l.
+Offering Format: | SEC Registered
+Security: | 6.150% Senior Notes due 2036 (the “Notes”)
+Size: | $800,000,000
+Maturity: | September 15, 2036
+Coupon: | 6.150%
+Price to Public: | 99.915% of face amount
+Yield to Maturity: | 6.162%
+Spread to Benchmark Treasury: | +115 basis points
+Benchmark Treasury: | 4.625% due August 15, 2036
+Benchmark Treasury Price and Yield: | 97-00 / 5.012%
+Interest Payment Dates: | March 15 and September 15, commencing March 15, 2027
+Redemption Provisions: Make-Whole Call: | At any time prior to par call date at a discount rate of Treasury plus
++20 basis points
+Par Call: | At any time on or after June 15, 2036 (the date that is three months prior to the maturity date)
+Tax Call: | At any time at par if certain events occur involving changes in taxation
+Special Mandatory Redemption: | If (i) the consummation of the Maverick Power acquisition (as defined in the preliminary prospectus supplement) does not occur on or prior to November 20, 2026 (or such later date on or before February 19, 2027 as extended by the parties to the Purchase Agreement (as defined in the preliminary prospectus supplement) pursuant to the terms and conditions set forth therein, the “ Outside Date ”), (ii) the Issuer notifies the Trustee (as defined in the preliminary prospectus supplement) and the holders of the Notes that in its reasonable judgment the Maverick Power acquisition will not be consummated on or prior to the Outside Date or (iii) the Purchase Agreement has been terminated without the consummation of the Maverick Power acquisition, then the Issuer will be required to redeem all of the Notes at a redemption price equal to 101% of the principal amount of the Notes, plus accrued and unpaid interest to, but not including, the date of redemption
+Change of Control: | Put at 101% of the principal amount of the notes, plus accrued and unpaid interest
+Trade Date: | September 15, 2026
+Settlement Date*: | September 29, 2026 (T+10)
+Ratings**: | BBB- (S&P) BBB (Fitch)
+CUSIP: | 434541AA6
+ISIN: | US434541AA62
+Minimum Denomination: | $2,000 and integral multiples of $1,000 in excess thereof
+Joint Book-Running Managers: | BofA Securities, Inc. Citigroup Global Markets Inc. J.P. Morgan Securities LLC BMO Capital Markets Corp. U.S. Bancorp Investments, Inc.
+Co-Managers: | Goldman Sachs & Co. LLC KeyBanc Capital Markets Inc. PNC Capital Markets LLC
+The issuer and the guarantors have filed a registration statement
+(including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus
+in that registration statement and other documents the issuer has filed with the SEC for more complete information about the issuer, the
+guarantors and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively,
+the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling
+BofA Securities, Inc. toll-free at (800) 294-1322 or emailing at dg.prospectus_requests@bofa.com, calling Citigroup Global Markets Inc.
+toll-free at (800) 831-9146 or emailing at prospectus@citi.com or calling J.P. Morgan Securities LLC collect at (212) 834-4533.
+*The underwriters expect to deliver the notes against payment for
+the notes on or about September 29, 2026, which will be the tenth business day following the date of the pricing of the notes (such settlement
+being referred to as “T+10”). Under Rule 15c6-1 of the Securities Exchange Act of 1934, as amended, trades in the secondary
+market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly,
+purchasers who wish to trade the Notes prior to one business day before delivery of the Notes will be required, by virtue of the fact
+that the Notes initially will settle in T+10, to specify alternative settlement arrangements at the time of any such trade to prevent
+a failed settlement and should consult their own advisors.
+**Note: A securities rating is not a recommendation to buy, sell
+or hold securities and may be subject to revision or withdrawal at any time.
+Any legends, disclaimers or other notices that may appear below
+are not applicable to this communication and should be disregarded. Such legends, disclaimers or other notices have been automatically
+generated as a result of this communication having been sent via Bloomberg or another e-mail system.

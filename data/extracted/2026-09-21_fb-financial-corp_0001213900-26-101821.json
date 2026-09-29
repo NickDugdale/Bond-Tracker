@@ -1,0 +1,40 @@
+{
+  "source_file": "2026-09-21_fb-financial-corp_0001213900-26-101821.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:48:00",
+  "usage": {
+    "input_tokens": 4650,
+    "output_tokens": 534
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "FB Financial Corporation",
+    "sector": "Financials",
+    "trade_date": "2026-09-21",
+    "settlement_date": "2026-09-24",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "Keefe, Bruyette & Woods, A Stifel Company"
+    ],
+    "use_of_proceeds": "The Company intends to use the net proceeds from this offering for general corporate purposes, including providing capital to FirstBank to support its growth.",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 125000000,
+        "coupon_pct": 6.625,
+        "coupon_type": "fixed-to-floating",
+        "maturity_date": "2036-10-01",
+        "first_call_date": "2031-10-01",
+        "benchmark": "Three-Month Term SOFR",
+        "spread_bps": 205,
+        "yield_pct": null,
+        "issue_price_pct": 100,
+        "seniority": "subordinated",
+        "pricing_quote": "From and including October 1, 2031 to, but excluding, the Maturity Date, or the earlier redemption date (the \"floating rate period\"), the Notes will bear interest at a floating rate per year equal to the Benchmark rate (which is expected to be Three-Month Term SOFR) plus 205 basis points"
+      }
+    ]
+  }
+}

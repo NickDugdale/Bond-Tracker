@@ -1,0 +1,149 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/76334/000119312526386604/d131263dfwp.htm
+ISSUER (SEC filer): Parker-Hannifin Corp
+FILED: 2026-09-09
+========================================
+FWP
+1
+d131263dfwp.htm
+FWP
+FWP
+Issuer Free Writing Prospectus
+Filed Pursuant to Rule 433
+Dated September 9, 2026
+Registration Statement
+No. 333-298527
+Relating to the Preliminary Prospectus Supplement dated September 9, 2026
+PRICING TERM SHEET
+PARKER-HANNIFIN CORPORATION
+€700,000,000 of 3.800% Senior Notes due 2030 (the “2030 Notes”)
+€800,000,000 of 4.040% Senior Notes due 2032 (the “2032 Notes”)
+€525,000,000 of 4.375% Senior Notes due 2036 (the “2036 Notes”)
+Issuer: | Parker-Hannifin Corporation
+Title of Securities: | 3.800% Senior Notes due 2030 | 4.040% Senior Notes due 2032 | 4.375% Senior Notes due 2036
+Distribution: | SEC Registered
+Security Type: | Senior Unsecured
+Expected Ratings at the Settlement Date*: | Moody’s: A3 (S) / S&P: BBB+ (P) / Fitch: A- (S)
+Principal Amount: | €700,000,000 | €800,000,000 | €525,000,000
+Denomination: | €100,000 and integral multiples of €1,000 in excess thereof
+Trade Date: | September 9, 2026
+Settlement Date†: | September 14, 2026 (T+3)
+Maturity Date: | March 1, 2030 | March 3, 2032 | March 5, 2036
+Price to Public: | 99.960% of face amount | 99.962% of face amount | 99.909% of face amount
+Coupon (Interest Rate): | 3.800% | 4.040% | 4.375%
+Benchmark German Government Security: | OBL 2.500% due October 11, 2029 | DBR 0.000% due February 15, 2032 | DBR 2.900% due February 15, 2036
+Benchmark German Government Security Price and Yield: | 98.283 / 3.092% | 84.334 / 3.188% | 96.030 / 3.397%
+Spread to Benchmark German Government Security: | +72.6 bps | +86.4 bps | +99.3 bps
+Yield to Maturity: | 3.818% | 4.052% | 4.390%
+Mid-Swap Yield: | 3.318% | 3.352% | 3.440%
+Spread to Mid-Swap Yield: | +50 bps | +70 bps | +95 bps
+Interest Payment Dates: | Annually on March 1 of each year, commencing March 1, 2027 | Annually on March 3 of each year, commencing March 3, 2027 | Annually on March 5 of each year, commencing March 5, 2027
+Optional Redemption:
+Make-Whole Call: | Comparable Government Bond Rate plus 15 bps | Comparable Government Bond Rate plus 15 bps | Comparable Government Bond Rate plus 15 bps
+Par
+Call: | On or after February 1, 2030 (one month prior to their maturity date) | On or after January 3, 2032 (two months prior to their maturity date) | On or after December 5, 2035 (three months prior to their maturity date)
+Day Count Convention: | ACTUAL / ACTUAL (ICMA)
+Common Code / ISIN: | 349880458 / XS3498804585 | 349880466 / XS3498804668 | 349880482 / XS3498804825
+Stabilization: | ICMA/FCA
+Expected Listing: | Application has been made to the Irish Stock Exchange plc (trading as Euronext Dublin) (“Euronext
+Dublin”) for the notes to be admitted to the Official List of Euronext Dublin and to trading on its Global Exchange Market.
+Clearing and Settlement: | The notes will be issued only in registered, book-entry form. There will be a global note for each series of
+notes deposited with a common safekeeper for Euroclear and Clearstream.
+Governing Law: | New York
+Joint Book-Running Managers: | Barclays Bank PLC Citigroup Global Markets Limited Morgan Stanley & Co.
+International plc Wells Fargo Securities International Limited J.P. Morgan Securities plc Merrill Lynch International HSBC Bank plc Mizuho International plc | Barclays Bank PLC Citigroup Global Markets Limited Morgan Stanley & Co.
+International plc HSBC Bank plc Wells Fargo Securities
+International Limited Merrill Lynch International J.P. Morgan
+Securities plc Mizuho International plc | Barclays Bank PLC Citigroup Global Markets Limited Morgan
+Stanley & Co. International plc HSBC Bank plc J.P.
+Morgan Securities plc Merrill Lynch International Wells Fargo
+Securities International Limited Mizuho International plc
+Co-Managers: | KeyBanc Capital Markets Inc. BNP PARIBAS PNC Capital Markets LLC TD Global Finance unlimited company Truist Securities, Inc. BNY Mellon Capital Markets, LLC | KeyBanc Capital Markets Inc. BNP PARIBAS PNC Capital Markets LLC TD Global Finance unlimited company Truist Securities, Inc. BNY Mellon Capital Markets, LLC | KeyBanc Capital Markets
+Inc. BNP PARIBAS PNC Capital Markets LLC TD Global Finance unlimited company Truist Securities, Inc. BNY Mellon Capital Markets, LLC
+Banco Bilbao Vizcaya Argentaria, S.A. Commerzbank Aktiengesellschaft Goldman Sachs & Co.
+LLC U.S. Bancorp Investments, Inc. MUFG Securities EMEA
+plc Loop Capital Markets LLC UniCredit Bank GmbH Banco Santander, S.A. | Banco Bilbao Vizcaya Argentaria, S.A. Commerzbank Aktiengesellschaft Goldman Sachs & Co.
+LLC U.S. Bancorp Investments, Inc. MUFG Securities EMEA
+plc Loop Capital Markets LLC UniCredit Bank GmbH Banco Santander, S.A. | Banco Bilbao Vizcaya
+Argentaria, S.A. Commerzbank Aktiengesellschaft Goldman
+Sachs & Co. LLC U.S. Bancorp Investments, Inc. MUFG
+Securities EMEA plc Loop Capital Markets LLC UniCredit Bank
+GmbH Banco Santander, S.A.
+* Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or
+withdrawal at any time.
+This pricing term sheet relates only to the securities described above and should be read in conjunction with the
+preliminary prospectus supplement dated September 9, 2026 (the “Preliminary Prospectus Supplement”) relating to these securities. The information in this pricing term sheet supplements the Preliminary Prospectus Supplement and updates
+and supersedes the information in the Preliminary Prospectus Supplement to the extent it is inconsistent with the information in the Preliminary Prospectus Supplement.
+† The issuer expects that delivery of the notes will be made to investors on or about September 14, 2026, which will be the third business day
+following the date of this pricing term sheet (such settlement being referred to as “T+3”). Under Rule
+15c6-1
+under the Exchange Act, trades in the secondary market are required to settle in one
+business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the notes prior to the date that is more than one business day preceding the settlement date will be required, by virtue of the
+fact that the notes initially settle in T+3, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the notes who wish to trade the notes prior to the date that is more than one business
+day preceding the settlement date should consult their advisors.
+The issuer has filed a registration statement (including a prospectus and related
+preliminary prospectus supplement for the offering) with the U.S. Securities and Exchange Commission (the “SEC”) for the offering to which this communication relates. Before you invest, you should read the Preliminary Prospectus
+Supplement, the accompanying prospectus in that registration statement and the other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR
+on the SEC’s website at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling, with respect to the 2030 Notes, Barclays Bank PLC
+toll-free at
+1-888-603-5847
+,
+Citigroup Global Markets Limited toll-free at
+1-800-831-9146,
+Morgan Stanley
+& Co. International plc toll-free at
+1-866-718-1649
+and Wells Fargo Securities International
+Limited toll-free at
+1-800-645-3751;
+and with respect to the 2032 Notes and the 2036 Notes, Barclays Bank PLC toll-free at
+1-888-603-5847
+,
+Citigroup Global Markets Limited toll-free at
+1-800-831-9146,
+Morgan Stanley
+& Co. International plc toll-free at
+1-866-718-1649
+and HSBC Bank plc toll-free at
+1-866-811-8049.
+This
+communication does not constitute an offer to sell or the solicitation of an offer to buy any securities in any jurisdiction to any person to whom it is unlawful to make such offer or solicitation in such jurisdiction.
+MIFID II PRODUCT GOVERNANCE / PROFESSIONAL INVESTORS AND ELIGIBLE COUNTERPARTIES ONLY TARGET MARKET — Solely for the purposes of each
+manufacturer’s product approval process, the target market assessment in respect of the notes has led to the conclusion that: (i) the target market for the notes is eligible counterparties and professional clients only, each as defined in
+Directive 2014/65/EU (as amended, “MiFID II”); and (ii) all channels for distribution of the notes to eligible counterparties and professional clients are appropriate. Any person
+subsequently offering, selling or recommending the notes, whom we refer to as a distributor, should take into consideration the manufacturers’ target market assessment; however, a
+distributor subject to MiFID II is responsible for undertaking its own target market assessment in respect of the notes (by either adopting or refining the manufacturers’ target market assessment) and determining appropriate distribution
+channels.
+UK MIFIR PRODUCT GOVERNANCE / PROFESSIONAL INVESTORS AND ELIGIBLE COUNTERPARTIES ONLY TARGET MARKET — Solely for the purposes of
+each manufacturer’s product approval process, the target market assessment in respect of the notes has led to the conclusion that: (i) the target market for the notes is only eligible counterparties, as defined in the United Kingdom
+Financial Conduct Authority Handbook Conduct of Business Sourcebook, and professional clients, as defined in Regulation (EU) No 600/2014 as it forms part of domestic law in the United Kingdom by virtue of the European Union (Withdrawal) Act 2018, as
+amended by the European Union (Withdrawal Agreement) Act 2020 (“UK MiFIR”); and (ii) all channels for distribution of the notes to eligible counterparties and professional clients are appropriate. Any person subsequently offering,
+selling or recommending the notes (for the purposes of this paragraph, a “distributor”) should take into consideration the manufacturers’ target market assessment; however, a distributor subject to the United Kingdom Financial
+Conduct Authority Handbook Product Intervention and Product Governance Sourcebook (the “UK MiFIR Product Governance Rules”) is responsible for undertaking its own target market assessment in respect of the notes (by either adopting or
+refining the manufacturers’ target market assessment) and determining appropriate distribution channels.
+PROHIBITION OF SALES TO EUROPEAN
+ECONOMIC AREA RETAIL INVESTORS — The notes are not intended to be offered, sold or otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in the European Economic Area
+(“EEA”). For these purposes, a “retail investor” means a person who is one (or more) of: (i) a retail client as defined in point (11) of Article 4(1) of MiFID II or (ii) a customer within the meaning of
+Directive (EU) 2016/97 (as amended, the “Insurance Distribution Directive”) where that customer would not qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II or (iii) not a qualified investor
+as defined in the Prospectus Regulation. Consequently, no key information document required by Regulation (EU) No 1286/2014 (as amended, the “PRIIPs Regulation”) for offering or selling the notes or otherwise making them available to
+retail investors in the EEA has been prepared and therefore offering or selling the notes or otherwise making them available to any retail investor in the EEA may be unlawful under the PRIIPs Regulation. This pricing term sheet has been prepared on
+the basis that any offer of the notes in any Member State of the EEA (each, a “Member State”) will be made pursuant to an exemption under the Prospectus Regulation from the requirement to publish a prospectus for offers of the notes.
+Accordingly, any person making or intending to make an offer in that Member State of notes which are the subject of the offering contemplated in this pricing term sheet may only do so in circumstances in which no obligation arises for the Company or
+any of the underwriters to publish a prospectus pursuant to Article 3 of the Prospectus Regulation in relation to such offer. Neither the Company nor the underwriters have authorized, nor do they authorize, the making of any offer of notes in
+circumstances in which an obligation arises for the Company or the underwriters to publish a prospectus for such offer.
+PROHIBITION OF SALES TO
+UNITED KINGDOM RETAIL INVESTORS — The notes are not intended to be offered, sold, distributed or otherwise made available to and should not be offered, sold, distributed or otherwise made available to any retail investor in the United Kingdom.
+For these purposes, a retail investor means a person who is either one (or both) of the following: (i) not a professional client, as defined in point (8) of Article 2(1) of Regulation (EU) No 600/2014 as it forms part of domestic law by
+virtue of the European Union (Withdrawal) Act 2018 (“EUWA”); or (ii) not a qualified investor as defined in paragraph 15 of Schedule 1 to the Public Offers and Admissions to Trading Regulations 2024 (the “POATRs”).
+Consequently no disclosure document required by the Financial Conduct Authority Product Disclosure Sourcebook (“DISC”) for offering, selling or distributing the notes or otherwise making them available to retail investors in the United
+Kingdom has been prepared and therefore offering, selling or distributing the notes or otherwise making them available to any retail investor in the United Kingdom may be unlawful under DISC and the Consumer Composite Investments (Designated
+Activities) Regulations 2024.
+The communication of this pricing term sheet and any other document or materials relating to the issue of
+the notes offered hereby is not being made, and such documents and/or materials have not been approved, by an authorized person for the purposes of section 21 of the FSMA. Accordingly, this pricing term sheet and such other documents and/or
+materials are not being distributed to, and must not be passed on to, the general public in the United Kingdom. This pricing term sheet and such other documents and/or materials are for distribution only to persons who are qualified investors as
+defined in paragraph 15 of Schedule 1 to the POATRs (i) who have professional experience in matters relating to investments falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005, as amended
+(the “Financial Promotion Order”); and/or (ii) who are high net worth entities falling within Article 49(2)(a) to (d) of the Financial Promotion Order (or persons to whom it may otherwise be lawfully communicated) (all such
+persons together being referred to as “relevant persons”). This pricing term sheet and any such other documents and/or materials must not be acted on or relied on in the United Kingdom by persons who are not relevant persons. In the
+United Kingdom, any investment or investment activity to which this pricing term sheet and any such other documents and/or materials relate is only available to, and will be engaged in with, relevant persons. This pricing term sheet and any such
+other documents and/or materials are confidential and should not be distributed, published or reproduced (in whole or in part) or disclosed by any recipients to any other person in the United Kingdom.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER
+NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.

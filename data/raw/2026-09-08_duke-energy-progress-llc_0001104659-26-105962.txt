@@ -1,0 +1,79 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/17797/000110465926105962/tm2624727d4_fwp.htm
+ISSUER (SEC filer): DUKE ENERGY PROGRESS, LLC.
+FILED: 2026-09-08
+========================================
+FWP
+1
+tm2624727d4_fwp.htm
+FWP
+Filed pursuant to Rule 433
+September 8, 2026
+Relating to
+Preliminary
+Prospectus Supplement dated
+September 8, 2026
+to
+Prospectus dated September 23, 2025
+Registration Statement No. 333-290475-01
+Duke Energy Progress, LLC
+$700,000,000 First Mortgage Bonds, 5.55% Series
+due 2036
+$300,000,000
+First Mortgage Bonds
+, 6.15%
+Series due
+2056
+Pricing Term Sheet
+Issuer: | Duke Energy Progress, LLC (the “ Issuer ”)
+Trade Date: | September 8, 2026
+Settlement Date: | September 11, 2026 (T+3)
+Expected Ratings (Moody’s/S&P)*: | Aa3/A (Stable/Stable)
+Security Description: | First Mortgage Bonds, 5.55% Series due 2036 (the “ 2036
+Mortgage Bonds ”) First Mortgage Bonds, 6.15% Series due 2056 (the “ 2056
+Mortgage Bonds ”)
+Principal Amount: | 2036 Mortgage Bonds: $700,000,000 2056 Mortgage Bonds: $300,000,000
+Interest Payment Dates: | 2036 Mortgage Bonds: March 15 and September 15, beginning
+on March 15, 2027 2056 Mortgage Bonds: March 15 and September 15, beginning
+on March 15, 2027
+Maturity Date: | 2036 Mortgage Bonds: September 15, 2036 2056 Mortgage Bonds: September 15, 2056
+Benchmark Treasury: | 2036 Mortgage Bonds: 4.625% due August 15, 2036 2056 Mortgage Bonds: 5.000% due May 15, 2056
+Benchmark Treasury Price: | 2036 Mortgage Bonds: 98-21 2056 Mortgage Bonds: 96-05
+Benchmark Treasury Yield: | 2036 Mortgage Bonds: 4.796% 2056 Mortgage Bonds: 5.257%
+Spread to Benchmark Treasury: | 2036 Mortgage Bonds: +80 bps 2056 Mortgage Bonds: +90 bps
+Coupon: | 2036 Mortgage Bonds: 5.55% 2056 Mortgage Bonds: 6.15%
+Reoffer Yield: | 2036 Mortgage Bonds: 5.596% 2056 Mortgage Bonds: 6.157%
+Price to the Public: | 2036 Mortgage Bonds: 99.650% per 2036 Mortgage Bond, plus
+accrued interest, if any, from September 11, 2026 2056 Mortgage Bonds: 99.904% per 2056 Mortgage Bond, plus
+accrued interest, if any, from September 11, 2026
+Redemption Provisions / Make-Whole Call: | Prior to the applicable Par Call Date (as set forth in the table below), the Issuer may redeem each series of the 2036 Mortgage Bonds and the 2056 Mortgage Bonds at its option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of:
+· | (1)(a) the sum of the present values of
+the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming such series of Mortgage
+Bonds matured on the applicable Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months)
+at the Treasury Rate plus a number of basis points equal to the applicable Make-Whole Spread (as set forth in the table below) less
+(b) interest accrued to the redemption date; and
+· | (2) 100% of the principal amount of such series of Mortgage
+Bonds to be redeemed, plus, in either case, accrued and unpaid interest thereon to, but excluding, the redemption date.
+On or after the applicable Par Call Date, the Issuer may redeem each series of the 2036 Mortgage Bonds and the 2056 Mortgage Bonds at its option, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of such series of Mortgage Bonds to be redeemed plus accrued and unpaid interest thereon to, but excluding, the redemption date for such series of Mortgage Bonds. Series Par Call Date Make-Whole Spread 2036 Mortgage Bonds June 15, 2036 15 bps 2056 Mortgage Bonds March 15, 2056 15 bps
+Series | Par Call Date | Make-Whole Spread
+2036 Mortgage Bonds | June 15, 2036 | 15 bps
+2056 Mortgage Bonds | March 15, 2056 | 15 bps
+Tax Credit Event Redemption: | At the Issuer’s option, in whole but not in part at 101% of the
+principal amount plus accrued and unpaid interest to, but excluding, the redemption date (any notice of redemption may be issued by the
+later of (a) December 31, 2026 and (b) six months from the date of issuance).
+CUSIP / ISIN: | 2036 Mortgage Bonds: 26442U AW4 / US26442UAW45 2056 Mortgage Bonds: 26442U AX2 / US26442UAX28
+Joint Book- Running Managers: | BNY Mellon Capital Markets, LLC MUFG Securities Americas Inc. PNC Capital Markets LLC Scotia Capital (USA) Inc. SMBC Nikko Securities America, Inc. U.S. Bancorp Investments, Inc.
+Co-Managers: | Citizens JMP Securities, LLC Fifth Third Securities, Inc. FNB America Securities LLC Huntington Securities, Inc. Siebert Williams Shank & Co., LLC Synovus Securities, Inc. Blaylock Van, LLC Drexel Hamilton, LLC Loop Capital Markets LLC R. Seelaus & Co., LLC Samuel A. Ramirez & Company, Inc.
+* A securities rating is not a recommendation
+to buy, sell or hold securities and may be subject to revision or withdrawal at any time. Each credit rating should be evaluated independently
+of any other credit rating.
+The Issuer has filed a registration statement
+(including a prospectus) with the Securities and Exchange Commission (“SEC”) for the offering to which this communication
+relates. Before you invest, you should read the prospectus in that registration statement and other documents the Issuer has filed with
+the SEC for more complete information about the Issuer and this offering. You may get these documents for free by visiting EDGAR on the
+SEC Website at www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating in the offering will arrange to send
+you the prospectus if you request it by calling BNY Mellon Capital Markets, LLC toll-free at (800) 269-6864, MUFG Securities Americas
+Inc. toll-free at (877) 649-6848, PNC Capital Markets LLC toll-free at (855) 881-0697, Scotia Capital (USA) Inc. toll-free at (800) 372-3930,
+SMBC Nikko Securities America, Inc. toll-free at (888) 868-6856, and U.S. Bancorp Investments, Inc. toll-free at (877) 558-2607.
+ANY DISCLAIMER OR OTHER NOTICE THAT MAY APPEAR
+BELOW IS NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMER OR NOTICE WAS AUTOMATICALLY GENERATED AS A RESULT
+OF THIS COMMUNICATION BEING SENT BY BLOOMBERG OR ANOTHER EMAIL SYSTEM.

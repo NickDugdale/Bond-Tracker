@@ -1,0 +1,46 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/917251/000162828026062488/agreerealtyfwptermsheetsep.htm
+ISSUER (SEC filer): AGREE REALTY CORP
+FILED: 2026-09-17
+========================================
+FWP
+1
+agreerealtyfwptermsheetsep.htm
+FWP
+Document
+Issuer Free Writing Prospectus
+Filed Pursuant to Rule 433
+Registration No. 333-295307
+Relating to Preliminary Prospectus Supplement
+Dated September 17, 2026 to Prospectus Dated April 24, 2026
+Agree Limited Partnership
+$400,000,000
+5.650%
+Notes due 2036 (the “Notes”)
+September 17, 2026
+Pricing Term Sheet
+Issuer: | Agree Limited Partnership
+Guarantors: | Agree Realty Corporation, the sole general partner of Agree Limited Partnership, and certain of Agree Limited Partnership’s existing and future subsidiaries
+Security Title: | 5.650% Notes due 2036
+Expected Ratings (Fitch / Moody’s / S&P)*: | A- (Stable) / Baa1 (Stable) / BBB+ (Stable)
+Aggregate Principal Amount: | $400,000,000
+Stated Maturity Date: | October 15, 2036
+Public Offering Price: | 98.497% of the principal amount of the Notes
+Coupon (Interest Rate): | 5.650% per annum
+Yield to Maturity: | 5.849%
+Benchmark Treasury: | UST 4.625% due August 15, 2036
+Benchmark Treasury Price and Yield: | 97-15+ / 4.949%
+Spread to Benchmark Treasury: | +90 basis points
+Interest Payment Dates: | April 15 and October 15 of each year, beginning on April 15, 2027
+Optional Redemption: | • Prior to July 15, 2036 (three months prior to the Stated Maturity Date of the Notes), “make-whole” call at T+15 basis points (calculated as though the actual Stated Maturity Date of the Notes was July 15, 2036) • On or after July 15, 2036 (three months prior to the Stated Maturity Date of the Notes), par call
+CUSIP / ISIN: | 008513 AG8 / US008513AG88
+Trade Date: | September 17, 2026
+Schedule III-1
+Settlement Date: | September 22, 2026 (T+3); under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended trades in the secondary market generally are required to settle in two business days, unless the parties to that trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes before the sixth business day prior to the Settlement Date will be required, by virtue of the fact that the Notes initially will settle on a delayed basis, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement, and should consult their own advisors with respect to these matters.
+Joint Book-Running Managers: | PNC Capital Markets LLC J.P. Morgan Securities LLC U.S. Bancorp Investments, Inc. Wells Fargo Securities, LLC BofA Securities, Inc. Citigroup Global Markets Inc. Mizuho Securities USA LLC
+Co-Managers: | Morgan Stanley & Co. LLC Regions Securities LLC SMBC Nikko Securities America, Inc. Raymond James & Associates, Inc. Stifel, Nicolaus & Company, Incorporated Samuel A. Ramirez & Company, Inc.
+*
+Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+Taking into account the net proceeds of this offering, the Issuer will have a liquidity position of over $2.0 billion and the offering will extend the Issuer’s weighted-average debt maturity to approximately 6 years, excluding the unsecured revolving credit facility and outstanding commercial paper notes.
+The Issuer has filed a registration statement and a prospectus with the Securities and Exchange Commission (the “SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus and the related preliminary prospectus supplement and other documents the Issuer has filed with the SEC for more complete information about the Issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, the underwriters can arrange to send you the prospectus and related preliminary prospectus supplement if you request it by calling PNC Capital Markets LLC (toll-free) at 1-855-881-0697, J.P. Morgan Securities LLC (collect) at 1-212-834-4533, U.S. Bancorp Investments, Inc. (toll-free) at 1-877-558-2607 or Wells Fargo Securities, LLC (toll-free) at 1-800-645-3751. This information does not purport to be a complete description of these securities or the offering. Please refer to the preliminary prospectus supplement for a complete description of the securities. This communication does not constitute an offer to sell or the solicitation of an offer to buy any securities in any jurisdiction to any person to whom it is unlawful to make such offer or solicitation in such jurisdiction.
+Any disclaimer or other notice that may appear below is not applicable to this communication and should be disregarded. Such disclaimer or notice was automatically generated as a result of this communication being sent by Bloomberg or another email system.
+Schedule II-A-2

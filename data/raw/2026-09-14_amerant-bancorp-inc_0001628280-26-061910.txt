@@ -1,0 +1,38 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1734342/000162828026061910/amtb-termsheet.htm
+ISSUER (SEC filer): Amerant Bancorp Inc.
+FILED: 2026-09-14
+========================================
+FWP
+1
+amtb-termsheet.htm
+FWP
+Document
+Filed pursuant to Rule 433
+Registration File No. 333-296741
+Supplementing the Preliminary Prospectus Supplement dated September 14, 2026
+(To Prospectus dated June 12, 2026)
+Amerant Bancorp Inc.
+$50,000,000 7.00% Senior Unsecured Notes due 2031
+PRICING TERM SHEET
+September 14, 2026
+Issuer: | Amerant Bancorp Inc. (the “Company”)
+Expected Rating:* | BBB- by Kroll Bond Rating Agency
+Security Type: | Senior Unsecured Notes (the "Notes")
+Principal Amount: | $50,000,000
+Maturity: | September 17, 2031
+Coupon (Interest Rate): | 7.00%
+Price to Public: | 99.482% of the principal amount
+Yield to Maturity: | 7.125%
+Use of Proceeds | We intend to use the net proceeds from this offering for general corporate purposes.
+Conflicts of Interest: | Amerant Investments, Inc., Amerant Bank, N.A.’s securities broker-dealer subsidiary, will participate in the offering as a dealer with a concession from the public offering price of 50 basis points. Therefore, Amerant Investments is deemed to have a “conflict of interest” under FINRA Rule 5121 and, accordingly, the offering of the Notes will comply with the applicable requirements of FINRA Rule 5121. The appointment of a “qualified independent underwriter” is not necessary in connection with this offering as the Notes are investment grade rated securities.
+Interest Payment Dates: | Semi-annually on March 17 and September 17 of each year, commencing on March 17, 2027.
+Optional Redemption: | Prior to March 17, 2031 (six months prior to maturity date of the Notes) (the “Par Call Date”), the Company may redeem the Notes at its option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (1) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the Notes matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 50 basis points less (b) interest accrued to the date of redemption, and (2) 100% of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption date. On or after the Par Call Date, the Company may redeem the Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the Notes being redeemed plus accrued and unpaid interest thereon to the redemption date.
+Trade Date: | September 14, 2026
+Settlement Date: | September 17, 2026 (T + 3)
+Denominations: | Minimum denominations of $1,000 and integral multiples of $1,000 in excess thereof
+CUSIP / ISIN: | 023576AE1 / US023576AE18
+Sole Book-Running Manager: | Raymond James & Associates, Inc.
+*Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+The issuer has filed a registration statement (including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, the issuer, the underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling Raymond James & Associates, Inc. at 1-800-248-8863.
+This pricing term sheet supplements the preliminary form of prospectus supplement filed by Amerant Bancorp Inc. on September 14, 2026 (the “Preliminary Prospectus Supplement”). Terms used and not defined herein have the meanings given to them in the Preliminary Prospectus Supplement.
+2

@@ -1,0 +1,120 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1524472/000119312526392006/d41710dfwp.htm
+ISSUER (SEC filer): Xylem Inc.
+FILED: 2026-09-15
+========================================
+FWP
+1
+d41710dfwp.htm
+FWP
+FWP
+Issuer Free Writing Prospectus
+Filed Pursuant to Rule 433
+Registration Statement
+No. 333-297937
+Relating to
+Preliminary
+Prospectus Supplement dated September 15, 2026 to
+Prospectus dated August 3, 2026
+Xylem Inc.
+Pricing Term Sheet
+September 15, 2026
+$500,000,000 5.250% Senior Notes due 2029
+$500,000,000 5.450% Senior Notes due 2032
+$500,000,000 5.850% Senior Notes due 2037
+Terms Applicable to Each Series of Notes
+Issuer: | Xylem Inc.
+Ratings (Moody’s / S&P)*: | Baa2 / BBB
+Ranking of the Notes: | Senior Unsecured
+Offering Format: | SEC Registered
+Trade Date: | September 15, 2026
+Settlement Date: | September 29, 2026 (T+10)
+Denominations: | $2,000 and integral multiples of $1,000 in excess thereof
+Use of Proceeds: | Xylem intends to use the net proceeds from the notes, together with cash on hand, to finance all or a portion of the purchase price payable for the Acquisition (as defined in the preliminary prospectus supplement), to pay associated
+costs and expenses and for general corporate purposes.
+Joint Book-Running Managers: | Citigroup Global Markets Inc.
+ING Financial Markets LLC
+J.P. Morgan Securities LLC
+BNP Paribas Securities Corp.
+Wells Fargo Securities, LLC
+Co-Managers: | TD Securities (USA) LLC
+U.S. Bancorp Investments, Inc.
+Deutsche Bank Securities Inc.
+Siebert Williams Shank & Co., LLC
+SEB Securities, Inc.
+Terms Applicable to the
+5.250% Senior Notes due 2029
+Aggregate Principal Amount: | $500,000,000
+Maturity Date: | September 28, 2029
+Public Offering Price: | 99.959% of the principal amount
+Benchmark Treasury: | 4.375% due September 15, 2029
+Benchmark Treasury Price and Yield: | 98-29+; 4.765%
+Spread to Benchmark Treasury: | +50 bps
+Yield to Maturity: | 5.265%
+Coupon: | 5.250%
+Interest Payment Dates: | March 28 and September 28 of each year, commencing on March 28, 2027
+Day Count Convention: | 30 / 360
+Make-Whole Call: | Prior to August 28, 2029 at +10 bps
+Par Call: | On or after August 28, 2029
+Change of Control: | Puttable at 101% of principal plus accrued interest
+Special Mandatory Redemption: | If (i) we do not consummate the Acquisition on or prior to the later of (x) August 10, 2027 and (y) such later date to which the termination date under the EPA (as defined in the preliminary prospectus
+supplement) as in effect on the closing date of this offering may be amended in accordance with the terms thereof (such later date, the “Special Mandatory Redemption End Date”), (ii) on or prior to the Special Mandatory Redemption End
+Date, the EPA is terminated or (iii) we otherwise notify the trustee in writing that we will not pursue the consummation of the Acquisition,
+then we will be required to redeem all of the notes of each series at a redemption price equal to 101% of the aggregate principal amount of such notes, plus accrued and unpaid interest thereon, if any, to, but excluding, the Special
+Mandatory Redemption Date (as defined in the preliminary prospectus supplement).
+CUSIP / ISIN: | 98419M AQ3 / US98419MAQ33
+Terms Applicable to the
+5.450% Senior Notes due 2032
+Aggregate Principal Amount: | $500,000,000
+Maturity Date: | January 15, 2032
+Public Offering Price: | 99.841% of the principal amount
+Benchmark Treasury: | 4.375% due August 31, 2031
+Benchmark Treasury Price and Yield: | 97-31+; 4.837%
+Spread to Benchmark Treasury: | +65 bps
+Yield to Maturity: | 5.487%
+Coupon: | 5.450%
+Interest Payment Dates: | January 15 and July 15 of each year, commencing on January 15, 2027 (short first coupon)
+Day Count Convention: | 30 / 360
+Make-Whole Call: | Prior to December 15, 2031 at +10 bps
+Par Call: | On or after December 15, 2031
+Change of Control: | Puttable at 101% of principal plus accrued interest
+Special Mandatory Redemption: | If (i) we do not consummate the Acquisition on or prior to the Special Mandatory Redemption End Date, (ii) on or prior to the Special Mandatory Redemption End Date, the EPA is terminated or (iii) we otherwise notify
+the trustee in writing that we will not pursue the consummation of the Acquisition, then we will be required to redeem all of the notes of each series at a redemption price equal to 101% of the aggregate principal amount of such notes, plus accrued
+and unpaid interest thereon, if any, to, but excluding, the Special Mandatory Redemption Date.
+CUSIP / ISIN: | 98419M AR1 / US98419MAR16
+Terms Applicable to the
+5.850% Senior Notes due 2037
+Aggregate Principal Amount: | $500,000,000
+Maturity Date: | January 15, 2037
+Public Offering Price: | 99.918% of the principal amount
+Benchmark Treasury: | 4.625% due August 15, 2036
+Benchmark Treasury Price and Yield: | 97-00; 5.012%
+Spread to Benchmark Treasury: | +85 bps
+Yield to Maturity: | 5.862%
+Coupon: | 5.850%
+Interest Payment Dates: | January 15 and July 15 of each year, commencing on January 15, 2027 (short first coupon)
+Day Count Convention: | 30 / 360
+Make-Whole Call: | Prior to October 15, 2036 at +15 bps
+Par Call: | On or after October 15, 2036
+Change of Control: | Puttable at 101% of principal plus accrued interest
+Special Mandatory Redemption: | If (i) we do not consummate the Acquisition on or prior to the Special Mandatory Redemption End Date, (ii) on or prior to the Special Mandatory Redemption End Date, the EPA is terminated or (iii) we otherwise notify
+the trustee in writing that we will not pursue the consummation of the Acquisition, then we will be required to redeem all of the notes of each series at a redemption price equal to 101% of the aggregate principal amount of such notes, plus accrued
+and unpaid interest thereon, if any, to, but excluding, the Special Mandatory Redemption Date.
+CUSIP / ISIN: | 98419M AS9 / US98419MAS98
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+Xylem Inc. (the “Issuer”) has filed a registration statement (including a
+prospectus, as supplemented) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus (as supplemented) in that registration statement and other documents the Issuer has filed with the SEC
+for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating in the offering will
+arrange to send you the prospectus if you request it by calling Citigroup Global Markets Inc. toll-free at (800)
+831-9146,
+ING Financial Markets LLC toll-free at (877)
+446-4930,
+J.P. Morgan Securities LLC collect at (212)
+834-4533,
+BNP Paribas Securities Corp. toll-free at (800)
+854-5674
+or Wells
+Fargo Securities, LLC toll-free at (800)
+645-3751.
+Any disclaimer or other notice that may appear below is
+not applicable to this communication and should be disregarded. Such disclaimer or notice was automatically generated as a result of this communication being sent by Bloomberg or another email system.

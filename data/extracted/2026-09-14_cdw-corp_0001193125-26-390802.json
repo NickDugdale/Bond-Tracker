@@ -1,0 +1,78 @@
+{
+  "source_file": "2026-09-14_cdw-corp_0001193125-26-390802.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:46:56",
+  "usage": {
+    "input_tokens": 4886,
+    "output_tokens": 911
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "CDW Finance Corporation",
+    "sector": "Industrials",
+    "trade_date": "2026-09-14",
+    "settlement_date": "2026-09-21",
+    "rating_moodys": "Baa3",
+    "rating_sp": "BBB-",
+    "rating_fitch": "BBB-",
+    "bookrunners": [
+      "BofA Securities, Inc.",
+      "J.P. Morgan Securities LLC",
+      "Mizuho Securities USA LLC",
+      "Wells Fargo Securities, LLC",
+      "BNP Paribas Securities Corp.",
+      "Capital One Securities, Inc.",
+      "Goldman Sachs & Co. LLC",
+      "Morgan Stanley & Co. LLC",
+      "MUFG Securities Americas Inc.",
+      "Scotia Capital (USA) Inc.",
+      "U.S. Bancorp Investments, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 600000000,
+        "coupon_pct": 5.7,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-09-21",
+        "first_call_date": "2029-08-21",
+        "benchmark": "UST 4.375% due September 15, 2029",
+        "spread_bps": 100,
+        "yield_pct": 5.734,
+        "issue_price_pct": 99.908,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: 100 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 6.1,
+        "coupon_type": "fixed",
+        "maturity_date": "2032-01-15",
+        "first_call_date": "2031-12-15",
+        "benchmark": "UST 4.375% due August 31, 2031",
+        "spread_bps": 130,
+        "yield_pct": 6.102,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: 130 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 400000000,
+        "coupon_pct": 6.35,
+        "coupon_type": "fixed",
+        "maturity_date": "2033-09-21",
+        "first_call_date": "2033-07-21",
+        "benchmark": "UST 4.500% due August 31, 2033",
+        "spread_bps": 150,
+        "yield_pct": 6.385,
+        "issue_price_pct": 99.805,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: 150 basis points"
+      }
+    ]
+  }
+}

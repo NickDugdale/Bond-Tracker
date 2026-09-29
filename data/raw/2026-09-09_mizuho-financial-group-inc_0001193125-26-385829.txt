@@ -1,0 +1,117 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1335730/000119312526385829/d175326dfwp.htm
+ISSUER (SEC filer): MIZUHO FINANCIAL GROUP INC
+FILED: 2026-09-09
+========================================
+FWP
+1
+d175326dfwp.htm
+FREE WRITING PROSPECTUS
+FREE WRITING PROSPECTUS
+Filed Pursuant to Rule 433
+Registration
+No. 333-282497
+Pricing Term Sheet
+7.050% Fixed Rate Resetting Perpetual Subordinated Notes
+Certain terms used herein but not defined herein shall have the meanings assigned to them in the Preliminary Prospectus (as defined below).
+Issuer: | Mizuho Financial Group, Inc. (the “Issuer”)
+Expected Security Ratings:* | Ba1 (Moody’s) / BB+ (S&P)
+Securities Offered: | Aggregate principal amount of U.S.$1,000,000,000 7.050% fixed rate resetting perpetual subordinated notes (the “Notes”)
+Issue Price: | 100.000%
+Maturity Date: | Perpetual, with no fixed maturity date or mandatory redemption date
+Treasury Benchmark: | 10-year U.S. Treasury, 4.625% due August 15, 2036
+Treasury Benchmark Price / Yield: | 98-21¼ / 4.795%
+Spread to Treasury Benchmark: | 225.5 basis points
+Reoffer Yield: | 7.050%
+Coupon: | From, and including, September 14, 2026 to, but excluding, December 15, 2036, the Notes will bear interest at the fixed rate of 7.050% per annum . From, and including, December 15, 2036 and each fifth-year
+anniversary thereafter (each such date, an “Reset Date”) to, but excluding, the next following Reset Date, as applicable, (each such period, a “Reset Fixed Rate Period”), the Notes will bear interest at a fixed per
+annum rate equal to the applicable U.S. Treasury Rate as determined by The Bank of New York Mellon as calculation agent on the second Business Day (as defined below) immediately preceding the Reset Date falling on the first day of the Reset
+Fixed Rate Period, plus 2.255% (the “Reset Fixed Rate”). The
+determination of the applicable U.S. Treasury Rate and the Reset Fixed Rate is subject to the provisions as described under “Description of the Notes—Reset Fixed Rate Period” in the Preliminary Prospectus.
+Interest Payment Dates: | Semi-annually in arrears on June 15 and December 15 of each year, commencing December 15, 2026 (short first coupon)
+Day Count: | 30/360
+Ranking: | Direct and unsecured obligations of the Issuer which are conditional and subordinated to Senior Indebtedness. Claims in respect of the Notes shall at all times rank equally and pari passu and without any preference among
+themselves and at least equally and ratably with all other present and future unsecured, undated, conditional, and subordinated obligations of the Issuer (including obligations in respect of undated subordinated guarantees provided by the Issuer)
+and in priority to the rights and claims of holders of all classes of equity (including holders of preference shares (if any)) of the Issuer, subject to a write-down of all or part of their principal amount under defined circumstances, specifically,
+a Going Concern Write-Down upon the occurrence of a Capital Ratio Event (as defined below) or a Write-Down and Cancellation upon the occurrence of a Viability Event (as defined below) or a Bankruptcy
+Event.
+Trade Date: | September 8, 2026
+Settlement Date: | September 14, 2026 (T+4)
+Business Days: | New York and Tokyo
+Minimum Denomination: | U.S.$200,000 or integral multiples of U.S.$1,000 in excess thereof.
+Optional Cancellation of Interest Payments: | If the Issuer determines that it is necessary to cancel payment of interest on the Notes at any time and in its sole discretion (including pursuant to any capital distribution constraints plan submitted by the Issuer to the FSA
+under the Applicable Banking Regulations), the Issuer may cancel payment of all or part of the interest accrued on the Notes on an interest payment date (including additional amounts with respect thereto, if any), even if no cancellation of interest
+is required or the amount so cancelled exceeds the amount the Issuer is required to cancel due to the Interest Payable Amount Limitation (as defined below) pursuant to the mandatory interest cancellation provisions set forth in the perpetual
+subordinated indenture dated as of September 14, 2026, between the Issuer and The Bank of New York Mellon, as the Trustee (the “Indenture”).
+Mandatory Cancellation of Interest Payments Due to Interest Payable Amount Limitation: | Interest payments on the Notes will be subject to a limitation based on the Interest Payable Amount (such limitation, the “Interest Payable Amount Limitation”) and, as a result, the Issuer shall be prohibited from
+paying, and shall cancel, all or part of the interest on the Notes on an interest payment date (including the additional amounts with respect thereto, if any), if, and to the extent that, the interest payable on the Notes on such interest payment
+date (including the additional amounts with respect thereto, if any) exceeds the Interest Payable Amount.
+Agreement to Interest Cancellation: | Each holder or beneficial owner of a Note, by its acquisition of such Note, whether upon original issue or upon transfer, assignment or exchange thereof, shall thereby accept and agree to a cancellation of interest payment, to the
+extent and in the manner set forth in the Preliminary Prospectus or in the Notes.
+Going Concern Write-Down Upon a Capital Ratio Event: | If a Capital Ratio Event occurs, on the relevant Going Concern Discharge Date (as defined below), the Current Principal Amount of the Notes
+will be written down by an amount equal to the relevant Going Concern Write-Down Amount, and the holders and beneficial owners of the Notes will be deemed to have irrevocably waived their right to claim or receive repayments of the Current Principal
+Amount of the Notes to the extent of the relevant Going Concern Write-Down Amount or the interest on the relevant Going Concern Write-Down Amount. A “Capital Ratio Event” will be deemed to have occurred when the Issuer’s Consolidated Common Equity Tier 1 Capital Ratio, that the Issuer
+has reported or publicly announced in a manner set forth in the Preliminary Prospectus, has fallen below 5.125%, with certain exceptions set forth in the Preliminary Prospectus. “Going Concern Discharge Date” means the date to be determined by the Issuer
+after discussions with the FSA and any other relevant Japanese governmental organizations and notified to the holders of the Notes and the Trustee, such date to fall no more than ten Business Days from the date of the Going Concern Write-Down
+Notice. Following any write-down of principal amount upon a Capital Ratio Event, the
+Notes may be subject to a Write-Up in certain limited circumstances as described in the Preliminary Prospectus.
+Write-Down and Cancellation Upon a Viability or Bankruptcy Event: | If a Viability Event or a Bankruptcy Event occurs, (a) in the case of a Viability Event, on the relevant Discharge and
+Cancellation Date (as defined below), or (b) in the case of a Bankruptcy Event, immediately upon the occurrence of the Bankruptcy Event, the full principal amount of the Notes will be permanently written down to zero, the Notes will be
+cancelled, and holders and beneficial owners of the Notes will be deemed to irrevocably waived their right to claim or receive, and no longer have any rights against the Issuer with respect to, repayment of principal of or interest on or any other
+amount under the Notes. A “Viability Event” will be deemed to have
+occurred if the Japanese Prime Minister confirms ( nintei ) that the “specified item 2 measures ( tokutei dai nigo sochi ),” which are the measures set forth in Article 126-2, Paragraph
+1, Item 2 of the Japanese Deposit Insurance Act need to be applied to the Issuer. “Discharge and Cancellation Date” means, upon the occurrence of a Viability Event, the date to be determined by the Issuer after discussions with
+the FSA and any other relevant Japanese governmental organizations and notified to the holders of the Notes and the Trustee, such date to fall no more than ten Business Days from the date of the Write-Down and Cancellation
+Notice.
+Agreement to Going Concern Write-Down and Write-Down and Cancellation: | Each holder and beneficial owner of a Note, by its acquisition of such Note, whether upon original issue or upon transfer, assignment or exchange thereof, shall thereby accept and agree that, (i) the Notes shall be subject to
+Going Concern Write-Down upon the occurrence of a Capital Ratio Event on the relevant Going Concern Write-Down Date, and (ii) the Notes shall be subject to Write-Down and Cancellation on the relevant Discharge and Cancellation Date upon the
+occurrence of a Viability Event or immediately upon the occurrence of a Bankruptcy Event, to the extent and in the manner set forth in the Preliminary Prospectus.
+Optional Redemption: | The Notes may be redeemed at the option of the Issuer, in whole, but not in part, on December 15, 2036 or any subsequent Reset Date occurring on each fifth-year anniversary thereafter, upon not less than 25 days nor more than
+60 days’ prior notice to the holder of Notes and the Trustee, subject to prior confirmation of the FSA (if and to the extent required under the Applicable Banking Regulations), at a redemption price equal to 100% of the Original Principal
+Amount of the Notes (plus accrued and unpaid interest to (but excluding) the date fixed for redemption and additional amounts, if any); provided, however, that the Issuer shall not have such option to redeem the Notes if the Current Principal Amount
+of the Notes has been subject to one or more Going Concern Write-Downs and such written down amount has not been reinstated in full on the date fixed for redemption.
+Optional Tax Redemption: | The Notes may be redeemed at the option of the Issuer, in whole, but not in part, at any time, upon not less than 25 nor more than 60 days’ prior notice to the holders of Notes and the Trustee, subject to the prior
+confirmation of the FSA (if and to the extent required under the Applicable Banking Regulations), at a redemption price equal to 100% of the Current Principal Amount of the Notes (plus accrued and unpaid interest to (but excluding) the date fixed
+for redemption and additional amounts, if any), if (i) the Issuer is, or on the next interest payment date would be, required to pay any additional amounts or (ii) payment by the Issuer of interest on the Notes ceases to be treated as
+being a deductible expense for the purpose of computing the Issuer’s corporate tax liability by the Japanese tax authorities and, in each of (i) and (ii) above, such event arises as a result of any change in, or amendment to, the laws (or
+any regulations or rulings promulgated thereunder) of Japan (or any political subdivision or taxing authority in or of Japan) affecting taxation, or any change in the official position regarding the application or interpretation of such laws,
+regulations or rulings (including a holding, judgment, or order by a court of competent jurisdiction), which change, amendment, application or interpretation becomes effective on or after the date of the Preliminary Prospectus Supplement, and which
+obligation or event cannot be avoided by measures reasonably available to the Issuer; provided that, no such notice of redemption shall be given earlier than 90 days prior to the earliest date on which the relevant event would be
+triggered.
+Optional Regulatory Redemption: | The Notes may be redeemed at the option of the Issuer, in whole, but not in part, at any time upon not less than 25 nor more than 60 days’ prior notice to the holders of the Notes and the Trustee, subject to the prior
+confirmation of the FSA (if and to the extent required under the Applicable Banking Regulations), at a redemption price equal to 100% of the Current Principal Amount of the Notes (plus accrued and unpaid interest to (but excluding) the date fixed
+for redemption and additional amounts, if any), if the Issuer determines after consultation with the FSA and any other relevant Japanese governmental organizations that there is more than an insubstantial risk that the Notes will be partially or
+fully excluded from the Issuer’s Additional Tier 1 Capital under the applicable standards set forth in the Applicable Banking Regulations; provided that, no such notice of redemption shall be given earlier than 90 days prior to the earliest
+date on which such event would be triggered.
+Use of Proceeds: | The Issuer intends to use the net proceeds of the offering to make a perpetual subordinated loan that is intended to qualify as Additional Tier 1 Capital under the Applicable Banking Regulations and Internal TLAC under the Japanese
+TLAC Standard to Mizuho Bank, Ltd. (“Mizuho Bank”), and Mizuho Bank intends to utilize such funds for its general corporate purposes.
+Listing: | Luxembourg Stock Exchange’s Euro MTF Market
+Billing and Delivering: | Mizuho Securities USA LLC
+Joint Lead Managers and Joint Bookrunners: | Mizuho Securities USA LLC, J.P. Morgan Securities LLC, BofA Securities, Inc., CIBC World Markets Corp. and SG Americas Securities, LLC
+Senior Co-Managers: | Daiwa Capital Markets America Inc., HSBC Securities (USA) Inc and Santander US Capital Markets LLC
+Co-Managers: | BNY Mellon Capital Markets, LLC, The Governor and Company of the Bank of Ireland, KKR Capital Markets LLC, NatWest Markets Plc, Rabo Securities USA, Inc. and UBS Securities LLC
+CUSIP: | 60687Y EA3
+ISIN: | US60687YEA38
+Common Code: | 349755238
+*Note: A security rating is not a recommendation to buy, sell or hold securities and may be subject to suspension, revision
+or withdrawal at any time by the assigning rating agencies.
+This communication is intended for the sole use of the person to whom it is provided
+by us. This communication does not constitute an offer to sell or the solicitation of an offer to buy any securities in any jurisdiction to any person to whom it is unlawful to make such offer or solicitation in such jurisdiction.
+The Issuer has filed a registration statement (including a prospectus (the “Base
+Prospectus”)) and a preliminary prospectus supplement (the “Preliminary Prospectus Supplement” and, together with the Base Prospectus, the “Preliminary Prospectus”) with the SEC for the offering to which this
+communication relates. Before you invest, you should read the Preliminary Prospectus and other documents the Issuer has filed with the SEC and which are incorporated by reference therein for more complete information about the Issuer and this
+offering. You may get these documents for free by visiting EDGAR on the SEC Web site at
+www.sec.gov.
+Alternatively, the Issuer, any underwriter or any dealer participating in the offering will arrange to send you the Preliminary Prospectus if
+you request it by calling Mizuho Securities USA LLC, toll free at
+1-866-271-7403,
+J.P. Morgan Securities LLC, at
+1-212-834-4533,
+BofA Securities, Inc., at
+1-800-294-1322,
+CIBC World Markets Corp. at
+1-800-282-0822
+or SG Americas Securities, LLC at
+1-855-881-2108.
+No EEA PRIIPs KID or UK CCI disclosure document – No EEA PRIIPs key
+information document (KID) or UK CCI disclosure document required by the FCA Product Disclosure Sourcebook (DISC) has been prepared as not available to retail in the EEA or the UK. See “Prohibition of Sales to EEA Retail Investors” and
+“Prohibition of Sales to UK Retail Investors” in the Preliminary Prospectus Supplement.

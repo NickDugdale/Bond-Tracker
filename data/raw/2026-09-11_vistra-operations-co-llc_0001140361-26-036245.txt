@@ -1,0 +1,78 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1746576/000114036126036245/ef20081902_fwp.htm
+ISSUER (SEC filer): Vistra Operations Co LLC
+FILED: 2026-09-11
+========================================
+FWP
+1
+ef20081902_fwp.htm
+PRICING TERM SHEET
+Filed Pursuant to Rule 433
+Registration Statement Nos. 333-298811 and 333-298811-01
+September 10, 2026
+PRICING TERM SHEET
+September 10, 2026
+Series A Junior Subordinated Notes due 2057 | Series B Junior Subordinated Notes due 2057
+Issuer: | Vistra Operations Company LLC | Vistra Operations Company LLC
+Guarantor: | Vistra Corp. | Vistra Corp.
+Principal Amount: | $850,000,000 | $650,000,000
+Expected Ratings* (Moody’s/S&P/Fitch): | Ba2 (Stable) / BB (Stable) / BB (Stable) | Ba2 (Stable) / BB (Stable) / BB (Stable)
+Trade Date: | September 10, 2026 | September 10, 2026
+Settlement Date (T+10)**: | September 24, 2026 | September 24, 2026
+Final Maturity Date: | March 15, 2057 | March 15, 2057
+Interest Payment Dates: | March 15 and September 15 | March 15 and September 15
+Record Dates for Interest Payment: | Close of business on the immediately preceding March 1 or September 1, as applicable, whether or not a Business Day. | Close of business on the immediately preceding March 1 or September 1, as applicable, whether or not a Business Day.
+First Interest Payment Date: | March 15, 2027 | March 15, 2027
+Interest Rate: | From and including the original issuance date to, but excluding, March 15,
+2032 (the First Series A Reset Date) at the rate of 7.000% per year. From and including the First Series A Reset Date, during each Reset Period, at a rate per
+year equal to the Five-year U.S. Treasury Rate as of the most recent Reset Interest Determination Date plus a spread of 2.253%, to be reset on each Series A Reset Date; provided, that the interest rate during any Reset Period will not
+reset below 7.000% | From and including the original issuance date to, but excluding, March 15,
+2037 (the First Series B Reset Date) at the rate of 7.250% per year. From and including the First Series B Reset Date, during each Reset Period, at a rate per
+year equal to the Five-year U.S. Treasury Rate as of the most recent Reset Interest Determination Date plus a spread of 2.296%, to be reset on each Series B Reset Date; provided, that the interest rate during any Reset Period will not
+reset below 7.250%
+Optional Deferral of Interest: | Up to 10 consecutive years per deferral | Up to 10 consecutive years per deferral
+Optional Redemption: | In whole or in part on one or more occasions at a price equal to 100% of the principal amount being redeemed, plus accrued and unpaid interest to,
+but excluding, the redemption date (i) on any day in the period commencing on the date falling 90 days prior to the First Series A Reset Date and ending on and including the First Series A Reset Date and (ii) after the First Series A Reset
+Date, on any interest payment date | In whole or in part on one or more occasions at a price equal to 100% of the principal amount being redeemed, plus accrued and unpaid interest to,
+but excluding, the redemption date (i) on any day in the period commencing on the date falling 90 days prior to the First Series B Reset Date and ending on and including the First Series B Reset Date and (ii) after the First Series B Reset
+Date, on any interest payment date
+Tax Event Redemption: | In whole, but not in part, at 100% of the principal amount being redeemed, plus accrued and unpaid interest to, but excluding, the redemption
+date, at any time following the occurrence and during the continuance of a Tax Event | In whole, but not in part, at 100% of the principal amount being redeemed, plus accrued and unpaid interest to, but excluding, the redemption
+date, at any time following the occurrence and during the continuance of a Tax Event
+Tax Credit Event Call: | In whole, but not in part, at 101% of the principal amount being redeemed, plus accrued and unpaid interest to, but excluding, the redemption
+date, at any time following the occurrence and during the continuance of a Tax Credit Event (any notice of redemption may only be issued by the later of (a) December 31, 2026 and (b) six months from the date of issuance) | In whole, but not in part, at 101% of the principal amount being redeemed, plus accrued and unpaid interest to, but excluding, the redemption
+date, at any time following the occurrence and during the continuance of a Tax Credit Event (any notice of redemption may only be issued by the later of (a) December 31, 2026 and (b) six months from the date of issuance)
+Rating Agency Event Redemption: | In whole, but not in part, at 102% of the principal amount being redeemed, plus accrued and unpaid interest to, but excluding, the redemption
+date, at any time following the occurrence and during the continuance of a Rating Agency Event | In whole, but not in part, at 102% of the principal amount being redeemed, plus accrued and unpaid interest to, but excluding, the redemption
+date, at any time following the occurrence and during the continuance of a Rating Agency Event
+Change of Control Triggering Event Redemption: | In whole, but not in part, at 101% of the principal amount, plus accrued and unpaid interest to, but excluding, the redemption date, at any time
+following the occurrence of a Change of Control Event. If no Change of Control Redemption is made by the issuer within the time periods specified in the issuer’s preliminary prospectus supplement following a Change of Control Triggering
+Event, and the issuer has not otherwise given a redemption notice to holders of all outstanding notes, the per annum rate of interest payable will be increased by an additional 5% from and including the date on which the applicable notice
+of a Change of Control Triggering Event is sent to holders | In whole, but not in part, at 101% of the principal amount, plus accrued and unpaid interest to, but excluding, the redemption date, at any time
+following the occurrence of a Change of Control Event. If no Change of Control Redemption is made by the issuer within the time periods specified in the issuer’s preliminary prospectus supplement following a Change of Control Triggering
+Event, and the issuer has not otherwise given a redemption notice to holders of all outstanding notes, the per annum rate of interest payable will be increased by an additional 5% from and including the date on which the applicable notice
+of a Change of Control Triggering Event is sent to holders
+Price to Public: | 100.000% of the principal amount | 100.000% of the principal amount
+Proceeds to Issuer Before Expenses: | 99.000% of the principal amount | 99.000% of the principal amount
+CUSIP/ISIN: | 92840V BE1 / US92840VBE11 | 92840V BF8 / US92840VBF85
+Joint Book-Running Managers: | Barclays Capital Inc., BofA Securities, Inc., Mizuho Securities USA LLC,
+MUFG Securities Americas Inc., Truist Securities, Inc., BBVA Securities Inc., BMO Capital Markets Corp., Citigroup Global Markets Inc., Credit Agricole
+Securities (USA) Inc., Goldman Sachs & Co. LLC, J.P. Morgan
+Securities LLC, Morgan Stanley & Co. LLC, Natixis Securities Americas LLC, PNC Capital Markets LLC, RBC Capital Markets, LLC, Santander US Capital Markets LLC, Scotia Capital (USA) Inc., SMBC Nikko Securities America, Inc., SG Americas Securities, LLC, Wells Fargo Securities, LLC, KeyBanc Capital Markets Inc. and U.S. Bancorp Investments, Inc.
+The terms “Reset Period,” “Five-year U.S. Treasury Rate,” “Reset Interest Determination Date,” “Series A Reset Date,” “Series B Reset Date,” “Tax Event,” “Tax Credit
+Event,” “Rating Agency Event,” “Change of Control Redemption” and “Change of Control Triggering Event” have the meanings given in the issuer’s preliminary prospectus supplement dated September 10, 2026.
+* | A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+** | We expect to deliver the notes against payment for the notes on or about September 24, 2026 , the tenth business day following the date of the pricing of the notes. Under Rule 15c6-1 of the Exchange Act, trades in the secondary market generally are required
+to settle in one business day, unless the parties to such trade expressly agree otherwise. Accordingly, purchasers who wish to trade notes prior to the first business day before the delivery of the notes will be required to specify
+alternative settlement arrangements to prevent a failed settlement. Purchasers of the notes who wish to trade notes prior to the first business day before the delivery of the notes should consult their own advisors.
+Vistra Operations Company LLC
+has filed a registration statement (including a
+prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents Vistra Corp. has filed with the SEC for more complete information
+about Vistra Corp. and this offering. You may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively,
+Vistra Operations Company
+LLC
+, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling Barclays Capital Inc. toll-free at 1-888-603-5847, BofA Securities, Inc. toll-free at 1-800-294-1322,
+Mizuho Securities USA LLC toll-free at 1-866-271-7403, MUFG Securities Americas Inc. toll-free at 1-877-649-6848 and Truist Securities, Inc. toll-free at 1-800-685-4786. Capitalized terms not otherwise defined herein shall have the meanings
+ascribed to them in
+Vistra Operations Company LLC
+’s preliminary prospectus supplement dated September 10, 2026 for the offering to which this communication
+relates.

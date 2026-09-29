@@ -1,0 +1,69 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1410635/000119312526390656/d113845dfwp.htm
+ISSUER (SEC filer): American Water Capital Corp.
+FILED: 2026-09-14
+========================================
+FWP
+1
+d113845dfwp.htm
+FWP
+FWP
+Free Writing Prospectus
+Filed Pursuant to Rule 433
+Registration Statement Nos.
+333-277166 and 333-277166-01
+PRICING TERM SHEET
+September 14, 2026
+American
+Water Capital Corp.
+American Water Works Company, Inc.
+$500,000,000 5.550% Senior Notes due 2033
+Issuer: | American Water Capital Corp.
+Support Provider: | American Water Works Company, Inc.
+Security: | 5.550% Senior Notes due 2033
+Size: | $500,000,000
+Trade Date: | September 14, 2026
+Settlement Date: | September 16, 2026 (T+2)*
+Maturity Date: | October 1, 2033
+Benchmark Treasury: | UST 4.50% due August 31, 2033
+Benchmark Treasury Yield: | 4.858%
+Spread to Benchmark Treasury: | +70 bps
+Yield to Maturity: | 5.558%
+Coupon: | 5.550%
+Price to Public: | 99.951% of the principal amount
+Interest Payment Dates: | April 1 and October 1 of each year, beginning on April 1, 2027
+Redemption Provisions:
+Make-whole call: | Treasury Rate +15 bps
+Par call: | On or after August 1, 2033
+CUSIP: | 03040W BK0
+ISIN: | US03040WBK09
+Ratings (1) : | Baa1 (stable outlook) / A (stable outlook) (Moody’s/S&P)
+Joint Book-Running Managers: | PNC Capital Markets LLC Mizuho Securities USA
+LLC RBC Capital Markets, LLC U.S. Bancorp Investments,
+Inc. BofA Securities, Inc. J.P. Morgan Securities LLC Wells Fargo Securities, LLC TD Securities (USA) LLC Truist Securities, Inc.
+Sr. Co-Managers: | Huntington Securities, Inc. Regions Securities
+LLC Scotia Capital (USA) Inc.
+Co-Managers: | BNY Mellon Capital Markets, LLC Loop Capital
+Markets LLC
+Jr. Co-Managers: | Academy Securities, Inc. Independence Point
+Securities LLC Roberts & Ryan, Inc. Samuel A.
+Ramirez & Company, Inc.
+(1) | Neither of these ratings is a recommendation to buy, sell or hold these securities. Each rating may be subject
+to revision or withdrawal at any time, and should be evaluated independently of any other rating.
+The term “Treasury Rate”
+has the meaning ascribed to that term in the Issuer’s Preliminary Prospectus Supplement, dated September 14, 2026.
+* | The underwriters expect to deliver the notes in book-entry form only through the facilities of The Depository
+Trust Company against payment in New York, New York on or about the second business day following the date of the prospectus supplement, or “T+2”. Trades of securities in the secondary market generally are required to settle in one
+business day, referred to as T+1, unless the parties to a trade agree otherwise. Accordingly, by virtue of the fact that the initial delivery of the notes will not be made on a T+1 basis, investors who wish to trade the notes prior to the first
+business day before delivery of the notes will be required to specify an alternative settlement cycle at the time of any such trade to prevent a failed settlement. Investors in the notes who wish to trade the notes on any date prior to the first
+business day before delivery should consult their own advisors.
+The Issuer and the Support Provider have filed a registration statement
+(including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents the Issuer and the Support Provider have filed with the
+SEC for more complete information about the Issuer, the Support Provider and this offering. You may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, any underwriter participating in the offering will
+arrange to send you the prospectus if you request it by calling PNC Capital Markets LLC toll free at
+(855) 881-0697,
+Mizuho Securities USA LLC toll free at (866)
+271-7403,
+RBC Capital Markets, LLC toll free at (866)
+375-6829
+or U.S. Bancorp Investments, Inc. toll free at (877)
+558-2607.

@@ -1,0 +1,75 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/769397/000119312526385562/d103570dfwp.htm
+ISSUER (SEC filer): Autodesk, Inc.
+FILED: 2026-09-09
+========================================
+FWP
+1
+d103570dfwp.htm
+FWP
+FWP
+Filed pursuant to Rule 433
+Registration
+No. 333-287650
+Issuer Free Writing Prospectus dated September 8, 2026
+Relating to Preliminary Prospectus Supplement dated September 8, 2026
+$1,000,000,000
+AUTODESK, INC.
+Pricing Term
+Sheet
+$500,000,000 5.050% Notes due 2029
+$500,000,000 5.650% Notes due 2033
+Issuer: | Autodesk, Inc.
+Format: | SEC Registered
+Security Type: | Senior Unsecured Notes
+Title: | 5.050% Notes due 2029 (the “2029 Notes”) 5.650% Notes due 2033 (the “2033 Notes”)
+Principal Amount: | 2029 Notes: $500,000,000 2033 Notes:
+$500,000,000
+Maturity Date: | 2029 Notes: September 15, 2029 2033 Notes:
+September 15, 2033
+Coupon: | 2029 Notes: 5.050% 2033 Notes:
+5.650%
+Expected Ratings*: | A3 by Moody’s Investor Service, Inc. BBB+ by Standard & Poor’s Ratings Services
+Price to Public: | 2029 Notes: 99.869% of face amount 2033 Notes:
+99.844% of face amount
+Underwriting Discount: | 2029 Notes: 0.450% per note 2033 Notes: 0.625%
+per note
+Yield to Maturity: | 2029 Notes: 5.097% 2033 Notes:
+5.677%
+Spread to Benchmark Treasury: | 2029 Notes: T+63 basis points 2033 Notes: T+100
+basis points
+Benchmark Treasury: | 2029 Notes: 4.250% due August 15, 2029 2033 Notes: 4.500% due August 31, 2033
+Benchmark Treasury Price and Yield: | 2029 Notes: 99-13; 4.467% 2033 Notes: 98-30+; 4.677%
+Interest Payment Dates: | Semi-annually in arrears on March 15 and September 15, beginning on March 15, 2027, accruing from September 10, 2026
+Optional Redemption: | Prior to the applicable Par Call Date (as defined below), the issuer may redeem each series of notes at its option, in whole or in part, at
+any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (1) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the
+notes matured on the applicable Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus (a) 10 basis
+points in the case of the 2029 Notes or (b) 15 basis points in the case of the 2033 Notes, less (ii) interest accrued to the date of redemption, and (2) 100% of the principal amount of the applicable series of notes to be redeemed. plus, in either case, accrued and unpaid interest, if any, on the amount being redeemed to, but excluding, the date of redemption. On or after the applicable Par Call Date, the issuer may, at its option, redeem each
+series of notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the notes redeemed, plus accrued and unpaid interest thereon, if any, to, but excluding, the date of
+redemption.
+Par Call Date: | 2029 Notes: August 15, 2029 (one month prior to the maturity date of the 2029 Notes) 2033 Notes: July 15, 2033 (two months prior to the maturity date of the 2033 Notes)
+Trade Date: | September 8, 2026
+Settlement Date**: | September 10, 2026 (T+2)
+CUSIP/ISIN: | 2029 Notes: 052769 AK2 / US052769AK24 2033
+Notes: 052769 AL0 / US052769AL07
+Joint Book-Running Managers: | Morgan Stanley & Co. LLC BNP Paribas
+Securities Corp. Citigroup Global Markets Inc.
+BofA Securities, Inc. U.S. Bancorp Investments,
+Inc.
+Co-Managers: | J.P. Morgan Securities LLC MUFG Securities
+Americas Inc. RBC Capital Markets, LLC Wells Fargo
+Securities, LLC
+* | A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision
+or withdrawal at any time. Each rating should be evaluated independently of any other rating.
+** | Under Rule 15c6-1 under the Securities Exchange Act of 1934, as
+amended, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade notes more than one business day prior to the
+settlement date will be required, by virtue of the fact that the notes initially will settle T+2, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement and should consult their own advisors.
+The issuer has filed a registration statement (including a prospectus and preliminary prospectus supplement) with the SEC for
+the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this
+offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus
+supplement and accompanying prospectus if you request it by calling Morgan Stanley & Co. LLC toll-free at
+800-718-1649,
+BNP Paribas Securities Corp. toll-free
+at
+800-854
+5674 or Citigroup Global Markets Inc. toll-free at
+800-831-9146.

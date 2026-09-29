@@ -1,0 +1,113 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1543151/000155278126000479/e26381_uber-fwp.htm
+ISSUER (SEC filer): Uber Technologies, Inc
+FILED: 2026-09-09
+========================================
+FWP
+1
+e26381_uber-fwp.htm
+FREE WRITING PROSPECTUS
+FILED PURSUANT TO RULE 433
+REGISTRATION NO.
+333-293483
+DATED SEPTEMBER
+9, 2026
+Uber Technologies, Inc.
+Pricing Term Sheet
+Issuer: | Uber Technologies, Inc.
+Expected Ratings*: | Baa1 (P) / BBB+ (P) / A- (S) (Moody’s / S&P / Fitch)
+Trade Date: | September 9, 2026
+Expected Settlement Date**: | September 15, 2026 (T+4)
+Settlement and Trading: | Through the facilities of Clearstream Banking S.A. or Euroclear Bank SA/NV
+Joint Book-Running Managers: | Goldman Sachs & Co. LLC Morgan Stanley & Co. International plc Deutsche Bank AG, London Branch Merrill Lynch International BNP PARIBAS Citigroup Global Markets Limited HSBC Bank plc J.P. Morgan Securities plc UBS AG London Branch Banco Santander, S.A. Mizuho International plc RBC Europe Limited TD Global Finance unlimited company
+Co-Managers: | PNC Capital Markets LLC Wells Fargo Securities International Limited Academy Securities, Inc. Banco Bilbao Vizcaya Argentaria, S.A. MUFG Securities EMEA plc U.S. Bancorp Investments, Inc. AmeriVet Securities, Inc. Blaylock Van, LLC C.L. King & Associates, Inc. Drexel Hamilton, LLC Stern Brothers & Co.
+Title: | 3.750% Senior Notes due 2029 (the “2029 Notes”) 4.125% Senior Notes due 2032 (the “2032 Notes”) 4.375% Senior Notes due 2034 (the “2034 Notes”) 4.750% Senior Notes due 2038 (the “2038 Notes”) 5.250% Senior Notes due 2046 (the “2046 Notes”)
+Principal Amount: | 2029 Notes: €750,000,000 2032 Notes: €1,000,000,000 2034 Notes: €1,000,000,000 2038 Notes: €1,000,000,000 2046 Notes: €750,000,000
+Coupon: | 2029 Notes: 3.750% per year 2032 Notes: 4.125% per year 2034 Notes: 4.375% per year 2038 Notes: 4.750% per year 2046 Notes: 5.250% per year
+Maturity Date: | 2029 Notes: September 15, 2029 2032 Notes: September 15, 2032 2034 Notes: September 15, 2034 2038 Notes: September 15, 2038 2046 Notes: September 15, 2046
+Benchmark Bund: | 2029 Notes: OBL 2.100% due April 12, 2029 #189 2032 Notes: DBR 1.700% due August 15, 2032 2034 Notes: DBR 2.600% due August 15, 2034 2038 Notes: DBR 1.000% due May 15, 2038 2046 Notes: DBR 2.500% due August 15, 2046
+Benchmark Bund Price and Yield: | 2029 Notes: 97.580; 3.086% 2032 Notes: 91.930; 3.217% 2034 Notes: 94.890; 3.344% 2038 Notes: 75.795; 3.571% 2046 Notes: 81.800; 3.821%
+Spread to Benchmark Bund: | 2029 Notes: +68.6 basis points 2032 Notes: +95.7 basis points 2034 Notes: +107.3 basis points 2038 Notes: +119.5 basis points 2046 Notes: +146.7 basis points
+Yield to Maturity: | 2029 Notes: 3.772% 2032 Notes: 4.174% 2034 Notes: 4.417% 2038 Notes: 4.766% 2046 Notes: 5.288%
+Mid-Swap Yield: | 2029 Notes: 3.322% 2032 Notes: 3.374% 2034 Notes: 3.417% 2038 Notes: 3.516% 2046 Notes: 3.588%
+Spread to Mid-Swap Yield: | 2029 Notes: +45 basis points 2032 Notes: +80 basis points 2034 Notes: +100 basis points 2038 Notes: +125 basis points 2046 Notes: +170 basis points
+Price to Public: | 2029 Notes: 99.939% of the principal amount 2032 Notes: 99.745% of the principal amount 2034 Notes: 99.722% of the principal amount 2038 Notes: 99.856% of the principal amount 2046 Notes: 99.538% of the principal amount
+Interest Payment Dates: | Annually in arrears on September 15 of each year, beginning on September 15, 2027
+Interest Payment Record Dates: | The close of business on the day (whether or not a business day) immediately preceding the relevant interest payment date, or, if the notes are represented by one or more global notes, the close of business on the clearing system business day (for this purpose, a day on which Clearstream Banking S.A. and Euroclear Bank SA/NV are open for business) immediately preceding the relevant interest payment date.
+Optional Redemption: | Prior to the applicable Par Call Date (as defined below) for a series of
+notes, the issuer may redeem each series of notes at its option, in whole or in part, at any time and from time to time, at a redemption
+price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (1) the sum of the present values of the remaining scheduled
+payments of principal and interest on the notes of the applicable series to be redeemed (exclusive of interest accrued to the redemption
+date) that would have been payable if such redemption had been made on the applicable Par Call Date (assuming the notes of such series
+matured on such date), discounted to the redemption date on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government
+Bond Rate (as defined in the preliminary prospectus supplement relating to the offering) plus (i) 15 basis points in the case of the 2029
+Notes, (ii) 15 basis points in the case of the 2032 Notes, (iii) 20 basis points in the case of the 2034 Notes, (iv) 20 basis points in
+the case of the 2038 Notes or (v) 25 basis points in the case of the 2046 Notes; and (2) 100% of the principal amount of the notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to, but excluding,
+the redemption date. On or after the applicable Par Call Date for a series of notes, the issuer
+may redeem such series of notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal
+amount of such notes being redeemed plus accrued and unpaid interest thereon to, but excluding, the redemption date.
+Par Call Date: | 2029 Notes: August 15, 2029 (the date that is one month prior to the maturity
+date of the 2029 Notes) 2032 Notes: July 15, 2032 (the date that is two months prior to the maturity
+date of the 2032 Notes) 2034 Notes: June 15, 2034 (the date that is three months prior to the maturity
+date of the 2034 Notes) 2038 Notes: June 15, 2038 (the date that is three months prior to the maturity
+date of the 2038 Notes) 2046 Notes: March 15, 2046 (the date that is six months prior to the maturity
+date of the 2046 Notes)
+Redemption for Tax Reasons: | The issuer may redeem any series of the notes, in whole, but not in part, in the event of certain changes in the tax laws (or any regulations or rulings promulgated under the tax laws) of the United States (or any taxing authority in the United States), or the official position regarding the application or interpretation thereof, that would require the issuer to pay additional amounts with respect to the notes of such series to be redeemed. The redemption price will be equal to 100% of the principal amount of the notes of such series to be redeemed, plus accrued and unpaid interest, if any, on the notes of such series to be redeemed to, but not including, the redemption date.
+Day Count Convention: | ACTUAL/ACTUAL (ICMA)
+Listing: | The issuer intends to apply to list each series of the notes on the New York Stock Exchange (the “NYSE”). The listing application will be subject to approval by the NYSE. The issuer currently expects trading in each series of the notes on the NYSE to begin within 30 days after the original issue date. If such a listing is obtained, the issuer has no obligation to maintain such listing and the issuer may delist any series of the notes at any time. Each series of notes is a new issue of securities and there is currently no public market for the notes.
+Denominations: | €100,000 and multiples of €1,000 in excess thereof
+Change of Control Put: | 101% of the principal amount plus accrued and unpaid interest
+MiFID II Product Governance: | Professional investors and Eligible Counter Parties (ECPs) only target market
+UK MiFIR Product Governance: | Professional investors and ECPs only target market
+PRIIPs: | No EU PRIIPs key information document (KID) or UK DISC disclosure document has been prepared as the notes are not available to retail investors in the EEA or in the UK
+Stabilization: | Relevant stabilization regulations apply (including FCA/ICMA)
+Common Code / ISIN / CUSIP: | 2029 Notes: 349899167 / XS3498991671 / 90353TAW0 2032 Notes: 349899191 / XS3498991911 / 90353TAX8 2034 Notes: 349899205 / XS3498992059 / 90353TAY6 2038 Notes: 349899213 / XS3498992133 / 90353TAZ3 2046 Notes: 349899221 / XS3498992216 / 90353TBA7
+*The security ratings above are not a recommendation to buy, sell
+or hold the securities offered hereby. The ratings may be subject to revision or withdrawal at any time by the assigning rating organization,
+and each rating should be evaluated independently of any other rating.
+**Under Rule 15c6-1 of the Securities Exchange Act of 1934, as amended,
+trades in the secondary market generally are required to settle in one business day, unless the parties to a trade expressly agree otherwise.
+Accordingly, purchasers who wish to trade notes prior to the first business day preceding the settlement date will be required, by virtue
+of the fact that the notes initially will settle in T+4, to specify an alternative settlement cycle at the time of any such trade to prevent
+a failed settlement and should consult their own advisors in this regard.
+MIFID II AND UK MIFIR PRODUCT GOVERNANCE / PROFESSIONAL INVESTORS AND
+ELIGIBLE COUNTERPARTIES ONLY TARGET MARKET / NO PRIIPs KID OR DISC DISCLOSURE DOCUMENT / EXEMPTION UNDER THE POATRs —
+Manufacturer
+target market is eligible counterparties and professional clients only (all distribution channels). No key information document (“KID”)
+under Regulation (EU) No. 1286/2014 (as amended, the “PRIIPs Regulation”) or disclosure document required by the FCA
+Product Disclosure Sourcebook (“DISC”) has been prepared as the notes are not available to retail investors in the European
+Economic Area (the “EEA”) or the United Kingdom (“UK”).
+In the EEA, the notes are not intended to be offered, sold or otherwise
+made available to and should not be offered, sold or otherwise made available to any retail investor in the EEA. For these purposes, a
+retail investor means a person who is one (or more) of: (i) a retail client as defined in point (11) of Article 4(1) of
+Directive 2014/65/EU (as amended, “MiFID II”); (ii) a customer within the meaning of Directive (EU) 2016/97, as amended,
+where that customer would not qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II; or
+(iii) not a qualified investor as defined in Regulation (EU) 2017/1129, as amended. Consequently, no KID required by the PRIIPs Regulation
+for offering or selling the notes or otherwise making them available to retail investors in the EEA has been prepared and therefore offering
+or selling the notes or otherwise making them available to any retail investor in the EEA may be unlawful under the PRIIPs Regulation.
+In the UK, the notes are not intended to be offered, sold or otherwise
+made available to and should not be offered, sold or otherwise made available to any retail investor in the UK. For these purposes, a
+retail investor means a person who is neither (i) a professional client, as defined in point (8) of Article 2(1) of
+Regulation (EU) No 600/2014 as it forms part of domestic law by virtue of the EUWA (“UK MiFIR”) nor (ii) a qualified
+investor as defined in paragraph 15 of Schedule 1 to the Public Offers and Admissions to Trading Regulations 2024 (the “POATRs”).
+Consequently, no disclosure document required by DISC for offering, selling or distributing the notes or otherwise making them available
+to retail investors in the UK has been prepared and therefore offering, selling or distributing the notes or otherwise making them available
+to any retail investor in the UK may be unlawful under DISC and the Consumer Composite Investments (Designated Activities) Regulations
+2024.
+This document is only for distribution to and directed at: (i) in
+the UK, persons having professional experience in matters relating to investments falling within Article 19(5) of the Financial Services
+and Markets Act 2000 (Financial Promotion) Order 2005 (as amended) (the “Order”) and high net worth entities falling within
+Article 49(2)(a) to (d) of the Order; (ii) persons who are outside the UK; and (iii) any other person to whom it can otherwise
+be lawfully distributed (all such persons together being referred to as “Relevant Persons”). Any investment or investment
+activity to which this document relates is available only to and will be engaged in only with Relevant Persons, and any person who is
+not a Relevant Person should not rely on it.
+The issuer has filed a registration statement (including a prospectus)
+with the U.S. Securities and Exchange Commission (“SEC”) for the offering to which this communication relates. Before you
+invest, you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete
+information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov.
+Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you
+request it by calling Goldman Sachs & Co. LLC toll-free at 1-866-471-2526; Morgan Stanley & Co. International plc toll-free at
+1-866-718-1649; Deutsche Bank AG, London Branch toll-free at 1-800-503-4611; Merrill Lynch International toll-free at 1-800-294-1322;
+and BNP PARIBAS toll-free at 1-800-854-5674.
+Any legends, disclaimers or other notices that may appear below are
+not applicable to this communication and should be disregarded. Such legends, disclaimers or other notices have been automatically generated
+as a result of this communication having been sent via Bloomberg or another system.

@@ -1,0 +1,112 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1131399/000119312526385857/d36790dfwp.htm
+ISSUER (SEC filer): GSK plc
+FILED: 2026-09-09
+========================================
+FWP
+1
+d36790dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration Nos.
+333-278205
+and
+333-278205-02
+March 6, 2025
+PRICING TERM SHEET
+GlaxoSmithKline Capital Inc.
+$1,250,000,000 4.850% Notes due 2029
+$1,250,000,000 5.000% Notes due 2031
+$1,500,000,000 5.250% Notes due 2033
+$1,500,000,000 5.500% Notes due 2036
+$500,000,000 6.000% Notes due 2056
+$500,000,000 Floating Rate Notes due 2029
+Fully and unconditionally guaranteed by
+GSK plc
+Issuer: | GlaxoSmithKline Capital Inc.
+Guarantor: | GSK plc
+Anticipated Ratings*: | A2 (stable) by Moody’s Investors Service, Inc. A (stable) by Standard & Poor’s Ratings Services
+Security: | 4.850% Notes due 2029 (the “2029 Notes”) 5.000% Notes due 2031 (the “2031 Notes”) 5.250% Notes
+due 2033 (the “2033 Notes”) 5.500% Notes due 2036 (the “2036 Notes”) 6.000% Notes due 2056 (the “2056 Notes”) Floating
+Rate Notes due 2029 (the “Floating Rate Notes”)
+Trade Date: | September 8, 2026
+Expected Settlement Date**: | September 15, 2026 (T+5)
+Maturity Date: | 2029 Notes: September 14, 2029 2031 Notes:
+September 15, 2031 2033 Notes: September 15, 2033 2036 Notes: September 15, 2036 2056 Notes:
+September 15, 2056 Floating Rate Notes: September 14, 2029
+Aggregate Principal Amount: | 2029 Notes: $1,250,000,000 2031 Notes:
+$1,250,000,000 2033 Notes: $1,500,000,000 2036 Notes:
+$1,500,000,000 2056 Notes: $500,000,000 Floating Rate Notes:
+$500,000,000
+Coupon: | 2029 Notes: 4.850% 2031 Notes: 5.000% 2033 Notes: 5.250% 2036 Notes: 5.500% 2056 Notes: 6.000% Floating Rate Notes: Compounded SOFR plus
+0.560%
+Interest Payment Dates: | 2029 Notes: Semi-annually on March 14 and September 14, commencing March 14, 2027 (short first coupon) 2031 Notes: Semi-annually on March 15 and September 15, commencing
+March 15, 2027 2033 Notes: Semi-annually on March 15 and
+September 15, commencing March 15, 2027 2036 Notes: Semi-annually on
+March 15 and September 15, commencing March 15, 2027 2056 Notes:
+Semi-annually on March 15 and September 15, commencing March 15, 2027 Floating Rate Notes: Every March 14, June 14, September 14 and December 14 of each year, commencing December 14, 2026 (short first
+coupon)
+Price to Public: | 2029 Notes: 99.967% 2031 Notes: 99.516% 2033 Notes: 99.878% 2036 Notes: 99.893% 2056 Notes: 99.271% Floating Rate Notes: 100.000%
+Benchmark Treasury: | 2029 Notes: 4.250% due August 15, 2029 2031 Notes: 4.375% due August 31, 2031 2033 Notes: 4.500%
+due August 31, 2033 2036 Notes: 4.625% due August 15, 2036 2056 Notes: 5.000% due May 15, 2056 Floating Rate Notes:
+N/A
+Benchmark Treasury Yield: | 2029 Notes: 4.462% 2031 Notes: 4.561% 2033 Notes: 4.671% 2036 Notes: 4.794% 2056 Notes: 5.253% Floating Rate Notes: N/A
+Spread to Benchmark Treasury: | 2029 Notes: +40 basis points 2031 Notes: +55
+basis points 2033 Notes: +60 basis points 2036 Notes: +72
+basis points 2056 Notes: +80 basis points Floating Rate
+Notes: N/A
+Yield to Maturity: | 2029 Notes: 4.862% 2031 Notes: 5.111% 2033 Notes: 5.271% 2036 Notes: 5.514% 2056 Notes: 6.053% Floating Rate Notes: N/A
+Optional Redemption: | 2029 Notes: T+ 10 basis points at any time prior to August 14, 2029; par call on or after August 14, 2029 2031 Notes: T+ 10 basis points at any time prior to August 15, 2031; par call on or
+after August 15, 2031 2033 Notes: T+ 10 basis points at any time prior to
+July 15, 2033; par call on or after July 15, 2033 2036 Notes: T+ 15 basis
+points at any time prior to June 15, 2036; par call on or after June 15, 2036 2056 Notes: T+ 15 basis points at any time prior to March 15, 2056; par call on or after March 15, 2056 Floating Rate Notes: N/A
+Gross Proceeds to Issuer: | 2029 Notes: $1,249,587,500 2031 Notes:
+$1,243,950,000 2033 Notes: $1,498,170,000 2036 Notes:
+$1,498,395,000 2056 Notes: $496,355,000 Floating Rate Notes:
+$500,000,000
+Underwriting Discount and Commissions: | 2029 Notes: 0.250% 2031 Notes: 0.350% 2033 Notes: 0.400% 2036 Notes: 0.450% 2056 Notes: 0.750% Floating Rate Notes: 0.250%
+Net Proceeds to Issuer: | 2029 Notes: $1,246,462,500 2031 Notes:
+$1,239,575,000 2033 Notes: $1,492,170,000 2036 Notes:
+$1,491,645,000 2056 Notes: $492,605,000 Floating Rate Notes:
+$498,750,000
+CUSIP/ISIN: | 2029 Notes: 377372 AS6 / US377372AS67 2031
+Notes: 377372 AT4 / US377372AT41 2033 Notes: 377372 AU1 / US377372AU14 2036 Notes: 377372 AV9 / US377372AV96 2056 Notes: 377372 AW7 /
+US377372AW79 Floating Rate Notes: 377372 AR8 / US377372AR84
+Day Count Convention: | 2029 Notes: 30/360 2031 Notes: 30/360 2033 Notes: 30/360 2036 Notes: 30/360 2056 Notes: 30/360 Floating Rate Notes: Actual/360
+Denominations: | Minimum of $2,000 principal amount and integral multiples of $1,000
+Business Day: | New York and London
+Expected Listing: | New York Stock Exchange
+Joint-Book-Running Managers: | BNP Paribas Securities Corp. BofA Securities,
+Inc. Citigroup Global Markets Inc. J.P. Morgan Securities
+LLC Morgan Stanley & Co. LLC
+Joint Book-Runners: | Barclays Capital Inc. Deutsche Bank Securities
+Inc. Goldman Sachs & Co. LLC HSBC Securities (USA)
+Inc. Mizuho Securities USA LLC Santander US Capital Markets
+LLC Standard Chartered Bank
+Active Co-Manager: | Academy Securities, Inc.
+Manufacturer target market (UK MiFIR product governance) is eligible counterparties and professional clients only (all
+distribution channels). No disclosure document (for the purposes of the Product Disclosure sourcebook (as amended) of the handbook of rules and guidance adopted by the UK Financial Conduct Authority and the Consumer Composite Investments (Designated
+Activities) Regulations 2024 (as amended)) has been prepared as the Securities are not available to retail investors in the UK. No PRIIPs key information document (KID) pursuant to Regulation (EU) 1286/2014 (as amended) has been prepared as the
+Securities are not available to retail investors in the EEA.
+* | A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or
+withdrawal at any time.
+** | Pursuant to Rule 15c6-1 under the Securities Exchange Act of 1934,
+trades in the secondary market generally are required to settle in one business day unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers of the notes who wish to trade the notes before the business day prior to the
+settlement date will be required, by virtue of the fact that the notes initially will settle in T+5, to specify an alternative settlement cycle at the time of any such trade to prevent failed settlement.
+To the extent that any underwriter intends to effect any offers or sales of any Notes in the United States, it will do so through one or more U.S. registered
+broker dealers in a manner consistent with applicable law and regulations.
+The issuer and the guarantor have filed a registration statement (including
+a prospectus) and a preliminary prospectus supplement with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement, the preliminary prospectus supplement and
+other documents the issuer and the guarantor have filed with the SEC for more complete information about the issuer, the guarantor and this offering.
+You may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer
+participating in the offering will arrange to send you the prospectus and the preliminary prospectus supplement if you request it by calling BNP Paribas Securities Corp. toll-free at
+1-800-854-5674,
+BofA Securities, Inc. toll-free at
+1-800-294-1322,
+Citigroup
+Global Markets Inc. toll-free at
+1-800-831-9146,
+J.P. Morgan Securities LLC collect at
+1-212-834-4533
+and Morgan Stanley & Co. LLC toll-free at
+1-866-718-1649.

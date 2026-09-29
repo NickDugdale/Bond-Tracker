@@ -1,0 +1,107 @@
+{
+  "window_start": "2026-08-25",
+  "window_end": "2026-09-22",
+  "deals": 46,
+  "bonds": 95,
+  "total_usd_bn": 82.5,
+  "avg_deal_usd_m": 1794.0,
+  "avg_bonds_per_deal": 2.1,
+  "volume_by_currency_usd_bn": {
+    "EUR": 7.5,
+    "GBP": 6.7,
+    "USD": 68.4
+  },
+  "volume_by_grade_usd_bn": {
+    "HY": 4.0,
+    "IG": 74.9,
+    "Unrated": 3.7
+  },
+  "volume_by_sector_usd_bn": {
+    "Financials": 32.0,
+    "Technology": 15.2,
+    "Industrials": 8.5,
+    "Consumer": 7.2,
+    "Healthcare": 6.5,
+    "Utilities": 5.8,
+    "Energy": 4.8,
+    "Government & Agency": 1.2,
+    "Telecoms & Media": 1.0,
+    "Real Estate": 0.4
+  },
+  "median_senior_ig_spread_by_tenor_bps": {
+    "1-3y": 55.0,
+    "10y": 103.0,
+    "20y": 108.0,
+    "30y+": 115.0,
+    "5y": 82.0,
+    "7y": 92.0
+  },
+  "median_spread_by_rating_bps": {
+    "A": 68.0,
+    "A-": 61.0,
+    "BB": 242.0,
+    "BB+": 220.0,
+    "BBB": 97.0,
+    "BBB+": 93.0,
+    "BBB-": 150.0
+  },
+  "largest_deals": [
+    {
+      "issuer": "Aon North America, Inc. and Aon Global Holdings plc",
+      "trade_date": "2026-09-14",
+      "bonds": 7,
+      "usd_bn": 13.5
+    },
+    {
+      "issuer": "GlaxoSmithKline Capital Inc.",
+      "trade_date": "2026-09-08",
+      "bonds": 6,
+      "usd_bn": 6.5
+    },
+    {
+      "issuer": "Amazon.com, Inc.",
+      "trade_date": "2026-09-09",
+      "bonds": 4,
+      "usd_bn": 5.68
+    },
+    {
+      "issuer": "Uber Technologies, Inc.",
+      "trade_date": "2026-09-09",
+      "bonds": 5,
+      "usd_bn": 5.16
+    },
+    {
+      "issuer": "Dell International L.L.C. and EMC Corporation",
+      "trade_date": "2026-09-09",
+      "bonds": 4,
+      "usd_bn": 5.0
+    }
+  ],
+  "top_bookrunners": [
+    {
+      "bank": "BofA Securities",
+      "deals": 29,
+      "credited_usd_m": 7331.0
+    },
+    {
+      "bank": "Citigroup",
+      "deals": 20,
+      "credited_usd_m": 6602.0
+    },
+    {
+      "bank": "J.P. Morgan",
+      "deals": 25,
+      "credited_usd_m": 6523.0
+    },
+    {
+      "bank": "Morgan Stanley",
+      "deals": 19,
+      "credited_usd_m": 6520.0
+    },
+    {
+      "bank": "Wells Fargo",
+      "deals": 22,
+      "credited_usd_m": 5636.0
+    }
+  ]
+}

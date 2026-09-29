@@ -1,0 +1,141 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1069183/000119312526392472/d162950dfwp.htm
+ISSUER (SEC filer): AXON ENTERPRISE, INC.
+FILED: 2026-09-16
+========================================
+FWP
+1
+d162950dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration
+No. 333-277559
+Relating to the
+Preliminary Prospectus Supplement
+dated September 15, 2026
+(To Prospectus dated February 29, 2024)
+PRICING TERM SHEET
+DATED SEPTEMBER 15, 2026
+AXON ENTERPRISE, INC.
+$1,000,000,000
+0%
+CONVERTIBLE SENIOR NOTES DUE 2031
+The information in this pricing term sheet should be read together with the preliminary prospectus supplement of
+Axon Enterprise, Inc. (the “Company”), dated September 15, 2026 (the “Preliminary Prospectus Supplement”) filed pursuant to Rule 424(b) under the Securities Act of 1933, as amended (the “Securities Act”), and the
+accompanying base prospectus, dated February 29, 2024, included in the Company’s registration statement on Form
+S-3,
+Registration
+No. 333-277559,
+including, in each case, the documents incorporated by reference therein, relating to an offering of convertible senior notes (the “Convertible Notes Offering”). This pricing term sheet supersedes the information in the Preliminary
+Prospectus Supplement to the extent inconsistent with the information in the Preliminary Prospectus Supplement. In all other respects, this pricing term sheet is qualified in its entirety by reference to the Preliminary Prospectus Supplement.
+References to “we,” “our” and “us” refer to Axon Enterprise, Inc. and not to its consolidated subsidiaries. Terms used herein but not defined herein shall have the respective meanings as set forth in the
+Preliminary Prospectus Supplement. All references to dollar amounts are references to U.S. dollars.
+Issuer: | Axon Enterprise, Inc., a Delaware corporation.
+Securities: | 0% Convertible Senior Notes due 2031 (the “Notes”).
+Ticker/Exchange for Our Common Stock (“common stock”): | “AXON” / NASDAQ Global Select Market (“Nasdaq”).
+Pricing Date: | September 15, 2026.
+Trade Date: | September 16, 2026.
+Expected Settlement Date: | We expect to deliver the Notes in book-entry form through the facilities of The Depository Trust Company on or about September 18, 2026, which will be the second trading day after the Trade Date of the Notes.
+Currently, trades in the secondary market for convertible notes ordinarily settle one trading day after the date of execution, unless the parties to the trade agree otherwise. Accordingly, investors in the Convertible Notes Offering who wish to sell
+their Notes before the trading day preceding the delivery of the Notes in the Convertible Notes Offering must specify an alternate settlement arrangement at the time of the trade to prevent a failed settlement. Those investors should consult their
+advisors.
+1
+Principal Amount: | $1,000,000,000.
+Over-Allotment Option: | $150,000,000.
+Denominations: | $1,000 and integral multiples of $1,000 in excess thereof.
+Ranking: | Senior unsecured.
+Maturity: | September 15, 2031, unless earlier converted, redeemed or repurchased.
+No Regular Interest; Special Interest: | The Notes will not bear regular interest, and the principal amount of the Notes will not accrete. Special interest will accrue on the Notes
+in the circumstances described in “Description of Notes—Events of Default” and under the circumstances described under “Description of Notes—No Regular Interest; Special Interest” in the Preliminary Prospectus
+Supplement. Any special interest, if applicable, will be payable semiannually in
+arrears on the next Special Interest Payment Date to noteholders of record as of the close of business on the March 1 and September 1 immediately preceding such Special Interest Payment Dates.
+Special Interest Payment Dates: | March 15 and September 15 of each year, beginning on March 15, 2027 (if and to the extent that special interest is payable on the Notes).
+Issue Price: | 100% of the principal amount of the Notes.
+Last Reported Sale Price of Our Common Stock on the Nasdaq on the Pricing Date: | $442.08 per share.
+Initial Conversion Rate: | 1.5336 shares of our common stock per $1,000 principal amount of Notes, subject to adjustment.
+Initial Conversion Price: | Approximately $652.06 per share of our common stock, subject to adjustment.
+Conversion Premium: | Approximately 47.5% above the Last Reported Sale Price of Our Common Stock on the Nasdaq on the Pricing Date.
+Settlement Method: | Upon conversion of the Notes, we will pay or deliver, as the case may be, cash, shares of our common stock or a combination of cash and shares of our common stock, at our election, as described in the Preliminary Prospectus
+Supplement.
+Redemption: | No “sinking fund” is provided for the Notes, which means that we are not required to redeem or retire the Notes periodically, and the Notes may only be redeemed as described below. The redemption price for any Optional
+Redemption or Cleanup Redemption described below will be 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid special interest, if any, to, but excluding, the redemption date, and we may not specify a redemption
+date that falls on or after the 31st scheduled trading day immediately preceding the maturity date. See “Description of Notes—Redemption—General” in the Preliminary Prospectus
+Supplement.
+2
+Redemption at Our Option: | Except as described below opposite the caption “Cleanup Redemption,” we may not redeem the Notes prior to September 20, 2029. On or after September 20, 2029, we may redeem for cash all or any portion of the
+Notes (subject to the partial redemption limitation described below), at our option, if the last reported sale price of our common stock has been at least 130% of the conversion price then in effect for at least 20 trading days (whether or not
+consecutive) during any 30 consecutive trading day period (including the last trading day of such period) ending on, and including, the trading day immediately preceding the date on which we provide the related notice of redemption. If we redeem
+less than all of the outstanding Notes, at least $100 million aggregate principal amount of Notes must be outstanding and not subject to redemption as of, and after giving effect to, our delivery of the relevant notice of redemption (the
+“partial redemption limitation”). We refer to such redemption at our option as an “Optional Redemption.” See “Description of Notes—Redemption—Optional Redemption” in the Preliminary Prospectus
+Supplement.
+Cleanup Redemption: | We may redeem for cash all, but not less than all, of the Notes at any time if the principal amount of Notes outstanding at such time is less than 10% of the aggregate principal amount of Notes initially issued under the indenture
+(including any additional Notes issued pursuant to the underwriters’ over-allotment option). We refer to such redemption at our option as a “Cleanup Redemption.” See “Description of Notes—Redemption—Cleanup
+Redemption” in the Preliminary Prospectus Supplement.
+Fundamental Change: | If we undergo a “fundamental change” (as defined in the Preliminary Prospectus Supplement under “Description of Notes—Fundamental Change Permits Holders to Require Us to Repurchase
+Notes—Generally”), then, subject to certain conditions and except as described in the Preliminary Prospectus Supplement, holders may require us to repurchase for cash all or any portion of their Notes in principal amounts of $1,000 or an
+integral multiple thereof. The fundamental change repurchase price will be equal to 100% of the principal amount of the Notes to be repurchased, plus accrued and unpaid special interest, if any, to, but excluding, the fundamental change
+repurchase date. See “Description of Notes—Fundamental Change Permits Holders to Require Us to Repurchase Notes” in the Preliminary Prospectus Supplement.
+3
+Repurchase at the Option of Holders: | Holders may require us to repurchase their Notes on an optional repurchase settlement date occurring on or around March 20, 2031 at a repurchase price equal to the principal amount of the Notes to be repurchased, plus accrued and unpaid special interest, if any (the “holder repurchase option”). We may elect to satisfy some or all of our obligation in respect of the principal amount of the repurchase price for the holder repurchase option by delivering
+shares of our common stock in certain circumstances, up to a specified maximum number of shares, with the remainder (if any) of the repurchase price payable in cash, all as further described in the Preliminary Prospectus Supplement. See
+“Description of Notes—Repurchase of Notes by Us at the Option of Holders” in the Preliminary Prospectus Supplement.
+Joint Book-Running Managers: | Goldman Sachs & Co. LLC Morgan
+Stanley & Co. LLC J.P. Morgan Securities LLC RBC Capital Markets, LLC Citigroup Global Markets Inc.
+Co-Managers: | Citizens JMP Securities, LLC Needham & Company, LLC Piper Sandler & Co. Robert W. Baird & Co. Incorporated
+CUSIP Number: | 05464C AE1.
+ISIN: | US05464CAE12.
+Listing: | None.
+Use of Proceeds: | We estimate that the net proceeds from this offering will be approximately $986.0 million (or approximately $1,134.3 million if the
+underwriters exercise their over-allotment option in full), after deducting the underwriters’ discounts and commissions and estimated offering expenses payable by us. We have entered into capped call transactions with certain of the
+underwriters or their affiliates and other financial institutions (the “option counterparties”) with respect to the Notes. We intend to use $99.9 million of the net proceeds from this offering to pay the cost of the capped call
+transactions. We intend to use the remainder of the net proceeds of this offering
+for general corporate purposes, which may include, among other things, providing capital to support our growth and to acquire or invest in product lines, products, services or technologies, including through acquisitions of, or investments in, other
+businesses. See “Use of Proceeds” in the Preliminary Prospectus Supplement.
+4
+If the over-allotment option granted to the underwriters is exercised with respect to the Notes, we intend to use a portion of the net
+proceeds from the sale of the additional Notes to enter into additional capped call transactions with respect to the Notes with the option counterparties. If the underwriters exercise their over-allotment option in full, we intend to use
+approximately $15.0 million of the net proceeds from the sale of the additional Notes to enter into additional capped call transactions with respect to the Notes with the option counterparties. See “Use of Proceeds” in the Preliminary Prospectus
+Supplement.
+Cap Price: | The cap price of the capped call transactions will initially be $1,049.94, which represents a premium of 137.5% above the Last Reported Sale Price of Our Common Stock on the Nasdaq on the Pricing Date and is subject to certain
+adjustments under the terms of the capped call transactions. See “Description of the Capped Call Transactions” in the Preliminary Prospectus Supplement.
+Increase in Conversion Rate upon Conversion upon a Make-Whole Fundamental Change or Notice of Redemption: | Holders who convert their Notes in connection with a make-whole fundamental change (as defined in the Preliminary Prospectus Supplement) occurring prior to the maturity date or convert their Notes called for redemption (or deemed
+called for redemption, in the case of an Optional Redemption) during the related redemption period (as defined in the Preliminary Prospectus Supplement) may be entitled to an increase in the conversion rate for the Notes so surrendered for
+conversion as set forth in the Preliminary Prospectus Supplement under the caption “Description of Notes—Conversion Rights—Increase in Conversion Rate upon Conversion upon a Make-Whole Fundamental Change or Notice of
+Redemption.”
+5
+The following table sets forth the number of additional shares by which the conversion rate will be
+increased per $1,000 principal amount of Notes for each stock price and effective date set forth below:
+Stock price
+Effective date | $442.08 | $500.00 | $652.06 | $750.00 | $847.68 | $1,000.00 | $1,250.00 | $1,500.00 | $2,000.00 | $3,000.00 | $4,000.00
+September 18, 2026 | 0.7284 | 0.5939 | 0.3706 | 0.2834 | 0.2213 | 0.1551 | 0.0912 | 0.0559 | 0.0218 | 0.0021 | 0.0000
+September 15, 2027 | 0.7284 | 0.5939 | 0.3674 | 0.2755 | 0.2111 | 0.1437 | 0.0807 | 0.0471 | 0.0165 | 0.0005 | 0.0000
+September 15, 2028 | 0.7284 | 0.5939 | 0.3540 | 0.2578 | 0.1918 | 0.1248 | 0.0651 | 0.0352 | 0.0102 | 0.0000 | 0.0000
+September 15, 2029 | 0.7284 | 0.5939 | 0.3202 | 0.2215 | 0.1565 | 0.0939 | 0.0427 | 0.0198 | 0.0037 | 0.0000 | 0.0000
+September 15, 2030 | 0.7284 | 0.5505 | 0.2481 | 0.1522 | 0.0951 | 0.0470 | 0.0152 | 0.0046 | 0.0000 | 0.0000 | 0.0000
+September 15, 2031 | 0.7284 | 0.4664 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000
+The exact stock prices and effective dates may not be set forth in the table above, in which case:
+• | If the stock price is between two stock prices in the table or the effective date is between two effective dates
+in the table, the number of additional shares by which the conversion rate will be increased will be determined by a straight-line interpolation between the number of additional shares set forth for the higher and lower stock prices and the earlier
+and later effective dates, as applicable, based on a 365-day year or 366-day year, as applicable.
+• | If the stock price is greater than $4,000.00 per share (subject to adjustment in the same manner as the stock
+prices set forth in the column headings of the table above as described in the Preliminary Prospectus Supplement), no additional shares will be added to the conversion rate.
+• | If the stock price is less than $442.08 per share (subject to adjustment in the same manner as the stock prices
+set forth in the column headings of the table above as described in the Preliminary Prospectus Supplement), no additional shares will be added to the conversion rate.
+Notwithstanding the foregoing, in no event will the conversion rate per $1,000 principal amount of Notes exceed 2.2620 shares of our common stock, subject to
+adjustment in the same manner as the conversion rate as set forth in the Preliminary Prospectus Supplement under the caption “Description of Notes—Conversion Rights—Conversion Rate Adjustments.”
+We have filed a registration statement (including a prospectus) and a Preliminary Prospectus Supplement with the SEC for the offering to which this
+communication relates. Before you invest, you should read the Preliminary Prospectus Supplement and the prospectus in that registration statement and other documents we have filed with the SEC for more complete information about us and this
+offering. You may get these documents for free by visiting EDGAR on the SEC website at
+www.sec.gov
+. Alternatively, we, any underwriter or any dealer participating in the offering will arrange to send you the Preliminary
+Prospectus Supplement (or, when available, the final prospectus supplement) and the accompanying prospectus upon request to: Goldman Sachs & Co. LLC, c/o Prospectus Department, 200 West Street, New York, NY 10282 by email at
+prospectus-ny@ny.email.gs.com,
+Morgan Stanley & Co. LLC, c/o Prospectus Department, 180 Varick Street, 2nd Floor, New York, NY 10014, by email at prospectus@morganstanley.com and J.P. Morgan Securities LLC,
+c/o Broadridge Financial Solutions, 1155 Long Island Avenue, Edgewood, NY 11717, by email at
+prospectus-eq_fi@jpmchase.com
+and postsalemanualrequests@broadridge.com.
+The information in this pricing term sheet is not a complete description of the Convertible Notes Offering. You should rely only on the information
+contained or incorporated by reference in the Preliminary Prospectus Supplement and the accompanying prospectus, as supplemented by this pricing term sheet, in making an investment decision with respect to the Notes.
+Any legends, disclaimers or other notices that may appear below are not applicable to this communication and should be disregarded. Such legends,
+disclaimers or other notices have been automatically generated as a result of this communication having been sent via Bloomberg or another system.
+6

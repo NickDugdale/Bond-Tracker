@@ -1,0 +1,41 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/92487/000009248726000024/swepco08-2026fwp.htm
+ISSUER (SEC filer): SOUTHWESTERN ELECTRIC POWER CO
+FILED: 2026-09-14
+========================================
+FWP
+1
+swepco08-2026fwp.htm
+FWP
+Document
+Filed pursuant to Rule 433
+Registration No. 333-282060
+September 14, 2026
+PRICING TERM SHEET
+Issuer: | Southwestern Electric Power Company
+Expected Ratings*: | Baa2 (Stable) by Moody’s Investors Service, Inc. BBB+ (Stable) by S&P Global Ratings, a division of S&P Global Inc. BBB+ (Stable) by Fitch Ratings, Inc.
+Transaction Date: | September 14, 2026
+Settlement Date: | September 16, 2026 (T+2)
+Designation: | Senior Notes, Series S, due 2037
+Principal Amount: | $750,000,000
+Maturity: | March 15, 2037
+Coupon: | 6.00%
+Interest Payment Dates: | March 15 and September 15
+First Interest Payment Date: | March 15, 2027
+Treasury Benchmark: | 4.625% due August 15, 2036
+Treasury Yield: | 4.957%
+Reoffer Spread: | T+110 basis points
+Yield to Maturity: | 6.057%
+Price to Public: | 99.562% of the principal amount thereof
+Redemption Terms:
+Make-whole call: | Prior to December 15, 2036 at a discount rate of the Treasury Rate plus 20 basis points
+Par call: | On or after December 15, 2036 at par
+CUSIP/ISIN: | 845437 BX9 / US845437BX92
+Minimum Denomination: | $2,000 and integral multiples of $1,000 in excess thereof
+Joint Book-Running Managers: | CIBC World Markets Corp. Fifth Third Securities, Inc. J.P. Morgan Securities LLC U.S. Bancorp Investments, Inc.
+Co-Managers: | BMO Capital Markets Corp. Citizens JMP Securities, LLC Guggenheim Securities, LLC Santander US Capital Markets LLC SMBC Nikko Securities America, Inc.
+*Note:
+A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+Under Rule 15c6-1 under the 1934 Act, trades in the secondary market generally are required to settle in one business day, unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Senior Notes prior to the first business day before delivery of the Senior Notes will be required, by virtue of the fact that the Senior Notes initially settle in T+2, on September 16, 2026, to specify alternative settlement arrangements to prevent a failed settlement.
+The issuer has filed a registration statement (including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that
+registration statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov.
+Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by contacting CIBC World Markets Corp. toll-free at (800) 282-0822, Fifth Third Securities, Inc. toll-free at (866) 531-5353, J.P. Morgan Securities LLC collect at (212) 834-4533 or U.S. Bancorp Investments, Inc. toll-free at (877) 558-2607.

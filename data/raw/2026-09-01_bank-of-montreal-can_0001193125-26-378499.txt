@@ -1,0 +1,119 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/927971/000119312526378499/d530782dfwp.htm
+ISSUER (SEC filer): BANK OF MONTREAL /CAN/
+FILED: 2026-09-01
+========================================
+FWP
+1
+d530782dfwp.htm
+FWP
+FWP
+Registration Statement
+No. 333-285508
+Filed Pursuant to Rule 433
+Pricing Term Sheet
+Dated September 1, 2026
+Bank of Montreal
+US$1,250,000,000
+Senior
+Medium-Term Notes, Series J
+consisting of
+US$1,250,000,000 5.099% Fixed/Floating Rate Senior Notes due 2030
+Issuer: | Bank of Montreal (the “ Bank ”)
+Title of Securities: | 5.099% Fixed/Floating Rate Senior Notes due 2030 (the “ Notes ”)
+Aggregate Principal Amount Offered: | US$1,250,000,000
+Maturity Date: | September 4, 2030
+Price to Public: | 100.000%, plus accrued interest, if any, from September 4, 2026
+Underwriting Commission: | 0.250% per Note
+Net Proceeds to the Bank after Underwriting Commission and Before Expenses: | US$1,246,875,000
+Interest Rate: | From, and including, September 4, 2026 to, but excluding, September 4, 2029 (the “ Fixed Rate Period ”), the Notes will
+bear interest at a fixed rate of 5.099% per year. From, and including, September 4,
+2029 to, but excluding, September 4, 2030 (the “ Floating Rate Period ”), the Notes will bear interest at a rate equal to the Base Rate plus the Margin.
+Base Rate: | Compounded SOFR (determined with respect to each quarterly interest period using the SOFR Index) (as defined in the pricing supplement to which this offering of Notes relates) in accordance with the specific formula described under
+“Specific Terms of the Notes—Secured Overnight Financing Rate and the SOFR Index” in the pricing supplement.
+Margin: | 80.2 basis points
+Interest Payment Dates: | During the Fixed Rate Period, March 4 and September 4 of each year, beginning on March 4, 2027 (each, a “ Fixed Rate
+Interest Payment Date ”). During the Floating Rate Period, December 4,
+2029, March 4, 2030, June 4, 2030 and the maturity date (each, a “ Floating Rate Interest Payment Date ”).
+Regular Record Dates: | During the Fixed Rate Period, February 17 and August 20 preceding each Fixed Rate Interest Payment Date, whether or not a business
+day. During the Floating Rate Period, close of business on the day immediately
+preceding each Floating Rate Interest Payment Date, whether or not a business day (or, if the Notes are held in definitive form, the 15 th calendar day preceding that Floating Rate Interest Payment
+Date, whether or not a business day).
+Benchmark Treasury: | UST 4.250% due August 15, 2029
+Benchmark Treasury Yield: | 4.449%
+Spread to Benchmark Treasury: | T + 65 basis points
+Re-offer Yield: | 5.099%
+Floating Rate Interest Period: | With respect to the Floating Rate Period, the period commencing on any Floating Rate Interest Payment Date (or, with respect to the initial interest period only, commencing on September 4, 2029) to, but excluding, the next
+succeeding Floating Rate Interest Payment Date, and in the case of the last such period, from, and including, the Floating Rate Interest Payment Date immediately preceding the maturity date (or the redemption date) to, but excluding such maturity
+date (or such redemption date).
+Floating Rate Interest Payment Determination Dates: | The date two U.S. Government Securities Business Days before each Floating Rate Interest Payment Date (or, in the case of the final interest period of the Notes, the stated maturity date of the Notes or, if the Bank elects to redeem
+in whole or in part the Notes, the redemption date for such Notes).
+U.S. Government Securities Business Day: | Any day except for a Saturday, a Sunday or a day on which the Securities Industry and Financial Markets Association recommends that the fixed income departments of its members be closed for the entire day for purposes of trading in
+U.S. government securities.
+Day Count: | 30/360 for the Fixed Rate Period Actual/360 for the Floating Rate Period
+Day Count Convention: | If any Fixed Rate Interest Payment Date or any redemption date falls on a day that is not a business day for the Notes, the Bank will
+postpone the making of such interest or principal payments to the next succeeding business day (and no interest will be paid in respect of the delay). If any Floating Rate Interest Payment Date falls on a day that is not a business day for the Notes, the Bank will postpone the making of such interest or
+principal payment to the next succeeding business day (and interest thereon will continue to accrue to, but excluding such succeeding business day), unless the next succeeding business day is in the next succeeding calendar month, in which case such
+Floating Rate Interest Payment Date
+2
+shall be the immediately preceding business day and interest shall accrue to, but excluding such preceding business day. If the maturity date or a redemption date for the Notes would fall on a day that is not a business day, the
+payment of interest and principal will be made on the next succeeding business day, but no additional interest shall accrue and be paid unless the Bank fails to make payment on such next succeeding business day.
+Calculation Agent: | BMO Capital Markets Corp.
+Trade Date: | September 1, 2026
+Settlement Date: | September 4, 2026; T+3
+Optional Redemption: | In addition to the tax redemption described below, the Bank may redeem the Notes in three situations: First, prior to September 4, 2029 (one year prior to the maturity date) (the
+“ Par Call Date ”), the Bank (or its successor) may redeem the Notes, at its option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three
+decimal places) equal to the greater of (i)(a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the Notes matured on the Par Call Date) on a semi-annual
+basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate (as defined for the Notes in the pricing supplement to which this offering of
+Notes relates) plus 10 basis points less (b) interest accrued to the date of redemption, and (ii) 100% of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption
+date. Second, on the Par Call Date, the Bank (or its successor) may redeem the Notes
+at its option, in whole but not in part, at a redemption price equal to 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest thereon to the redemption date. Third, on or after August 5, 2030 (30 days prior to the maturity date), the Bank (or its
+successor) may redeem the Notes at its option, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest thereon to the
+redemption date.
+Taxation Redemption: | The Notes may be redeemed upon the occurrence of certain events pertaining to Canadian taxation.
+Canadian Bail-in Powers Acknowledgement: | Yes. The Notes are subject to bail-in conversion under the Canadian bail-in regime.
+CUSIP: | 06368MY99
+3
+Denominations: | US$2,000 and multiples of US$1,000 in excess thereof.
+Joint Book-Running Managers: | BMO Capital Markets Corp. BofA Securities,
+Inc. Deutsche Bank Securities Inc. Natixis Securities
+Americas LLC SG Americas Securities, LLC Wells Fargo
+Securities, LLC
+Co-Managers: | Brookfield Securities LLC Desjardins Securities Inc. Independence Point Securities LLC National Bank of Canada Financial Inc. R. Seelaus & Co., LLC
+The
+Notes are bail-inable debt securities (as defined in the prospectus) and subject to conversion in whole or in part – by means of a transaction or series of transactions and in one or more steps – into common shares of the Bank or any of
+its affiliates under subsection 39.2(2.3) of the
+Canada Deposit Insurance Corporation Act
+(Canada) (the “
+CDIC Act
+”) and to variation or extinguishment in consequence, and subject to the application of the laws
+of the Province of Ontario and the federal laws of Canada applicable therein in respect of the operation of the CDIC Act with respect to the Notes.
+Under Rule
+15c6-1
+of the Securities Exchange Act of 1934, as amended, trades in the secondary market generally are
+required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade their Notes more than one business day prior to the settlement date will be required, by virtue of the
+fact that the Notes initially will settle in three business days (T+3), to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement.
+Certain of the underwriters may not be U.S. registered broker dealers and accordingly will not effect anysales within the United States except in
+compliance with applicable U.S. laws and regulations, including therules of the Financial Industry Regulatory Authority, Inc.
+The Bank has filed a
+registration statement (File
+No. 333-285508)
+(including a pricing supplement, a prospectus supplement and a prospectus) with the SEC for the offering to which this communication relates. Before you
+invest, you should read those documents and the documents incorporated therein by reference that the Bank has filed with the SEC for more complete information about the Bank and this offering. You may get these documents for free by visiting EDGAR
+on the SEC website at www.sec.gov. Alternatively, the Bank, any underwriter or any dealer participating in the offering will arrange to send you the pricing supplement, the prospectus supplement and the prospectus if you request them by calling BMO
+Capital Markets Corp. toll-free at
+1-888-200-0266,
+BofA Securities, Inc. toll-free at
+1-800-294-1322,
+Deutsche Bank Securities Inc. toll-free at
+1-800-503-4611,
+Natixis Securities Americas LLC toll-free at
+1-866-425-1819,
+SG Americas Securities, LLC
+toll-free at
+1-855-881-2108
+or
+Wells Fargo Securities, LLC at
+1-800-645-3751.
+Any legends, disclaimers or other notices that may appear below are not applicable to this communication and should be disregarded. Such legends,
+disclaimers or other notices have been automatically generated as a result of this communication having been sent via Bloomberg or another email system.
+4

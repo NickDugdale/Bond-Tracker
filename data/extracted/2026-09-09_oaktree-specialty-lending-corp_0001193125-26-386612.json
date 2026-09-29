@@ -1,0 +1,53 @@
+{
+  "source_file": "2026-09-09_oaktree-specialty-lending-corp_0001193125-26-386612.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:45:05",
+  "usage": {
+    "input_tokens": 4124,
+    "output_tokens": 543
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Oaktree Specialty Lending Corporation",
+    "sector": "Financials",
+    "trade_date": "2026-09-09",
+    "settlement_date": "2026-09-16",
+    "rating_moodys": "Baa3",
+    "rating_sp": null,
+    "rating_fitch": "BBB-",
+    "bookrunners": [
+      "J.P. Morgan Securities LLC",
+      "BNP Paribas Securities Corp.",
+      "ING Financial Markets LLC",
+      "RBC Capital Markets, LLC",
+      "SMBC Nikko Securities America, Inc.",
+      "Brookfield Securities LLC",
+      "BofA Securities, Inc.",
+      "Wells Fargo Securities, LLC",
+      "Barclays Capital Inc.",
+      "CIBC World Markets Corp.",
+      "Citigroup Global Markets Inc.",
+      "Deutsche Bank Securities Inc.",
+      "Goldman Sachs & Co. LLC",
+      "Morgan Stanley & Co. LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 300000000,
+        "coupon_pct": 7.0,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-09-16",
+        "first_call_date": "2031-08-16",
+        "benchmark": "UST 4.375% due August 31, 2031",
+        "spread_bps": 240,
+        "yield_pct": 7.012,
+        "issue_price_pct": 99.95,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +240 basis points"
+      }
+    ]
+  }
+}

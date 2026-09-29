@@ -1,0 +1,108 @@
+{
+  "source_file": "2026-09-09_uber-technologies-inc_0001552781-26-000479.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:45:35",
+  "usage": {
+    "input_tokens": 6241,
+    "output_tokens": 1378
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Uber Technologies, Inc.",
+    "sector": "Technology",
+    "trade_date": "2026-09-09",
+    "settlement_date": "2026-09-15",
+    "rating_moodys": "Baa1",
+    "rating_sp": "BBB+",
+    "rating_fitch": "A-",
+    "bookrunners": [
+      "Goldman Sachs & Co. LLC",
+      "Morgan Stanley & Co. International plc",
+      "Deutsche Bank AG, London Branch",
+      "Merrill Lynch International",
+      "BNP PARIBAS",
+      "Citigroup Global Markets Limited",
+      "HSBC Bank plc",
+      "J.P. Morgan Securities plc",
+      "UBS AG London Branch",
+      "Banco Santander, S.A.",
+      "Mizuho International plc",
+      "RBC Europe Limited",
+      "TD Global Finance unlimited company"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "EUR",
+        "principal_amount": 750000000,
+        "coupon_pct": 3.75,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-09-15",
+        "first_call_date": "2029-08-15",
+        "benchmark": "OBL 2.100% due April 12, 2029 #189",
+        "spread_bps": 68.6,
+        "yield_pct": 3.772,
+        "issue_price_pct": 99.939,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Bund: +68.6 basis points; Yield to Maturity: 3.772%"
+      },
+      {
+        "currency": "EUR",
+        "principal_amount": 1000000000,
+        "coupon_pct": 4.125,
+        "coupon_type": "fixed",
+        "maturity_date": "2032-09-15",
+        "first_call_date": "2032-07-15",
+        "benchmark": "DBR 1.700% due August 15, 2032",
+        "spread_bps": 95.7,
+        "yield_pct": 4.174,
+        "issue_price_pct": 99.745,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Bund: +95.7 basis points; Yield to Maturity: 4.174%"
+      },
+      {
+        "currency": "EUR",
+        "principal_amount": 1000000000,
+        "coupon_pct": 4.375,
+        "coupon_type": "fixed",
+        "maturity_date": "2034-09-15",
+        "first_call_date": "2034-06-15",
+        "benchmark": "DBR 2.600% due August 15, 2034",
+        "spread_bps": 107.3,
+        "yield_pct": 4.417,
+        "issue_price_pct": 99.722,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Bund: +107.3 basis points; Yield to Maturity: 4.417%"
+      },
+      {
+        "currency": "EUR",
+        "principal_amount": 1000000000,
+        "coupon_pct": 4.75,
+        "coupon_type": "fixed",
+        "maturity_date": "2038-09-15",
+        "first_call_date": "2038-06-15",
+        "benchmark": "DBR 1.000% due May 15, 2038",
+        "spread_bps": 119.5,
+        "yield_pct": 4.766,
+        "issue_price_pct": 99.856,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Bund: +119.5 basis points; Yield to Maturity: 4.766%"
+      },
+      {
+        "currency": "EUR",
+        "principal_amount": 750000000,
+        "coupon_pct": 5.25,
+        "coupon_type": "fixed",
+        "maturity_date": "2046-09-15",
+        "first_call_date": "2046-03-15",
+        "benchmark": "DBR 2.500% due August 15, 2046",
+        "spread_bps": 146.7,
+        "yield_pct": 5.288,
+        "issue_price_pct": 99.538,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Bund: +146.7 basis points; Yield to Maturity: 5.288%"
+      }
+    ]
+  }
+}

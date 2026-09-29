@@ -1,0 +1,68 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/107263/000119312526385621/d41068dfwp.htm
+ISSUER (SEC filer): WILLIAMS COMPANIES, INC.
+FILED: 2026-09-09
+========================================
+FWP
+1
+d41068dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433 under the Securities Act of 1933
+Registration Statement No. 333-277232
+Issuer Free Writing Prospectus, dated September 8, 2026
+$500,000,000 5.000% Senior Notes Due 2029
+$1,000,000,000 5.600% Senior Notes Due 2033
+$750,000,000 5.800% Senior Notes Due 2036
+$500,000,000 6.400% Senior Notes Due 2056
+PRICING TERM SHEET
+Dated: September 8, 2026
+Issuer: | The Williams Companies, Inc.
+Expected Ratings (Moody’s / S&P / Fitch)*: | Baa2 / BBB+ / BBB
+Pricing Date: | September 8, 2026
+Settlement Date: | September 10, 2026 (T + 2)
+Use of Proceeds: | We intend to use the net proceeds of this offering to repay outstanding commercial paper and for other general corporate purposes, including funding capital expenditures. As of September 4, 2026, we had approximately
+$910 million of commercial paper outstanding with a weighted average annual interest rate of 3.8802% and a weighted average maturity of 6.14 days.
+Notes due 2029 | Notes due 2033 | Notes due 2036 | Notes due 2056
+Security Type: | 5.000% Senior Notes Due 2029 | 5.600% Senior Notes Due 2033 | 5.800% Senior Notes Due 2036 | 6.400% Senior Notes Due 2056
+Maturity Date: | October 15, 2029 | September 15, 2033 | September 15, 2036 | September 15, 2056
+Interest Payment Dates: | April 15 and October 15, commencing April 15, 2027 | March 15 and September 15, commencing March 15, 2027 | March 15 and September 15, commencing March 15, 2027 | March 15 and September 15, commencing March 15, 2027
+Principal Amount: | $500,000,000 | $1,000,000,000 | $750,000,000 | $500,000,000
+Benchmark Treasury: | 4.250% due August 15, 2029 | 4.500% due August 31, 2033 | 4.625% due August 15, 2036 | 5.000% due May 15, 2056
+Benchmark Treasury Price: | 99-12 5 ⁄ 8 | 98-30 | 98-19 | 96-01
+Benchmark Treasury Yield: | 4.472% | 4.680% | 4.804% | 5.265%
+Spread to Benchmark Treasury: | 55 bps | 92 bps | 102 bps | 115 bps
+Re-Offer Yield: | 5.022% | 5.600% | 5.824% | 6.415%
+Coupon: | 5.000% | 5.600% | 5.800% | 6.400%
+Public Offering Price: | 99.931% of the principal amount | 99.999% of the principal amount | 99.819% of the principal amount | 99.800% of the principal amount
+Make-Whole Call: | T+10 bps (prior to September 15, 2029) | T+15 bps (prior to July 15, 2033) | T+20 bps (prior to June 15, 2036) | T+20 bps (prior to March 15, 2056)
+Par Call: | On or after September 15, 2029 | On or after July 15, 2033 | On or after June 15, 2036 | On or after March 15, 2056
+CUSIP / ISIN: | 969457 DA5 US969457DA58 | 969457 CX6 US969457CX60 | 969457 CY4 US969457CY44 | 969457 CZ1 US969457CZ19
+Joint Book-Running Managers: | Citigroup Global Markets Inc. Mizuho Securities
+USA LLC Morgan Stanley & Co. LLC SMBC Nikko
+Securities America, Inc.
+Passive Book-Running Managers: | BofA Securities, Inc. PNC Capital Markets
+LLC RBC Capital Markets, LLC Truist Securities, Inc. U.S. Bancorp Investments, Inc. Wells Fargo Securities,
+LLC
+Co-Managers: | Barclays Capital Inc. BBVA Securities Inc. BOK Financial Securities, Inc. CIBC World Markets Corp. Deutsche Bank Securities Inc. J.P. Morgan Securities LLC MUFG Securities Americas Inc. Scotia Capital (USA) Inc. TD Securities (USA) LLC Tuohy Brothers Investment Research,
+Inc.
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+It is expected that delivery of the notes in this offering will be made against payment
+therefor by purchasers in this offering on or about September 10, 2026, which is the second business day following the pricing date of the notes (such settlement cycle being referred to as T+2). Under Rule
+15c6-1
+under the Exchange Act, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who
+wish to trade the notes prior to the business day before the settlement date will be required, by virtue of the fact that the notes initially will settle in T+2, to specify an alternative settlement cycle at the time of any such trade to prevent a
+failed settlement. Purchasers of the notes who wish to trade the notes prior to the business day before the settlement date should consult their own advisors.
+The issuer has filed a registration statement (including a preliminary prospectus supplement and a prospectus) and a prospectus supplement with the U.S.
+Securities and Exchange Commission (SEC) for the offering to which this communication relates; terms used in this term sheet, but otherwise not defined, shall have the meanings assigned to them in the related prospectus supplement and prospectus.
+Before you invest, you should read the prospectus supplement for this offering, the issuer’s prospectus in that registration statement and any other documents the issuer has filed with the SEC for more complete information about the issuer and
+this offering. You may get these documents for free by searching the SEC online data base (EDGAR) on the SEC web site at http://www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send
+you the prospectus supplement and prospectus if you request it by calling Citigroup Global Markets Inc., toll free, at
+1-800-831-9146;
+Mizuho Securities USA LLC, toll free, at
+1-866-271-7403;
+Morgan Stanley & Co. LLC, toll free, at
+1-866-718-1649;
+and SMBC Nikko Securities America, Inc., toll free, at
+1-888-868-6856.
+2

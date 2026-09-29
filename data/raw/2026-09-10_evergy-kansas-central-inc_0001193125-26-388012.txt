@@ -1,0 +1,69 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/54507/000119312526388012/d62363dfwp.htm
+ISSUER (SEC filer): EVERGY KANSAS CENTRAL, INC.
+FILED: 2026-09-10
+========================================
+FWP
+1
+d62363dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration Statement
+No. 333-281614-02
+Dated September 10, 2026
+Pricing Term Sheet
+Evergy Kansas Central, Inc.
+First Mortgage Bonds, 5.600% Series due 2034 (the “bonds”)
+This pricing term sheet relates to an offering of the bonds by Evergy Kansas Central, Inc. (the “Issuer”) and should be read together with the
+preliminary prospectus supplement, dated September 10, 2026, relating to such offering (the “Preliminary Prospectus Supplement”), including the accompanying base prospectus, dated August 16, 2024, and the documents incorporated
+by reference therein. Terms used but not defined herein have the meanings ascribed to them in the Preliminary Prospectus Supplement.
+Issuer: | Evergy Kansas Central, Inc.
+Trade Date: | September 10, 2026
+Settlement Date * : | September 16, 2026 (T+4)
+Expected Ratings ** : | Moody’s Investors Service, Inc.: A2 (stable) S&P Global Ratings: A (stable)
+Title of Securities: | First Mortgage Bonds, 5.600% Series due 2034
+Principal Amount: | $350,000,000
+Maturity Date: | January 15, 2034
+Interest Payment Dates: | Semi-annually on January 15 and July 15, beginning on January 15, 2027
+Coupon (Interest Rate): | 5.600%
+Benchmark Treasury: | 4.50% due August 31, 2033
+Benchmark Treasury Price/Yield: | 98-02+ / 4.828%
+Spread to Benchmark Treasury: | +78 basis points
+Yield to Maturity: | 5.608%
+Price to Public: | 99.961% of the principal amount, plus accrued interest from September 16, 2026, if settlement occurs after that date
+Optional Redemption:
+Make-Whole Call: | Prior to November 15, 2033 (the date that is two months prior to the maturity date of the bonds (the “Par Call Date”)), the Issuer may redeem the bonds at its option, in whole or in part, at any time and from time
+to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (i)(a) the sum of the present values of the remaining scheduled payments of principal and interest on the
+bonds discounted to the redemption date (assuming the bonds matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 15 basis points less (b) interest accrued to the redemption date; and (ii) 100% of the principal amount of the bonds to be redeemed, plus, in either case, accrued and unpaid interest thereon to, but
+excluding, the redemption date
+Par Call: | On or after the Par Call Date, the Issuer may redeem the bonds at its option, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the bonds to be redeemed, plus
+accrued and unpaid interest thereon to, but excluding, the redemption date
+Tax Credit Event Call: | Upon the occurrence of a Tax Credit Event, the Issuer may redeem the bonds, in whole but not in part, at 101% of the principal amount of the bonds to be redeemed plus accrued and unpaid interest thereon to, but excluding, the
+redemption date (provided that the notice of such redemption may be issued no later than March 16, 2027)
+CUSIP/ISIN: | 30036F AG6 / US30036FAG63
+Joint Book-Running Managers: | PNC Capital Markets LLC RBC Capital Markets,
+LLC Truist Securities, Inc. U.S. Bancorp Investments,
+Inc.
+Co-Managers: | UMB Financial Services, Inc. Academy
+Securities, Inc.
+The Issuer has filed a registration statement (including a base prospectus) and the Preliminary Prospectus Supplement
+(including such base prospectus) with the SEC for the offering of the bonds to which this communication relates (File
+No. 333-281614-02).
+Before you invest, you
+should read the Preliminary Prospectus Supplement (including such base prospectus) and any other documents the Issuer has filed with the SEC for more complete information about the Issuer and this offering. You may get these documents for free by
+visiting EDGAR on the SEC’s website at www.sec.gov. Alternatively, PNC Capital Markets LLC, RBC Capital Markets, LLC, Truist Securities, Inc. or U.S. Bancorp Investments, Inc. can arrange to send you the prospectus if you request it by calling
+PNC Capital Markets LLC toll-free at
+1-855-881-0697,
+RBC Capital Markets, LLC toll-free at
+1-866-375-6829,
+Truist Securities, Inc. toll free at
+1-800-685-4786
+or U.S. Bancorp Investments, Inc. toll-free at
+1-877-558-2607.
+* | It is expected that delivery of the bonds will be made against payment therefor on or about September 16,
+2026, which will be the fourth business day (T+4) following the date hereof. Under Rule 15c6-1 under the Securities Exchange Act of 1934, trades in the secondary market generally are required to settle in one
+business day, unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade the bonds on any date prior to the first business day before delivery of the bonds will be required, by virtue of the fact that the
+bonds initially will settle in T+4, to specify alternative settlement arrangements to prevent a failed settlement and should consult their own advisors.
+** | A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or
+withdrawal at any time.
+2

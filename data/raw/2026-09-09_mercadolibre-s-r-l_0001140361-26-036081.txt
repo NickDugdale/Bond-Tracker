@@ -1,0 +1,80 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1833424/000114036126036081/ef20081816_fwp.htm
+ISSUER (SEC filer): MercadoLibre S.R.L.
+FILED: 2026-09-09
+========================================
+FWP
+1
+ef20081816_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Registration Statement Nos. 333-291604
+333-
+291604
+-01
+333-
+291604
+-03
+333-
+291604
+-04
+333-
+291604
+-05
+333-
+291604
+-07
+333-
+291604
+-08
+MERCADOLIBRE, INC.
+Pricing Term Sheet
+$1,000,000,000 5.850% Notes due 2036 (the “Notes”)
+September 9, 2026
+Issuer: | MercadoLibre, Inc. (the “Issuer ”)
+Guarantors: | MercadoLibre S.R.L. Mercado Livre Brasil Ltda. (formerly known as eBazar.com.br Ltda.) MercadoLibre Chile Ltda. DeRemate.com de México, S. de R.L. de C.V. MP Agregador, S. de R.L. de C.V. MercadoLibre Colombia Ltda.
+Title of Securities: | 5.850% Notes due 2036
+Security Type: | Senior Unsecured Notes
+Offering Format: | SEC Registered
+Principal Amount: | $1,000,000,000
+Expected Ratings (Moody’s / S&P / Fitch)*: | Baa3 / BBB- / BBB-
+Trade Date: | September 9, 2026
+Settlement Date**: | September 14, 2026 (T+3)
+Maturity Date: | September 14, 2036
+Coupon: | 5.850%
+Benchmark Treasury: | UST 4.625% due August 15, 2036
+Benchmark Treasury Price/Yield: | 98-10+/4.839%
+Spread to Benchmark Treasury: | 130 bps
+Price to Public: | 97.864% of face amount, plus accrued interest, if
+any, from September 14, 2026
+1
+Yield to Maturity: | 6.139%
+Interest Payment Dates: | March 14 and September 14, commencing March 14, 2027
+Optional Redemption: | Prior to the par call date, make-whole call at T+20
+bps. Par call on or after June 14, 2036 (the date that is three months prior to
+maturity). Tax call at par
+Minimum Denomination: | $50,000 and integral multiples of $1,000 in excess thereof
+CUSIP: | 58733R AJ1
+ISIN: | US58733RAJ14
+Joint Global Coordinators and Lead Book-Running Managers: | BofA Securities, Inc. Citigroup Global Markets Inc. Goldman Sachs & Co. LLC J.P. Morgan Securities LLC Morgan Stanley & Co. LLC
+Joint Book-Running Managers: | Allen & Company LLC Santander US Capital Markets LLC
+Governing Law: | State of New York
+Expected Listing: | Nasdaq Bond Exchange
+Additional Information: | Express reference is made to the following filings, which are incorporated by reference into, and considered to be a part of, the
+prospectus supplement and prospectus in the registration statement the Issuer has filed with the SEC: • the
+Issuer’s Annual Report on Form 10-K for the year ended December 31, 2025 filed with the SEC on February 25, 2026 • the
+Issuer’s Quarterly Reports on Form 10-Q for the quarters ended March 31, 2026 and June 30, 2026 filed with the SEC on May 8, 2026 and August 6, 2026, respectively; • the
+information specifically incorporated by reference into the Issuer’s Form 10-K from the Issuer’s Definitive Proxy Statement filed with the SEC on April 23, 2026; and • the
+Issuer’s Current Reports on Form 8-K filed with the SEC on April 3, 2026 and June 12, 2026.
+________________________
+*Note: A securities rating is not a recommendation to buy, sell or hold securities and may be revised or withdrawn at any time.
+2
+**Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required to settle
+in one business day unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes on any day prior to the business date before delivery of the Notes will be required, by virtue of the fact that
+the Notes initially will settle T+3, to specify an alternative settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to trade the Notes prior to the first business day preceding the date of
+delivery of the Notes should consult their own advisors.
+The Issuer has filed a registration statement (including a prospectus) with the SEC for the offering to which this communication relates.
+Before you invest, you should read the prospectus in that registration statement and other documents the Issuer has filed with the SEC for more complete information about the Issuer and this offering. You may get these documents for free by visiting
+EDGAR on the SEC Web site at www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling BofA Securities, Inc. at +1-800-294-1322, Citigroup
+Global Markets Inc. at +1-800-831-9146, Goldman Sachs & Co. LLC at +1-866-471-2526, J.P. Morgan Securities LLC at +1-212-834-4533 or Morgan Stanley & Co. LLC at +1-866-718-1649.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS
+OR OTHER NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.

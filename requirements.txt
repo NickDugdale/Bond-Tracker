@@ -1,0 +1,10 @@
+anthropic
+python-dotenv
+requests
+beautifulsoup4
+pdfplumber
+pandas
+openpyxl
+matplotlib
+python-docx
+docx2pdf

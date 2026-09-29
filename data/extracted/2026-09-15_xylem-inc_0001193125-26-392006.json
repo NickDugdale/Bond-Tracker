@@ -1,0 +1,72 @@
+{
+  "source_file": "2026-09-15_xylem-inc_0001193125-26-392006.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:47:23",
+  "usage": {
+    "input_tokens": 4414,
+    "output_tokens": 900
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Xylem Inc.",
+    "sector": "Industrials",
+    "trade_date": "2026-09-15",
+    "settlement_date": "2026-09-29",
+    "rating_moodys": "Baa2",
+    "rating_sp": "BBB",
+    "rating_fitch": null,
+    "bookrunners": [
+      "Citigroup Global Markets Inc.",
+      "ING Financial Markets LLC",
+      "J.P. Morgan Securities LLC",
+      "BNP Paribas Securities Corp.",
+      "Wells Fargo Securities, LLC"
+    ],
+    "use_of_proceeds": "Xylem intends to use the net proceeds from the notes, together with cash on hand, to finance all or a portion of the purchase price payable for the Acquisition, to pay associated costs and expenses and for general corporate purposes.",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 5.25,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-09-28",
+        "first_call_date": "2029-08-28",
+        "benchmark": "UST 4.375% due September 15, 2029",
+        "spread_bps": 50,
+        "yield_pct": 5.265,
+        "issue_price_pct": 99.959,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +50 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 5.45,
+        "coupon_type": "fixed",
+        "maturity_date": "2032-01-15",
+        "first_call_date": "2031-12-15",
+        "benchmark": "UST 4.375% due August 31, 2031",
+        "spread_bps": 65,
+        "yield_pct": 5.487,
+        "issue_price_pct": 99.841,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +65 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 5.85,
+        "coupon_type": "fixed",
+        "maturity_date": "2037-01-15",
+        "first_call_date": "2036-10-15",
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 85,
+        "yield_pct": 5.862,
+        "issue_price_pct": 99.918,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +85 bps"
+      }
+    ]
+  }
+}

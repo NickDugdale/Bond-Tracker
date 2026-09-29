@@ -1,0 +1,58 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/48732/000110465926109301/tm2625673d3_fwp.htm
+ISSUER (SEC filer): CENTERPOINT ENERGY HOUSTON ELECTRIC LLC
+FILED: 2026-09-21
+========================================
+FWP
+1
+tm2625673d3_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Registration No. 333-295924-02
+September 21, 2026
+PRICING TERM SHEET
+(to Preliminary Prospectus Supplement dated September
+21, 2026)
+Issuer: | CenterPoint Energy Houston Electric, LLC
+Legal Format: | SEC Registered
+Anticipated Ratings*: | A2 (stable) / A (stable) / A (stable) (Moody’s / S&P / Fitch)
+Security: | 5.40% General Mortgage Bonds, Series AS, due 2031
+Principal Amount: | $700,000,000
+Maturity Date: | October 15, 2031
+Interest Payment Dates: | April 15 and October 15, commencing April 15, 2027
+Coupon: | 5.40%
+Price to Public: | 99.934% of the principal amount
+Benchmark Treasury: | 4.375% due August 31, 2031
+Benchmark Treasury Yield: | 4.834%
+Spread to Benchmark Treasury: | +58 basis points
+Re-offer Yield: | 5.414%
+Optional Redemption: | Prior to September 15, 2031, greater of: (1)(a) make-whole at treasury rate [1] plus 10 basis points (calculated to September 15, 2031), less (b) interest accrued to the date of redemption and (2) 100%, plus, in either case, accrued and unpaid interest. On or after September 15, 2031, 100% plus accrued and unpaid interest.
+Tax Credit Event Call: | In whole, but not in part, at 101%, plus accrued and unpaid interest to, but excluding, the redemption date, if certain tax credit-related events occur (provided that the notice of such redemption may only be sent by the later of (a) December 31, 2026 and (b) six months from the date of issuance).
+CUSIP: | 15189X BM9
+Trade Date: | September 21, 2026
+Expected Settlement Date**: | September 24, 2026 (T+3)
+Joint Book-Running Managers: | Barclays Capital Inc. BNP Paribas Securities Corp. Goldman Sachs & Co. LLC MUFG Securities Americas Inc. Truist Securities, Inc. PNC Capital Markets LLC
+Co-Manager: | Independence Point Securities LLC
+[1]
+The
+term “treasury rate” shall have the meaning ascribed to it in the issuer’s preliminary prospectus supplement dated
+September
+21, 2026.
+*Note: A securities rating is not a recommendation
+to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+**
+We expect
+that delivery of the mortgage bonds offered hereby will be made against payment therefor on or about September 24, 2026, which will be
+the third business day following the date of pricing of the mortgage bonds (this settlement cycle being referred to as “T+3”).
+Under Rule 15c6-1 of the Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required to settle
+in one business day, unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade the mortgage bonds
+on any date prior to the first business day before delivery of the mortgage bonds will be required, by virtue of the fact that the mortgage
+bonds initially will settle in T+3, to specify alternative settlement arrangements at the time of any such trade to prevent a failed settlement
+and should consult their own advisors.
+The issuer has filed a registration statement (including a prospectus)
+with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration
+statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You
+may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, the issuer, any underwriter or any
+dealer participating in the offering will arrange to send you the prospectus if you request it by calling Barclays Capital Inc. toll-free
+at (888) 603-5847, BNP Paribas Securities Corp. toll-free at (800) 854-5674, Goldman Sachs & Co. LLC toll-free at (866) 471-2526,
+MUFG Securities Americas Inc. toll-free at (877) 649-6848 or Truist Securities, Inc. toll-free at (800) 685-4786.
+2

@@ -1,0 +1,45 @@
+{
+  "source_file": "2026-09-22_toronto-dominion-bank_0001193125-26-397041.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:48:26",
+  "usage": {
+    "input_tokens": 4104,
+    "output_tokens": 467
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "The Toronto-Dominion Bank",
+    "sector": "Financials",
+    "trade_date": "2026-09-21",
+    "settlement_date": "2026-09-28",
+    "rating_moodys": "A2",
+    "rating_sp": "A-",
+    "rating_fitch": "AA-",
+    "bookrunners": [
+      "TD Securities (USA) LLC",
+      "Goldman Sachs & Co. LLC",
+      "Mizuho Securities USA LLC",
+      "Morgan Stanley & Co. LLC",
+      "NatWest Markets Securities Inc.",
+      "Truist Securities, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 1250000000,
+        "coupon_pct": 5.801,
+        "coupon_type": "fixed",
+        "maturity_date": "2036-09-29",
+        "first_call_date": null,
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 85,
+        "yield_pct": 5.801,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Treasury Benchmark: +85 basis points"
+      }
+    ]
+  }
+}

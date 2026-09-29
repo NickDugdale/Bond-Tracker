@@ -1,0 +1,80 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/798941/000119312526386610/d134963dfwp.htm
+ISSUER (SEC filer): FIRST CITIZENS BANCSHARES INC /DE/
+FILED: 2026-09-09
+========================================
+FWP
+1
+d134963dfwp.htm
+FWP
+FWP
+Filed pursuant to Rule 433
+Registration
+No. 333-281553
+Dated September 9, 2026
+300,000 Depositary Shares, Each Representing a
+1/100
+th
+Interest
+in a Share of 7.500%
+Non-Cumulative
+Perpetual Preferred Stock, Series F
+Pricing Term Sheet
+Issuer: | First Citizens BancShares, Inc. (“BancShares”)
+Security: | Depositary Shares, each representing a 1/100 th interest in a share of 7.500% Non-Cumulative Perpetual Preferred Stock, Series F (the
+“Series F Preferred Stock”)
+Size: | $300,000,000 (300,000 depositary shares)
+Over-Allotment Option: | None
+Maturity: | The Series F Preferred Stock does not have a maturity date, and BancShares is not required to redeem the Series F Preferred Stock. Accordingly, the Series F Preferred Stock and the related depositary shares will remain outstanding
+indefinitely, unless and until BancShares decides to redeem it.
+Expected Ratings*: | Ba1/Stable (Moody’s) / BB/Stable (S&P)
+Liquidation Preference: | $100,000 per share (equivalent to $1,000 per depositary share)
+First Reset Date: | September 15, 2031
+Reset Date: | The First Reset Date and each date falling on the fifth anniversary of the preceding reset date
+Reset Period: | The period from and including the First Reset Date to, but excluding, the next following reset date and thereafter each period from and including each reset date to, but excluding, the next following reset date
+Reset Dividend Determination Date: | In respect of any reset period, the day falling three business days prior to the beginning of such reset period
+Dividend Rate (Non-Cumulative): | At a rate per annum equal to (i) 7.500% from the original issue date to, but excluding, September 15, 2031; and (ii) for each reset period from, and including, September 15, 2031, the “five-year treasury
+rate” (as defined in the preliminary prospectus supplement) as of the most recent reset dividend determination date plus 2.894%
+Dividend Payment Dates: | Beginning December 15, 2026, and each March 15, June 15, September 15 and December 15 thereafter
+Day Count: | 30/360
+Optional Redemption: | BancShares may redeem the Series F Preferred Stock at its option, (i) in whole or in part, from time to time, on any dividend payment date on or after the First Reset Date or (ii) in whole but not in part, within 90 days
+following a regulatory capital treatment event, at a redemption price equal to $100,000 per share (equivalent to $1,000 per depositary share), plus any authorized, declared and unpaid dividends and, (x) in the case of BancShares’ optional
+redemption, without accumulation of undeclared dividends, and (y) in the case of a redemption following a regulatory capital treatment event, the pro-rated portion of dividends, whether or not declared,
+for the dividend period in which such redemption occurs.
+Trade Date: | September 9, 2026
+Settlement Date**: | September 14, 2026 (T + 3)
+Public Offering Price: | $1,000 per depositary share
+Underwriting Discount: | $10 per depositary share
+Net Proceeds (before expenses) to BancShares: | $297,000,000
+Joint Book-Running Managers: | Morgan Stanley & Co. LLC BofA
+Securities, Inc. J.P. Morgan Securities LLC Wells Fargo
+Securities, LLC
+Co-Managers: | First Citizens Capital Securities, LLC TD
+Securities (USA) LLC
+CUSIP/ISIN: | 31959X AK9 / US31959XAK90
+Conflicts of Interest: | First Citizens Capital Securities, LLC, a subsidiary of BancShares, is participating in the offering of depositary shares as an underwriter. Accordingly, the offering is being conducted in compliance with the provisions of FINRA
+Rule 5121. In accordance with that rule, First Citizens Capital Securities, LLC is not permitted to sell depositary shares in the offering to an account over which it exercises discretionary authority without the prior specific written approval of
+the customer to which the account relates.
+* | A securities rating is not a recommendation to buy, sell or hold securities. Ratings may be subject to revision
+or withdrawal at any time by the assigning rating organization. Each rating should be evaluated independently of any other rating.
+** | The underwriters expect to deliver the depositary shares to purchasers on or about September 14, 2026
+which will be the third business day following the pricing of the depositary shares (such settlement cycle being herein referred to as “T + 3”). Under Rule 15c6-1 under the Exchange Act, trades in
+the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the depositary shares at any time prior to the first business day
+preceding the settlement date will be required, by virtue of the fact that the depositary shares initially will settle T + 3, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the
+depositary shares who wish to trade the depositary shares prior to the first business day preceding the settlement date should consult their own adviser.
+This communication is intended for the sole use of the person to whom it is provided by us. BancShares has filed a registration statement (File Number
+333-281553)
+(including a prospectus and a preliminary prospectus supplement) with the Securities and Exchange Commission for the offering to which this communication relates. Before you invest, you should read the
+prospectus and the preliminary prospectus supplement related to that registration statement and other documents that BancShares has filed with the Securities and Exchange Commission for more complete information about BancShares and this offering.
+You may get these documents for free by visiting EDGAR on the website of the Securities and Exchange Commission at www.sec.gov. Copies of the prospectus, preliminary prospectus supplement and any subsequently filed prospectus supplement relating to
+the offering may be obtained from Morgan Stanley & Co. LLC toll-free at
+1-866-718-1649;
+BofA Securities, Inc. toll-free
+at
+1-800-294-1322;
+J.P. Morgan Securities LLC collect at
+1-212-834-4533;
+and Wells Fargo Securities, LLC toll-free at
+1-800-645-3751.
+Any disclaimer or other notice that may appear below is not applicable to this communication and should be disregarded. Such disclaimer or notice was
+automatically generated as a result of this communication being sent by Bloomberg or another email system.
+2

@@ -1,0 +1,43 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1130891/000100415526000020/gas2026asnfwp.htm
+ISSUER (SEC filer): SOUTHERN CO GAS CAPITAL CORP
+FILED: 2026-09-09
+========================================
+FWP
+1
+gas2026asnfwp.htm
+FWP
+Document
+Filed Pursuant to Rule 433
+Registration Nos. 333-285115
+and 333-285115-01
+September 9, 2026
+PRICING TERM SHEET
+(To Preliminary Prospectus Supplement dated September 9, 2026)
+Issuer: | Southern Company Gas Capital Corporation
+Guarantor: | Southern Company Gas
+Security: | Series 2026A 5.00% Senior Notes due October 1, 2029
+Expected Ratings:* | Baa1 (Stable) / A- (Stable) / BBB+ (Stable) (Moody’s/ Standard & Poor’s/Fitch)
+Size: | $550,000,000
+Initial Public Offering Price: | 99.935% of the principal amount
+Maturity Date: | October 1, 2029
+Benchmark Treasury: | 4.250% due August 15, 2029
+Benchmark Treasury Yield: | 4.502%
+Spread to Benchmark Treasury: | +52 basis points
+Re-offer Yield: | 5.022%
+Optional Redemption:
+Make-Whole Call: | Prior to September 1, 2029 at T+10 basis points
+Par Call: | On or after September 1, 2029 at 100%
+Coupon: | 5.00%
+Call for Tax Credit Event: | In whole, but not in part, at 101% of the principal amount, plus any accrued and unpaid interest thereon (notice may be issued no later than March 14, 2027, for a redemption not less than 15 nor more than 60 days after such notice)
+Interest Payment Dates: | April 1 and October 1 of each year, beginning April 1, 2027
+Format: | SEC Registered
+Denominations: | $2,000 and integral multiples of $1,000 in excess thereof
+CUSIP/ISIN: | 8426EP AM0/US8426EPAM08
+Trade Date: | September 9, 2026
+Expected Settlement Date: | September 14, 2026 (T+3)
+Joint Book-Running Managers: | BofA Securities, Inc. MUFG Securities Americas Inc. PNC Capital Markets LLC Wells Fargo Securities, LLC
+Co-Managers: | KeyBanc Capital Markets Inc. Loop Capital Markets LLC PNFP Capital Markets, Inc. Park Place Capital Securities Corp. Samuel A. Ramirez & Company, Inc.
+* Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+The term “Tax Credit Event” has the meaning ascribed to it in the Issuer’s Preliminary Prospectus Supplement dated September 9, 2026.
+Southern Company Gas and Southern Company Gas Capital Corporation have filed a registration statement (including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents Southern Company Gas and Southern Company Gas Capital Corporation have filed with the SEC for more complete information about Southern Company Gas, Southern Company Gas Capital Corporation and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, Southern Company
+Gas, Southern Company Gas Capital Corporation, any underwriter or any dealer participating in this offering will arrange to send you the prospectus if you request it by contacting Southern Company Gas collect by phone at 1-404-506-5579, BofA Securities, Inc. toll free by phone at 1-800-294-1322 or by email at dg.prospectus_requests@bofa.com, MUFG Securities Americas Inc. toll free by phone at 1-877-649-6848, PNC Capital Markets LLC toll free by phone at 1-855-881-0697 or Wells Fargo Securities, LLC toll free by phone at 1-800-645-3751.

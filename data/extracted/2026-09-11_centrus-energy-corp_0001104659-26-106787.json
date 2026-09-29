@@ -1,0 +1,26 @@
+{
+  "source_file": "2026-09-11_centrus-energy-corp_0001104659-26-106787.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:46:18",
+  "usage": {
+    "input_tokens": 3871,
+    "output_tokens": 295
+  },
+  "data": {
+    "is_bond_pricing": false,
+    "not_bond_reason": "This is an equity offering (common stock and warrants), not a bond issue.",
+    "issuer": "Centrus Energy Corp.",
+    "sector": "Energy",
+    "trade_date": "2026-09-10",
+    "settlement_date": "2026-09-11",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "Guggenheim Securities, LLC",
+      "Barclays Capital Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": []
+  }
+}

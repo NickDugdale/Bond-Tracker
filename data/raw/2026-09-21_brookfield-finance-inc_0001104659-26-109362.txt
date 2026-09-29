@@ -1,0 +1,84 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1643171/000110465926109362/tm2625808d3_fwp.htm
+ISSUER (SEC filer): Brookfield Finance Inc.
+FILED: 2026-09-21
+========================================
+FWP
+1
+tm2625808d3_fwp.htm
+FWP
+Filed
+Pursuant to Rule 433
+Registration Nos. 333-292304-04 and 333-292304
+September
+21, 2026
+BROOKFIELD
+FINANCE INC.
+US$
+600,000,000 5.650% NOTES DUE 2031
+PRICING
+TERM SHEET
+September
+21, 2026
+Issuer: | Brookfield Finance Inc.
+Guarantor: | Brookfield Corporation
+Guarantee: | The Notes (as defined below) will be fully and unconditionally guaranteed as to payment of principal, premium (if any) and interest and certain other amounts by Brookfield Corporation.
+Security: | 5.650% Notes due September 23, 2031 (the “Notes”)
+Expected Ratings*: | A3 (Stable) (Moody’s Investors Service, Inc.) A- (Stable) (S&P Global Ratings) A- (Stable) (Fitch Ratings, Inc.) A (Stable) (DBRS Limited)
+Ranking: | Senior Unsecured
+Size: | US$600,000,000 There will be no sales to affiliates of Brookfield Wealth Solutions
+Ltd. in connection with this offering.
+Trade Date: | September 21, 2026
+Expected Settlement
+Date **: | September 23, 2026 (T+2)
+Maturity Date: | September 23, 2031
+Coupon: | 5.650%
+Interest Payment Dates: | March 23 and September 23, commencing March 23, 2027
+Price to Public: | 99.966%
+Benchmark Treasury: | UST 4.375% due August 31, 2031
+Benchmark Treasury Price & Yield: | 97-31+; 4.838%
+Spread to Benchmark Treasury: | + 82 basis points
+Yield: | 5.658%
+Denominations: | Initial denominations of US$2,000 and subsequent multiples of US$1,000
+Covenants: | Change of control (put @ 101%) Negative pledge Consolidation, merger, amalgamation and sale of substantially all assets
+Optional Redemption Provisions:
+Make-Whole Call: | Prior to August 23, 2031 (one month prior to maturity), treasury rate plus 15 basis points
+Par Call: | At any time on or after August 23, 2031 (one month prior to maturity), at 100% of the principal amount of the Notes to be redeemed
+Use of Proceeds: | The net proceeds from the sale of the Notes will be used for general corporate purposes
+CUSIP / ISIN: | 11271LAR3 / US11271LAR33
+Joint Book-Running Managers: | Deutsche Bank Securities Inc. BofA Securities, Inc. Mizuho Securities USA LLC MUFG Securities Americas Inc.
+Co-Managers: | Brookfield Securities LLC Banco Bradesco BBI S.A. BNP Paribas Securities Corp. Credit Agricole Securities (USA) Inc. Desjardins Securities Inc. Itau BBA USA Securities, Inc. National Bank of Canada Financial Inc. Natixis Securities Americas LLC Santander US Capital Markets LLC SG Americas Securities, LLC SMBC Nikko Securities America, Inc.
+Conflicts of Interest: | Brookfield Securities LLC, one of the underwriters of this offering, is an affiliate of the Issuer and, therefore, has a conflict of interest under FINRA Rule 5121. Accordingly, this offering is being made in compliance with the requirements of Rule 5121. Pursuant to Rule 5121, Brookfield Securities LLC will not confirm sales of the Notes to any account over which it exercises discretionary authority without the prior written approval of the customer.
+2
+Update to Selling Restrictions | The below shall replace the Notice to Prospective Investors in
+Switzerland: Notice to Prospective Investors in Switzerland This prospectus supplement does not constitute an issue prospectus
+pursuant to Article 652a or Article 1156 of the Swiss Code of Obligations and the notes will not be listed on the SIX Swiss
+Exchange. Therefore, this prospectus supplement may not comply with the disclosure standards of the listing rules (including any
+additional listing rules or prospectus schemes) of the SIX Swiss Exchange. Accordingly, the notes may not be offered to the public
+in or from Switzerland, but only to a selected and limited circle of investors who do not subscribe to the notes with a view to distribution.
+Any such investors will be individually approached by the underwriters from time to time.
+Capitalized
+terms used and not defined herein have the meanings assigned in the Issuer and the Guarantor’s Prospectus Supplement, dated
+September 21,
+2026
+.
+* Note: A security rating is not a recommendation to buy, sell or hold
+securities and may be subject to revision or withdrawal at any time.
+**
+Under Rule 15c6-1 under the Exchange Act, trades in the secondary market generally are required to settle in one business
+day unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes prior to the delivery
+of the Notes hereunder may be required, by virtue of the fact that the Notes initially will settle in T+2, to specify an alternative settlement
+cycle at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to trade the Notes prior to their
+date of delivery hereunder should consult their own advisors.
+The Issuer and the Guarantor have filed a joint registration statement
+(including a prospectus) and a prospectus supplement with the SEC for the offering to which this communication relates. Before you invest,
+you should read the prospectus in that registration statement, the prospectus supplement and other documents the Issuer and the Guarantor
+have filed with the SEC for more complete information about the Issuer, the Guarantor and this offering.
+You
+may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, the Issuer, any underwriter or any
+dealer participating in the offering will arrange to send you the prospectus if you request it by calling
+Deutsche Bank
+Securities Inc. at 1-800-503-4611 or by emailing prospectus.CPDG@db.com, or by calling BofA Securities, Inc. at 1-800-294-1322 or
+by emailing dg.prospectus_requests@bofa.com.
+No PRIIPs or UK PRIIPs key information document (KID) has been prepared
+as European Economic Area or UK retail investors are not targeted.
+3

@@ -1,0 +1,121 @@
+{
+  "source_file": "2026-09-09_gsk-plc_0001193125-26-385857.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:44:49",
+  "usage": {
+    "input_tokens": 5018,
+    "output_tokens": 1402
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "GlaxoSmithKline Capital Inc.",
+    "sector": "Healthcare",
+    "trade_date": "2026-09-08",
+    "settlement_date": "2026-09-15",
+    "rating_moodys": "A2",
+    "rating_sp": "A",
+    "rating_fitch": null,
+    "bookrunners": [
+      "BNP Paribas Securities Corp.",
+      "BofA Securities, Inc.",
+      "Citigroup Global Markets Inc.",
+      "J.P. Morgan Securities LLC",
+      "Morgan Stanley & Co. LLC",
+      "Barclays Capital Inc.",
+      "Deutsche Bank Securities Inc.",
+      "Goldman Sachs & Co. LLC",
+      "HSBC Securities (USA) Inc.",
+      "Mizuho Securities USA LLC",
+      "Santander US Capital Markets LLC",
+      "Standard Chartered Bank"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 1250000000,
+        "coupon_pct": 4.85,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-09-14",
+        "first_call_date": "2029-08-14",
+        "benchmark": "4.250% due August 15, 2029",
+        "spread_bps": 40,
+        "yield_pct": 4.862,
+        "issue_price_pct": 99.967,
+        "seniority": "senior unsecured",
+        "pricing_quote": "2029 Notes: +40 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1250000000,
+        "coupon_pct": 5.0,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-09-15",
+        "first_call_date": "2031-08-15",
+        "benchmark": "4.375% due August 31, 2031",
+        "spread_bps": 55,
+        "yield_pct": 5.111,
+        "issue_price_pct": 99.516,
+        "seniority": "senior unsecured",
+        "pricing_quote": "2031 Notes: +55 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1500000000,
+        "coupon_pct": 5.25,
+        "coupon_type": "fixed",
+        "maturity_date": "2033-09-15",
+        "first_call_date": "2033-07-15",
+        "benchmark": "4.500% due August 31, 2033",
+        "spread_bps": 60,
+        "yield_pct": 5.271,
+        "issue_price_pct": 99.878,
+        "seniority": "senior unsecured",
+        "pricing_quote": "2033 Notes: +60 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1500000000,
+        "coupon_pct": 5.5,
+        "coupon_type": "fixed",
+        "maturity_date": "2036-09-15",
+        "first_call_date": "2036-06-15",
+        "benchmark": "4.625% due August 15, 2036",
+        "spread_bps": 72,
+        "yield_pct": 5.514,
+        "issue_price_pct": 99.893,
+        "seniority": "senior unsecured",
+        "pricing_quote": "2036 Notes: +72 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 6.0,
+        "coupon_type": "fixed",
+        "maturity_date": "2056-09-15",
+        "first_call_date": "2056-03-15",
+        "benchmark": "5.000% due May 15, 2056",
+        "spread_bps": 80,
+        "yield_pct": 6.053,
+        "issue_price_pct": 99.271,
+        "seniority": "senior unsecured",
+        "pricing_quote": "2056 Notes: +80 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": null,
+        "coupon_type": "floating",
+        "maturity_date": "2029-09-14",
+        "first_call_date": null,
+        "benchmark": "SOFR",
+        "spread_bps": 56,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Compounded SOFR plus 0.560%"
+      }
+    ]
+  }
+}

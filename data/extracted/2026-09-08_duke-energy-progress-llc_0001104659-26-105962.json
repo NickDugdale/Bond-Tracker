@@ -1,0 +1,59 @@
+{
+  "source_file": "2026-09-08_duke-energy-progress-llc_0001104659-26-105962.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:44:04",
+  "usage": {
+    "input_tokens": 4237,
+    "output_tokens": 683
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Duke Energy Progress, LLC",
+    "sector": "Utilities",
+    "trade_date": "2026-09-08",
+    "settlement_date": "2026-09-11",
+    "rating_moodys": "Aa3",
+    "rating_sp": "A",
+    "rating_fitch": null,
+    "bookrunners": [
+      "BNY Mellon Capital Markets, LLC",
+      "MUFG Securities Americas Inc.",
+      "PNC Capital Markets LLC",
+      "Scotia Capital (USA) Inc.",
+      "SMBC Nikko Securities America, Inc.",
+      "U.S. Bancorp Investments, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 700000000,
+        "coupon_pct": 5.55,
+        "coupon_type": "fixed",
+        "maturity_date": "2036-09-15",
+        "first_call_date": "2036-06-15",
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 80,
+        "yield_pct": 5.596,
+        "issue_price_pct": 99.65,
+        "seniority": "senior secured",
+        "pricing_quote": "Spread to Benchmark Treasury: +80 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 300000000,
+        "coupon_pct": 6.15,
+        "coupon_type": "fixed",
+        "maturity_date": "2056-09-15",
+        "first_call_date": "2056-03-15",
+        "benchmark": "UST 5.000% due May 15, 2056",
+        "spread_bps": 90,
+        "yield_pct": 6.157,
+        "issue_price_pct": 99.904,
+        "seniority": "senior secured",
+        "pricing_quote": "Spread to Benchmark Treasury: +90 bps"
+      }
+    ]
+  }
+}

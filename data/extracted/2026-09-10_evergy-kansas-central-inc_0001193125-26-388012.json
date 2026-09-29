@@ -1,0 +1,42 @@
+{
+  "source_file": "2026-09-10_evergy-kansas-central-inc_0001193125-26-388012.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:46:01",
+  "usage": {
+    "input_tokens": 3764,
+    "output_tokens": 443
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "issuer": "Evergy Kansas Central, Inc.",
+    "sector": "Utilities",
+    "trade_date": "2026-09-10",
+    "settlement_date": "2026-09-16",
+    "rating_moodys": "A2",
+    "rating_sp": "A",
+    "rating_fitch": null,
+    "bookrunners": [
+      "PNC Capital Markets LLC",
+      "RBC Capital Markets, LLC",
+      "Truist Securities, Inc.",
+      "U.S. Bancorp Investments, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 350000000,
+        "coupon_pct": 5.6,
+        "coupon_type": "fixed",
+        "maturity_date": "2034-01-15",
+        "first_call_date": "2033-11-15",
+        "benchmark": "UST 4.50% due 2033-08-31",
+        "spread_bps": 78,
+        "yield_pct": 5.608,
+        "issue_price_pct": 99.961,
+        "seniority": "senior secured",
+        "pricing_quote": "Spread to Benchmark Treasury: +78 basis points; Yield to Maturity: 5.608%"
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1018724/000110465926106322/tm2624614d4_fwp.htm
+ISSUER (SEC filer): AMAZON COM INC
+FILED: 2026-09-09
+========================================
+FWP
+1
+tm2624614d4_fwp.htm
+FWP
+Final
+Term Sheet dated September 9, 2026 | Issuer Free Writing Prospectus Filed Pursuant to Rule 433 relating to the Preliminary Prospectus Supplement dated September 9, 2026
+and Prospectus dated February 6,
+2026 Registration Statement No. 333-293246
+Amazon.com, Inc.
+5.200
+% Notes
+due 2029
+5.550
+% Notes
+due 2032
+6.250
+% Notes
+due 2038
+6.650
+% Notes
+due 2045
+Pricing Term Sheet
+Issuer: | Amazon.com, Inc.
+(the “Issuer”)
+Security
+Type: | SEC registered
+Ratings*: | A1 by Moody’s Investor Service, Inc. AA by Standard & Poor’s Ratings
+Services AA- by Fitch Ratings Inc.
+Listing: | The Issuer intends to apply to list each series of the notes on
+the Nasdaq Bond Exchange (“Nasdaq”). The listing applications will be subject to approval by Nasdaq. The Issuer currently
+expects trading in each series of the notes on Nasdaq to begin within 30 days after the original issue date. If such a listing is
+obtained, the Issuer has no obligation to maintain such listing and the Issuer may delist any series of the notes at any time. Currently
+there is no public market for any series of the notes.
+Trade
+Date: | September 9, 2026
+Settlement
+Date (T+ 3)**: | September 14, 2026
+Redemption
+for Tax Reasons: | The Issuer may redeem any series of the notes, in whole, but not
+in part, in the event of certain changes in the tax laws of a relevant Tax Jurisdiction (as defined in the Preliminary Prospectus
+Supplement) that would require the Issuer to pay additional amounts with respect to the notes of any series. The redemption price
+would be equal to 100% of the principal amount of the notes of such series to be redeemed, plus accrued and unpaid interest, if any
+(including, for the avoidance of doubt, any additional amounts), on the notes of such series to be redeemed to, but not including,
+the date of redemption.
+Stabilization: | Relevant
+stabilization regulations apply (including FCA/ICMA)
+Minimum
+Denominations: | £100,000
+and multiples of £1,000 in excess thereof
+Joint
+Book-Running Managers: | Barclays Bank PLC HSBC Bank plc J.P. Morgan Securities plc NatWest Markets Plc Citigroup Global Markets Limited Merrill Lynch International Wells Fargo Securities International Limited Deutsche Bank AG, London Branch BNP PARIBAS Goldman Sachs & Co. LLC Morgan Stanley & Co. International plc RBC Europe Limited Société Générale TD Global Finance unlimited company The Bank of Nova Scotia, London Branch
+Co-Managers: | Banco Bilbao Vizcaya Argentaria, S.A. Banco Santander, S.A. Bank of China (Europe) S.A. Standard Chartered Bank*** U.S. Bancorp Investments, Inc. ING Bank N.V., Belgian Branch Intesa Sanpaolo IMI Securities Corp. Mizuho International plc PNC Capital Markets LLC SMBC Bank International plc UniCredit Bank GmbH
+Title: | 5.200% Notes due 2029 (the “2029 Notes”) 5.550% Notes due 2032 (the “2032 Notes”) 6.250% Notes due 2038 (the “2038 Notes”) 6.650% Notes due 2045 (the “2045 Notes”)
+Size: | 2029 Notes: £1,250,000,000 2032 Notes: £1,000,000,000 2038 Notes: £1,000,000,000 2045 Notes: £1,000,000,000
+Maturity
+Date: | 2029 Notes: September 14, 2029 2032 Notes: September 14, 2032 2038 Notes: September 14, 2038 2045 Notes: September 14, 2045
+Coupon
+(Interest Rate): | 2029 Notes: 5.200% per annum, accruing from
+September 14, 2026 2032 Notes: 5.550% per annum, accruing from
+September 14, 2026 2038 Notes: 6.250% per annum, accruing from
+September 14, 2026 2045 Notes: 6.650% per annum, accruing from
+September 14, 2026
+Yield
+to Maturity (Semi-Annual): | 2029 Notes: 5.211% 2032 Notes: 5.561% 2038 Notes: 6.277% 2045 Notes: 6.691%
+Spread
+to Benchmark Gilt: | 2029 Notes: + 53 bps 2032 Notes: + 75 bps 2038 Notes: + 90 bps 2045 Notes: + 93 bps
+Benchmark
+Gilt: | 2029
+Notes: UKT 4.125% due July 22, 2029 2032 Notes:
+UKT 4.250% due June 7, 2032 2038 Notes:
+UKT 3.750% due January 29, 2038 2045 Notes:
+UKT 3.500% due January 22, 2045
+Benchmark
+Gilt Price and Yield (Semi-Annual): | 2029 Notes: 98.520% / 4.681% 2032 Notes: 97.210% / 4.811% 2038 Notes: 86.275% / 5.377% 2045 Notes: 74.580% / 5.761%
+Interest
+Payment Dates: | In the case of each series of notes,
+September 14 and March 14 of each year, beginning on March 14, 2027. If any date on which interest is payable (other
+than any maturity date or earlier date of redemption) on the notes is not a business day, the payment of the interest payable on
+that date will be made on the next day that is a business day, without any interest or other payment in respect of the delay, with
+the same force and effect as if made on the scheduled payment date. If any maturity date or earlier date of redemption of the notes
+is not a business day, the required payment will be made on the next business day as if it were made on the date the payment was
+due and no additional interest will accrue on the amount so payable for the period from and after that maturity date or that date
+of redemption, as the case may be.
+Optional Redemption: | Each series of notes may be redeemed in whole at any time or in
+part from time to time prior to the applicable Par Call Date (as set forth below), at a redemption price (expressed as a percentage
+of principal amount and rounded to three decimal places) equal to the greater of: (1) 100% of the principal amount of the notes of the applicable
+series to be redeemed, and (2) the sum of the present values of the remaining scheduled
+payments of principal and interest on the notes to be redeemed that would be due if such notes matured on the applicable Par Call
+Date (exclusive of interest accrued to the redemption date) discounted to the redemption date on a semi-annual basis (ACTUAL/ACTUAL
+(ICMA)), at the Comparable Government Bond Rate (as defined in the Preliminary Prospectus Supplement) plus 10 basis points in the
+case of the 2029 Notes, plus 15 basis points in the case of the 2032 Notes, plus 15 basis points in the case of the 2038 Notes, and
+plus 15 basis points in the case of the 2045 Notes, plus, in either case, accrued interest and unpaid interest thereon, if any, to,
+but not including, the redemption date. On or after the applicable Par Call Date,
+the Issuer may redeem the notes of each series of notes, in whole or in part, at any time and from time to time, at a redemption
+price equal to 100% of the principal amount of the notes being redeemed plus accrued and unpaid interest thereon to, but not including,
+the redemption date.
+Par
+Call Date: | 2029 Notes: August 14, 2029 (one month
+prior to the maturity date of the 2029 Notes) 2032 Notes: July 14, 2032 (two months
+prior to the maturity date of the 2032 Notes) 2038 Notes: June 14, 2038 (three months
+prior to the maturity date of the 2038 Notes) 2045 Notes: March 14, 2045 (six months
+prior to the maturity date of the 2045 Notes)
+Price
+to Public: | 2029 Notes: 99.970% of the principal amount,
+plus accrued interest, if any 2032 Notes: 99.945% of the principal amount,
+plus accrued interest, if any 2038 Notes: 99.775% of the principal amount,
+plus accrued interest, if any 2045 Notes: 99.563% of the principal amount,
+plus accrued interest, if any
+CUSIP
+/ Common Code / ISIN: | 2029 Notes: 023135 EK8 /
+350467734 / XS3504677348 2032 Notes: 023135 EL6 /
+350467769 / XS3504677694 2038 Notes: 023135 EM4 /
+350467777 / XS3504677777 2045 Notes: 023135 EN2 /
+350467793 / XS3504677934
+* A securities rating is not a recommendation to buy, sell or hold
+securities and may be subject to revision or withdrawal by the assigning rating organization at any time. Each rating should be evaluated
+independently of any other rating.
+** Under Rule 15c6-1 under the Securities Exchange Act
+of 1934, as amended, trades in the secondary market generally are required to settle in one business day, unless the parties to any such
+trade expressly agree otherwise. Accordingly, purchasers who wish to trade notes on any day prior to the business date before delivery
+will be required, by virtue of the fact that the notes initially will settle T+3, to specify an alternate settlement cycle at the time
+of any such trade to prevent a failed settlement and should consult their own advisors.
+*** Standard Chartered Bank will not effect any offers or sales
+of any notes in the United States unless it is through one or more U.S. registered broker-dealers as permitted by the regulations of
+FINRA.
+PROHIBITION OF SALES TO EEA RETAIL INVESTORS
+– The notes
+are not intended to be offered, sold, or otherwise made available to and should not be offered, sold, or otherwise made available to
+any retail investor in the European Economic Area (“EEA”). For these purposes, a retail investor means a person who is one
+(or more) of: (i) a retail client as defined in point (11) of Article 4(1) of Directive 2014/65/EU (as amended, “MiFID
+II”); (ii) a customer within the meaning of Directive (EU) 2016/97 (as amended, the “Insurance Distribution Directive”),
+where that customer would not qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II; or
+(iii) not a qualified investor as defined in Regulation (EU) 2017/1129 (as amended, the “Prospectus Regulation”). Consequently,
+no key information document required by Regulation (EU) No 1286/2014 (as amended, the “PRIIPs Regulation”) for offering or
+selling packaged retail and insurance based investment products or otherwise making them available to retail investors in the EEA has
+been prepared, and therefore offering or selling the notes or otherwise making them available to any retail investor in the EEA may be
+unlawful under the PRIIPs Regulation.
+MIFID II PRODUCT GOVERNANCE / PROFESSIONAL INVESTORS AND ECPS ONLY
+TARGET MARKET
+– Solely for the purposes of each manufacturer’s product approval process, the target market assessment
+in respect of the notes has led to the conclusion that: (i) the target market for the notes is eligible counterparties and professional
+clients only, each as defined in MiFID II; and (ii) all channels for distribution of the notes to eligible counterparties and professional
+clients are appropriate. Any person subsequently offering, selling or recommending the notes (for the purposes of this paragraph, a “distributor”)
+should take into consideration the manufacturers’ target market assessment; however, a distributor subject to MiFID II is responsible
+for undertaking its own target market assessment in respect of the notes (by either adopting or refining the manufacturers’ target
+market assessment) and determining appropriate distribution channels.
+PROHIBITION OF SALES TO UK RETAIL INVESTORS –
+The notes
+are not intended to be offered, sold, or otherwise made available to and should not be offered, sold, or otherwise made available to
+any retail investor in the United Kingdom (“UK”). For these purposes, a retail investor means a person who is neither: (i) a
+“professional client” as defined in point (8) of Article 2(1) of Regulation (EU) No 600/2014 as it forms part
+of assimilated law in the UK by virtue of the European Union (Withdrawal) Act 2018 (as amended, and together with any statutory instruments
+made in exercise of the powers conferred by such Act, the “EUWA”); nor (ii) a “qualified investor” as defined
+in paragraph 15 of Schedule 1 to The Public Offers and Admissions to Trading Regulations 2024 (the “UK POATRs”). Consequently,
+no disclosure document required by the FCA Product Disclosure Sourcebook (“DISC”) for offering, selling or distributing packaged
+retail and insurance based investment products or otherwise making them available to retail investors in the UK has been prepared, and
+therefore offering, selling or distributing the notes or otherwise making them available to any retail investor in the UK may be unlawful
+under DISC and the Consumer Composite Investments (Designated Activities) Regulations 2024.
+NOTICE TO PROSPECTIVE INVESTORS IN THE UNITED KINGDOM
+–
+In the UK, this document is for distribution only to non-retail investors (being persons who are not “retail investors” as
+defined in the paragraph above titled “
+Prohibition of Sales to UK Retail Investors
+”) who are also: (i) persons
+having professional experience in matters relating to investments who fall within the definition of “investment professionals”
+in Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the “Order”);
+(ii) high net worth entities falling within Article 49(2)(a) to (d) of the Order; or (iii) any other person
+to whom it can otherwise be lawfully distributed (all such persons together being referred to as “Relevant Persons”). In
+the UK, this document and the accompanying prospectus supplement and prospectus are directed only at Relevant Persons and must not be
+acted on or relied on by persons who are not Relevant Persons. In the UK, any investment or investment activity to which this document
+and the accompanying prospectus supplement and prospectus relate is available only to Relevant Persons and will be engaged in only with
+Relevant Persons.
+UK MIFIR PRODUCT GOVERNANCE//PROFESSIONAL INVESTORS AND ECPS ONLY
+TARGET MARKET
+- Solely for the purposes of each manufacturer’s product approval process, the target market assessment in respect
+of the notes has led to the conclusion that: (i) the target market for the notes is only eligible counterparties, as defined in
+the FCA Handbook Conduct of Business Sourcebook, and professional clients, as defined in Regulation (EU) No 600/2014 as it forms part
+of assimilated law by virtue of the EUWA (“UK MiFIR”); and (ii) all channels for distribution of the notes to eligible
+counterparties and professional clients are appropriate. Any person subsequently offering, selling or recommending the notes (for the
+purposes of this paragraph, a “distributor”) should take into consideration the manufacturers’ target market assessment;
+however, a distributor subject to the FCA Handbook Product Intervention and Product Governance Sourcebook (the “UK MiFIR Product
+Governance Rules”) is responsible for undertaking its own target market assessment in respect of the notes (by either adopting
+or refining the manufacturers’ target market assessment) and determining appropriate distribution channels.
+The Issuer has filed a registration statement (including a prospectus)
+and a preliminary prospectus supplement with the SEC for the offering to which this communication relates. Before you invest, you should
+read the prospectus in that registration statement, the related preliminary prospectus supplement, and other documents the Issuer has
+filed with the SEC for more complete information about the Issuer and this offering. You may get these documents for free by visiting
+the SEC website at www.sec.gov. Alternatively, the Issuer, any underwriter, or any dealer participating in the offering will arrange
+to send you the prospectus and related preliminary prospectus supplement if you request them by contacting Barclays Bank PLC at +1-888-603-5847;
+HSBC Bank plc at + 1-866-811-8049; J.P. Morgan Securities plc (for non-U.S. investors) at +44-20 7134-2468; J.P. Morgan Securities LLC
+(for U.S. investors) at +1-212-834-4533; or NatWest Markets Plc at +1-800-231-5380.

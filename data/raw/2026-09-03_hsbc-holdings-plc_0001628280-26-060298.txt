@@ -1,0 +1,487 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1089113/000162828026060298/hsbc-pricingtermsheetfixed.htm
+ISSUER (SEC filer): HSBC HOLDINGS PLC
+FILED: 2026-09-03
+========================================
+FWP
+1
+hsbc-pricingtermsheetfixed.htm
+FWP
+Document
+Filed pursuant to rule 433
+Registration No. 333-277306
+September 3, 2026
+HSBC
+Holdings
+plc
+£750,000,000
+6.061
+%
+Fixed
+Rate/Floating
+Rate
+Senior
+Unsecured
+Notes
+due
+2035
+(the
+“Notes”)
+Pricing Term Sheet:
+Issuer: | HSBC Holdings plc (“HSBC Holdings”)
+Sole Book-Running Manager: | HSBC Bank plc
+Co-Managers: | ABANCA Corporación Bancaria, S.A. Alpha Bank S.A. Banco de Sabadell, S.A. Caixa – Banco de Investimento, S.A. Nordea Bank Abp Unicaja Banco, S.A.
+Structure: | Fixed Rate/Floating Rate Senior Unsecured Notes
+Issuer Ratings:* | A3 (stable) (Moody’s) / A- (positive) (S&P) / A+ (stable) (Fitch)
+Expected Issue Ratings:* | A3 (Moody’s) / A- (S&P) / A+ (Fitch)
+Pricing Date: | September 3, 2026
+Settlement Date: | September 11, 2026 (T+5) (the “Issue Date”)
+Maturity Date: | September 11, 2035
+Form of Offering: | SEC Registered Global
+Transaction Details:
+Principal Amount: | £750,000,000
+Fixed Rate Coupon: | 6.061% per annum (the “Initial Interest Rate”), during the Fixed Rate Period (as defined below)
+Fixed Rate Benchmark Gilt: | UKT 4.500% due September 7, 2034
+Fixed Rate Gilt Yield: | 4.942%
+Fixed Rate Gilt Price: | 97.105%
+Fixed Rate Re-offer Spread: | UKT + 103 basis points
+Floating Rate Pricing Benchmark: | Compounded Daily SONIA (calculated as described under “ Description of the Notes—Interest ” in the Preliminary Prospectus Supplement), subject to the SONIA fallback provisions
+Floating Rate Coupon: | Compounded Daily SONIA (as determined on the applicable Interest Determination Date (as defined below)), plus 1.440% per annum (the “Margin”), during the Floating Rate Period (as defined below), subject to the SONIA fallback provisions
+Fixed Rate Re-offer Yield: | 6.061%
+Issue Price: | 100.000%
+Gross Fees: | 0.350%
+Net Price: | 99.650%
+Net Proceeds to Issuer: | £747,375,000
+Par Redemption Date: | September 11, 2034
+Interest Pay Frequency: | Annually, during the Fixed Rate Period (as defined below); quarterly, during the Floating Rate Period (as defined below).
+Interest Payment Dates: | From (and including) the Issue Date to (but excluding) September 11 , 2034 (the “Fixed Rate Period”), interest on the Notes will be payable annually in arrear on September 11 of each year, beginning on September 11, 2027 (each, a “Fixed Rate Period Interest Payment Date”).
+From (and including) September 11, 2034 to (but excluding) the Maturity Date (the “Floating Rate Period”), interest on the Notes will be payable quarterly in arrear on December 11, 2034, March 11, 2035, June 11, 2035 and September 11, 2035 (each, a “Floating Rate Period Interest Payment Date” and, together with the Fixed Rate Period Interest Payment Dates, the “Interest Payment Dates”).
+Floating Rate Interest Period: | During the Floating Rate Period, the period beginning on (and including) a Floating Rate Period Interest Payment Date and ending on (but excluding) the next succeeding Floating Rate Period Interest Payment Date (each, a “Floating Rate Interest Period”); provided that the first Floating Rate Interest Period will begin on (and include) September 11, 2034 and will end on (but exclude) the first Floating Rate Period Interest Payment Date.
+Interest Determination Dates: | The fifth SONIA Business Day preceding the applicable Interest Payment Date (each, an “Interest Determination Date”).
+Calculation of Compounded Daily SONIA and fallback: | “Compounded Daily SONIA” means, in relation to a Floating Rate Interest Period, the rate of return of a daily compound interest investment (with SONIA as reference rate for the calculation of interest) during the related Observation Period and will be calculated by the calculation agent on the related Interest Determination Date as follows: Where: “d” means, in relation to any Observation Period, the number of calendar days in such Observation Period. “d 0 ” means, in relation to any Observation Period, the number of SONIA Business Days in such Observation Period. “i” means, in relation to any Observation Period, a series of whole numbers from one to d 0 , each representing the relevant SONIA Business Day in chronological order from (and including) the first SONIA Business Day in such Observation Period. “n i ” means, in relation to any SONIA Business Day “i” in the relevant Observation Period, the number of calendar days from (and including) such SONIA Business Day “i” up to (but excluding) the next following SONIA Business Day. “Observation Period” means, in respect of each Floating Rate Interest Period, the period from (and including) the date which is the Interest Determination Date for the immediately preceding Interest Payment Date to (but excluding) the date which is the Interest Determination Date for such Floating Rate Interest Period (or the date falling five SONIA Business Days prior to such earlier date, if any, on which the Notes become due and payable); provided that the first Observation Period shall commence on (and include) the date that is five SONIA Business Days prior to the Par Redemption Date. “SONIA” means, in relation to any SONIA Business Day, the rate determined by the calculation agent in accordance with the following provisions: (1) the daily Sterling Overnight Index Average (“SONIA”) rate for trades made on such SONIA Business Day as provided by the administrator of SONIA (or any successor administrator) to authorized distributors and as then published on the Relevant Screen Page (or, if the Relevant Screen Page is unavailable, as otherwise published by such authorized distributors) on the SONIA Business Day immediately following such SONIA Business Day; (2) if, in respect of any SONIA Business Day “i”, the rate specified in (1) above is not available on the Relevant Screen Page or has not otherwise been published by the relevant authorized distributors in respect of such SONIA Business Day “i” and neither (A) an Index Cessation Event and an Index Cessation Effective Date nor (B) an Administrator/Benchmark Event and an Administrator/Benchmark Event Date, in each case with respect to SONIA, have occurred, SONIA i in respect of such SONIA Business Day “i”, shall be the SONIA rate in respect of the last SONIA Business Day prior to such SONIA Business Day “i” for which SONIA was available on the Relevant Screen Page or was otherwise so published; or
+(3) if, in respect of any SONIA Business Day “i”, the rate specified in (1) above is not available on the Relevant Screen Page or has not otherwise been published by the relevant authorized distributors and HSBC Holdings (in consultation, to the extent practicable, with the calculation agent) determines either that (A) both an Index Cessation Event and Index Cessation Effective Date have occurred or (B) both an Administrator/Benchmark Event and Administrator/Benchmark Event Date have occurred, in each case, in respect of SONIA, then: (a) SONIA i in respect of each SONIA Business Day “i” falling on or after the Applicable Fallback Effective Date shall be calculated as if references to “SONIA” in the foregoing provisions were to the Recommended Rate; (b) if there is a Recommended Rate before the end of the first SONIA Business Day following the Applicable Fallback Effective Date, but neither the administrator of the Recommended Rate nor authorized distributors provide or publish the Recommended Rate in respect of any SONIA Business Day “i” for which the Recommended Rate is required, then, subject to paragraph (c) below, in respect of any SONIA Business Day “i” for which the Recommended Rate is required, references to the Recommended Rate will be deemed to be references to the last provided or published Recommended Rate prior to such SONIA Business Day “i”. If there is no last provided or published Recommended Rate, then in respect of any SONIA Business Day “i” for which the Recommended Rate is required, references to the Recommended Rate will be deemed to be references to the last provided or published SONIA rate (without taking into account any deemed changes to the term “SONIA” pursuant to provision (3)(a) above prior to such SONIA Business Day “i”); and (c) if: (i) there is no Recommended Rate before the end of the first SONIA Business Day following the Applicable Fallback Effective Date referred to in (a) and (b) above; or (ii) there is a Recommended Rate and HSBC Holdings (in consultation, to the extent practicable, with the calculation agent) determines either that (A) both an Index Cessation Event and Index Cessation Effective Date have occurred or (B) both an Administrator/Benchmark Event and Administrator/Benchmark Event Date have occurred, in each case with respect to the Recommended Rate, then SONIA i in respect of each SONIA Business Day “i”, falling on or after the Applicable Fallback Effective Date shall be calculated as if references to SONIA in the foregoing provisions pertaining to the calculation of SONIA were to the Final Fallback Rate. In respect of any day for which the Final Fallback Rate is required, references to the Final Fallback Rate will be deemed to be references to the last provided or published Final Fallback Rate as at close of business in London, England on that day;
+“SONIA i ” means, in relation to any SONIA Business Day “i” in the relevant Observation Period, SONIA in respect of such SONIA Business Day. “SONIA Business Day” means any day on which commercial banks are open for general business (including dealing in foreign exchange and foreign currency deposits) in London. “Administrator/Benchmark Event” means that it has or will prior to the next Interest Determination Date become unlawful for the calculation agent or HSBC Holdings to calculate any payments due to be made to any noteholder using SONIA or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes (including, without limitation, under Regulation (EU) 2016/1011 as it forms part of domestic law in the United Kingdom by virtue of the EUWA, if applicable). “Administrator/Benchmark Event Date” means the date from which it becomes unlawful for the calculation agent or HSBC Holdings to calculate any payments due to be made to any noteholder using SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes). “Applicable Fallback Effective Date” means in respect of SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes) and an Index Cessation Event or an Administrator/Benchmark Event, the Index Cessation Effective Date or the Administrator/Benchmark Event Date, as applicable. “Final Fallback Rate” means, in respect of any relevant day, the official bank rate as determined by the Monetary Policy Committee of the Bank of England and published by the Bank of England from time to time, in effect on that day. “Index Cessation Event” means, in respect of SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes), the occurrence of one or more of the following events: (1) a public statement or publication of information by or on behalf of the administrator of SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes) announcing that it has ceased or will cease to provide SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes) permanently or indefinitely, provided that, at the time of the statement or publication, there is no successor administrator or provider, as applicable, that will continue to provide SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes);
+(2) a public statement or publication of information by the regulatory supervisor for the administrator of SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes), the central bank for the currency of SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes), an insolvency official with jurisdiction over the administrator for SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes), a resolution authority with jurisdiction over the administrator for SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes) or a court or an entity with similar insolvency or resolution authority over the administrator for SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes), which states that the administrator of SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes) has ceased or will cease to provide SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes) permanently or indefinitely, provided that, at the time of such statement or publication, there is no successor administrator or provider that will continue to provide SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes); or (3) a public statement or publication of information by the regulatory supervisor for the administrator of SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes) announcing that the regulatory supervisor has determined that SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes) is no longer, or as of a specified future date will no longer be, representative of the underlying market and economic reality that SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes) is intended to measure and that representativeness will not be restored.
+“Index Cessation Effective Date” means: (1) in the case of limbs (1) or (2) of the definition of “Index Cessation Event”, the first date on which SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes) would ordinarily have been published or provided and is no longer published or provided; or (2) in the case of limb (3) of the definition of “Index Cessation Event”, the latest of (i) the date of such statement or publication and (ii) the date, if any, specified in such statement or publication as the date on which SONIA (or, if applicable, any subsequent fallback rate determined in accordance with the provisions of the Notes) will no longer be representative. “Recommended Rate” means, in respect of any relevant day, the rate (inclusive of any spreads or adjustments) recommended as the replacement for SONIA by (i) the administrator of SONIA if the administrator of SONIA is a national central bank, or (ii) if the national central bank administrator of SONIA does not make a recommendation or the administrator of SONIA is not a national central bank, a committee designated for this purpose by one or both of the FCA (or any successor thereto) and the Bank of England and as provided by the then administrator or provider of that rate, or if that rate is not provided by the then administrator or provider thereof, published by an authorized distributor, in respect of that day. “Relevant Screen Page” means London Stock Exchange Group Workspace SONIA Page or such other page, section or other part as may replace it as may be nominated by the person providing or sponsoring the information appearing there for the purpose of displaying rates or prices comparable to Compounded Daily SONIA. If the rate of interest cannot be determined in accordance with the foregoing provisions, the rate of interest shall be (A) the rate determined by the calculation agent as at the last preceding Interest Determination Date in relation to a Floating Rate Interest Period or (B) if there is no such preceding Interest Determination Date in relation to a Floating Rate Interest Period, the Initial Interest Rate.
+Fallback Conforming Changes: | In connection with the implementation of any fallback rate determined in accordance with the provisions of the Notes, HSBC Holdings (in consultation, to the extent practicable, with the calculation agent) will have the right to make changes to (1) any Interest Determination Date, Floating Rate Period Interest Payment Date, SONIA Business Day, business day convention or Floating Rate Interest Period, (2) the manner, timing and frequency of determining the rate and amounts of interest that are payable on the Notes during the Floating Rate Period and the conventions relating to such determination and calculations with respect to interest, (3) rounding conventions, (4) tenors and (5) any other terms or provisions of the Notes during the Floating Rate Period, in each case that HSBC Holdings (in consultation, to the extent practicable, with the calculation agent) determines, from time to time, to be appropriate to reflect the determination and implementation of such fallback rate in a manner substantially consistent with market practice (or, if HSBC Holdings (in consultation, to the extent practicable, with the calculation agent) decides that implementation of any portion of such market practice is not administratively feasible or determines that no market practice for use of the relevant fallback rate exists, in such other manner as HSBC Holdings (in consultation, to the extent practicable, with the calculation agent) determines is appropriate (acting in good faith)) (the “Fallback Conforming Changes”). Any Fallback Conforming Changes will apply to the Notes for all future Floating Rate Interest Periods. Notwithstanding any other provision set forth above, no fallback rate will be adopted, nor will any Fallback Conforming Changes be made if, in HSBC Holdings’ determination, the same could reasonably be expected to prejudice the eligibility of the Notes to count towards the minimum requirements for own funds and eligible liabilities or loss absorbing capacity of HSBC Holdings and/or the HSBC Group for the purposes of the Loss Absorption Regulations.
+Notice of fallback determination: | HSBC Holdings will promptly give notice of the determination of a fallback and any Fallback Conforming Changes to the trustee, the paying agent, the calculation agent and the noteholders; provided that failure to provide such notice will have no impact on the effectiveness of, or otherwise invalidate, any such determination.
+Optional Redemption: | HSBC Holdings may, in its sole discretion, redeem the Notes during the Make-Whole Redemption Period (as defined below), in whole at any time during such period or in part from time to time during such period, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (i) 100% of the principal amount of the Notes to be redeemed; and (ii) as determined by the Determination Agent (as defined in the Preliminary Prospectus Supplement), the principal amount of the Notes to be redeemed multiplied by the price (excluding any accrued and unpaid interest to (but excluding) the applicable redemption date), as reported in writing to HSBC Holdings and the Trustee by the Determination Agent, at which the Gross Redemption Yield (as defined below) on such Notes on the Reference Date (assuming for this purpose that the Notes are to be redeemed at 100% of their principal amount on the Par Redemption Date) is equal to the Gross Redemption Yield to maturity (determined by reference to the middle market price) at 11:00 a.m. (London time) (the “Quotation Time”) on the Reference Date of the Reference Bond (each as defined below), plus 20 basis points, in each case, plus any accrued and unpaid interest on the Notes to be redeemed to (but excluding) the applicable redemption date.
+Following the Make-Whole Redemption Period, HSBC Holdings may, in its sole discretion, redeem the Notes on the Par Redemption Date, in whole but not in part, at 100% of their principal amount plus any accrued and unpaid interest to (but excluding) the Par Redemption Date.
+The “Make-Whole Redemption Period” means the period beginning on (and including) March 11, 2027 (six months following the Issue Date) to (but excluding) the Par Redemption Date; provided that if any additional notes of the same series are issued after the Issue Date, the Make-Whole Redemption Period for such additional notes shall begin on (and include) the date that is six months following the issue date for such additional notes. “Gross Redemption Yield” means, with respect to a security, the gross redemption yield on such security, expressed as a percentage and calculated by the Determination Agent on the basis set out by the UK Debt Management Office in the paper “ Formulae for Calculating Gilt Prices from Yields ”, page 4, Section One: Price/Yield Formulae “ Conventional Gilts ” (published on June 8, 1998 and updated on January 15, 2002, March 16, 2005, and December 18, 2024, and as further amended, updated, supplemented or replaced from time to time) or, if such formula does not reflect generally accepted market practice at the time of redemption, a gross redemption yield calculated in accordance with generally accepted market practice at such time as determined by HSBC Holdings following consultation with an investment bank or financial institution determined to be appropriate by HSBC Holdings (which, for the avoidance of doubt, could be the Determination Agent, if applicable). “Reference Date” means the date which is two business days prior to the giving of a notice of redemption by HSBC Holdings. “Reference Bond” means the selected government security or securities agreed between HSBC Holdings and an investment bank or financial institution determined by HSBC Holdings to be appropriate (which, for the avoidance of doubt, could be the Determination Agent, if applicable) as having an actual or interpolated maturity comparable with the remaining term to the Par Redemption Date, that would be used, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities denominated in pounds sterling and of a comparable maturity to the remaining term to the Par Redemption Date.
+The Notes are not redeemable at the option of the noteholders at any time.
+Redemption upon Loss Absorption Disqualification Event: | Following the occurrence of a Loss Absorption Disqualification Event (as defined below), HSBC Holdings may, in its sole discretion, redeem the Notes in whole, but not in part (such option to redeem being referred to herein as a “Loss Absorption Disqualification Event Redemption Option”), at a redemption price equal to 100% of their principal amount, plus any accrued and unpaid interest to (but excluding) the applicable redemption date.
+A “Loss Absorption Disqualification Event” shall be deemed to have occurred if the Notes become fully or partially ineligible to count towards HSBC Holdings’ and/or the HSBC Group’s minimum requirements for (A) own funds and eligible liabilities and/or (B) loss absorbing capacity, in each case as determined in accordance with and pursuant to the relevant Loss Absorption Regulations (as defined below) applicable to HSBC Holdings and/or the HSBC Group, as a result of any:
+(a) Loss Absorption Regulation becoming effective after the Issue Date; or
+(b) amendment to, or change in, any Loss Absorption Regulation, or any change in the application or official interpretation of any Loss Absorption Regulation, in any such case becoming effective on or after the Issue Date,
+provided , however, that a Loss Absorption Disqualification Event shall not occur where the exclusion of the Notes from the relevant minimum requirement(s) is due to the remaining maturity of the Notes being less than any period prescribed by any applicable eligibility criteria for such minimum requirement(s) under the relevant Loss Absorption Regulations effective with respect to HSBC Holdings and/or the HSBC Group on the Issue Date.
+“Loss Absorption Regulations” means, at any time, the laws, regulations, requirements, guidelines, rules and policies from time to time relating to minimum requirements for own funds and eligible liabilities and/or loss absorbing capacity in effect in the UK and applicable to HSBC Holdings from time to time, including, without limitation to the generality of the foregoing, the Banking Act (whether or not such laws, regulations, requirements, guidelines, rules or policies are applied generally or specifically to HSBC Holdings or to HSBC Holdings and any of its holding or subsidiary companies or any subsidiary of any such holding company), in each case as amended, supplemented or replaced from time to time.
+Tax Event Redemption: | HSBC Holdings may redeem the Notes in whole (but not in part) in its sole discretion upon the occurrence of certain tax events. The redemption price will be equal to 100% of their principal amount plus any accrued and unpaid interest to (but excluding) the date of redemption.
+Redemption or Purchase Conditions: | Any redemption or purchase of the Notes is subject, where applicable, to the regulatory consent as described under “ Description of the Notes—Redemption ” and “ Description of the Notes—Purchases ” in the Preliminary Prospectus Supplement.
+Any redemption of the Notes is subject to HSBC Holdings’ giving prior notice to the noteholders as described under “ Description of the Notes—Redemption ” in the Preliminary Prospectus Supplement.
+Events of Default and Defaults: | The noteholders will not have the right to request the trustee to declare the principal amount and accrued but unpaid payments with respect to the Notes to be due and payable or to accelerate the Notes in the case of non-payment of principal and/or interest on the Notes. Payment of the principal amount, together with accrued and unpaid payments with respect to the outstanding Notes, may be accelerated only upon certain events of a winding- up.
+An “Event of Default” with respect to the Notes means any one of the following events:
+(i) an order is made by an English court which is not successfully appealed within 30 days after the date such order was made for HSBC Holdings’ winding up other than in connection with a scheme of amalgamation or reconstruction not involving bankruptcy or insolvency; or
+(ii) an effective resolution is validly adopted by HSBC Holdings’ shareholders for its winding up other than in connection with a scheme of amalgamation or reconstruction not involving bankruptcy or insolvency.
+In addition to Events of Default, the Indenture also will provide separately for “Defaults.” A Default with respect to the Notes means any one of the following events:
+(i) failure to pay principal or premium, if any, on the Notes at maturity, and such default continues for a period of 30 days; or
+(ii) failure to pay any interest on the Notes when due and payable, which failure continues for 30 days.
+If a Default occurs, the trustee may institute proceedings in England (but not elsewhere) for HSBC Holdings’ winding-up; provided that the trustee may not, upon the occurrence of a Default, accelerate the maturity of any outstanding Notes, unless an Event of Default has occurred and is continuing.
+Notwithstanding the foregoing, failure to make any payment in respect of the Notes will not be a Default in respect of the Notes if such payment is withheld or refused:
+(i) in order to comply with any fiscal or other law or regulation or with the order of any court of competent jurisdiction, in each case applicable to such payment; or
+(ii) in case of doubt as to the validity or applicability of any such law, regulation or order, in accordance with advice given as to such validity or applicability at any time during the said grace period of 30 days by independent legal advisers acceptable to the trustee;
+provided , however, that the trustee may, by notice to HSBC Holdings, require HSBC Holdings to take such action (including but not limited to proceedings for a declaration by a court of competent jurisdiction) as the trustee may be advised in an opinion of counsel, upon which opinion the trustee may conclusively rely, is appropriate and reasonable in the circumstances to resolve such doubt, in which case HSBC Holdings will forthwith take and expeditiously proceed with such action and will be bound by any final resolution of the doubt resulting therefrom. If any such resolution determines that the relevant payment can be made without violating any applicable law, regulation or order then the preceding sentence will cease to have effect and the payment will become due and payable on the expiration of the relevant grace period of 30 days after the trustee gives written notice to HSBC Holdings informing it of such resolution.
+Notwithstanding any other provision of the Indenture or the Notes, the right of any noteholder to receive payment of the principal of, or interest on, the Notes on or after the due dates thereof and to institute suit for the enforcement of any such payment on or after such respective dates, will not be impaired or affected without the consent of such noteholder.
+Agreement with Respect to the Exercise of UK Bail-in Power: | The provisions in the Preliminary Prospectus Supplement in the section “ Description of the Notes—Agreement with Respect to the Exercise of UK Bail-in Power ” are applicable.
+UK MiFIR professionals/ECPs-only / No EEA PRIIPs KID or UK DISC Disclosure Document: | Manufacturer target market (UK MiFIR product governance) is eligible counterparties and professional investors only (all distribution channels). No EEA PRIIPs key information document (KID) or UK DISC disclosure document has been prepared as not available to retail in EEA or in the UK.
+Governing Law: | The Indenture and the Notes will be governed by, and construed in accordance with, the laws of the State of New York, except that the waiver of set-off provisions of the Indenture and the Notes will be governed by, and construed in accordance with, the laws of England and Wales.
+Day Count Convention: | Actual/Actual (ICMA) (following, unadjusted) during the Fixed Rate Period; Actual/365 (modified following, adjusted) during the Floating Rate Period.
+Minimum Denomination: | £100,000 and integral multiples of £ 1,000 in excess thereof.
+Listing: | Application will be made to list the Notes on the NYSE.
+Documentation: | Preliminary prospectus supplement dated September 3, 2026 (the “Preliminary Prospectus Supplement”) incorporating the Prospectus dated February 23, 2024 relating to the Notes. If there is any discrepancy or contradiction between this Pricing Term Sheet and the Preliminary Prospectus Supplement, this Pricing Term Sheet shall prevail.
+Paying Agent: | HSBC Bank USA, National Association.
+Calculation Agent: | HSBC Bank USA, National Association.
+Trustee: | The Bank of New York Mellon, London Branch.
+CUSIP: | G463NH AR1
+ISIN: | XS3487885405
+Unless otherwise defined herein, all capitalized terms have the meaning set forth in the Preliminary Prospectus Supplement.
+*
+A
+security
+rating
+is
+not
+a
+recommendation
+to
+buy,
+sell
+or
+hold
+securities
+and
+may
+be
+subject
+to
+revision or withdrawal at any time by the assigning rating organization. Each rating should be evaluated independently of any other rating.
+HSBC
+Holdings
+has
+filed
+a
+registration
+statement
+(including
+a
+prospectus)
+with
+the
+SEC
+for
+the
+offering to
+which
+this
+communication
+relates.
+Before
+you
+invest,
+you
+should
+read
+the
+prospectus
+in
+the
+registration statement and other documents HSBC Holdings has filed with the SEC for more complete information about HSBC Holdings and this offering.
+You may get these documents for free
+by visiting EDGAR on the SEC website at www.sec.gov.
+Alternatively, HSBC Holdings or HSBC Bank plc will arrange to send you the prospectus if you request it by calling toll-free 1-866-811-8049.
+It
+is
+expected
+that
+delivery
+of
+the
+Notes
+will
+be
+made
+to
+investors
+on
+or
+about
+September 11
+,
+2026,
+which will be the fifth business day following the date of the Preliminary Prospectus Supplement (such settlement being referred to as “T+5”). Under Rule 15c6-1 under the Securities Exchange
+Act of 1934, trades in the secondary
+market are required to settle in one business day, unless the parties to any such trade expressly agree otherwise.
+Accordingly, purchasers who wish to trade notes prior to one business day
+before
+delivery will
+be
+required,
+by
+virtue
+of
+the
+fact
+that
+the
+notes initially
+settle
+in
+T+5,
+to
+specify an
+alternate
+settlement
+arrangement
+at
+the
+time
+of
+any
+such
+trade
+to
+prevent
+a
+failed
+settlement.
+Purchasers of the notes who wish to trade the notes prior to one business day before delivery should consult their
+advisors.
+Hong Kong SFC Code of Conduct (Para 21 – Bookbuilding and Placing)
+– In the context of this offering of the Notes, certain of the underwriters and other intermediaries are “capital market intermediaries” (“CMIs”) subject to Paragraph 21 of the Code of Conduct for Persons Licensed by or Registered with the Securities and Futures Commission (the “SFC Code”).
+Associated Orders and Proprietary Orders
+: Prospective investors who are the directors, employees or major
+shareholders
+of
+the
+Issuer,
+a
+CMI
+or
+any
+of
+its
+group
+companies
+will
+be
+considered
+under
+the
+SFC Code as having an association with the Issuer, the relevant CMI or the relevant group company. Prospective investors associated with the Issuer or any CMI (including any of its group companies) should
+specifically
+disclose
+whether
+they
+have
+any
+such
+association
+to
+a
+CMI
+and
+the
+underwriters
+(and such CMI and the underwriters may be required to pass such information to the Issuer and certain other CMIs) when placing an order for the Notes and should disclose, at the same time, if such orders may negatively impact the price discovery process in relation to this offering. Prospective investors who do not disclose their associations are hereby deemed not to be so associated. Where prospective investors disclose
+such
+associations
+but
+do
+not
+disclose
+that
+such
+order
+may
+negatively
+impact
+the
+price
+discovery process in relation to this offering, such order is hereby deemed not to negatively impact the price discovery process in relation to this offering.
+If a prospective investor is an asset management arm affiliated with any underwriter, such prospective investor should indicate when placing an order if it is for a fund or portfolio where the relevant
+underwriter or its
+group
+company
+has
+more
+than
+50%
+interest,
+in
+which
+case
+it
+will
+be
+classified
+as
+a
+“proprietary
+order” and subject to appropriate handling by CMIs in accordance with the SFC Code and should disclose, at the
+same
+time,
+if
+such
+“proprietary
+order”
+may
+negatively
+impact
+the
+price
+discovery
+process
+in
+relation to this offering. Prospective investors who do not indicate this information when placing an order are hereby deemed to confirm that their order is not a “proprietary order”. If a prospective investor is otherwise affiliated with any underwriter, such that its order may be considered to be a “proprietary order”
+(pursuant
+to
+the
+SFC
+Code),
+such
+prospective
+investor
+should
+indicate
+to
+the
+relevant
+underwriter when placing such order. Prospective investors who do not indicate this information when placing an order are hereby deemed to confirm that their order is not a “proprietary order”. Where prospective investors disclose such information but do not disclose that such “proprietary order” may negatively impact
+the
+price
+discovery
+process
+in
+relation
+to
+this
+offering,
+such
+“proprietary
+order”
+is
+hereby
+deemed not to negatively impact the price discovery process in relation to this offering.
+Order Book Transparency
+: Prospective investors should ensure, and by placing an order prospective investors are deemed to confirm, that orders placed are bona fide, are not inflated and do not constitute duplicated orders (i.e. two or more corresponding or identical orders placed via two or more CMIs). In addition, any other CMIs (including private banks) submitting orders with the underwriters should disclose
+the
+identities
+of
+all
+investors
+when
+submitting
+orders
+for
+the
+Notes
+with
+the
+underwriters.
+When placing an order for the Notes, private banks should disclose, at the same time, if such order is placed other than on a “principal” basis (whereby it is deploying its own balance sheet for onward selling to investors).
+Private
+banks
+who
+do
+not
+provide
+such
+disclosure
+are
+hereby
+deemed
+to
+be
+placing
+their
+order on
+such
+a
+“principal”
+basis.
+Otherwise,
+such
+order
+may
+be
+considered
+to
+be
+an
+omnibus
+order
+(see
+further below) pursuant to the SFC Code. Private banks should be aware that placing an order on a “principal” basis
+may
+require
+the
+relevant
+underwriter(s)
+(if
+any)
+to
+categorise
+it
+as
+a
+proprietary
+order
+and
+apply
+the “proprietary orders” requirements of the SFC Code to such order.
+In the case of omnibus orders placed with the underwriters, CMIs (including private banks) that are subject to the SFC Code should disclose underlying investor information (name, unique identification number, whether the underlying investor has any associations (as used in the SFC Code), whether any underlying
+investor
+is
+a
+proprietary
+order
+and
+whether
+any
+underlying
+investor
+order
+is
+a
+duplicate
+order) in the format and to the relevant recipients indicated to such CMIs (including private banks) by the underwriters at the relevant time. Failure to provide such information may result in that order being rejected.
+In
+sharing
+such
+underlying
+investor
+information,
+which
+may
+be
+personal
+and/or
+confidential
+in nature, you (i) should take appropriate steps to safeguard the transmission of such information; (ii) are deemed to have obtained the necessary consents to disclose such information; and (iii) are deemed to have
+authorised
+the
+collection,
+disclosure,
+use
+and
+transfer
+of
+such
+information
+by
+the
+underwriters,
+other CMIs and/or any other third parties as may be required by the SFC Code. In addition, prospective investors
+should
+be
+aware
+that
+certain
+information
+may
+be
+disclosed
+by
+the
+underwriters
+and
+other
+CMIs (including
+private
+banks)
+which
+is
+personal
+and/or confidential
+in
+nature
+to
+the
+prospective
+investor.
+By placing an order with the underwriters, prospective investors are deemed to have authorised the collection,
+disclosure,
+use
+and
+transfer
+of
+such
+information
+by
+the
+underwriters
+to
+the
+Issuer,
+certain
+other CMIs, relevant regulators and/or any other third parties as may be required by the SFC Code, it being understood and agreed that such information shall only be used in connection with this offering.
+MiFID II Product Governance / Professional investors and ECPs only target market
+– Solely for the purposes of the manufacturer's product approval process, the target market assessment in respect of the Notes has led to the conclusion that: (i) the target market for the Notes is eligible counterparties and professional clients only, each as defined in Directive 2014/65/EU (as amended, "MiFID II"); and (ii) all channels for distribution of the Notes to eligible counterparties and professional clients are appropriate. Any person subsequently offering, selling or recommending the Notes (a "distributor") should take into consideration the manufacturer's target market assessment; however, a distributor subject to MiFID II is responsible for undertaking its own target market assessment in respect of the Notes (by either adopting or refining the manufacturer's target market assessment) and determining appropriate distribution channels.

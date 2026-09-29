@@ -1,0 +1,45 @@
+{
+  "source_file": "2026-09-10_capital-southwest-corp_0000017313-26-000145.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:45:47",
+  "usage": {
+    "input_tokens": 4023,
+    "output_tokens": 484
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Capital Southwest Corporation",
+    "sector": "Financials",
+    "trade_date": "2026-09-10",
+    "settlement_date": "2026-09-15",
+    "rating_moodys": "Baa3",
+    "rating_sp": null,
+    "rating_fitch": "BBB-",
+    "bookrunners": [
+      "Deutsche Bank Securities Inc.",
+      "Huntington Securities, Inc.",
+      "ING Financial Markets LLC",
+      "Morgan Stanley & Co. LLC",
+      "RBC Capital Markets, LLC",
+      "Wells Fargo Securities, LLC"
+    ],
+    "use_of_proceeds": "Repay a portion of the outstanding indebtedness under the Company's senior secured revolving credit facility",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 350000000,
+        "coupon_pct": 6.75,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-09-15",
+        "first_call_date": "2031-08-15",
+        "benchmark": "UST 4.375% due August 31, 2031",
+        "spread_bps": 225,
+        "yield_pct": 6.994,
+        "issue_price_pct": 98.985,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +225 basis points"
+      }
+    ]
+  }
+}

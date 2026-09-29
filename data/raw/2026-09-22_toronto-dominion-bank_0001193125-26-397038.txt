@@ -1,0 +1,75 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/947263/000119312526397038/d165159dfwp.htm
+ISSUER (SEC filer): TORONTO DOMINION BANK
+FILED: 2026-09-22
+========================================
+FWP
+1
+d165159dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration Statement No. 333-283969
+THE TORONTO-DOMINION BANK
+US$1,100,000,000 5.473% SENIOR MEDIUM-TERM NOTES, SERIES F, DUE 2031
+PRICING TERM SHEET
+DATED
+SEPTEMBER 21, 2026
+This pricing term sheet supplements the information set forth under the caption “Terms of the Notes” in the
+preliminary pricing supplement dated September 21, 2026 relating to the Notes (as defined below), the caption “Description of the Notes We May Offer” in the prospectus supplement dated February 26, 2025 and the caption “Description
+of the Debt Securities” in the prospectus dated February 26, 2025. Capitalized terms used in this Term Sheet but not defined have the meanings given to them in the preliminary pricing supplement.
+Issuer: | The Toronto-Dominion Bank
+Issue: | 5.473% Senior Medium-Term Notes, Series F, due 2031 (the “Notes”)
+Format: | SEC-Registered
+Expected Ratings 1 : | Moody’s Investors Service: A2 (outlook: stable) Standard & Poor’s: A- (outlook: stable) Fitch Ratings, Inc.: AA- (outlook: stable) DBRS: AA (low)
+(outlook: stable)
+Principal Amount: | US$1,100,000,000
+Issue Price: | 100.000% plus accrued interest, if any, from September 28, 2026
+Trade Date: | September 21, 2026
+Settlement Date (T+5) 2 : | September 28, 2026
+Maturity Date: | September 29, 2031
+Minimum Denomination: | US$2,000 and multiples of US$1,000 in excess thereof
+Interest Rate: | 5.473%
+1 | A credit rating is not a recommendation to buy, sell or hold securities, and it may be subject to revision or
+withdrawal at any time by the assigning rating organization.
+2 | Under Rule 15c6-1 of the Securities Exchange Act of 1934, as amended,
+trades in the secondary market generally are required to settle in one business day, unless the parties to such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes prior to the business day before settlement will be
+required, by virtue of the fact that the Notes initially will settle in five business days (T+5), to specify alternative settlement arrangements to prevent a failed settlement.
+Treasury Benchmark: | 4.375% due August 31, 2031
+Treasury Benchmark Price: | 98-01+
+Treasury Benchmark Yield: | 4.823%
+Spread to Treasury Benchmark: | +65 basis points
+Re-Offer Yield: | 5.473%
+Commissions: | 0.350%
+Interest Payment Dates: | Semi-annually on March 29 and September 29 of each year, beginning on March 29, 2027 and ending on the Maturity Date (Long first coupon).
+Day Count Fraction: | 30/360
+Canadian Bail-in Provisions: | The Notes are bail-inable notes (as defined in the accompanying prospectus supplement) and subject to conversion in whole or in part — by means of a transaction or series of transactions and in one or more steps — into
+common shares of the Bank or any of its affiliates under subsection 39.2(2.3) of the Canada Deposit Insurance Corporation Act (the “CDIC Act”) and to variation or extinguishment in consequence, and subject to the application of the laws
+of the Province of Ontario and the federal laws of Canada applicable therein in respect of the operation of the CDIC Act with respect to the Notes. See “Description of the Debt Securities — Terms Specific to Senior Debt Securities
+— Special Provisions Related to Bail-inable Debt Securities” and “Risk Factors — Risks Related to the Bail-inable Debt Securities” in the prospectus.
+Optional Redemption by Holders of Notes: | Not applicable
+Optional Redemption by the Issuer: | In certain circumstances where the Issuer has or will become obligated to pay additional amounts (as described in the pricing supplement), the Issuer may, at its option, redeem the Notes, in whole, but not in part, at any time
+before maturity, after giving not less than 10 nor more than 60 calendar days’ notice to the holders of the Notes, at a redemption price equal to 100% of their principal amount together with accrued interest, if any, to, but excluding, the
+redemption date. See “Terms of the Notes — Redemption for Tax Reasons” in the pricing supplement.
+The Issuer may also redeem the Notes, at its option, as a whole or in part at any time and from time to time, prior to maturity, after giving not less than 10 nor more than 60 calendar days’ notice to the holders of the Notes
+at a redemption price equal to the greater of (i)(a) the sum of the present values of the remaining scheduled payments of
+principal and interest on the Notes discounted to the redemption date on a semiannual basis (assuming a 360-day year consisting of twelve 30-day months)
+at the Treasury Rate (as defined in the pricing supplement) plus 10 basis points less (b) accrued and unpaid interest on such Notes to, but excluding, the date of redemption; and (ii) 100% of the principal amount of the Notes to be redeemed,
+plus, in either case, accrued and unpaid interest on the Notes to, but excluding, the redemption date. See “Terms of the Notes — Optional Redemption” in the pricing supplement.
+Concurrent Offerings: | US$400,000,000 Floating Rate Senior Medium-Term Notes, Series F, due 2028, US$1,000,000,000 5.198% Senior Medium-Term Notes, Series F, due 2028 and US$1,250,000,000 5.801% Senior Medium-Term Notes, Series F, due 2036.
+The settlement of the Notes is not contingent on the settlement of the concurrent offerings.
+Listing: | The Notes will not be listed on any securities exchange.
+Joint Bookrunners: | TD Securities (USA) LLC Goldman
+Sachs & Co. LLC Mizuho Securities USA LLC Morgan
+Stanley & Co. LLC NatWest Markets Securities Inc. Truist Securities, Inc.
+Co-Managers: | BNY Mellon Capital Markets, LLC Citizens JMP
+Securities, LLC Desjardins Securities Inc. Great Pacific
+Securities Huntington Securities, Inc. KeyBanc Capital
+Markets Inc. M&T Securities, Inc. Penserra Securities
+LLC Regions Securities LLC R. Seelaus & Co.,
+LLC
+CUSIP / ISIN: | 89115KAW0 / US89115KAW09
+The Issuer has filed a registration statement (including a prospectus supplement and a prospectus) with the Securities and
+Exchange Commission (the “SEC”) for the offering to which this communication relates. Before you invest, you should read those documents and the other documents that the Issuer has filed with the SEC for more complete information about
+the Issuer and this offering. You may obtain these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, TD Securities (USA) LLC will arrange to send you the pricing supplement, when available, the prospectus
+supplement, and the prospectus if you request them by contacting TD Securities (USA) LLC at
+1-855-495-9846.

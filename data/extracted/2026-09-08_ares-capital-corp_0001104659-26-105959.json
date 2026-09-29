@@ -1,0 +1,51 @@
+{
+  "source_file": "2026-09-08_ares-capital-corp_0001104659-26-105959.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:43:53",
+  "usage": {
+    "input_tokens": 4312,
+    "output_tokens": 528
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Ares Capital Corporation",
+    "sector": "Financials",
+    "trade_date": "2026-09-08",
+    "settlement_date": "2026-09-15",
+    "rating_moodys": "Baa2",
+    "rating_sp": "BBB",
+    "rating_fitch": "BBB",
+    "bookrunners": [
+      "BofA Securities, Inc.",
+      "J.P. Morgan Securities LLC",
+      "RBC Capital Markets, LLC",
+      "SMBC Nikko Securities America, Inc.",
+      "Wells Fargo Securities, LLC",
+      "Barclays Capital Inc.",
+      "CIBC World Markets Corp.",
+      "Mizuho Securities USA LLC",
+      "MUFG Securities Americas Inc.",
+      "TD Securities (USA) LLC",
+      "Truist Securities, Inc.",
+      "U.S. Bancorp Investments, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 750000000,
+        "coupon_pct": 6.25,
+        "coupon_type": "fixed",
+        "maturity_date": "2033-09-15",
+        "first_call_date": "2033-07-15",
+        "benchmark": "UST 4.500% due August 31, 2033",
+        "spread_bps": 185,
+        "yield_pct": 6.527,
+        "issue_price_pct": 98.463,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury +185 basis points"
+      }
+    ]
+  }
+}

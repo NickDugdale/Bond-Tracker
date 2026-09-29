@@ -1,0 +1,108 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414932/000119312526386612/d450119dfwp.htm
+ISSUER (SEC filer): Oaktree Specialty Lending Corp
+FILED: 2026-09-09
+========================================
+FWP
+1
+d450119dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Issuer Free Writing Prospectus dated September 9, 2026
+Relating to Preliminary Prospectus Supplement dated September 9, 2026 and
+Prospectus dated January 23, 2026
+Registration
+No. 333-292920
+Oaktree Specialty Lending Corporation
+$300,000,000
+7.000%
+Notes due 2031
+PRICING TERM SHEET
+September 9, 2026
+The following sets
+forth the final terms of the 7.000% Notes due 2031 and should only be read together with the preliminary prospectus supplement dated September 9, 2026, together with the accompanying prospectus dated January 23, 2026 relating to these
+securities (the “Preliminary Prospectus”), and supersedes the information in the Preliminary Prospectus to the extent inconsistent with the information in the Preliminary Prospectus. In all other respects, this pricing term sheet is
+qualified in its entirety by reference to the Preliminary Prospectus. Terms used herein but not defined herein shall have the respective meanings as set forth in the Preliminary Prospectus. All references to dollar amounts are references to U.S.
+dollars.
+Issuer: | Oaktree Specialty Lending Corporation
+Security: | 7.000% Notes due 2031
+Expected Ratings (Moody’s / Fitch)*: | Baa3 (Stable) / BBB- (Negative)
+Aggregate Principal Amount Offered: | $300,000,000
+Trade Date: | September 9, 2026
+Settlement Date**: | September 16, 2026 (T+5)
+Maturity Date: | September 16, 2031
+Interest Payment Dates: | March 16 and September 16, commencing March 16, 2027
+Record Dates: | March 1 and September 1, as the case may be, immediately preceding the relevant interest payment date
+Price to Public (Issue Price): | 99.950%
+Coupon (Interest Rate): | 7.000%
+Yield to Maturity: | 7.012%
+Spread to Benchmark Treasury: | +240 basis points
+Benchmark Treasury: | 4.375% due August 31, 2031
+Benchmark Treasury Price and Yield: | 98-30 5 ⁄ 8 and 4.612%
+Optional Redemption: | Prior to August 16, 2031 (one month prior to the maturity date of the Notes), or the Par Call Date, Oaktree Specialty Lending Corporation (“OCSL”) may redeem the Notes at its option, in whole or in part, at any time
+and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of:
+• (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming
+the Notes matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 40 basis points less (b) interest accrued to the date of redemption; and
+• 100% of the principal amount of the Notes to be redeemed
+plus, in either case, accrued and unpaid interest thereon to the redemption date.
+On or after the Par Call Date, OCSL may redeem the Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the Notes being redeemed plus accrued and unpaid
+interest thereon to the redemption date.
+Denomination: | $2,000 and integral multiples of $1,000 in excess thereof
+CUSIP / ISIN: | 67401PAF5 / US67401PAF53
+Joint Book-Running Managers: | J.P. Morgan Securities LLC
+BNP Paribas Securities Corp.
+ING Financial Markets LLC
+RBC Capital Markets, LLC
+SMBC Nikko Securities America, Inc.
+Brookfield Securities LLC***
+BofA Securities, Inc.
+Wells Fargo Securities, LLC
+Barclays Capital Inc.
+CIBC World Markets Corp.
+Citigroup Global Markets Inc.
+Deutsche Bank Securities Inc.****
+Goldman Sachs & Co. LLC
+Morgan Stanley & Co. LLC
+Co-Managers: | KeyBanc Capital Markets Inc.
+First Citizens Capital Securities, LLC
+Keefe, Bruyette & Woods, Inc.
+R. Seelaus & Co., LLC
+B. Riley Securities, Inc.
+Lucid Capital Markets, LLC
+Oppenheimer & Co. Inc.
+Mizuho Securities USA LLC
+Notes:
+* A
+securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+**
+Oaktree Specialty Lending Corporation expects that delivery of the Notes will be made against payment therefor on or about September 16, 2026, which will be the fifth business day following the date of the pricing of the Notes (such
+settlement being herein referred to as “T+5”). Under Rule
+15c6-1
+promulgated under the Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required to settle
+in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes prior to the business day before the date of delivery hereunder will be required, by virtue of the fact that the
+Notes initially will settle in T+5 business days, to specify an alternative settlement arrangement at the time of any such trade to prevent a failed settlement.
+*** Brookfield Securities LLC, an affiliate of the Issuer, is one of the underwriters for this offering.
+**** Deutsche Bank Securities Inc., an affiliate of the trustee, is one of the underwriters
+for this offering.
+Investors are advised to carefully consider the investment objectives, risks, charges and expenses of Oaktree Specialty Lending
+Corporation before investing. The Preliminary Prospectus, which has been filed with the Securities and Exchange Commission (the “SEC”), contains this and other information about Oaktree Specialty Lending Corporation and should be read
+carefully before investing.
+The Preliminary Prospectus and this pricing term sheet are not offers to sell any securities of Oaktree Specialty Lending
+Corporation and are not soliciting an offer to buy such securities in any state or jurisdiction where such offer and sale is not permitted.
+Oaktree
+Specialty Lending Corporation has filed a shelf registration statement (including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement, the
+Preliminary Prospectus and other documents Oaktree Specialty Lending Corporation has filed with the SEC for more complete information about Oaktree Specialty Lending Corporation and this offering. You may get these documents for free by visiting
+EDGAR on the SEC Web site at
+www.sec.gov.
+Alternatively, Oaktree Specialty Lending Corporation, any underwriter or any dealer participating in the offering will arrange to send you the prospectus supplement and accompanying prospectus if you
+request it by calling J.P. Morgan Securities LLC at
+1-212-834-4533,
+BNP Paribas Securities Corp. at
+1-800-854-5674,
+ING Financial Markets LLC at
+1-877-446-4930,
+RBC Capital Markets, LLC at
+1-866-375-6829
+or SMBC Nikko
+Securities America, Inc. at
+1-888-868-6856.

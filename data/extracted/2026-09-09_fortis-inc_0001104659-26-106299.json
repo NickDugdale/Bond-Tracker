@@ -1,0 +1,57 @@
+{
+  "source_file": "2026-09-09_fortis-inc_0001104659-26-106299.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:44:40",
+  "usage": {
+    "input_tokens": 4362,
+    "output_tokens": 736
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Fortis Inc.",
+    "sector": "Utilities",
+    "trade_date": "2026-09-09",
+    "settlement_date": "2026-09-21",
+    "rating_moodys": null,
+    "rating_sp": "BBB",
+    "rating_fitch": "BBB-",
+    "bookrunners": [
+      "Morgan Stanley & Co. LLC",
+      "MUFG Securities Americas Inc.",
+      "Wells Fargo Securities, LLC",
+      "BofA Securities, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 6.625,
+        "coupon_type": "fixed-to-floating",
+        "maturity_date": "2057-03-30",
+        "first_call_date": "2032-03-30",
+        "benchmark": "5-Year Treasury Rate",
+        "spread_bps": 201.6,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": "junior subordinated",
+        "pricing_quote": "NC5 Notes will bear interest from September 21, 2026 to March 30, 2032 at 6.625% per annum. From March 30, 2032 onwards, 5-Year Treasury Rate plus 2.016%"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 6.875,
+        "coupon_type": "fixed-to-floating",
+        "maturity_date": "2057-03-30",
+        "first_call_date": "2037-03-30",
+        "benchmark": "5-Year Treasury Rate",
+        "spread_bps": 204.2,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": "junior subordinated",
+        "pricing_quote": "NC10 Notes will bear interest from September 21, 2026 to March 30, 2037 at 6.875% per annum. From March 30, 2037 onwards, 5-Year Treasury Rate plus 2.042%"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-23",
+  "documents": 52,
+  "values_checked": 771,
+  "grounded_pct": 98.1,
+  "per_field": [
+    {
+      "field": "spread_bps",
+      "values": 96,
+      "grounded": 87,
+      "pct": 90.6
+    },
+    {
+      "field": "rating_fitch",
+      "values": 34,
+      "grounded": 33,
+      "pct": 97.1
+    },
+    {
+      "field": "first_call_date",
+      "values": 86,
+      "grounded": 84,
+      "pct": 97.7
+    },
+    {
+      "field": "rating_sp",
+      "values": 45,
+      "grounded": 44,
+      "pct": 97.8
+    },
+    {
+      "field": "maturity_date",
+      "values": 95,
+      "grounded": 93,
+      "pct": 97.9
+    },
+    {
+      "field": "issue_price_pct",
+      "values": 97,
+      "grounded": 97,
+      "pct": 100.0
+    },
+    {
+      "field": "principal_amount",
+      "values": 97,
+      "grounded": 97,
+      "pct": 100.0
+    },
+    {
+      "field": "coupon_pct",
+      "values": 93,
+      "grounded": 93,
+      "pct": 100.0
+    },
+    {
+      "field": "rating_moodys",
+      "values": 43,
+      "grounded": 43,
+      "pct": 100.0
+    },
+    {
+      "field": "yield_pct",
+      "values": 85,
+      "grounded": 85,
+      "pct": 100.0
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/733099/000095015726000992/fwp.htm
+ISSUER (SEC filer): ROGERS COMMUNICATIONS INC
+FILED: 2026-09-10
+========================================
+FWP
+1
+fwp.htm
+Rogers Communications Inc.
+7.150% Fixed-to-Fixed Rate Subordinated Notes
+due 2057
+7.400% Fixed-to-Fixed Rate Subordinated Notes
+due 2057
+Dated September 9, 2026
+The following information
+supplements (or supersedes, to the extent that it is inconsistent therewith) the Preliminary Prospectus Supplement dated September 9, 2026
+relating to the below described securities (the “
+Preliminary Prospectus Supplement
+”). Capitalized terms used but not
+defined in this pricing term sheet shall have the meaning ascribed to them in the Preliminary Prospectus Supplement.
+Issuer: | Rogers Communications Inc. (“ RCI ”)
+Security: | 7.150% Fixed-to-Fixed Rate Subordinated
+Notes due 2057 (the “ NC5 Notes ”) 7.400% Fixed-to-Fixed Rate Subordinated Notes
+due 2057 (the “ NC10 Notes ” and, together with the NC5 Notes, the “ Notes ”)
+Expected Ratings*: | Moody’s Investors Service Inc.: Ba1 (Stable) S&P Global Ratings: BB (Negative) DBRS: BB (Positive)
+Principal Amount: | NC5 Notes: US$500,000,000 NC10 Notes: US$500,000,000
+Pricing Date: | September 9, 2026
+Settlement Date: | September 23, 2026 (T+10)
+Maturity Date: | January 31, 2057 for each series of Notes (the “ Maturity Date ”)
+Offering Price: | NC5 Notes: 100.000% of the principal amount NC10 Notes: 100.000% of the principal amount
+Interest Rate: | The NC5 Notes will bear interest (i) from, and
+including, the settlement date to, but excluding, January 31, 2032, at a rate of 7.150% per annum and (ii) from, and including, January 31, 2032, to but excluding the Maturity Date the outstanding NC5 Notes will bear interest at a rate per annum equal to the 5-Year Treasury
+Rate (subject to reset as described below) plus 2.539%; provided , that the interest rate during any Interest Rate Reset Period
+for the NC5 Notes will not reset below 7.150% (which equals the initial interest rate on the NC5 Notes). The NC10 Notes will bear interest (i) from, and
+including, the settlement date to, but excluding, January 31, 2037, at a rate of 7.400% per annum and (ii) from, and including, January 31, 2037, to but excluding the Maturity Date the outstanding NC10 Notes will bear interest at a rate per annum equal to the 5-Year Treasury
+Rate (subject to reset as described below) plus 2.565%; provided , that the interest rate during any Interest Rate Reset Period
+for the NC10 Notes will not reset below 7.400% (which equals the initial interest rate on the NC10 Notes). The 5-Year Treasury Rate for computing interest
+on the outstanding Notes of each series from and after the applicable Initial Interest Rate Reset Date will initially be based on such
+rate as of the first business day prior to the applicable Initial Interest Rate Reset Date and it will be reset on the fifth anniversary
+of the applicable Initial Interest Rate Reset Date and, thereafter, on each subsequent date that is the fifth anniversary of the immediately
+preceding date on which such rate is reset, based on the 5-Year Treasury Rate as of the first business day prior to each such fifth anniversary. “ Initial Interest Rate Reset Date ”
+means January 31, 2032, with respect to the NC5 Notes, and January 31, 2037, with respect to the NC10 Notes.
+Interest Payment Dates: | Interest on each series of Notes will be payable semi-annually in arrears on January 31 and July 31 of each year (each, an “ Interest Payment Date ”), commencing on January 31, 2027, subject to deferral pursuant to the Deferral Right.
+Deferral Right: | So long as no event of default has occurred and is continuing, RCI may elect, at its sole option, at any date other than an Interest Payment Date, to defer the interest payable on the Notes of any series (the “ Deferral Right ”) on one or more occasions for up to five consecutive years.
+Day Count Convention: | 360-day year consisting of twelve 30-day months and, for any period shorter than six months, on the basis of the actual number of days elapsed per 30-day month.
+Optional Redemption: | RCI may, at its option, redeem the Notes of any series, in whole at any time or in part from time to time, (i) on any day in the period commencing on and including the date that is three months prior to the applicable Initial Interest Rate Reset Date and ending on and including the applicable Initial Interest Rate Reset Date and (ii) after the applicable Initial Interest Rate Reset Date, on any Interest Payment Date, in each case, at a redemption price equal to 100% of the principal amount of the Notes of the applicable series redeemed together with accrued and unpaid interest (including deferred interest, if any) thereon to, but excluding, the date fixed for redemption.
+Redemption on Tax Event or Rating Event: | At any time within 90 days following the occurrence of a Tax Event with respect to a series of Notes, RCI may, at its option, redeem all (but not less than all) of the Notes of such series at a redemption price equal to 100% of the principal amount thereof, together with accrued and unpaid interest (including deferred interest, if any) thereon to, but excluding, the date fixed for redemption. At any time within 90 days following the occurrence of a Rating Event, RCI may, at its option, redeem all (but not less than all) of the Notes of any series at a redemption price equal to 102% of the principal amount thereof, together with accrued and unpaid interest (including deferred interest, if any) thereon to, but excluding, the date fixed for redemption.
+CUSIP / ISIN: | NC5 Notes: 775109 DT5 / US775109DT50 NC10 Notes: 775109 DU2 / US775109DU24
+Denomination: | The Notes will be issued in minimum denominations of US$2,000 and integral multiples of US$1,000 above that amount.
+Joint Book-Running Managers: | BofA Securities, Inc. J.P. Morgan Securities LLC MUFG Securities Americas Inc. SMBC Nikko Securities America, Inc. Wells Fargo Securities, LLC
+Co-Managers: | ATB Capital Markets Corp. BMO Capital Markets Corp. CIBC World Markets Corp. Citigroup Global Markets Inc. Mizuho Securities USA LLC National Bank of Canada Financial Inc. RBC Capital Markets, LLC Scotia Capital (USA) Inc. TD Securities (USA) LLC
+* * *
+*Note: A securities rating is not a recommendation
+to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+Changes to the Preliminary Prospectus Supplement
+On September 9, 2026, RCI announced a
+Canadian offering of Fixed-to-Fixed Rate Subordinated Notes due 2057 (the “
+Canadian Notes
+”). The Canadian Notes
+will be new unsecured, subordinated obligations of RCI and will constitute the Concurrent Debt Financing described under the heading
+“Rogers Communications Inc.—Recent Developments” and elsewhere in the Preliminary Prospectus Supplement. The
+Canadian Notes are being offered exclusively to persons in the provinces of Canada on a private placement basis in reliance upon
+exemptions from the prospectus requirements under applicable securities laws in each of the provinces of Canada. The offering of the
+Canadian Notes is not being made in the United States. There can be no assurance that the offering of the Canadian Notes will be
+consummated on attractive terms or at all. Conforming changes are deemed to be made throughout the Preliminary Prospectus Supplement
+to reflect the offering of the Canadian Notes.
+The issuer has filed a registration
+statement (including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should
+read the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete
+information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC’s website at
+www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the
+prospectus if you request it by calling BofA Securities, Inc. toll-free at 1-800-294-1322, J.P. Morgan Securities LLC collect
+at 1-212-834-4533
+,
+MUFG Securities Americas Inc. toll-free at 1-877-649-6848, SMBC Nikko Securities America, Inc. toll-free
+at 1-888-868-6856, Wells Fargo Securities, LLC toll-free at 1-800-645-3751.

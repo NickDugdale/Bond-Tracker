@@ -1,0 +1,89 @@
+{
+  "source_file": "2026-09-08_parker-hannifin-corp_0001193125-26-385377.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:44:10",
+  "usage": {
+    "input_tokens": 5067,
+    "output_tokens": 1023
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Parker-Hannifin Corporation",
+    "sector": "Industrials",
+    "trade_date": "2026-09-08",
+    "settlement_date": "2026-09-14",
+    "rating_moodys": "A3",
+    "rating_sp": "BBB+",
+    "rating_fitch": "A-",
+    "bookrunners": [
+      "Barclays Capital Inc.",
+      "Citigroup Global Markets Inc.",
+      "Morgan Stanley & Co. LLC",
+      "Truist Securities, Inc.",
+      "Mizuho Securities USA LLC",
+      "Wells Fargo Securities, LLC",
+      "HSBC Securities (USA) Inc.",
+      "BNP Paribas Securities Corp."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 525000000,
+        "coupon_pct": 4.75,
+        "coupon_type": "fixed",
+        "maturity_date": "2028-09-14",
+        "first_call_date": null,
+        "benchmark": "4.125% UST due August 31, 2028",
+        "spread_bps": 35,
+        "yield_pct": 4.75,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "+ 35 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 4.875,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-09-14",
+        "first_call_date": "2029-08-14",
+        "benchmark": "4.250% UST due August 15, 2029",
+        "spread_bps": 42,
+        "yield_pct": 4.896,
+        "issue_price_pct": 99.942,
+        "seniority": "senior unsecured",
+        "pricing_quote": "+ 42 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 750000000,
+        "coupon_pct": 5.125,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-09-19",
+        "first_call_date": "2031-08-19",
+        "benchmark": "4.375% UST due August 31, 2031",
+        "spread_bps": 55,
+        "yield_pct": 5.127,
+        "issue_price_pct": 99.99,
+        "seniority": "senior unsecured",
+        "pricing_quote": "+ 55 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 625000000,
+        "coupon_pct": 5.3,
+        "coupon_type": "fixed",
+        "maturity_date": "2033-09-16",
+        "first_call_date": "2033-07-16",
+        "benchmark": "4.500% UST due August 31, 2033",
+        "spread_bps": 62,
+        "yield_pct": 5.304,
+        "issue_price_pct": 99.976,
+        "seniority": "senior unsecured",
+        "pricing_quote": "+ 62 bps"
+      }
+    ]
+  }
+}

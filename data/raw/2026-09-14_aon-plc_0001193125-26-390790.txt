@@ -1,0 +1,132 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1808065/000119312526390790/d908596dfwp.htm
+ISSUER (SEC filer): Aon plc
+FILED: 2026-09-14
+========================================
+FWP
+1
+d908596dfwp.htm
+FWP
+FWP
+Filed pursuant to Rule 433 relating to
+Preliminary Prospectus Supplement dated September 11, 2026 to
+Prospectus dated July 2, 2026
+Registration Statement Nos.
+333-297255,
+333-297255-01,
+333-297255-02,
+333-297255-03
+and
+333-297255-04
+Aon North America, Inc. and Aon Global Holdings plc
+$2,000,000,000 5.350% SENIOR NOTES DUE 2029 (the “2029 Notes”)
+$3,000,000,000 5.625% SENIOR NOTES DUE 2031 (the “2031 Notes”)
+$2,000,000,000 5.800% SENIOR NOTES DUE 2033 (the “2033 Notes”)
+$2,750,000,000 5.950% SENIOR NOTES DUE 2036 (the “2036 Notes”)
+$1,000,000,000 6.100% SENIOR NOTES DUE 2038 (the “2038 Notes”)
+$750,000,000 6.450% SENIOR NOTES DUE 2046 (the “2046 Notes”)
+$2,000,000,000 6.450% SENIOR NOTES DUE 2056 (the “2056 Notes”)
+(together, the “Notes”)
+PRICING TERM SHEET
+Terms Applicable to the Notes
+Issuers: | Aon North America, Inc. (“ANA”) and Aon Global Holdings plc (“AGH”)
+Guarantors: | Aon plc, Aon Corporation and Aon Global Limited
+Offering Format: | SEC Registered
+Expected Ratings*: | Moody’s Investors Service: Baa2 (Stable) Standard & Poor’s: A- (Negative) Fitch: BBB+ (Ratings Watch Negative)
+Ranking: | Senior Unsecured
+Trade Date: | September 14, 2026
+Settlement Date (T+3)**: | September 17, 2026
+Denominations: | $2,000 and multiples of $1,000
+Joint Book-Running Managers: | Citigroup Global Markets Inc. BofA Securities,
+Inc.
+Morgan Stanley & Co. LLC Wells Fargo
+Securities, LLC HSBC Securities (USA) Inc.
+Barclays Capital Inc. BMO Capital Markets
+Corp. BNY Mellon Capital Markets, LLC ING Financial Markets
+LLC J.P. Morgan Securities LLC U.S. Bancorp Investments,
+Inc.
+Senior Co-Managers: | ANZ Securities, Inc. Deutsche Bank Securities
+Inc. Goldman Sachs & Co. LLC PNC Capital Markets
+LLC Standard Chartered Bank R. Seelaus & Co.,
+LLC Siebert Williams Shank & Co., LLC
+Co-Managers: | Aon Securities LLC Loop Capital Markets LLC Scotia Capital (USA) Inc. UniCredit Capital Markets
+LLC
+Principal Amount: | $2,000,000,000 for the 2029 Notes $3,000,000,000 for the 2031 Notes $2,000,000,000 for the 2033
+Notes $2,750,000,000 for the 2036 Notes $1,000,000,000 for
+the 2038 Notes $750,000,000 for the 2046 Notes $2,000,000,000
+for the 2056 Notes
+Maturity Date: | September 17, 2029 for the 2029 Notes September 17, 2031 for the 2031 Notes September 17,
+2033 for the 2033 Notes September 17, 2036 for the 2036 Notes September 17, 2038 for the 2038 Notes September 17,
+2046 for the 2046 Notes September 17, 2056 for the 2056 Notes
+Reference Treasury: | UST 4.375% due September 15, 2029 for the 2029 Notes UST 4.375% due August 31, 2031 for the 2031 Notes UST 4.500%
+due August 31, 2033 for the 2033 Notes UST 4.625% due August 15, 2036 for the 2036 Notes UST 4.625% due August 15, 2036 for the 2038 Notes UST 5.125%
+due August 15, 2046 for the 2046 Notes UST 5.000% due May 15, 2056 for the 2056 Notes
+Reference Treasury Price and Yield: | 98-31 ¾; 4.739% for the 2029 Notes 98-04+;
+4.800% for the 2031 Notes 97-25+; 4.877% for the 2033 Notes 97-12; 4.963% for the 2036 Notes 97-12; 4.963% for the 2038
+Notes 97-00; 5.372% for the 2046 Notes 95-06; 5.324% for the
+2056 Notes
+Reoffer Spread to Reference Treasury: | +63 bps for the 2029 Notes +83 bps for the 2031
+Notes +93 bps for the 2033 Notes +103 bps for the 2036
+Notes +115 bps for the 2038 Notes +108 bps for the 2046
+Notes +115 bps for the 2056 Notes
+Re-offer Yield: | 5.369% for the 2029 Notes 5.630% for the 2031
+Notes 5.807% for the 2033 Notes 5.993% for the 2036 Notes 6.113% for the 2038 Notes 6.452% for the 2046 Notes 6.474% for the 2056 Notes
+Coupon: | 5.350% for the 2029 Notes 5.625% for the 2031
+Notes 5.800% for the 2033 Notes 5.950% for the 2036 Notes 6.100% for the 2038 Notes 6.450% for the 2046 Notes 6.450% for the 2056 Notes
+Interest Payment Dates: | Semi-annually in arrears on March 17 and September 17, beginning on March 17, 2027 for the 2029 Notes Semi-annually in arrears on March 17 and September 17, beginning on March 17, 2027 for the 2031 Notes Semi-annually in arrears on March 17 and September 17, beginning on March 17, 2027 for the 2033 Notes Semi-annually in arrears on March 17 and September 17, beginning on March 17, 2027 for the 2036 Notes Semi-annually in arrears on March 17 and September 17, beginning on March 17, 2027 for the 2038 Notes Semi-annually in arrears on March 17 and September 17, beginning on March 17, 2027 for the 2046 Notes Semi-annually in arrears on March 17 and September 17, beginning on March 17, 2027 for the 2056 Notes
+Price to Public: | 99.948% of the principal amount for the 2029 Notes 99.978% of the principal amount for the 2031 Notes 99.960% of the
+principal amount for the 2033 Notes 99.680% of the principal amount for the 2036 Notes 99.891% of the principal amount for the 2038 Notes 99.978% of the
+principal amount for the 2046 Notes 99.684% of the principal amount for the 2056 Notes
+Gross Proceeds to Issuers (before deducting offering expenses and underwriting discounts): | $1,998,960,000 for the 2029 Notes $2,999,340,000 for the 2031 Notes $1,999,200,000 for the 2033
+Notes $2,741,200,000 for the 2036 Notes $998,910,000 for the
+2038 Notes $749,835,000 for the 2046 Notes $1,993,680,000 for
+the 2056 Notes
+Net Proceeds Allocations: | 2029 Notes: 66.00% ANA / 34.00% AGH 2031 Notes:
+66.00% ANA / 34.00% AGH 2033 Notes: 66.00% ANA / 34.00% AGH 2036 Notes: 66.00% ANA / 34.00% AGH 2038 Notes: 66.00% ANA /
+34.00% AGH 2046 Notes: 66.00% ANA / 34.00% AGH 2056 Notes:
+100.00% ANA / 0.00% AGH
+CUSIP / ISIN: | 036940 AA2 / US036940AA21 for the 2029 Notes 036940 AB0 / US036940AB04 for the 2031 Notes 036940 AC8 /
+US036940AC86 for the 2033 Notes 036940 AD6 / US036940AD69 for the 2036 Notes 036940 AE4 / US036940AE43 for the 2038 Notes 036940 AF1 /
+US036940AF18 for the 2046 Notes 036940 AG9 / US036940AG90 for the 2056 Notes
+Optional Redemption: | Prior to August 17, 2029 (one month prior to the 2029 Notes maturity date) (the “2029 Par Call Date”), prior to August 17, 2031 (one month prior to the 2031 Notes maturity date) (the “2031 Par Call
+Date”), prior to July 17, 2033 (two months prior to the 2033 Notes maturity date) (the “2033 Par Call Date”), prior to June 17, 2036 (three months prior to the 2036 Notes maturity date) (the “2036 Par Call
+Date”), prior to June 17, 2038 (three months prior to the 2038 Notes maturity date) (the “2038 Par Call Date”), prior to March 17, 2046 (six months prior to the 2046 Notes maturity date) (the “2046 Par Call
+Date”), and prior to March 17, 2056 (six months prior to the 2056 Notes maturity date) (the “2056 Par Call Date” and each of the 2029 Par Call Date, the 2031 Par Call Date, the 2033 Par Call Date, the 2036 Par Call Date, 2038
+Par Call Date and 2046 Par Call Date, a “Par Call Date”), the Issuers may redeem the 2029 Notes, the 2031 Notes, the 2033 Notes, the 2036 Notes, the 2038 Notes, the 2046 Notes and/or the 2056 Notes, at their option, in whole or in part,
+at any time and from time to time, at a redemption price (expressed as a percentage of the principal amount and rounded to three decimal places) equal to the greater of:
+(1) (a) the sum of the present values of the remaining scheduled payments of principal and interest on the Notes of such series being
+redeemed discounted to the redemption date (assuming the Notes of such series being redeemed matured on the applicable Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate (as defined under “ Description of the Securities—Optional Redemption ”), plus 10 basis points (0.100%), in the case of the 2029 Notes, plus 15 basis points
+(0.150%), in the case of the 2031 Notes, plus 15 basis points (0.150%), in the case of the 2033 Notes, plus 20 basis points (0.200%), in the case of the 2036 Notes, plus 20 basis points (0.200%), in the case of the 2038 Notes, plus 20 basis points
+(0.200%), in the case of the 2046 Notes, and plus 20 basis points (0.200%), in the case of the 2056 Notes, less (b) accrued and unpaid interest to the date of redemption, and (2) 100% of the principal amount of the Notes of such series being redeemed, plus, in each case, accrued and unpaid interest on the principal amount of the Notes of
+such series being redeemed to the redemption date. On or after the applicable Par
+Call Date, the Issuers may redeem the 2029 Notes, the 2031 Notes, the 2033 Notes, the 2036 Notes, the 2038 Notes, the 2046 Notes, and the 2056 Notes, at their option, in whole or in part, at any time and from time to time, at a redemption price
+equal to 100% of the principal amount of the Notes of such series being redeemed plus accrued and unpaid interest thereon to the redemption date. See “ Description of the Securities—Optional Redemption ” and “ Description of the Securities—Optional Tax
+Redemption ” in the preliminary prospectus supplement for more information.
+Special Mandatory Redemption (applicable only to the 2029 Notes, the 2031 Notes, the 2033 Notes, the 2036 Notes, the 2038 Notes, and the 2046 Notes): | Under certain conditions described in the preliminary prospectus supplement, the issuers will be required to redeem all of the 2029 Notes, the 2031 Notes, the 2033 Notes, the 2036 Notes, the 2038 Notes, and the 2046 Notes at a
+redemption price equal to 101% of the aggregate principal amount of such Notes, plus accrued and unpaid interest, if any, to, but excluding, the redemption date.
+Conflicts of Interest: | Aon Securities LLC is an indirect, wholly owned subsidiary of Aon North America, Inc. This offering is subject to, and will be conducted in compliance with, the requirements of Rule 5121 of the Financial Industry Regulatory
+Authority, Inc. (“FINRA”) regarding a FINRA member firm distributing the securities of an affiliate.
+* | Note: An explanation of the significance of ratings may be obtained from the rating agencies. Generally,
+rating agencies base their ratings on such material and information, and such of their own investigations, studies and assumptions, as they deem appropriate. The rating of the Notes should be evaluated independently from similar ratings of other
+securities. A credit rating of a security is not a recommendation to buy, sell or hold securities and may be subject to review, revision, suspension, reduction or withdrawal at any time by the assigning rating agency.
+** | Note: The information in this Pricing Term Sheet supplements the Preliminary Prospectus Supplement and
+supersedes the information in the Preliminary Prospectus Supplement to the extent inconsistent with the information in the Preliminary Prospectus Supplement. The T+3 settlement cycle specified in this Pricing Term Sheet supersedes the extended
+settlement language included in the Preliminary Prospectus Supplement.
+The issuers and the guarantors have filed
+a registration statement, including a prospectus, with the U.S. Securities and Exchange Commission (the “SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration
+statement and other documents the issuers and the guarantors have filed with the SEC for more complete information about the issuers, the guarantors and this offering. You may get these documents for free by visiting EDGAR on the SEC website at
+www.sec.gov. Alternatively, the Joint Book-Running Managers in the offering will arrange to send you the prospectus if you request it by contacting Citigroup Global Markets Inc. at
+1-800-831-9146,
+BofA Securities, Inc. at
+1-800-294-1322,
+HSBC Securities (USA)
+Inc. at
+1-866-811-8049,
+Morgan Stanley & Co. LLC at prospectus@morganstanley.com or Wells Fargo Securities, LLC at
+1-800-645-3751.
+Any disclaimers or other notices that may appear below are not applicable to this communication and should be disregarded (other than any
+statement relating to the identity of the legal entity authorizing or sending this communication in a
+non-U.S.
+jurisdiction). Such disclaimers or other notices were automatically generated as a result of this
+communication having been sent via Bloomberg or another
+e-mail
+system.

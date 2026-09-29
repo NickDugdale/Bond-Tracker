@@ -1,0 +1,135 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1649749/000121390026101821/ea0306139-fwp_fbfinancial.htm
+ISSUER (SEC filer): FB Financial Corp
+FILED: 2026-09-21
+========================================
+FWP
+1
+ea0306139-fwp_fbfinancial.htm
+FREE WRITING PROSPECTUS
+Free
+Writing Prospectus
+Filed
+Pursuant to Rule 433
+Supplementing
+the
+Preliminary
+Prospectus Supplement, dated September 21, 2026
+Registration
+Statement No. 333-291507
+FB
+Financial Corporation
+$125,000,000
+6.625%
+Fixed-to-Floating Rate Subordinated Notes due 2036
+Term
+Sheet
+Issuer: | FB Financial Corporation (the “Company”
+or “Issuer”)
+Security: | 6.625% Fixed-to-Floating Rate Subordinated
+Notes due 2036 (the “Notes”)
+Aggregate Principal Amount: | $125,000,000
+Type of Offering: | SEC Registered
+Expected Ratings: | BBB
+(Stable) by Kroll Bond Rating Agency An
+explanation of the significance of ratings may be obtained from the rating agency. Generally, rating agencies base their ratings
+on such material and information, and such of their own investigations, studies and assumptions, as they deem appropriate. The rating
+of the Notes should be evaluated independently from similar ratings of other securities. A credit rating of a security is not a recommendation
+to buy, sell or hold securities and may be subject to review, revision, suspension, reduction or withdrawal at any time by the assigning
+rating agency. No report of any rating agency is incorporated by reference herein.
+Trade Date: | September 21, 2026
+Settlement Date: | September 24, 2026 (T + 3)
+Maturity Date: | October 1, 2036
+Coupon: | From and including the Settlement Date to, but excluding,
+October 1, 2031, or the earlier redemption date (the “fixed rate period”), the Notes will bear interest at a rate of
+6.625% per year, payable semiannually in arrears. From and including October 1, 2031 to, but excluding, the Maturity Date, or the
+earlier redemption date (the “floating rate period”), the Notes will bear interest at a floating rate per year equal
+to the Benchmark rate (which is expected to be Three-Month Term SOFR) (each as defined and subject to the provisions described in
+the Preliminary Prospectus Supplement (as defined below) under “Description of Subordinated Notes—Interest”) plus
+205 basis points, payable quarterly in arrears; provided, however , that if the Benchmark rate is less than zero, the Benchmark
+rate shall be deemed to be zero.
+Interest Payment Dates: | Fixed
+rate period: April 1 and October 1 of each year, commencing on April 1, 2027. The last interest payment date for the fixed rate period
+will be October 1, 2031, or the date of earlier redemption. Floating
+rate period: January 1, April 1, July 1 and October 1 of each year, commencing on January 1, 2032.
+Record Dates: | The 15th calendar day immediately preceding the applicable
+interest payment date (whether or not a business day).
+Day Count Convention: | Fixed
+rate period: 30/360 Floating
+rate period: 360-day year and the number of days actually elapsed
+Optional Redemption: | The Company may redeem the Notes, at its option, beginning
+with the interest payment date of October 1, 2031 and on any interest payment date thereafter, in whole or in part, subject to prior
+approval of the Board of Governors of the Federal Reserve System (the “Federal Reserve Board”), to the extent such approval
+is then required under the rules of the Federal Reserve Board, at a redemption price equal to 100% of the principal amount of the
+Notes to be redeemed, plus any accrued and unpaid interest to, but excluding, the redemption date (as described in the Preliminary
+Prospectus Supplement under “Description of the Subordinated Notes—Redemption”).
+Special Redemption: | The Company may redeem the Notes at any time prior
+to the Maturity Date, including prior to October 1, 2031, in whole, but not in part, subject to prior approval of the Federal Reserve
+Board, to the extent such approval is then required under the rules of the Federal Reserve Board, upon the occurrence of (i) a
+“Tax Event”, (ii) a “Tier 2 Capital Event”, or (iii) the Company becoming required to register as an
+investment company under the Investment Company Act of 1940, as amended, in each case, at a redemption price equal to 100% of the
+principal amount of the Notes, plus any accrued and unpaid interest to, but excluding, the redemption date (as described in the Preliminary
+Prospectus Supplement under “Description of the Subordinated Notes—Redemption”).
+Denominations: | $1,000 minimum denominations and $1,000 integral multiples
+thereof.
+Use of Proceeds: | The Company intends to use the net proceeds from this
+offering for general corporate purposes, including providing capital to FirstBank to support its growth.
+Price to Public: | 100% of Aggregate Principal Amount.
+2
+Ranking: | The Notes will be the Company’s general
+unsecured subordinated obligations not guaranteed by any of its subsidiaries and will be:
+● | junior in right of payment and upon
+liquidation to any of the Company’s existing and all of the Company’s future Senior Indebtedness (as defined under “Description
+of the Subordinated Notes—Subordination”);
+● | equal in right of payment and upon the Company’s
+liquidation with its existing 3.50% Fixed-to-Floating Rate Subordinated Note due February 7, 2032, 7.00% Fixed-to-Floating Rate Subordinated
+Note due October 26, 2032, and 3.50% Fixed-to-Floating Rate Subordinated notes due 2031, and all of the Company’s future indebtedness
+the terms of which provide that such indebtedness ranks equally with the Notes;
+● | senior in right of payment and upon the Company’s
+liquidation to any of its existing and future indebtedness the terms of which provide that such indebtedness ranks junior in right
+of payment to the Notes;
+● | effectively subordinated to all of the Company’s
+secured indebtedness to the extent of the value of the assets securing such indebtedness; and
+● | structurally subordinated to any existing and future
+indebtedness of the Company’s subsidiaries, including, without limitation, FirstBank’s depositors, liabilities to general
+creditors, and liabilities arising in the ordinary course of business or otherwise, which means that such creditors generally will
+be paid from those subsidiaries’ assets before holders of the Notes would have any claims to those assets.
+The Notes are not savings accounts or deposits
+or other obligations of FirstBank or any of the Company’s nonbank subsidiaries. The Notes are not insured or guaranteed by
+the FDIC or any other governmental agency or instrumentality.
+As of June 30, 2026, the Company had no
+Senior Indebtedness on a consolidated basis, and FirstBank had $14.8 billion of liabilities to which the Notes will be structurally
+subordinated.
+CUSIP / ISIN: | 30257XAD6 / US30257XAD66
+Sole Book-Running Manager: | Keefe, Bruyette & Woods, A Stifel
+Company
+3
+*Note:
+The Issuer expects that delivery of the Notes will be made against payment therefor on or about the Settlement Date indicated above,
+which will be the third business day following the date of pricing of the Notes (this settlement cycle being referred to as “T+3”).
+Under Rule 15c6-1 of the Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required
+to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade
+the Notes prior to the delivery of the Notes will be required, by virtue of the fact that the Notes initially will settle in T+3, to
+specify an alternate settlement arrangement at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who
+wish to trade the Notes prior to their date of delivery should consult their own advisor.
+The
+Issuer has filed a shelf registration statement (File No. 333-291507) (including a base prospectus) and a preliminary prospectus supplement
+(the “Preliminary Prospectus Supplement”) with the Securities and Exchange Commission (“SEC”) for the offering
+to which this communication relates. Before you invest, you should read the prospectus in that registration statement, the Preliminary
+Prospectus Supplement and other documents the Issuer has filed with the SEC for more complete information about the Issuer and this offering.
+You may access these documents for free by visiting EDGAR on the SEC’s website at www.sec.gov. Alternatively, the Issuer, any underwriter
+or any dealer participating in the offering will arrange to send you the prospectus and the related Preliminary Prospectus Supplement
+if you request them from Keefe, Bruyette, and Woods,
+A Stifel Company
+toll-free at 1-800-966-1599 or by email at USCapitalMarkets@kbw.com.
+Capitalized
+terms used but not defined in this Pricing Term Sheet have the meanings given to them in the Preliminary Prospectus Supplement.
+Note
+that documents transmitted by e-mail may be altered or changed during the process of transmission and none of FB Financial Corporation,
+Keefe, Bruyette & Woods,
+A Stifel Company
+or any of their respective affiliates accepts liability or responsibility for any
+alteration or change.
+ANY
+DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS
+OR OTHER NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.
+4

@@ -1,0 +1,68 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/14693/000119312526394500/d138014dfwp.htm
+ISSUER (SEC filer): BROWN FORMAN CORP
+FILED: 2026-09-17
+========================================
+FWP
+1
+d138014dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Issuer Free Writing Prospectus supplementing the
+Preliminary Prospectus Supplement dated September 17, 2026
+and the Prospectus dated March 9, 2026
+Registration
+No. 333-294143
+Brown-Forman Corporation
+PRICING TERM SHEET
+$500,000,000 5.375% Notes due 2031
+This pricing term sheet (this “pricing term sheet”) is qualified in its entirety by reference to the preliminary prospectus
+supplement, dated September 17, 2026 (the “preliminary prospectus supplement”), and the related base prospectus, dated March 9, 2026 (the “base prospectus” and, together with the preliminary prospectus supplement,
+including the documents incorporated by reference in the preliminary prospectus supplement and the base prospectus, the “prospectus”), of Brown-Forman Corporation. The information in this pricing term sheet supplements the prospectus and
+updates and supersedes the information in the prospectus to the extent it is inconsistent with the information in the prospectus. Capitalized terms used and not defined herein have the meanings assigned in the preliminary prospectus supplement.
+Issuer: | Brown-Forman Corporation
+Title of Securities: | 5.375% Notes due 2031
+Principal Amount: | $500,000,000
+Trade Date: | September 17, 2026
+Settlement Date*: | T + 2 (September 21, 2026)
+Coupon: | 5.375%
+Maturity Date: | October 15, 2031
+Interest Payment Dates: Record Dates: | Semi-annually on April 15 and October 15 of each year, commencing on April 15, 2027 (long first coupon) April 1 and October 1
+Public Offering Price: | 99.872%
+Yield to Maturity: Spread to Benchmark Treasury: Benchmark Treasury: Benchmark Treasury Price and Yield: Day Count Convention: | 5.403% T+60 bps 4.375% due August 31, 2031 98-04 1 / 4 ; 4.803% 30/360
+Optional Redemption: | The Notes may be redeemed at the Issuer’s option prior to September 15, 2031 (the “ Par Call Date ”), in whole or
+in part, at a redemption price equal to the greater of: (i) the discounted present value of the Notes being redeemed, assuming that the Notes matured on the Par Call
+Date, at the Treasury Rate plus 10 basis points, less interest accrued on the Notes to the date of redemption; and (ii) 100% of the principal amount of the Notes being redeemed, plus , in either case, accrued and unpaid interest thereon to the redemption
+date. On or after the Par Call Date, the Notes may be redeemed in whole or in part,
+at a redemption price equal to 100% of the principal amount of the Notes redeemed plus accrued and unpaid interest thereon to the redemption date.
+Change of Control Triggering Event: | If the Issuer experiences a Change of Control Triggering Event, unless the Issuer has given written notice with respect to a redemption of all the Notes, the Issuer will be required to make an offer to purchase the Notes at a price
+of 101% of the principal amount thereof, plus any accrued and unpaid interest on the Notes being purchased to, but excluding, the date of purchase.
+CUSIP / ISIN: | 115637 AV2 / US115637AV26
+Minimum Denomination: | $2,000 and integral multiples of $1,000 in excess thereof
+Expected Ratings (Moody’s / S&P)**: | A2 / A-
+Joint Book-Running Managers: | Barclays Capital Inc. BofA Securities, Inc. Citigroup Global Markets Inc. J.P. Morgan Securities LLC U.S. Bancorp Investments, Inc. Scotia Capital (USA)
+Inc.
+Co-Manager: | Academy Securities, Inc.
+* | It is expected that delivery of the Notes will be made against payment therefor on or about
+September 21, 2026, which will be the second business day following the date hereof (this settlement cycle being referred to as “T + 2”). Under Rule 15c6-1 of the Securities Exchange Act of
+1934, as amended, trades in the secondary market generally are required to settle in one business day, unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes on any day prior to one business day
+before delivery will be required to specify alternative settlement arrangements at the time of any such trade to prevent a failed settlement and should consult their own advisors.
+** | A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision
+or withdrawal at any time.
+The Issuer has filed a registration statement (including the base prospectus) and the preliminary
+prospectus supplement with the Securities and Exchange Commission for the offering to which this communication relates. Before you invest, you should read the base prospectus in that registration statement, the preliminary prospectus supplement and
+other documents the Issuer has filed with the Securities and Exchange Commission for more complete information about the Issuer and this offering. You may get these documents for free by visiting EDGAR on the Securities and Exchange
+Commission’s website at www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling Barclays Capital Inc. toll-free at
+1-888-603-5847,
+BofA Securities, Inc. toll-free at
+1-800-294-1322,
+Citigroup Global Markets Inc. toll-free at
+1-800-831-9146,
+J.P.
+Morgan Securities LLC (collect) at
+1-212-834-4533
+or U.S. Bancorp Investments, Inc. toll-free at
+1-877-558-2607.
+Any legends,
+disclaimers or other notices that may appear below are not applicable to this communication and should be disregarded. Such legends, disclaimers or other notices have been automatically generated as a result of this communication having been sent
+via Bloomberg or another system.

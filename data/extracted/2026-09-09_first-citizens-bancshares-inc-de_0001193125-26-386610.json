@@ -1,0 +1,28 @@
+{
+  "source_file": "2026-09-09_first-citizens-bancshares-inc-de_0001193125-26-386610.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:44:34",
+  "usage": {
+    "input_tokens": 3933,
+    "output_tokens": 321
+  },
+  "data": {
+    "is_bond_pricing": false,
+    "not_bond_reason": "This is a preferred stock offering (depositary shares representing perpetual preferred stock), not a bond issue.",
+    "issuer": "First Citizens BancShares, Inc.",
+    "sector": "Financials",
+    "trade_date": "2026-09-09",
+    "settlement_date": "2026-09-14",
+    "rating_moodys": "Ba1",
+    "rating_sp": "BB",
+    "rating_fitch": null,
+    "bookrunners": [
+      "Morgan Stanley & Co. LLC",
+      "BofA Securities, Inc.",
+      "J.P. Morgan Securities LLC",
+      "Wells Fargo Securities, LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": []
+  }
+}

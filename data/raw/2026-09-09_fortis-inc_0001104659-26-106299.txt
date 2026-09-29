@@ -1,0 +1,83 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1666175/000110465926106299/tm2624871d6_fwp.htm
+ISSUER (SEC filer): Fortis Inc.
+FILED: 2026-09-09
+========================================
+FWP
+1
+tm2624871d6_fwp.htm
+FWP
+Filed
+Pursuant to Rule 433 under the Securities Act of 1933, Registration Statement No. 333-283687, September 9, 2026
+Fortis Inc.
+6.625% Fixed-to-Fixed
+Rate Junior Subordinated Notes due 2057
+6.875% Fixed-to-Fixed
+Rate Junior Subordinated Notes due 2057
+Dated September 9,
+2026
+The following information supplements (or supersedes, to the extent
+that it is inconsistent therewith) the Preliminary Prospectus Supplement dated September 9, 2026 relating to the below described
+securities (the “
+Preliminary Prospectus Supplement
+”). Capitalized terms used but not defined in this pricing term
+sheet shall have the meaning ascribed to them in the Preliminary Prospectus Supplement.
+Issuer: | Fortis Inc.
+(“ Fortis ”)
+Security: | 6.625 % Fixed-to-Fixed
+Rate Junior Subordinated Notes due 2057 (the “ NC5 Notes ”) 6.875% Fixed-to-Fixed Rate Junior Subordinated Notes due 2057 (the “ NC10 Notes ” and, together with the NC5 Notes,
+the “ Notes ”)
+Expected
+Ratings * : | S&P Global Ratings:
+BBB (Stable) Fitch: BBB-(Stable)
+Principal
+Amount: | NC5 Notes: US$500,000,000 NC10 Notes: US$500,000,000
+Pricing
+Date: | September 9, 2026
+Settlement
+Date: | September 21, 2026
+(T+8)
+Maturity
+Date: | NC5 Notes: March 30,
+2057 (the “ Maturity Date ” with respect to the NC5 Notes) NC10 Notes: March 30, 2057 (the “ Maturity Date ” with respect to the NC10 Notes)
+Offering
+Price: | NC5 Notes: 100.000% of the principal amount NC10 Notes: 100.000% of the principal amount
+Interest Rate: | The NC5 Notes
+will bear interest from, and including, September 21, 2026 to, but excluding, March 30, 2032 at a rate of 6.625% per annum. From,
+and including, March 30, 2032 to but excluding the Maturity Date, the outstanding NC5 Notes will bear interest at a rate per annum
+equal to the 5-Year Treasury Rate (subject to reset as described below) plus 2.016%; provided, that the interest rate during any Interest
+Rate Reset Period will not reset below 6.625% (which equals the initial interest rate on the NC5 Notes). The NC10 Notes will bear interest from, and including, September 21, 2026 to, but excluding, March 30, 2037 at a rate of 6.875%
+per annum. From, and including, March 30, 2037 to but excluding the Maturity Date, the outstanding NC10 Notes will bear
+interest at a rate per annum equal to the 5-Year Treasury Rate (subject to reset as described below) plus 2.042%; provided, that the
+interest rate during any Interest Rate Reset Period will not reset below 6.875% (which equals the initial interest rate on the NC10 Notes). The 5-Year Treasury Rate for computing interest on the outstanding Notes of each series from and after the applicable Initial Interest
+Rate Reset Date will be calculated as of the applicable Interest Rate Calculation Date for each Interest Rate Reset Period. “ Initial Interest Rate Reset Date ” means March 30, 2032 with respect to the NC5 Notes, and March 30, 2037
+with respect to the NC10 Notes. “ Interest Rate Calculation Date ” means the second business day immediately preceding the applicable Interest Rate
+Reset Date. “ Interest Rate Reset Date ” means the applicable Initial Interest Rate Reset Date and each subsequent date prior to
+the Maturity Date falling on the fifth anniversary of the immediately preceding Interest Rate Reset Date. “ Interest Rate Reset Period ” means the period from and including the applicable Initial Interest Rate Reset Date to,
+but not including, the next following Interest Rate Reset Date and thereafter each period from and including each Interest Rate Reset
+Date to, but not including, the next following Interest Rate Reset Date (or, in the case of the final Interest Rate Reset Period commencing
+on the Final Interest Rate Reset Date, the period from and including such Final Interest Rate Reset Date to, but not including, the applicable
+Maturity Date).
+Interest Payment Dates: | Interest on the Notes is payable semi-annually in arrears on March 30 and September 30 (each, an “ Interest Payment Date ”) in each year, commencing on March 30, 2027 subject to deferral pursuant to the Deferral Right.
+Deferral Right: | So long as no Event of Default has occurred and is continuing, Fortis may elect, at its sole option, at any date other than an Interest Payment Date, to defer the interest payable on the Notes (the “ Deferral Right ”) on one or more occasions for up to 10 consecutive years.
+- 2 -
+Optional Redemption: | Fortis may, at its option, on giving not more than 60 days’ nor less than 10 days’ prior notice to the holders of the Notes of a series, redeem the Notes of such series, in whole at any time or in part from time to time, (i) on any day in the period commencing on (and including) the date falling 90 days prior to the applicable Initial Interest Rate Reset Date and ending on (and including) the applicable Initial Interest Rate Reset Date and (ii) thereafter, on any Interest Rate Reset Date or any Interest Payment Date for such series, in each case, at a redemption price equal to 100% of the principal amount of the Notes to be redeemed together with accrued and unpaid interest (including Deferred Interest, if any) thereon to, but excluding, the date fixed for such redemption.
+Redemption on Tax Event or Rating Event: | At any time within 90 days following the occurrence of a Tax Event with respect to a series of Notes, Fortis may, at its option, redeem all (but not less than all) of the Notes of such series at a redemption price equal to 100% of the principal amount thereof, together with accrued and unpaid interest (including Deferred Interest, if any) thereon to, but excluding, the date fixed for redemption. At any time within 90 days following the occurrence of a Rating Event with respect to a series of Notes, Fortis may, at its option, redeem all (but not less than all) of the Notes of such series at a redemption price equal to 102% of the principal amount thereof, together with accrued and unpaid interest (including Deferred Interest, if any) thereon to, but excluding, the date fixed for redemption.
+CUSIP / ISIN: | NC5 Notes: 349553 AV9
+/ US349553AV96 NC10 Notes: 349553 AW7 / US349553AW79
+Denomination: | The Notes will be issued in minimum denominations of US$2,000 and integral multiples of US$1,000 in excess thereof.
+Joint Book-Running Managers: | Morgan Stanley & Co. LLC MUFG Securities Americas Inc. Wells Fargo Securities, LLC BofA Securities, Inc.
+- 3 -
+Co-Managers: | BMO Capital Markets Corp. CIBC World Markets Corp. RBC Capital Markets, LLC Scotia Capital (USA) Inc. TD Securities (USA) LLC National Bank of Canada Financial Inc. Academy Securities, Inc. Desjardins Securities Inc.
+***
+* Note: A securities
+rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+The issuer has filed a registration
+statement (including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read
+the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete information about
+the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC’s website at www.sec.gov. Alternatively,
+the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling
+Morgan Stanley & Co. LLC toll-free at 1-866-718-1649
+,
+MUFG Securities Americas Inc. toll-free at (877) 649-6848,
+Wells Fargo Securities, LLC toll-free at (800) 645-3751 or BofA Securities, Inc. toll-free at (800) 294-1322.
+- 4 -

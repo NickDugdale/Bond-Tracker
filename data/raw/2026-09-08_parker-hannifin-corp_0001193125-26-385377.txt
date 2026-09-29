@@ -1,0 +1,103 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/76334/000119312526385377/d132695dfwp.htm
+ISSUER (SEC filer): Parker-Hannifin Corp
+FILED: 2026-09-08
+========================================
+FWP
+1
+d132695dfwp.htm
+FWP
+FWP
+Issuer Free Writing Prospectus
+Filed Pursuant to Rule 433
+Dated September 8, 2026
+Registration Statement
+No. 333-298527
+Relating to the Preliminary Prospectus Supplement dated September 8, 2026
+PRICING TERM SHEET
+PARKER-HANNIFIN CORPORATION
+$525,000,000 of 4.750% Senior Notes due 2028 (the “2028 Notes”)
+$500,000,000 of 4.875% Senior Notes due 2029 (the “2029 Notes”)
+$750,000,000 of 5.125% Senior Notes due 2031 (the “2031 Notes”)
+$625,000,000 of 5.300% Senior Notes due 2033 (the “2033 Notes”)
+Issuer: | Parker-Hannifin Corporation
+Title of Securities: | 4.750% Senior Notes due 2028 | 4.875% Senior Notes due 2029 | 5.125% Senior Notes due 2031 | 5.300% Senior Notes due 2033
+Distribution: | SEC Registered
+Security Type: | Senior Unsecured
+Expected Ratings at the Settlement Date*: | Moody’s: A3 (S) / S&P: BBB+ (P) / Fitch: A- (S)
+Principal Amount: | $525,000,000 | $500,000,000 | $750,000,000 | $625,000,000
+Denomination: | $2,000 and integral multiples of $1,000 in excess thereof
+Trade Date: | September 8, 2026
+Settlement Date†: | September 14, 2026 (T+4)
+Maturity Date: | September 14, 2028 | September 14, 2029 | September 19, 2031 | September 16, 2033
+Price to Public: | 100.000% of face amount | 99.942% of face amount | 99.990% of face amount | 99.976% of face amount
+Coupon (Interest Rate): | 4.750% | 4.875% | 5.125% | 5.300%
+Benchmark Treasury: | 4.125% UST due August 31, 2028 | 4.250% UST due August 15, 2029 | 4.375% UST due August 31, 2031 | 4.500% UST due August 31, 2033
+Benchmark Treasury Price and Yield: | 99-15+ / 4.400% | 99-12 1 ⁄ 4 / 4.476% | 99-03+ / 4.577% | 98-29 1 ⁄ 4 / 4.684%
+Spread to Benchmark Treasury: | + 35 bps | + 42 bps | + 55 bps | + 62 bps
+Yield to Maturity: | 4.750% | 4.896% | 5.127% | 5.304%
+Interest Payment Dates: | Semi-annually on March 14 and September 14 of each year, commencing March 14,
+2027 | Semi-annually on March 14 and September 14 of each year, commencing March 14,
+2027 | Semi-annually on March 19 and September 19 of each year, commencing March 19,
+2027 | Semi-annually on March 16 and September 16 of each year, commencing March 16,
+2027
+Optional Redemption:
+Make-Whole Call: | UST + 7.5 bps | UST + 7.5 bps | UST + 10 bps | UST + 10 bps
+Par Call: | None | On or after August 14, 2029 (one month prior to the Maturity Date) | On or after August 19, 2031 (one month prior to the Maturity Date) | On or after July 16, 2033 (two months prior to the Maturity Date)
+CUSIP / ISIN: | 701094AT1 / US701094AT15 | 701094AU8 / US701094AU87 | 701094AV6 / US701094AV60 | 701094AW4 / US701094AW44
+Joint Book-Running Managers: | Barclays Capital Inc. Citigroup Global Markets Inc. Morgan Stanley & Co. LLC Truist Securities, Inc. Mizuho Securities USA LLC BofA Securities, Inc. Wells Fargo Securities, LLC HSBC Securities (USA) Inc. BNP Paribas Securities Corp. | Barclays Capital Inc. Citigroup Global Markets Inc. Morgan Stanley & Co. LLC Mizuho Securities USA LLC Truist Securities, Inc. Wells Fargo Securities, LLC HSBC Securities (USA) Inc. J.P. Morgan Securities LLC BNP Paribas Securities Corp. | Barclays Capital Inc. Citigroup Global Markets Inc. Morgan Stanley & Co. LLC Truist Securities, Inc. J.P. Morgan Securities LLC Mizuho Securities USA LLC Wells Fargo Securities, LLC HSBC Securities (USA) Inc. BNP Paribas Securities Corp. | Barclays Capital Inc. Citigroup Global Markets Inc. Morgan Stanley & Co. LLC J.P. Morgan Securities LLC HSBC Securities (USA) Inc. Truist Securities, Inc. Wells Fargo Securities, LLC Mizuho Securities USA LLC BNP Paribas Securities Corp.
+Co-Managers: | KeyBanc Capital Markets Inc. PNC Capital Markets LLC J.P. Morgan Securities LLC TD Securities (USA) LLC | KeyBanc Capital Markets Inc. PNC Capital Markets LLC BofA Securities, Inc. TD Securities (USA) LLC | KeyBanc Capital Markets Inc. PNC Capital Markets LLC BofA Securities, Inc. TD Securities (USA) LLC | KeyBanc Capital Markets Inc. PNC Capital Markets LLC BofA Securities, Inc. TD Securities (USA) LLC
+BNY Mellon Capital Markets, LLC BBVA Securities Inc. Commerz Markets LLC Goldman Sachs & Co. LLC U.S. Bancorp Investments, Inc. MUFG Securities Americas Inc. Loop Capital Markets LLC UniCredit Capital Markets LLC Santander US Capital Markets LLC | BNY Mellon Capital Markets, LLC BBVA Securities Inc. Commerz Markets LLC Goldman Sachs & Co. LLC U.S. Bancorp Investments, Inc. MUFG Securities Americas Inc. Loop Capital Markets LLC UniCredit Capital Markets LLC Santander US Capital Markets LLC | BNY Mellon Capital Markets, LLC BBVA Securities Inc. Commerz Markets LLC Goldman Sachs & Co. LLC U.S. Bancorp Investments, Inc. MUFG Securities Americas Inc. Loop Capital Markets LLC UniCredit Capital Markets LLC Santander US Capital Markets LLC | BNY Mellon Capital Markets, LLC BBVA Securities Inc. Commerz Markets LLC Goldman Sachs & Co. LLC U.S. Bancorp Investments, Inc. MUFG Securities Americas Inc. Loop Capital Markets LLC UniCredit Capital Markets LLC Santander US Capital Markets LLC
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+This pricing term sheet relates only to the securities described above and should be read in
+conjunction with the preliminary prospectus supplement dated September 8, 2026 (the “Preliminary Prospectus Supplement”) relating to these securities. The information in this pricing term sheet supplements the Preliminary Prospectus
+Supplement and updates and supersedes the information in the Preliminary Prospectus Supplement to the extent it is inconsistent with the information in the Preliminary Prospectus Supplement.
+† | The issuer expects that delivery of the notes will be made to investors on or about September 14, 2026,
+which will be the fourth business day following the date of this pricing term sheet (such settlement being referred to as “T+4”). Under Rule 15c6-1 under the Exchange Act, trades in the secondary
+market are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the notes prior to the date that is more than one business day preceding the settlement date
+will be required, by virtue of the fact that the notes initially settle in T+4, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the notes who wish to trade the notes prior to the
+date that is more than one business day preceding the settlement date should consult their advisors.
+The issuer has filed a
+registration statement (including a prospectus and related preliminary prospectus supplement for the offering) with the U.S. Securities and Exchange Commission (the “SEC”) for the offering to which this communication relates. Before you
+invest, you should read the Preliminary Prospectus Supplement, the accompanying prospectus in that registration statement and the other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You
+may get these documents for free by visiting EDGAR on the SEC’s website at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by
+calling, with respect to the 2028 Notes, Barclays Capital Inc. toll-free at
+1-888-603-5847,
+Citigroup Global Markets Inc.
+toll-free at
+1-800-831-9146,
+Morgan Stanley & Co. LLC toll-free at
+1-800-718-1649
+and Truist Securities, Inc. toll-free at
+1-800-685-4786;
+with respect to the 2029 Notes, Barclays Capital Inc. toll-free at
+1-888-603-5847,
+Citigroup Global Markets Inc. toll-free at
+1-800-831-9146,
+Morgan Stanley & Co. LLC toll-free at
+1-800-718-1649
+and Mizuho
+Securities USA LLC toll-free at
+1-866-271-7403;
+with respect to the 2031 Notes, Barclays Capital Inc. toll-free at
+1-888-603-5847,
+Citigroup Global Markets Inc. toll-free at
+1-800-831-9146,
+Morgan Stanley & Co. LLC toll-free at
+1-800-718-1649
+and
+Truist Securities, Inc. toll-free at
+1-800-685-4786;
+and with respect to the 2033 Notes, Barclays Capital Inc. toll-free at
+1-888-603-5847,
+Citigroup Global Markets Inc. toll-free at
+1-800-831-9146,
+Morgan Stanley & Co. LLC toll-free at
+1-800-718-1649
+and
+J.P. Morgan Securities LLC at
+1-212-834-4533.
+This communication does not constitute an offer to sell or the solicitation of an offer to buy any securities in any jurisdiction to any person to whom it
+is unlawful to make such offer or solicitation in such jurisdiction.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO
+THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.

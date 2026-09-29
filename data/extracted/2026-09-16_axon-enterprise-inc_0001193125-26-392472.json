@@ -1,0 +1,29 @@
+{
+  "source_file": "2026-09-16_axon-enterprise-inc_0001193125-26-392472.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:47:37",
+  "usage": {
+    "input_tokens": 6612,
+    "output_tokens": 377
+  },
+  "data": {
+    "is_bond_pricing": false,
+    "not_bond_reason": "This is a convertible note offering, not a traditional bond; convertible notes are equity-linked securities with a 0% coupon that convert into common stock rather than paying regular interest.",
+    "issuer": "Axon Enterprise, Inc.",
+    "sector": "Technology",
+    "trade_date": "2026-09-16",
+    "settlement_date": "2026-09-18",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "Goldman Sachs & Co. LLC",
+      "Morgan Stanley & Co. LLC",
+      "J.P. Morgan Securities LLC",
+      "RBC Capital Markets, LLC",
+      "Citigroup Global Markets Inc."
+    ],
+    "use_of_proceeds": "$99.9 million for capped call transactions; remainder for general corporate purposes including capital for growth, acquisitions and investments in product lines, services and technologies.",
+    "tranches": []
+  }
+}

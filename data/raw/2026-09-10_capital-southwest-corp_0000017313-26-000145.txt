@@ -1,0 +1,49 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/17313/000001731326000145/cswc-pricingtermsheetinsti.htm
+ISSUER (SEC filer): CAPITAL SOUTHWEST CORP
+FILED: 2026-09-10
+========================================
+FWP
+1
+cswc-pricingtermsheetinsti.htm
+FWP
+Document
+Filed Pursuant to Rule 433
+Issuer Free Writing Prospectus dated September 10, 2026
+Relating to Preliminary Prospectus Supplement dated September 10, 2026 and
+Prospectus dated October 29, 2024
+Registration No. 333-282873
+CAPITAL SOUTHWEST CORPORATION
+$350,000,000
+6.750% Notes due 2031
+PRICING TERM SHEET
+September 10, 2026
+The following sets forth the final terms of the 6.750% Notes due 2031 (the “Notes”) and should only be read together with the preliminary prospectus supplement, dated September 10, 2026, together with the accompanying prospectus, dated October 29, 2024, relating to these securities (the “Preliminary Prospectus”), and supersedes the information in the Preliminary Prospectus to the extent inconsistent with the information in the Preliminary Prospectus. In all other respects, this pricing term sheet is qualified in its entirety by reference to the Preliminary Prospectus. Terms used herein but not defined herein shall have the respective meanings as set forth in the Preliminary Prospectus. All references to dollar amounts are references to U.S. dollars.
+Issuer: | Capital Southwest Corporation (the “Company”)
+Security: | 6.750% Notes due 2031
+Expected Ratings*: | Baa3 Stable (Moody’s) BBB- Stable (Fitch)
+Aggregate Principal Amount: | $350,000,000
+Maturity: | September 15, 2031
+Trade Date: | September 10, 2026
+Settlement Date**: | September 15, 2026 (T+3)
+Use of Proceeds: | Repay a portion of the outstanding indebtedness under the Company’s senior secured revolving credit facility
+Price to Public (Issue Price): | 98.985% of the aggregate principal amount of the Notes
+Coupon (Interest Rate): | 6.750%
+Yield to Maturity: | 6.994%
+Spread to Benchmark Treasury: | +225 basis points
+Benchmark Treasury: | 4.375% due August 31, 2031
+Benchmark Treasury Price and Yield: | 98-12 ¼ / 4.744%
+Interest Payment Dates: | March 15 and September 15, beginning March 15, 2027
+Optional Redemption: | Prior to August 15, 2031 (one month prior to the maturity date of the Notes) (the “Par Call Date”), the Company may redeem the Notes at its option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (1) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the Notes matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 35 basis points less (b) interest accrued to the date of redemption, and (2) 100% of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to, but not including, the redemption date. On or after the Par Call Date, the Company may redeem the Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the Notes being redeemed, plus accrued and unpaid interest thereon to, but not including, the redemption date.
+Offer to Repurchase upon a Change of Control Repurchase Event: | If a Change of Control Repurchase Event (as defined in “Description of the Notes” in the Preliminary Prospectus) occurs prior to maturity, holders of the Notes will have the right, at their option, to require the Company to repurchase for cash some or all of the Notes at a repurchase price equal to 100% of the principal amount of the Notes being repurchased, plus accrued and unpaid interest to, but not including, the repurchase date.
+Denomination: | $2,000 and integral multiples of $1,000 in excess thereof
+CUSIP: | 140501 AG2
+ISIN: | US140501AG26
+Underwriting Discount: | 1.000%
+Active Bookrunners: | Deutsche Bank Securities Inc. Huntington Securities, Inc. ING Financial Markets LLC Morgan Stanley & Co. LLC RBC Capital Markets, LLC Wells Fargo Securities, LLC
+Passive Bookrunner: | Oppenheimer & Co. Inc.
+Co-Manager: | Zions Direct, Inc.
+* Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+** Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended, trades in the secondary market are required to settle in one business day, unless the parties to such trade expressly agree otherwise at the time of the trade. Accordingly, purchasers who wish to trade the Notes prior to the business day before the date of delivery of the Notes will be required, by virtue of the fact that the Notes initially will settle in three business days (T+3), to specify alternative settlement arrangements to prevent a failed settlement.
+Investors are advised to carefully consider the investment objective, risks, charges and expenses of the Company before investing. The Preliminary Prospectus, which has been filed with the U.S. Securities and Exchange Commission (the “SEC”), contains this and other information about the Company and should be read carefully before investing.
+The information in the Preliminary Prospectus and in this pricing term sheet is not complete and may be changed. The Preliminary Prospectus and this pricing term sheet are not offers to sell any securities of the Company and are not soliciting an offer to buy such securities in any jurisdiction where such offer and sale is not permitted.
+A shelf registration statement relating to these securities is on file with the SEC and has become effective. The offering to which this communication relates may be made only by means of a preliminary prospectus supplement and an accompanying prospectus. Before you invest, you should read the preliminary prospectus supplement relating to this offering, together with the accompanying prospectus, filed with the SEC and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You may obtain these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the Preliminary Prospectus if you request them by calling Deutsche Bank Securities Inc. toll-free at +1-800-503-4611, Huntington Securities, Inc. toll-free at +1 (800) 824-5652, ING Financial Markets LLC toll-free at +1 (877) 446-4930, Morgan Stanley & Co. LLC toll-free at 1-866-718-1649, RBC Capital Markets, LLC toll-free at +1-866-375-6829, Wells Fargo Securities, LLC toll-free at +1 (800) 645-3751.

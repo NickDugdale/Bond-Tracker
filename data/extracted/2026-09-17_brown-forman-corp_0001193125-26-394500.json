@@ -1,0 +1,45 @@
+{
+  "source_file": "2026-09-17_brown-forman-corp_0001193125-26-394500.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:47:46",
+  "usage": {
+    "input_tokens": 3804,
+    "output_tokens": 442
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Brown-Forman Corporation",
+    "sector": "Consumer",
+    "trade_date": "2026-09-17",
+    "settlement_date": "2026-09-21",
+    "rating_moodys": "A2",
+    "rating_sp": "A-",
+    "rating_fitch": null,
+    "bookrunners": [
+      "Barclays Capital Inc.",
+      "BofA Securities, Inc.",
+      "Citigroup Global Markets Inc.",
+      "J.P. Morgan Securities LLC",
+      "U.S. Bancorp Investments, Inc.",
+      "Scotia Capital (USA) Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 5.375,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-10-15",
+        "first_call_date": "2031-09-15",
+        "benchmark": "UST 4.375% due August 31, 2031",
+        "spread_bps": 60,
+        "yield_pct": 5.403,
+        "issue_price_pct": 99.872,
+        "seniority": "senior unsecured",
+        "pricing_quote": "T+60 bps"
+      }
+    ]
+  }
+}

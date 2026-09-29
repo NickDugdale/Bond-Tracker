@@ -1,0 +1,129 @@
+{
+  "week_start": "16 Sep 2026",
+  "week_end": "22 Sep 2026",
+  "week": {
+    "volume_usd_bn": 7.1,
+    "deals": 7,
+    "bonds": 11,
+    "ig_share_pct": 98,
+    "currencies": [
+      "USD"
+    ],
+    "hybrid_or_subordinated_deals": 1,
+    "sector_volume_usd_bn": {
+      "Financials": 4.5,
+      "Consumer": 1.5,
+      "Utilities": 0.7,
+      "Real Estate": 0.4
+    }
+  },
+  "senior_ig_spreads_by_tenor": {
+    "1-3y": {
+      "bonds_this_week": 1,
+      "median_this_week_bps": 45,
+      "bonds_prior": 15,
+      "median_prior_bps": 55,
+      "vs_prior": "too few bonds to compare"
+    },
+    "5y": {
+      "bonds_this_week": 4,
+      "median_this_week_bps": 62,
+      "bonds_prior": 11,
+      "median_prior_bps": 83,
+      "vs_prior": "tighter"
+    },
+    "10y": {
+      "bonds_this_week": 3,
+      "median_this_week_bps": 90,
+      "bonds_prior": 12,
+      "median_prior_bps": 106,
+      "vs_prior": "tighter"
+    },
+    "30y+": {
+      "bonds_this_week": 1,
+      "median_this_week_bps": 160,
+      "bonds_prior": 4,
+      "median_prior_bps": 102,
+      "vs_prior": "too few bonds to compare"
+    }
+  },
+  "prior_period": {
+    "from": "25 Aug 2026",
+    "weeks": 3,
+    "avg_weekly_volume_usd_bn": 25.2
+  },
+  "notable_deals": [
+    {
+      "issuer": "The Toronto-Dominion Bank",
+      "trade_date": "21 Sep",
+      "rating": "A",
+      "currency": "USD",
+      "size_usd_m": 3750,
+      "bonds": 4,
+      "tenors": "2y, 5y, 10y",
+      "spread_range": "+45 to +85",
+      "hybrid_or_sub": false,
+      "sector": "Financials"
+    },
+    {
+      "issuer": "DICK'S Sporting Goods",
+      "trade_date": "22 Sep",
+      "rating": "BBB",
+      "currency": "USD",
+      "size_usd_m": 1000,
+      "bonds": 2,
+      "tenors": "10y, 30y",
+      "spread_range": "+125 to +160",
+      "hybrid_or_sub": false,
+      "sector": "Consumer"
+    },
+    {
+      "issuer": "CenterPoint Energy Houston Electric",
+      "trade_date": "21 Sep",
+      "rating": "A",
+      "currency": "USD",
+      "size_usd_m": 700,
+      "bonds": 1,
+      "tenors": "5y",
+      "spread_range": "+58",
+      "hybrid_or_sub": false,
+      "sector": "Utilities"
+    },
+    {
+      "issuer": "Brookfield Finance",
+      "trade_date": "21 Sep",
+      "rating": "A-",
+      "currency": "USD",
+      "size_usd_m": 600,
+      "bonds": 1,
+      "tenors": "5y",
+      "spread_range": "+82",
+      "hybrid_or_sub": false,
+      "sector": "Financials"
+    },
+    {
+      "issuer": "Brown-Forman",
+      "trade_date": "17 Sep",
+      "rating": "A-",
+      "currency": "USD",
+      "size_usd_m": 500,
+      "bonds": 1,
+      "tenors": "5y",
+      "spread_range": "+60",
+      "hybrid_or_sub": false,
+      "sector": "Consumer"
+    },
+    {
+      "issuer": "Agree Limited Partnership",
+      "trade_date": "17 Sep",
+      "rating": "BBB+",
+      "currency": "USD",
+      "size_usd_m": 400,
+      "bonds": 1,
+      "tenors": "10y",
+      "spread_range": "+90",
+      "hybrid_or_sub": false,
+      "sector": "Real Estate"
+    }
+  ]
+}

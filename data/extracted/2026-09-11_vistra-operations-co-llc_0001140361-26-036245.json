@@ -1,0 +1,75 @@
+{
+  "source_file": "2026-09-11_vistra-operations-co-llc_0001140361-26-036245.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:46:25",
+  "usage": {
+    "input_tokens": 4807,
+    "output_tokens": 974
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Vistra Operations Company LLC",
+    "sector": "Energy",
+    "trade_date": "2026-09-10",
+    "settlement_date": "2026-09-24",
+    "rating_moodys": "Ba2",
+    "rating_sp": "BB",
+    "rating_fitch": "BB",
+    "bookrunners": [
+      "Barclays Capital Inc.",
+      "BofA Securities, Inc.",
+      "Mizuho Securities USA LLC",
+      "MUFG Securities Americas Inc.",
+      "Truist Securities, Inc.",
+      "BBVA Securities Inc.",
+      "BMO Capital Markets Corp.",
+      "Citigroup Global Markets Inc.",
+      "Credit Agricole Securities (USA) Inc.",
+      "Goldman Sachs & Co. LLC",
+      "J.P. Morgan Securities LLC",
+      "Morgan Stanley & Co. LLC",
+      "Natixis Securities Americas LLC",
+      "PNC Capital Markets LLC",
+      "RBC Capital Markets, LLC",
+      "Santander US Capital Markets LLC",
+      "Scotia Capital (USA) Inc.",
+      "SMBC Nikko Securities America, Inc.",
+      "SG Americas Securities, LLC",
+      "Wells Fargo Securities, LLC",
+      "KeyBanc Capital Markets Inc.",
+      "U.S. Bancorp Investments, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 850000000,
+        "coupon_pct": 7.0,
+        "coupon_type": "fixed-to-floating",
+        "maturity_date": "2057-03-15",
+        "first_call_date": "2032-03-15",
+        "benchmark": "Five-year U.S. Treasury Rate",
+        "spread_bps": 225.3,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": "junior subordinated",
+        "pricing_quote": "From and including the original issuance date to, but excluding, March 15, 2032 (the First Series A Reset Date) at the rate of 7.000% per year. From and including the First Series A Reset Date, during each Reset Period, at a rate per year equal to the Five-year U.S. Treasury Rate as of the most recent Reset Interest Determination Date plus a spread of 2.253%"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 650000000,
+        "coupon_pct": 7.25,
+        "coupon_type": "fixed-to-floating",
+        "maturity_date": "2057-03-15",
+        "first_call_date": "2037-03-15",
+        "benchmark": "Five-year U.S. Treasury Rate",
+        "spread_bps": 229.6,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": "junior subordinated",
+        "pricing_quote": "From and including the original issuance date to, but excluding, March 15, 2037 (the First Series B Reset Date) at the rate of 7.250% per year. From and including the First Series B Reset Date, during each Reset Period, at a rate per year equal to the Five-year U.S. Treasury Rate as of the most recent Reset Interest Determination Date plus a spread of 2.296%"
+      }
+    ]
+  }
+}

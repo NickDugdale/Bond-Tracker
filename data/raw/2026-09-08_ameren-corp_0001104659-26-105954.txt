@@ -1,0 +1,54 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1002910/000110465926105954/tm2624861d3_fwp.htm
+ISSUER (SEC filer): AMEREN CORP
+FILED: 2026-09-08
+========================================
+FWP
+1
+tm2624861d3_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Registration Statement No. 333-297949
+Ameren Corporation
+Pricing Term Sheet
+September 8, 2026
+Issue: | Junior Subordinated Notes due 2057 (the “Junior Subordinated Notes”)
+Principal Amount: | $ 900,000,000
+Interest Rate: | (i) from and including the date of original issuance to but excluding March 15, 2032 at an annual rate of 6.450% and (ii) from and including March 15, 2032 during each Interest Reset Period at an annual rate equal to the Five-Year Treasury Rate as of the most recent Reset Interest Determination Date, plus 1.868%; provided, that the interest rate borne by the Junior Subordinated Notes during any Interest Reset Period will not reset below 6.450% (which is the initial interest rate on the Junior Subordinated Notes)
+Maturity Date: | March 15, 2057
+Offering Price (Issue Price): | 100.000 % of the principal amount
+Interest Payment Dates: | Semi-annually on March 15 and September 15 of each year, commencing March 15, 2027
+Optional Deferral: | Maximum of 10 consecutive years per deferral
+Optional Redemption: | In whole or in part (i) on any day in the period commencing on the date falling 90 days prior to the First Interest Reset Date and ending on and including the First Interest Reset Date and (ii) after the First Interest Reset Date, on any interest payment date, at 100% of the principal amount of the Junior Subordinated Notes being redeemed plus accrued and unpaid interest
+Right to Redeem for Tax Deductibility Event: | If a Tax Deductibility Event occurs, in whole but not in part at 100% of the principal amount of the Junior Subordinated Notes being redeemed plus accrued and unpaid interest
+Right to Redeem for Rating Agency Event: | If a Rating Agency Event occurs, in whole but not in part at 102% of the principal amount of the Junior Subordinated Notes being redeemed plus accrued and unpaid interest
+Right to Redeem for Tax Credit Event: | If a Tax Credit Event occurs, in whole but not in part at 101% of the principal amount of the Junior Subordinated Notes being redeemed plus accrued and unpaid interest (provided, that the related notice of redemption must be sent by the later of (a) December 31, 2026 and (b) six months from the date of issuance of the Junior Subordinated Notes )
+Expected Ratings (Moody’s/S&P)*: | Baa2 (Stable) / BBB- (Stable)
+Trade Date: | September 8, 2026
+Settlement Date: | September 18, 2026 (T+8 )**
+CUSIP / ISIN: | 023608 AT9 / US023608AT96
+Joint Book-Running Managers: | Barclays Capital Inc. BofA Securities, Inc. J.P. Morgan Securities LLC Morgan Stanley & Co. LLC MUFG Securities Americas Inc. Truist Securities, Inc. PNC Capital Markets LLC Scotia Capital (USA) Inc.
+The terms “First Interest Reset Date,” “Five-Year
+Treasury Rate,” “Interest Reset Period,” “Rating Agency Event,” “Reset Interest Determination Date,”
+“Tax Credit Event” and “Tax Deductibility Event” have the respective meanings ascribed to those terms in the Issuer’s
+Preliminary Prospectus Supplement, dated September 8, 2026.
+*A security rating is not a recommendation to buy, sell or hold securities
+and should be evaluated independently of any other rating. The rating is subject to revision or withdrawal at any time by the assigning
+rating organization.
+**It
+is expected that delivery of the Junior Subordinated Notes will be made against payment therefor on or about the Settlement Date specified
+above. Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required
+to settle in one business day, unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade the
+Junior Subordinated Notes more than one business day prior to the scheduled settlement date will be required, by virtue of the fact that
+the Junior Subordinated Notes initially are expected to settle in T+8
+, to specify an alternative settlement arrangement at the
+time of any such trade to prevent a failed settlement.
+The
+Issuer has filed a registration statement (including a prospectus) with the SEC for the offering to which this communication relates.
+Before you invest, you should read the prospectus in that registration statement and other documents the Issuer has filed with the SEC
+for more complete information about the Issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC’s
+website at www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating in the offering will arrange to send you
+the prospectus if you request it by calling (i) Barclays Capital Inc. toll-free at 1-888-603-5847, (ii) BofA Securities, Inc. toll-free
+at 1-800-294-1322 or by email at dg.prospectus_requests@bofa.com
+, (iii) J.P. Morgan Securities LLC collect at 1-212-834-4533,
+(iv) Morgan Stanley & Co. LLC toll-free at 1-866-718-1649, (v) MUFG Securities Americas Inc. toll-free at 1-877-649-6848 or (vi) Truist
+Securities, Inc. toll-free at 1-800-685-4786.

@@ -1,0 +1,259 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/842180/000110465926100878/tm2621607d3_fwp.htm
+ISSUER (SEC filer): BANCO BILBAO VIZCAYA ARGENTARIA, S.A.
+FILED: 2026-08-25
+========================================
+FWP
+1
+tm2621607d3_fwp.htm
+FWP
+Free Writing Prospectus dated August 25, 2026
+(to Prospectus dated July 31, 2025 and
+Preliminary Prospectus Supplement dated August 25, 2026)
+Filed pursuant to Rule 433
+Registration Statement No. 333-289121
+PRICING TERM SHEET
+U.S. $1,000,000,000 4.977%
+Senior
+Non-Preferred Fixed Rate Notes
+DUE 2029
+(the “2029 Fixed Rate Notes”)
+U.S. $1,000,000,000 5.244%
+Senior
+Non-Preferred Fixed Rate
+NOTES DUE 2031
+(the “2031 Fixed Rate Notes”)
+U.S. $300,000,000
+Senior
+Non-Preferred Floating Rate Notes due 2029
+(the “2029 Floating Rate Notes”)
+This Free Writing Prospectus relates only to the 2029 Fixed Rate
+Notes, the 2031 Fixed Rate Notes and the 2029 Floating Rate Notes (collectively, the “Notes”) described below and should only
+be read together with the preliminary prospectus supplement dated August 25, 2026 (the “Preliminary Prospectus Supplement”)
+and the accompanying prospectus dated July 31, 2025 relating to these Notes (the “Prospectus”). Terms and expressions used
+but not defined herein shall have the same meanings as defined in the Preliminary Prospectus Supplement or Prospectus, as applicable.
+2029 Fixed Rate Notes and 2031 Fixed Rate
+Notes
+Issuer: | Banco Bilbao Vizcaya Argentaria, S.A.
+Expected Issue Ratings: * | Baa1 Moody’s / A- S&P / A- Fitch
+Issuer Ratings: * | A2 Moody’s / A+ S&P / A Fitch
+Instrument: | Senior Non-Preferred
+Principal Amount: | U.S. $1,000,000,000 (the 2029 Fixed Rate Notes) U.S. $1,000,000,000 (the 2031 Fixed Rate Notes)
+Form of Issuance: | SEC Registered
+Pricing Date: | August 25, 2026
+Issue Date / Settlement Date: ** | September 3, 2026 (T+7)
+Stated Maturity Date: | September 3, 2029 (the 2029 Fixed Rate Notes) September 3, 2031 (the 2031 Fixed Rate Notes)
+CUSIP / ISIN: | 05946K AY7 / US05946KAY73 (the 2029 Fixed Rate Notes) 05946K AZ4 / US05946KAZ49 (the 2031 Fixed Rate Notes)
+Benchmark Treasury: | 4.250% due August 15, 2029 (the 2029 Fixed Rate Notes) 4.375% due July 31, 2031 (the 2031 Fixed Rate Notes)
+Benchmark Treasury Yield: | 4.247% (the 2029 Fixed Rate Notes) 4.344% (the 2031 Fixed Rate Notes)
+Spread to Benchmark Treasury: | UST+ 73 bps (the 2029 Fixed Rate Notes) UST+ 90 bps (the 2031 Fixed Rate Notes)
+Re-offer Yield: | 4.977% (the 2029 Fixed Rate Notes) 5.244% (the 2031 Fixed Rate Notes)
+Coupon: | Subject to any redemption prior to the relevant Maturity Date, the 2029 Fixed Rate Notes will bear interest from (and including) the Issue Date to (but excluding) the relevant Maturity Date at a fixed rate of 4.977% per annum. Subject to any redemption prior to the relevant Maturity Date, the 2031 Fixed Rate Notes will bear interest from (and including) the Issue Date to (but excluding) the relevant Maturity Date at a fixed rate of 5.244% per annum.
+Interest Payment Dates: | Semi-annually in arrears on March 3 and September 3 of each year, commencing on March 3, 2027 up to (and including) the stated maturity date or any date of earlier redemption of the relevant series of Notes.
+Price to Public: | 100.000% of the principal amount (the 2029 Fixed Rate Notes) 100.000% of the principal amount (the 2031 Fixed Rate Notes)
+Underwriting Discount: | 0.200% (the 2029 Fixed Rate Notes) 0.300% (the 2031 Fixed Rate Notes)
+Aggregate Proceeds to Issuer (Before Expenses): | U.S. $1,995,000,000 (the 2029 Fixed Rate Notes and the 2031 Fixed Rate Notes)
+Day Count Fraction / Business Day Convention: | 30/360 (following business day, unadjusted)
+Business Days: | New York City, London and Madrid
+Minimum Denominations / Multiples: | Minimum denominations of U.S.$200,000 and multiples of U.S.$200,000 in excess thereof
+Expected Listing: | New York Stock Exchange
+Trustee, Paying Agent, Transfer Agent and Security Registrar: | The Bank of New York Mellon, acting through its London Branch (except with respect to its role as Security Registrar)
+Redemption Provisions: | Tax call: All or part at 100% of principal and accrued but unpaid interest for the relevant series of Notes Eligible Liabilities Event call: All (but not less than all) at 100% of principal and accrued but unpaid interest for the relevant series of Notes Clean-up call: In whole but not in part at 100% of principal and accrued but unpaid interest if Notes of a series representing, in the aggregate, 75% or more of the aggregate principal amount of such series of Notes (including, both in the numerator and the denominator, (i) any Notes of such series issued after the Issue Date and (ii) any Notes of such series which have been cancelled by the Trustee following their surrender for cancellation in accordance with the relevant indenture) have been purchased by or on behalf of the Issuer or any member of the Group. Any such redemption shall be in compliance with Applicable Banking Regulations, then in force, and subject to the prior consent of the Regulator if required pursuant to such regulations.
+2
+2029 Floating Rate Notes
+Issuer: | Banco Bilbao Vizcaya Argentaria, S.A.
+Expected Issue Ratings: * | Baa1 Moody’s / A- S&P / A- Fitch
+Issuer Ratings: * | A2 Moody’s / A+ S&P / A Fitch
+Instrument: | Senior Non-Preferred
+Principal Amount: | U.S. $300,000,000 (the 2029 Floating Rate Notes)
+Form of Issuance: | SEC Registered
+Pricing Date: | August 25, 2026
+Issue Date / Settlement Date: ** | September 3, 2026 (T+7)
+Stated Maturity Date: | September 3, 2029
+CUSIP / ISIN: | 05946K BA8 / US05946KBA88
+Coupon: | Subject to any redemption prior to the relevant Maturity Date, the 2029 Floating Rate Notes will bear interest from (and including) the Issue Date to (but excluding) the relevant Maturity Date at a rate per annum equal to the Compounded SOFR plus a margin of 89 basis points, subject to a minimum interest rate of 0.000%.
+Compounded SOFR: | “Compounded SOFR” is a compounded average of daily SOFR determined for each quarterly Interest Period in accordance with the specific formula set forth under “ Certain Terms of the Notes—Payment of Interest—2029 Floating Rate Notes ” in the Preliminary Prospectus Supplement.
+Observation Period: | In respect of each Interest Period, the period from, and including,
+the date five (5) U.S. Government Securities Business Days (as defined below) preceding the first date in such Interest Period to, but
+excluding, the date five (5) U.S. Government Securities Business Days preceding the 2029 Floating Rate Notes Interest Payment Date for
+such Interest Period. “U.S. Government Securities Business Day” means any day except for a Saturday, Sunday or a day on which the Securities Industry
+and Financial Markets Association (SIFMA) recommends that the fixed income departments of its members be closed for the entire day for
+purposes of trading in U.S. government securities.
+3
+Interest
+Payment Dates and Interest Period: | Quarterly in arrears on March 3, June 3, September 3 and December 3
+of each year, commencing on December 3, 2026 up to (and including) the stated maturity date or any date of earlier redemption of the 2029
+Floating Rate Notes. Each interest period will begin on (and include) an interest payment date (or, in the case of the first interest
+period, the Issue Date) and end on (but exclude) the following interest payment date (or, in the case of the final interest period, the
+relevant Maturity Date).
+Price
+to Public: | 100.000%
+of the principal amount
+Underwriting
+Discount: | 0.200%
+Aggregate
+Proceeds to Issuer (Before Expenses): | U.S. $299,400,000 (the 2029 Floating Rate Notes)
+Day
+Count Fraction / Business Day Convention: | Actual/360
+(modified following business day, adjusted)
+Business
+Days: | New
+York City, London and Madrid
+Minimum
+Denominations / Multiples: | Minimum
+denominations of U.S.$200,000 and multiples of U.S.$200,000 in excess thereof
+Expected
+Listing: | New
+York Stock Exchange
+Trustee,
+Paying Agent, Transfer Agent, Calculation Agent and Security Registrar: | The
+Bank of New York Mellon, acting through its London Branch (except with respect to its role as Security Registrar)
+Redemption
+Provisions: | Tax
+call: All or part at 100% of principal and accrued but unpaid interest for the 2029 Floating Rate Notes Eligible Liabilities Event call: All (but not less than all) at 100% of principal and accrued but unpaid interest for the 2029 Floating
+Rate Notes Clean-up call: In whole but not in part at 100% of principal and accrued but unpaid interest if the 2029 Floating Rate Notes representing,
+in the aggregate, 75% or more of the aggregate principal amount of such 2029 Floating Rate Notes (including, both in the numerator and
+the denominator, (i) any Notes of such series issued after the Issue Date and (ii) any Notes of such series which have been cancelled
+by the Trustee following their surrender for cancellation in accordance with the relevant indenture) have been purchased by or on behalf
+of the Issuer or any member of the Group. Any such redemption shall be in compliance with Applicable Banking Regulations, then in force,
+and subject to the prior consent of the Regulator if required pursuant to such regulations.
+4
+The Notes
+Purchases
+of the Notes: | The
+Issuer or any member of the Group or any other legal entity acting on behalf of the Issuer may purchase or otherwise acquire any
+of the outstanding Notes of a series at any price in the open market or otherwise, subject to such purchase being in compliance with
+Applicable Banking Regulations then in force, and subject to the prior consent of the Regulator if required pursuant to such regulations. Upon
+their acquisition, such Notes may be held, resold or, at the option of the Issuer, surrendered to the Trustee for cancellation (subject
+to such holding, resale or cancellation being in compliance with Applicable Banking Regulations). Any such purchased Notes
+will cease to be deemed “outstanding” under the relevant indenture (i) for so long as such purchased Notes are held
+by the Issuer or any member of the Group or any other legal entity acting on behalf of the Issuer or (ii) if such purchased
+Notes have been surrendered to the Trustee for cancellation.
+Governing
+Law: | New
+York law, except that the authorization and execution by the Issuer of the relevant indenture and the authorization, issuance and
+execution by the Issuer of the Notes of each series shall be governed by and construed in accordance with the common laws ( derecho
+común ) of Spain. In addition, certain provisions related to the status and ranking of the Notes of each series, the waiver
+of the right of set-off and the agreement by holders with respect to the exercise and effects of the Spanish Bail-in Power shall
+be governed by and construed in accordance with the common laws ( derecho común ) of Spain. See “ Certain
+Terms of the Notes—Governing Law ” in the Preliminary Prospectus Supplement.
+Submission
+to Jurisdiction: | The
+Issuer irrevocably submits to the non-exclusive jurisdiction of any U.S. federal or state court in the Borough of Manhattan, the
+City of New York, New York, in any suit or proceeding arising out of or relating to the relevant Indenture or the Notes and irrevocably
+waives, to the extent it may effectively do so, any objection which it may have now or hereafter to the laying of the venue of any
+such suit or proceeding, except that the Spanish courts in the city of Madrid have exclusive jurisdiction in respect of a Bail-in
+Dispute. See “ Certain Terms of the Notes—Submission to Jurisdiction ” in the Preliminary Prospectus
+Supplement.
+U.S.
+Federal Tax Considerations: | See
+the section of the Prospectus entitled “ U.S. Federal Tax Considerations ” for a discussion of the material U.S.
+federal income tax consequences of the ownership and disposition of the Notes to the U.S. holders described therein.
+Spanish
+Tax Considerations: | Exemption from Spanish withholding tax
+applies subject to compliance with certain Spanish tax requirements, including the timely provision by the Paying Agent of a duly
+executed and completed payment statement (the “Payment Statement”). If the Paying Agent fails to deliver a duly executed and completed Payment Statement on a timely basis, in respect of an Interest
+Payment Date or in connection with a redemption of the Notes of a series, then the related Payment Amount (as defined in the Preliminary
+Prospectus Supplement) will be subject to Spanish withholding tax, currently at the rate of 19%. If this occurs, the Issuer will
+not pay Additional Amounts and owners of a beneficial interest in such Notes would have to follow the Direct Refund from Spanish
+Tax Authorities Procedures set forth in the Preliminary Prospectus Supplement in order to apply directly to the Spanish tax authorities
+for any refund to which they may be entitled. See “Certain Terms of the Notes—Maintenance of Tax Procedures”
+and “Spanish Tax Considerations” in the Preliminary Prospectus Supplement.
+5
+Substitution
+and Modification and Agreement with Respect Thereto: | If
+an Eligible Liabilities Event or a Tax Event occurs with respect to the Notes of a series, including as a result of any change in
+law or regulation or the application or official interpretation thereof, the Issuer may, under certain circumstances and without
+any requirement for the consent or approval of the Trustee or the holders or beneficial owners of such Notes, substitute all (but
+not less than all) of such Notes or modify the terms of all (but not less than all) of such Notes, so that such Notes are substituted
+for, or their terms are modified to become again, or remain, Qualifying Securities (as defined in the Preliminary Prospectus Supplement). By its acquisition of any Notes or any beneficial interest therein, each holder and beneficial owner of such Note (i) acknowledges,
+accepts, consents to and agrees to be bound by any substitution of or modification to the terms of the Notes as set forth above and
+to grant to the Issuer and the Trustee full power and authority to take any action and/or to execute and deliver any document in
+the name and/or on behalf of such holder or beneficial owner, as the case may be, which is necessary or convenient to complete the
+substitution of or modification to the terms of the Notes, as applicable; and (ii) to the extent permitted by the Trust Indenture
+Act, waives any and all claims, in law and/or in equity, against the Trustee and/or the Issuer for, agrees not to initiate a suit
+against the Trustee and/or the Issuer in respect of, and agrees that neither the Trustee nor the Issuer shall be liable for, any
+action that the Trustee or the Issuer takes, or abstains from taking, in either case in connection with the substitution of or modification
+to the terms of the Notes upon the occurrence of an Eligible Liabilities Event or a Tax Event. See “ Certain Terms of the Notes—Substitution and Modification ” in the Preliminary Prospectus Supplement.
+Agreement
+and Acknowledgment with Respect to Exercise of Spanish Bail-In Power: | By its acquisition of any Notes or any
+beneficial interest therein, each holder (including, for these purposes, each holder of a beneficial interest in the Notes) acknowledges,
+accepts, consents to and agrees to be bound by: (i) the exercise and effects of the Spanish Bail-in Power by the Relevant Spanish
+Resolution Authority, which may be imposed with or without any prior notice with respect to the Notes of any series, and may include
+and result in any of the following, or some combination thereof: (a) the reduction or cancellation of all, or a portion, of
+the Amounts Due on such Notes; (b) the conversion of all, or a portion, of the Amounts Due on such Notes into shares, other
+securities or other obligations of the Issuer or another person (and the issue to or conferral on the holder of any such shares,
+securities or obligations), including by means of an amendment, modification or variation of the terms of such Notes; (c) the
+cancellation of such Notes; (d) the amendment or alteration of the maturity of such Notes or amendment of the amount of interest
+payable on such Notes, or the date on which the interest becomes payable, including by suspending payment for a temporary period;
+and (ii) the variation of the terms of the Notes of any series, or the rights of the holders thereunder or under the relevant
+Indenture, as deemed necessary by the Relevant Spanish Resolution Authority, to give effect to the exercise of the Spanish Bail-in
+Power by the Relevant Spanish Resolution Authority. In addition, no repayment or payment of Amounts Due on the Notes will become due and payable or be paid after the exercise of the
+Spanish Bail-in Power by the Relevant Spanish Resolution Authority if, and to the extent that such amounts have been reduced, converted,
+cancelled, amended or altered as a result of such exercise. See “ Certain Terms of the Notes—Agreement and Acknowledgment with Respect to the Exercise of the Spanish Bail-in Power ”
+in the Preliminary Prospectus Supplement.
+6
+Status
+and Ranking: | The
+payment obligations of the Issuer under the Notes of each series on account of principal shall be direct, unconditional, unsubordinated
+and unsecured obligations of the Issuer and, upon the insolvency ( concurso de acreedores ) of the Issuer, in accordance with
+and only to the extent permitted by the Insolvency Law and any other applicable laws relating to or affecting the enforcement of
+creditors’ rights in Spain (including, without limitation, Additional Provision 14 of Law 11/2015), but subject to any other
+ranking that may apply as a result of any mandatory provision of law (or otherwise), the payment obligations of the Issuer under
+the Notes with respect to claims for principal (which claims will constitute ordinary claims) will rank: (i) junior to any (a) privileged
+claims ( créditos privilegiados ) (which shall include, among other claims, any claims in respect of deposits for the
+purposes of Additional Provision 14.1 of Law 11/2015), (b) claims against the insolvency estate ( créditos contra la
+masa ), and (c) Senior Preferred Obligations; (ii) pari passu without any preference or priority among themselves
+and with all other Senior Non-Preferred Obligations; and (iii) senior to all subordinated obligations of, or claims against,
+the Issuer ( créditos subordinados ), present and future, such that any relevant claim on account of principal in respect
+of the Notes will be satisfied, as appropriate, only to the extent that all claims ranking senior to it have first been satisfied
+in full, and then pro rata with any claims ranking pari passu with it, in each case as provided herein. Moreover, the Issuer’s obligations under the Notes of each series are subject to, and may be limited by, the exercise of the
+Spanish Bail-in Power by the Relevant Spanish Resolution Authority. See “ Certain Terms of the Notes—Status and Ranking of the Notes ” in the Preliminary Prospectus Supplement.
+Event
+of Default: | Except
+as set forth under “ Certain Terms of the Notes—Event of Default ” in the Preliminary Prospectus Supplement,
+“Event of Default”, wherever used with respect to the Notes of a series, means (whatever the reason for such Event of
+Default and whether it shall be voluntary or be effected by operation of law or pursuant to any judgment, decree or order of any
+court or any order, rule or regulation of any administrative or governmental body) that an order shall have been made by any
+competent court commencing insolvency proceedings ( procedimiento concursal ) against the Issuer or an order of any competent
+court or administrative agency shall have been made or a resolution shall have been passed by the Issuer for the dissolution or winding
+up of the Issuer. There is no other Event of Default under the Notes.
+7
+Use
+of Proceeds: | General
+corporate purposes
+Target
+Market / PRIIPs / CCI / Retail Restriction: | MiFID
+II - professionals / ECPs-only / No EEA PRIIPs KID or UK CCI product summary – Manufacturer target market (MiFID II product
+governance) is eligible counterparties and professional clients only (all distribution channels). No EEA PRIIPs key information
+document (KID) or product summary under the United Kingdom’s Financial Conduct Authority’s Product Disclosure Sourcebook
+has been prepared as not available to retail investors in the EEA or in the United Kingdom. No sales to retail clients (as defined
+in MiFID II and the United Kingdom Financial Conduct Authority’s Conduct of Business Sourcebook (COBS) 3.4) in the EEA or in
+the United Kingdom. The Notes are incompatible with the knowledge, experience, needs, characteristics and objectives of clients which
+are retail clients.
+Joint
+Bookrunners: | BBVA Securities Inc.*** BMO Capital Markets Corp. Citigroup Global Markets Inc. RBC Capital Markets, LLC SG Americas Securities, LLC Wells Fargo Securities, LLC
+Co-Managers: | Bankinter,
+S.A. Nykredit Bank A/S Rabo Securities USA, Inc. Unicaja Banco, S.A.
+* Any ratings obtained will reflect only the
+views of the respective rating agency and should not be considered a recommendation to buy, sell or hold the Notes of any series. The
+ratings assigned by the rating agencies are subject to revision or withdrawal at any time by such rating agencies in their sole discretion.
+Each rating should be evaluated independently of any other rating.
+** Pursuant to Rule 15c6-1 under the Exchange
+Act, trades in the secondary market are generally required to settle in one business day, unless the parties to any such trade expressly
+agree otherwise. Accordingly, purchasers who wish to trade the Notes of any series prior to the business day prior to the delivery of
+the Notes will be required to specify alternative settlement arrangements to prevent a failed settlement. Such purchasers should consult
+their own advisors.
+*** BBVA Securities Inc., which is participating
+in this offering as a Joint Bookrunner, is an indirect wholly-owned subsidiary of BBVA. The offering is being conducted pursuant to FINRA
+Rule 5121. See “Underwriting (Conflicts of Interest)” in the Preliminary Prospectus Supplement.
+The Issuer has filed a registration statement
+(including the Prospectus) with the U.S. Securities and Exchange Commission (SEC) for this offering. Before you invest, you should read
+the Preliminary Prospectus Supplement and the Prospectus in that registration statement, and other documents the Issuer has filed with
+the SEC for more complete information about the Issuer and this offering. You may get these documents for free by searching the SEC online
+database (EDGAR®) at www.sec.gov. Alternatively, you may obtain a copy of the Prospectus and Preliminary Prospectus Supplement from
+BBVA Securities Inc. by calling toll-free +1-800-422-8692, BMO Capital Markets Corp. by calling toll-free +1-888-200-0266, Citigroup
+Global Markets Inc. by calling toll-free +1-800-831-9146, RBC Capital Markets, LLC by calling toll-free +1-866-375-6829, SG Americas
+Securities, LLC by calling +1-855-881-2108 and Wells Fargo Securities, LLC by calling toll-free +1-800-645-3751.
+This pricing term sheet is not a prospectus for
+the purposes of Regulation (EU) 2017/1129, as amended.
+8

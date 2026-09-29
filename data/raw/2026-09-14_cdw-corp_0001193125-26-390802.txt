@@ -1,0 +1,113 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1402057/000119312526390802/d108370dfwp.htm
+ISSUER (SEC filer): CDW Corp
+FILED: 2026-09-14
+========================================
+FWP
+1
+d108370dfwp.htm
+FWP
+FWP
+Issuer Free Writing Prospectus filed pursuant to Rule 433
+supplementing the Preliminary Prospectus Supplement, dated
+September 14, 2026, and the Prospectus, dated February 23, 2026
+Registration
+Nos. 333-293652,
+333-293652-01,
+and
+333-293652-02
+Pricing Term Sheet
+CDW
+LLC
+CDW FINANCE CORPORATION
+$600,000,000 5.700% Senior Notes due 2029 (the “2029 Notes”)
+$500,000,000 6.100% Senior Notes due 2032 (the “2032 Notes”)
+$400,000,000 6.350% Senior Notes due 2033 (the “2033 Notes”)
+(collectively, the “Notes”)
+Pricing Supplement, dated September 14, 2026, to the Preliminary Prospectus Supplement, dated September 14, 2026 (the “
+Preliminary
+Prospectus Supplement
+”), and the related Base Prospectus, dated February 23, 2026 (the “
+Base Prospectus
+”), of CDW LLC (“
+CDW
+”) and CDW Finance Corporation (“
+Finance Co
+” and,
+together with CDW, the “
+Issuers
+”). This supplement (this “
+Pricing Supplement
+”) is qualified in its entirety by reference to the Preliminary Prospectus Supplement and the Base Prospectus. The information in this
+Pricing Supplement supplements the Preliminary Prospectus Supplement and the Base Prospectus, and supersedes the information in the Preliminary Prospectus Supplement and the Base Prospectus to the extent inconsistent with the information in the
+Preliminary Prospectus Supplement and the Base Prospectus. Terms used herein and not defined herein have the meanings assigned to such terms in the Preliminary Prospectus Supplement and the Base Prospectus.
+5.700% 2029 Notes | 6.100% 2032 Notes | 6.350% 2033 Notes
+Issuers: | CDW and Finance Co | CDW and Finance Co | CDW and Finance Co
+Expected Ratings (Moody’s / S&P / Fitch)*: | Baa3 (Stable) / BBB– (Stable) / BBB– (Stable) | Baa3 (Stable) / BBB– (Stable) / BBB– (Stable) | Baa3 (Stable) / BBB– (Stable) / BBB– (Stable)
+Title of Securities: | 5.700% Senior Notes due 2029 | 6.100% Senior Notes due 2032 | 6.350% Senior Notes due 2033
+Aggregate Principal Amount: | $600,000,000 | $500,000,000 | $400,000,000
+Gross Proceeds to Issuers: | $599,448,000 | $500,000,000 | $399,220,000
+Final Maturity Date: | September 21, 2029 | January 15, 2032 | September 21, 2033
+Issue Price: | 99.908% of the principal amount plus accrued interest, if any, from September 21, 2026 | 100.000% of the principal amount plus accrued interest, if any, from September 21, 2026 | 99.805% of the principal amount plus accrued interest, if any, from September 21, 2026
+Yield to Maturity: | 5.734% | 6.102% | 6.385%
+Coupon: | 5.700% | 6.100% | 6.350%
+Spread to Benchmark Treasury: | 100 basis points | 130 basis points | 150 basis points
+1
+Benchmark Treasury: | UST 4.375% due September 15, 2029 | UST 4.375% due August 31, 2031 | UST 4.500% due August 31, 2033
+Benchmark Treasury Price: | 99-00 1 ⁄ 4 | 98-04 1 ⁄ 4 | 97-24
+Benchmark Treasury Yield: | 4.734% | 4.802% | 4.885%
+Gross Spread: | 0.450% of the principal amount of the 2029 Notes | 0.600% of the principal amount of the 2032 Notes | 0.625% of the principal amount of the 2033 Notes
+Interest Payment Dates: | March 21 and September 21 | January 15 and July 15 | March 21 and September 21
+Record Dates: | March 6 and September 6 | January 1 and July 1 | March 6 and September 6
+First Interest Payment Date: | March 21, 2027 | January 15, 2027 | March 21, 2027
+Optional Redemption: | Make-whole call at T+15 basis points. Par call on or after August 21, 2029 (the date that is one (1) month prior to maturity). | Make-whole call at T+20 basis points. Par call on or after December 15, 2031 (the date that is one (1) month prior to maturity). | Make-whole call at T+25 basis points. Par call on or after July 21, 2033 (the date that is two (2) months prior to maturity).
+Change of Control Repurchase Event: | 101% of principal amount plus accrued and unpaid interest to, but not including, the repurchase date. | 101% of principal amount plus accrued and unpaid interest to, but not including, the repurchase date. | 101% of principal amount plus accrued and unpaid interest to, but not including, the repurchase date.
+CUSIP/ISIN Numbers: | CUSIP: 12513G BM0 ISIN: US12513GBM06 | CUSIP: 12513G BN8 ISIN: US12513GBN88 | CUSIP: 12513G BP3 ISIN:
+US12513GBP37
+Joint Bookrunning Managers: | BofA Securities, Inc. J.P. Morgan Securities
+LLC Mizuho Securities USA LLC Wells Fargo Securities, LLC BNP Paribas Securities Corp. Capital One Securities, Inc. Goldman Sachs & Co. LLC Morgan Stanley & Co.
+LLC MUFG Securities Americas Inc. Scotia Capital (USA)
+Inc. U.S. Bancorp Investments, Inc.
+Co-Managers: | Barclays Capital Inc. BMO Capital Markets
+Corp. Huntington Securities, Inc. ICBC Standard Bank Plc PNC Capital Markets LLC Siebert Williams Shank & Co.,
+LLC Truist Securities, Inc.
+2
+Trade Date: | September 14, 2026
+Settlement Date: | September 21, 2026 (T+5)
+Guarantor: | CDW Corporation
+Denominations: | $2,000 and integral multiples of $1,000 in excess of $2,000
+Distribution: | SEC Registered
+Trustee: | U.S. Bank Trust Company, National Association
+* | Note: A securities rating is not a recommendation to buy, sell, or hold securities and may be subject to
+revision or withdrawal at any time. Each of the ratings above should be evaluated independently of any other security rating.
+This information does not purport to be a complete description of these securities or the offering. Please refer to the Preliminary Prospectus Supplement
+and the Base Prospectus for a complete description.
+This communication does not constitute an offer to sell or the solicitation of an offer to buy
+any securities in any jurisdiction to any person to whom it is unlawful to make such offer or solicitation in such jurisdiction.
+It is expected that
+delivery of the Notes will be made against payment therefor on or about September 21, 2026, which will be the fifth business day following the date hereof (such settlement cycle being herein referred to as “T+5”). Under Rule
+15c6-1
+under the Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise.
+Accordingly, purchasers who wish to trade the Notes prior to the date that is one business day preceding the settlement date will be required, by virtue of the fact that the Notes initially will settle T+5, to specify an alternate settlement cycle
+at the time of any such trade to prevent a failed settlement. Purchasers of Notes who wish to trade the Notes prior to the date that is one business day preceding the settlement date should consult their own advisor.
+The Issuers have filed a registration statement (Registration
+No. 333-293652)
+(including the Preliminary
+Prospectus Supplement and the Base Prospectus) with the Securities and Exchange Commission (“SEC”) for the offering to which this communication relates. Before you invest, you should read the Preliminary Prospectus Supplement and the
+Base Prospectus in that registration statement and other documents the Issuers have filed with the SEC, including those incorporated by reference into the Preliminary Prospectus Supplement and the Base Prospectus, for more complete information about
+the Issuers and this offering. You may get these documents for free by visiting EDGAR on the SEC website at
+www.sec.gov
+. Alternatively, the Issuers or the underwriters will arrange to send you the Preliminary Prospectus Supplement and the
+Base Prospectus if you request it by contacting (i) BofA Securities, Inc. by telephone at
+1-800-294-1322,
+(ii) J.P. Morgan
+Securities LLC, c/o Broadridge Financial Solutions, Attn: Prospectus Department, 1155 Long Island Avenue, Edgewood, NY 11717, or by telephone:
+1-212-834-4533,
+(iii) Mizuho Securities USA LLC, Attn: Debt Capital Markets, 1271 Avenue of the Americas, New York, NY 10020, by
+email BA_DCM_Notices@mizuhogroup.com, or by telephone:
+1-866-271-7403,
+or (iv) Wells Fargo Securities, LLC, Attn: WFS
+Customer Service, 608 2nd Avenue South, Suite 1000, Minneapolis, MN 55402, or by telephone:
+1-800-645-3751.
+Any disclaimers or other notices that may appear below are not applicable to this communication and should be disregarded. Such disclaimers and other notices
+were automatically generated as a result of this communication being sent via Bloomberg or another email system.
+3

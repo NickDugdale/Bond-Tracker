@@ -1,0 +1,45 @@
+{
+  "source_file": "2026-09-08_bank-of-montreal-can_0001193125-26-385387.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-09-23T15:44:00",
+  "usage": {
+    "input_tokens": 11742,
+    "output_tokens": 570
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Bank of Montreal",
+    "sector": "Financials",
+    "trade_date": "2026-09-08",
+    "settlement_date": "2026-09-16",
+    "rating_moodys": "Baa3",
+    "rating_sp": "BBB-",
+    "rating_fitch": null,
+    "bookrunners": [
+      "BMO Capital Markets Corp.",
+      "Barclays Capital Inc.",
+      "Citigroup Global Markets Inc.",
+      "Goldman Sachs & Co. LLC",
+      "Morgan Stanley & Co. LLC",
+      "UBS Securities LLC"
+    ],
+    "use_of_proceeds": "Net proceeds will be contributed to the general funds of the Bank and utilized for general banking purposes, which may include redemption of outstanding capital securities and/or repayment of other outstanding liabilities, and are expected to qualify as Additional Tier 1 capital.",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 1000000000,
+        "coupon_pct": 7.375,
+        "coupon_type": "fixed-to-floating",
+        "maturity_date": "2086-11-26",
+        "first_call_date": "2036-11-26",
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 257.9,
+        "yield_pct": 7.375,
+        "issue_price_pct": 100.0,
+        "seniority": "subordinated",
+        "pricing_quote": "Initial Re-Offer Spread to Benchmark Treasury: +257.9 bps; Initial Re-Offer Yield: 7.375%"
+      }
+    ]
+  }
+}

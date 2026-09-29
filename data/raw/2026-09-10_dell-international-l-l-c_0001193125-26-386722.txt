@@ -1,0 +1,134 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1476297/000119312526386722/d126769dfwp.htm
+ISSUER (SEC filer): Dell International L.L.C.
+FILED: 2026-09-10
+========================================
+FWP
+1
+d126769dfwp.htm
+FWP
+FWP
+ISSUER FREE WRITING PROSPECTUS
+Filed Pursuant to Rule 433
+Registration
+No. 333-296691
+Dell International L.L.C.
+and
+EMC Corporation,
+as
+Co-Issuers
+PRICING TERM SHEET
+$1,250,000,000 5.100% Senior Notes due 2029
+$1,250,000,000 5.400% Senior Notes due 2031
+$1,500,000,000 5.600% Senior Notes due 2033
+$1,000,000,000 5.900% Senior Notes due 2037
+September 9, 2026
+This supplement (this “Pricing Term Sheet”) is qualified in its entirety by reference to the preliminary prospectus supplement
+dated September 9, 2026 (the “Preliminary Prospectus Supplement”) supplementing the base prospectus dated June 11, 2026 (the “Base Prospectus”) included in the registration statement (File
+No. 333-296691)
+filed with the Securities and Exchange Commission (the “SEC”). The information in this Pricing Term Sheet supplements the Preliminary Prospectus Supplement and supersedes the
+information in the Preliminary Prospectus Supplement and Base Prospectus to the extent inconsistent with the information contained therein. Terms used but not defined in this Pricing Term Sheet will have the meanings assigned in the Preliminary
+Prospectus Supplement.
+Terms Applicable to All Notes
+Co-Issuers: | Dell International L.L.C. and EMC Corporation (the “Issuers”)
+Aggregate Principal Amount of the Notes: | $5,000,000,000
+Notes Ratings (Moody’s / S&P / Fitch): | Baa2 / BBB+ / BBB+*
+Trade Date: | September 9, 2026
+Settlement Date: | September 15, 2026 (T+4) The settlement date of September 15, 2026 is the fourth business day following the trade date (such settlement being referred to as “T+4”).
+Since trades in the secondary market generally settle in one business day, purchasers who wish to trade the Notes (as defined below) on any date prior to the first business day before delivery will be required, by virtue of the fact that the Notes
+initially will settle in T+4, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to trade the Notes on any date prior to the first business day before delivery
+should consult their own advisors.
+Distribution: | SEC Registered
+Change of Control: | Upon the occurrence of a Change of Control Triggering Event, the Issuers will be required to make an offer to purchase the Notes at a price equal to 101% of their principal amount plus accrued and unpaid interest to, but not
+including, the repurchase date.
+Minimum Denominations: | $2,000 and $1,000 increments in excess thereof
+Joint Book-Running Managers (in tiered alphabetical order): | Barclays Capital Inc. BofA Securities, Inc. Citigroup Global Markets Inc. Goldman Sachs & Co.
+LLC HSBC Securities (USA) Inc. J.P. Morgan Securities LLC TD Securities (USA) LLC Wells Fargo Securities, LLC BNP Paribas Securities Corp. Deutsche Bank Securities Inc. Mizuho Securities USA LLC Morgan Stanley & Co. LLC MUFG Securities Americas Inc. PNC Capital Markets LLC RBC Capital Markets, LLC Scotia Capital (USA) Inc. SG Americas Securities, LLC UBS Securities LLC
+Co-Managers (in alphabetical order): | BNY Mellon Capital Markets, LLC ING Financial
+Markets LLC Santander US Capital Markets LLC SMBC Nikko
+Securities America, Inc. Standard Chartered Bank Truist
+Securities, Inc.
+Co-Syndicate Managers (in alphabetical order): | Blaylock Van, LLC Samuel A. Ramirez &
+Company, Inc.
+Terms Applicable to the 5.100% Senior Notes due 2029
+Title of Securities: | 5.100% Senior Notes due 2029 (the “2029 Notes”)
+Principal Amount: | $1,250,000,000
+Maturity Date: | September 15, 2029
+Issue Price: | 99.953% of the principal amount plus accrued interest, if any, from September 15, 2026
+Coupon: | 5.100%
+Yield to Maturity: | 5.117%
+-2-
+Gross Proceeds: | $1,249,412,500
+Spread to Benchmark Treasury: | T+60 basis points
+Benchmark Treasury: | 4.250% UST due August 15, 2029
+Benchmark Treasury Price / Yield: | 99-08 3 ⁄ 4 / 4.517%
+Interest Payment Dates: | March 15 and September 15 of each year, commencing March 15, 2027
+Optional Redemption: | Make-whole call @ T+10 bps prior to August 15, 2029 (one month prior to maturity) Par call on or after August 15, 2029 (one month prior to maturity)
+CUSIP/ISIN: | 24703DBY6 / US24703DBY67
+Terms Applicable to the 5.400% Senior Notes due 2031
+Title of Securities: | 5.400% Senior Notes due 2031 (the “2031 Notes”)
+Principal Amount: | $1,250,000,000
+Maturity Date: | September 15, 2031
+Issue Price: | 99.836% of the principal amount plus accrued interest, if any, from September 15, 2026
+Coupon: | 5.400%
+Yield to Maturity: | 5.438%
+Gross Proceeds: | $1,247,950,000
+Spread to Benchmark Treasury: | T+82 basis points
+Benchmark Treasury: | 4.375% UST due August 31, 2031
+Benchmark Treasury Price / Yield: | 98-29 3 ⁄ 4 / 4.618%
+Interest Payment Dates: | March 15 and September 15 of each year, commencing March 15, 2027
+Optional Redemption: | Make-whole call @ T+15 bps prior to August 15, 2031 (one month prior to maturity) Par call on or after August 15, 2031 (one month prior to maturity)
+CUSIP/ISIN: | 24703DBZ3 / US24703DBZ33
+-3-
+Terms Applicable to the 5.600% Senior Notes due 2033
+Title of Securities: | 5.600% Senior Notes due 2033 (the “2033 Notes”)
+Principal Amount: | $1,500,000,000
+Maturity Date: | September 15, 2033
+Issue Price: | 99.475% of the principal amount plus accrued interest, if any, from September 15, 2026
+Coupon: | 5.600%
+Yield to Maturity: | 5.692%
+Gross Proceeds: | $1,492,125,000
+Spread to Benchmark Treasury: | T+97 basis points
+Benchmark Treasury: | 4.500% UST due August 31, 2033
+Benchmark Treasury Price / Yield: | 98-22 1 ⁄ 4 / 4.722%
+Interest Payment Dates: | March 15 and September 15 of each year, commencing March 15, 2027
+Optional Redemption: | Make-whole call @ T+15 bps prior to July 15, 2033 (two months prior to maturity) Par call on or after July 15, 2033 (two months prior to maturity)
+CUSIP/ISIN: | 24703DCA7 / US24703DCA72
+Terms Applicable to the 5.900% Senior Notes due 2037
+Title of Securities: | 5.900% Senior Notes due 2037 (the “2037 Notes” and, together with the 2029 Notes, the 2031 Notes and the 2033 Notes, the “Notes”)
+Principal Amount: | $1,000,000,000
+Maturity Date: | April 1, 2037
+Issue Price: | 99.694% of the principal amount plus accrued interest, if any, from September 15, 2026
+Coupon: | 5.900%
+Yield to Maturity: | 5.939%
+Gross Proceeds: | $996,940,000
+-4-
+Spread to Benchmark Treasury: | T+110 basis points
+Benchmark Treasury: | 4.625% UST due August 15, 2036
+Benchmark Treasury Price / Yield: | 98-10+ / 4.839%
+Interest Payment Dates: | April 1 and October 1 of each year, commencing April 1, 2027
+Optional Redemption: | Make-whole call @ T+20 bps prior to January 1, 2037 (three months prior to maturity) Par call on or after January 1, 2037 (three months prior to maturity)
+CUSIP/ISIN: | 24703DCB5 / US24703DCB55
+The Issuers have filed a registration statement (including a prospectus) and a preliminary prospectus supplement with the
+SEC for the offering to which this communication relates. Before you invest, you should read the prospectus and the preliminary prospectus supplement in that registration statement and other documents the Issuers have filed with the SEC for
+more complete information about the Issuers and this offering. You may obtain these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, the Issuers, any underwriter or any dealer participating in the offering will
+arrange to send you the prospectus and the prospectus supplement if you request them by calling Barclays Capital Inc., by telephone toll free:
+1-888-603-5847,
+BofA Securities, Inc., by telephone toll free:
+1-800-294-1322,
+Citigroup Global Markets Inc., by telephone toll free:
+1-800-831-9146,
+Goldman Sachs & Co. LLC, by telephone toll free:
+1-866-471-2526,
+HSBC Securities (USA) Inc., by telephone toll free:
+1-866-811-8049,
+J.P. Morgan Securities LLC, by telephone collect:
+1-212-834-4533,
+TD Securities (USA) LLC, telephone: (toll-free)
+855-495-9846
+and Wells Fargo Securities, LLC, by telephone toll free:
+1-800-645-3751.
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+Any disclaimers or other notices that may appear below are not applicable to this
+communication and should be disregarded. Such disclaimers were automatically generated as a result of this communication being sent via Bloomberg email or another communication system.
+-5-

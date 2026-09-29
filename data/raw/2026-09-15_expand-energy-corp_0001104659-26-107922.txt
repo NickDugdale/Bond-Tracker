@@ -1,0 +1,56 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/895126/000110465926107922/tm2625334d3_fwp.htm
+ISSUER (SEC filer): EXPAND ENERGY Corp
+FILED: 2026-09-15
+========================================
+FWP
+1
+tm2625334d3_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Issuer Free Writing Prospectus dated September
+15, 2026
+Relating to Preliminary Prospectus Supplement dated September 15, 2026
+To Prospectus dated November 20, 2024
+Registration No. 333-283348
+PRICING TERM SHEET
+$500,000,000 5.650% Senior Notes due 2031
+September 15, 2026
+The information in this pricing term sheet supplements the registration
+statement, the prospectus, and the preliminary prospectus supplement and supersedes the information in the registration statement, the
+prospectus, and the preliminary prospectus supplement and the documents incorporated therein to the extent inconsistent with the information
+in those documents. Terms used herein but not defined herein shall have the respective meanings as set forth in the preliminary prospectus
+supplement.
+Issuer: | Expand Energy Corporation
+Securities: | 5.650% Senior Notes due 2031 (the “ Notes ”)
+Format: | SEC Registered
+Trade Date: | September 15, 2026
+Settlement Date: | September 17, 2026 (T+2) It is expected that delivery of the Notes will be made against payment therefor on or about the closing date specified on the cover page of the prospectus supplement, which will be the second business day following the date of the prospectus supplement. This settlement cycle is referred to as “T+2.” Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended (the “ Exchange Act ”), trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade Notes prior to the date that is one business day preceding the settlement date will be required, by virtue of the fact that the Notes initially will settle T+2, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of Notes who wish to trade Notes prior to the date that is one business day preceding the settlement date should consult their own advisors.
+Ratings: * | Moody’s: Baa3 (Stable) S&P: BBB- (Stable) Fitch: BBB (Stable)
+Principal Amount: | $500,000,000
+Maturity Date: | September 15, 2031
+Benchmark Treasury: | UST 4.375% due August 31, 2031
+Benchmark Treasury Price / Yield: | 98-01 / 4.826%
+Spread to Benchmark Treasury: | +85 bps
+1
+Yield to Maturity: | 5.676%
+Price to Public: | 99.889% of principal amount, plus accrued interest, if any from September 17, 2026
+Coupon: | 5.650% per annum
+Interest Payment Dates: | March 15 and September 15, commencing March 15, 2027
+Record Dates: | March 1 and September 1
+Optional Redemption: | At any time prior to August 15, 2031, make whole call as set forth in the preliminary prospectus supplement (Treasury rate plus 15 basis points), plus accrued interest to, but not including, the redemption date. At any time on or after August 15, 2031, at 100% of the principal amount plus accrued interest to the redemption date.
+CUSIP / ISIN: | 165167DJ3 / US165167DJ30
+Joint Book-Running Managers: | Citigroup Global Markets Inc. J.P. Morgan Securities LLC Citizens JMP Securities, LLC Mizuho Securities USA LLC MUFG Securities Americas Inc. RBC Capital Markets, LLC TD Securities (USA) LLC Wells Fargo Securities, LLC
+Co-Managers: | Fifth Third Securities, Inc. CIBC World Markets Corp. Goldman Sachs & Co. LLC Morgan Stanley & Co. LLC PNC Capital Markets LLC Regions Securities LLC Scotia Capital (USA) Inc. Truist Securities, Inc. BOK Financial Securities, Inc.
+***
+*Note: A securities rating is not a recommendation
+to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+The issuer has filed a registration statement
+(including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus
+and prospectus supplement in that registration statement and other documents the issuer has filed with the SEC for more complete information
+about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively,
+the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus and prospectus supplement
+if you request them by calling Citigroup Global Markets Inc. at 1-800-831-9146 or J.P. Morgan Securities LLC collect at 1-212-834-4533.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY
+APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY
+GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.
+2
