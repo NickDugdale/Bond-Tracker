@@ -1,0 +1,59 @@
+# Runs the whole pipeline on GitHub's servers on the 1st of every month,
+# then saves the new data, charts and report back into the repository.
+name: Monthly bond tracker update
+
+on:
+  schedule:
+    - cron: "0 6 1 * *"     # 06:00 UTC on the 1st of each month
+  workflow_dispatch:         # adds a "Run workflow" button to run it by hand
+    inputs:
+      month:
+        description: "Month to report, e.g. 2026-09 (leave blank for the last full month)"
+        required: false
+
+permissions:
+  contents: write            # lets the job commit the new outputs
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Get the code and data
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install LibreOffice (turns the Word report into a PDF)
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends libreoffice-writer fonts-liberation
+
+      - name: Install Python packages
+        run: pip install -r requirements.txt
+
+      - name: Run the pipeline
+        env:
+          # Stored as encrypted repository secrets, never in the code
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: |
+          python fetch.py --days 40
+          python extract.py
+          python build_dataset.py
+          python validate.py grounding
+          python analyse.py
+          if [ -n "${{ inputs.month }}" ]; then
+            python report.py --period month --month "${{ inputs.month }}"
+          else
+            python report.py --period month
+          fi
+
+      - name: Save results back to the repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data output
+          git diff --cached --quiet || git commit -m "Monthly update $(date -u +%Y-%m)"
+          git push

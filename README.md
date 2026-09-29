@@ -1,8 +1,8 @@
 # AI New-Issue Bond Tracker
 
-Turns public bond pricing term sheets into a structured dataset, market analysis and a one-page **Weekly New Issue Market Update**, automating a routine part of a Global Capital Markets analyst's week.
+Turns public bond pricing term sheets into a structured dataset, market analysis and a one-page **New Issue Market Update** (weekly or monthly), automating a routine part of a Global Capital Markets analyst's week.
 
-**[View the latest weekly update (PDF)](output/reports/weekly_update_2026-09-22.pdf)**
+**[View the latest market update (PDF)](output/reports/latest.pdf)** · refreshed automatically on the 1st of every month
 
 ---
 
@@ -87,7 +87,6 @@ Grounding proves values weren't invented, but it can't tell whether a real numbe
 - **New issue concession:** compare each deal's spread with the issuer's existing bonds in the secondary market, the number a syndicate desk actually negotiates on.
 - **Broader data:** add a commercial new-issue feed (e.g. Bloomberg or Dealogic) to cover 144A and European issuance.
 - **Order books:** extract book size and oversubscription from issuer press releases as a measure of demand.
-- **Scheduling:** run the pipeline automatically every Friday.
 - **Model comparison:** measure Haiku against a larger model on the same validation sample to quantify the cost/accuracy trade-off.
 
 ## Running it
@@ -112,6 +111,12 @@ python report.py                 # weekly update
 ```
 
 Re-running is safe and cheap: each step only processes what's new.
+
+For a weekly note use `python report.py`; for a calendar month use `python report.py --period month` (add `--month 2026-09` for a specific month).
+
+### Automatic monthly updates
+
+`.github/workflows/monthly-update.yml` runs the whole pipeline on GitHub's servers at 06:00 UTC on the 1st of each month: it fetches the new filings, extracts only those not seen before, rebuilds the dataset and charts, writes a monthly update for the previous month and commits everything back to the repository. Charts and statistics use the most recent 90 days of data (`LOOKBACK_DAYS` in `config.py`), so they stay current as the dataset grows. The API key and SEC contact details are stored as encrypted repository secrets, not in the code. Monthly API cost is typically under $1.
 
 ## Project structure
 
