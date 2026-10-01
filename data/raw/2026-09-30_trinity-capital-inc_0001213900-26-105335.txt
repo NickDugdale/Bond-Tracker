@@ -1,0 +1,83 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1786108/000121390026105335/ea0307219-02_fwp.htm
+ISSUER (SEC filer): Trinity Capital Inc.
+FILED: 2026-09-30
+========================================
+FWP
+1
+ea0307219-02_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Issuer Free Writing Prospectus dated September
+30, 2026
+Relating to Preliminary Prospectus Supplement
+dated September 30, 2026 and
+Prospectus dated August 11, 2025
+Registration No. 333-289495
+Trinity Capital Inc.
+$350,000,000
+7.500% Notes due 2032
+PRICING TERM SHEET
+September 30, 2026
+The following sets forth
+the final terms of the 7.500% Notes due 2032 (the “Notes”) and should only be read together with the preliminary prospectus
+supplement of Trinity Capital Inc. (the “Issuer”) dated September 30, 2026, together with the accompanying prospectus dated
+August 11, 2025 (the “Preliminary Prospectus”), relating to the Notes, and supersedes the information in the Preliminary
+Prospectus to the extent inconsistent with the information in the Preliminary Prospectus. In all other respects, this pricing term sheet
+is qualified in its entirety by reference to the Preliminary Prospectus. Terms used herein but not defined herein shall have the respective
+meanings as set forth in the Preliminary Prospectus. All references to dollar amounts are references to U.S. dollars.
+Issuer: | Trinity Capital Inc.
+Issuer Ticker: | TRIN
+Security: | 7.500% Notes due 2032
+Expected Ratings*: | Baa3 (Moody’s) / BBBL (Morningstar) / BBB (Egan-Jones)
+Trade Date: | September 30, 2026
+Settlement Date**: | October 5, 2026 (T+3)
+Aggregate Principal Amount Offered: | $350,000,000
+Maturity Date: | January 15, 2032, unless earlier repurchased or redeemed
+Price to Public (Issue Price): | 99.104%
+Coupon (Interest Rate): | 7.500%
+Yield to Maturity: | 7.714%
+Spread to Benchmark Treasury: | + 262.5 basis points
+Benchmark Treasury: | 5.000% due September 30, 2031
+Benchmark Treasury Price and Yield: | 99 – 19+ / 5.089%
+Interest Payment Dates: | January 15 and July 15, commencing January 15, 2027
+Optional Redemption: | Prior to December 15, 2031 (the date falling one month prior to the maturity date of the Notes) (the “Par Call Date”), the Issuer may redeem some or all of the Notes at any time, or from time to time, at a redemption price equal to the greater of the following amounts, plus, in each case, accrued and unpaid interest thereon to the redemption date:
+· | (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon, discounted to the redemption date (assuming the Notes matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 50 basis points less (b) interest accrued to the date of redemption; and
+· | 100% of the principal amount of the Notes to be redeemed;
+provided, however , that if the Issuer redeems any Notes on or after the Par Call Date, the redemption price for the Notes will be equal to 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest thereon to, but excluding, the date of redemption.
+Denomination: | $2,000 and integral multiples of $1,000 in excess thereof
+CUSIP/ISIN: | 896442AM2 / US896442AM27
+Joint Book-Running Managers: | Keefe, Bruyette & Woods, Inc.
+MUFG Securities Americas Inc.
+Co-Managers: | KeyBanc Capital Markets Inc. RBC Capital Markets, LLC R. Seelaus & Co., LLC Wedbush Securities Inc. Citizens JMP Securities, LLC Hancock Whitney Investment Services, Inc. Ladenburg Thalmann & Co. Inc. Lucid Capital Markets, LLC Oppenheimer & Co. Inc. Zions Direct, Inc.
+*A securities rating is not a recommendation to buy, sell or hold
+securities and may be subject to revision or withdrawal at any time.
+**The Issuer expects that delivery of the Notes will be made to
+investors on or about October 5, 2026, which will be the third business day following the date hereof. Under Rule 15c6-1 under the Securities
+Exchange Act of 1934, as amended, trades in the secondary market are required to settle in one business day, unless the parties to any
+such trade expressly agree otherwise. Accordingly, purchasers who wish to trade Notes on the date hereof or the following business day
+will be required by virtue of the fact that the Notes initially settle in T+3, to specify an alternate settlement arrangement at the time
+of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to trade the Notes on the date hereof or the following
+business day should consult their advisors.
+-
+2
+-
+Investors are advised to carefully consider the investment objectives,
+risks, charges and expenses of the Issuer before investing. The Preliminary Prospectus, which has been filed with the Securities and Exchange
+Commission (the “SEC”), and the documents incorporated by reference therein, contain these factors and other information about
+the Issuer and should be read carefully before investing.
+The information in the Preliminary Prospectus and in this pricing
+term sheet is not complete and may be changed. The Preliminary Prospectus and this pricing term sheet are not offers to sell any securities
+of the Issuer and are not soliciting an offer to buy such securities in any jurisdiction where such offer and sale is not permitted.
+The Issuer has filed a shelf registration statement (including a
+base prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the base prospectus
+in that registration statement, the Preliminary Prospectus and the documents incorporated by reference therein, which the Issuer has filed
+with the SEC, for more complete information about the Issuer and this offering. You may obtain these documents for free by visiting EDGAR
+on the SEC Web site at www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating in the offering will arrange
+to send you the Preliminary Prospectus if you request it from Keefe, Bruyette & Woods, Inc., 787 7th Avenue, 4th Floor, New York,
+New York 10019, Attn: Debt Syndicate, by telephone at 1 (800) 966-1559, or from MUFG Securities Americas Inc., 1221 Avenue of the Americas,
+6
+th
+Floor, New York, New York 10020, by telephone at 1 (877) 649-6848.
+-
+3
+-

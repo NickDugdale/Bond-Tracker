@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-29",
-  "documents": 63,
-  "values_checked": 863,
+  "date": "2026-10-01",
+  "documents": 64,
+  "values_checked": 871,
   "grounded_pct": 97.8,
   "per_field": [
     {
       "field": "spread_bps",
-      "values": 107,
-      "grounded": 97,
+      "values": 108,
+      "grounded": 98,
       "pct": 90.7
     },
     {
       "field": "first_call_date",
-      "values": 99,
-      "grounded": 95,
+      "values": 100,
+      "grounded": 96,
       "pct": 96.0
     },
     {
@@ -24,9 +24,9 @@
     },
     {
       "field": "maturity_date",
-      "values": 109,
-      "grounded": 106,
-      "pct": 97.2
+      "values": 110,
+      "grounded": 107,
+      "pct": 97.3
     },
     {
       "field": "rating_sp",
@@ -36,32 +36,32 @@
     },
     {
       "field": "issue_price_pct",
-      "values": 111,
-      "grounded": 111,
+      "values": 112,
+      "grounded": 112,
       "pct": 100.0
     },
     {
       "field": "principal_amount",
-      "values": 111,
-      "grounded": 111,
+      "values": 112,
+      "grounded": 112,
       "pct": 100.0
     },
     {
       "field": "coupon_pct",
-      "values": 105,
-      "grounded": 105,
+      "values": 106,
+      "grounded": 106,
       "pct": 100.0
     },
     {
       "field": "rating_moodys",
-      "values": 46,
-      "grounded": 46,
+      "values": 47,
+      "grounded": 47,
       "pct": 100.0
     },
     {
       "field": "yield_pct",
-      "values": 92,
-      "grounded": 92,
+      "values": 93,
+      "grounded": 93,
       "pct": 100.0
     }
   ]

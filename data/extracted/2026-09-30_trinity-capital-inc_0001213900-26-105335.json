@@ -1,0 +1,41 @@
+{
+  "source_file": "2026-09-30_trinity-capital-inc_0001213900-26-105335.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-10-01T12:28:18",
+  "usage": {
+    "input_tokens": 3983,
+    "output_tokens": 489
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Trinity Capital Inc.",
+    "sector": "Financials",
+    "trade_date": "2026-09-30",
+    "settlement_date": "2026-10-05",
+    "rating_moodys": "Baa3",
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "Keefe, Bruyette & Woods, Inc.",
+      "MUFG Securities Americas Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 350000000,
+        "coupon_pct": 7.5,
+        "coupon_type": "fixed",
+        "maturity_date": "2032-01-15",
+        "first_call_date": "2031-12-15",
+        "benchmark": "UST 5.000% due September 30, 2031",
+        "spread_bps": 262.5,
+        "yield_pct": 7.714,
+        "issue_price_pct": 99.104,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: + 262.5 basis points; Benchmark Treasury: 5.000% due September 30, 2031"
+      }
+    ]
+  }
+}

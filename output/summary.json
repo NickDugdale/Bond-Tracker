@@ -1,23 +1,23 @@
 {
   "window_start": "2026-08-20",
-  "window_end": "2026-09-28",
-  "deals": 57,
-  "bonds": 109,
-  "total_usd_bn": 88.7,
-  "avg_deal_usd_m": 1556.0,
+  "window_end": "2026-09-30",
+  "deals": 58,
+  "bonds": 110,
+  "total_usd_bn": 89.0,
+  "avg_deal_usd_m": 1535.0,
   "avg_bonds_per_deal": 1.9,
   "volume_by_currency_usd_bn": {
     "EUR": 7.5,
     "GBP": 6.7,
-    "USD": 74.5
+    "USD": 74.9
   },
   "volume_by_grade_usd_bn": {
     "HY": 4.0,
-    "IG": 77.6,
+    "IG": 77.9,
     "Unrated": 7.1
   },
   "volume_by_sector_usd_bn": {
-    "Financials": 33.8,
+    "Financials": 34.1,
     "Technology": 15.2,
     "Industrials": 9.5,
     "Consumer": 8.7,
@@ -43,7 +43,7 @@
     "BB+": 220.0,
     "BBB": 96.0,
     "BBB+": 93.0,
-    "BBB-": 187.0
+    "BBB-": 194.0
   },
   "largest_deals": [
     {

@@ -4,9 +4,9 @@
   "start": "01 Sep 2026",
   "end": "30 Sep 2026",
   "this_period": {
-    "volume_usd_bn": 86.2,
-    "deals": 55,
-    "bonds": 105,
+    "volume_usd_bn": 86.6,
+    "deals": 56,
+    "bonds": 106,
     "ig_share_pct": 87,
     "currencies": [
       "EUR",
@@ -15,7 +15,7 @@
     ],
     "hybrid_or_subordinated_deals": 10,
     "sector_volume_usd_bn": {
-      "Financials": 31.3,
+      "Financials": 31.6,
       "Technology": 15.2,
       "Industrials": 9.5,
       "Consumer": 8.7,
@@ -36,8 +36,8 @@
       "vs_prior": "too few bonds to compare"
     },
     "5y": {
-      "bonds_this_period": 16,
-      "median_this_period_bps": 78,
+      "bonds_this_period": 17,
+      "median_this_period_bps": 82,
       "bonds_prior": 1,
       "median_prior_bps": 90,
       "vs_prior": "too few bonds to compare"
