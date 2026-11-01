@@ -1,0 +1,60 @@
+{
+  "source_file": "2026-10-27_cbre-services-inc_0001193125-26-434352.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:44:02",
+  "usage": {
+    "input_tokens": 4476,
+    "output_tokens": 702
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "CBRE Services, Inc.",
+    "sector": "Industrials",
+    "trade_date": "2026-10-27",
+    "settlement_date": "2026-11-05",
+    "rating_moodys": "Baa1",
+    "rating_sp": "BBB+",
+    "rating_fitch": "BBB+",
+    "bookrunners": [
+      "Wells Fargo Securities, LLC",
+      "BofA Securities, Inc.",
+      "HSBC Securities (USA) Inc.",
+      "J.P. Morgan Securities LLC",
+      "Citigroup Global Markets Inc.",
+      "NatWest Markets Securities Inc.",
+      "Scotia Capital (USA) Inc."
+    ],
+    "use_of_proceeds": "Repayment of commercial paper and other general corporate purposes",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 5.65,
+        "coupon_type": "fixed",
+        "maturity_date": "2032-01-15",
+        "first_call_date": "2031-12-15",
+        "benchmark": "UST 5.000% due September 30, 2031",
+        "spread_bps": 95,
+        "yield_pct": 5.782,
+        "issue_price_pct": 99.424,
+        "seniority": "senior unsecured",
+        "pricing_quote": "2032 Notes: +95 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 5.9,
+        "coupon_type": "fixed",
+        "maturity_date": "2037-01-15",
+        "first_call_date": "2036-10-15",
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 120,
+        "yield_pct": 6.186,
+        "issue_price_pct": 97.872,
+        "seniority": "senior unsecured",
+        "pricing_quote": "2037 Notes: +120 basis points"
+      }
+    ]
+  }
+}

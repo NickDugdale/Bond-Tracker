@@ -1,0 +1,43 @@
+{
+  "source_file": "2026-10-15_state-street-corp_0001193125-26-422993.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:43:11",
+  "usage": {
+    "input_tokens": 3713,
+    "output_tokens": 452
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "State Street Corporation",
+    "sector": "Financials",
+    "trade_date": "2026-10-15",
+    "settlement_date": "2026-10-20",
+    "rating_moodys": "Aa3",
+    "rating_sp": "A",
+    "rating_fitch": "AA-",
+    "bookrunners": [
+      "Goldman Sachs & Co. LLC",
+      "Morgan Stanley & Co. LLC",
+      "Scotia Capital (USA) Inc.",
+      "TD Securities (USA) LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 750000000,
+        "coupon_pct": 5.963,
+        "coupon_type": "fixed-to-floating",
+        "maturity_date": "2037-10-20",
+        "first_call_date": "2036-10-20",
+        "benchmark": "UST 4.625% due 2036-08-15",
+        "spread_bps": 88,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Fixed Rate Spread to Benchmark Treasury: +88 basis points"
+      }
+    ]
+  }
+}

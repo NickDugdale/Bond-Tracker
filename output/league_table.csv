@@ -1,47 +1,53 @@
 ﻿bank,rank,deals,credited_usd_m
-BofA Securities,1,30,7547.0
-J.P. Morgan,2,30,7373.0
-Citigroup,3,23,7370.0
-Morgan Stanley,4,22,6745.0
-Wells Fargo,5,23,5886.0
-Barclays,6,16,5132.0
-HSBC,7,8,4763.0
-Mizuho,8,18,4577.0
-Goldman Sachs,9,16,4403.0
-BNP Paribas,10,13,3796.0
-BMO,11,7,3214.0
-U.S. Bancorp,12,13,2692.0
-TD Securities,13,8,2403.0
-Deutsche Bank,14,9,2009.0
-ING,15,5,1982.0
-RBC,16,12,1946.0
-MUFG,17,14,1801.0
-Truist,18,9,1678.0
-Santander,19,5,1566.0
-SMBC Nikko,20,8,1449.0
-Scotiabank,21,8,1401.0
-BNY Mellon Capital Markets,22,2,1394.0
-Societe Generale,23,5,1239.0
-NatWest,24,2,1004.0
-PNC,25,9,1002.0
-CIBC,26,5,688.0
-UBS,27,3,601.0
-Jefferies,28,3,562.0
-Standard Chartered Bank,29,1,542.0
-Keefe,30,4,488.0
-BBVA,31,2,452.0
-Natixis,32,2,277.0
-Piper Sandler & Co,33,2,188.0
-Fifth Third Securities,34,1,188.0
-Allen & Company LLC,35,1,143.0
-Capital One Securities,36,1,136.0
-Credit Agricole,37,1,68.0
-KeyBanc,38,1,68.0
-Huntington Securities,39,1,58.0
-Raymond James & Associates,40,1,50.0
-Leerink Partners LLC,41,1,45.0
-William Blair & Company L,42,1,45.0
-Brookfield Securities LLC,43,1,21.0
-Lucid Capital Markets,44,2,21.0
-Oppenheimer & Co,45,2,21.0
-B,46,1,11.0
+J.P. Morgan,1,42,19150.0
+HSBC,2,13,12973.0
+Citigroup,3,33,12212.0
+Barclays,4,21,11818.0
+BofA Securities,5,40,11558.0
+Morgan Stanley,6,30,11384.0
+Wells Fargo,7,30,9875.0
+Goldman Sachs,8,27,9820.0
+BNP Paribas,9,16,6232.0
+Mizuho,10,21,4938.0
+RBC,11,15,4552.0
+Deutsche Bank,12,11,3554.0
+BMO,13,8,3254.0
+U.S. Bancorp,14,16,3126.0
+UBS,15,5,2923.0
+TD Securities,16,11,2700.0
+Scotiabank,17,13,2555.0
+ING,18,7,2397.0
+MUFG,19,16,2184.0
+SMBC Nikko,20,11,1927.0
+Truist,21,11,1843.0
+Santander,22,5,1566.0
+BNY Mellon Capital Markets,23,2,1394.0
+Societe Generale,24,5,1239.0
+PNC,25,11,1155.0
+NatWest,26,3,1147.0
+Natixis,27,3,852.0
+CIBC,28,5,688.0
+Standard Chartered Bank,29,2,655.0
+Jefferies,30,4,633.0
+BBVA,31,3,492.0
+Keefe,32,4,488.0
+ANZ Securities,33,1,375.0
+Fifth Third Securities,34,2,228.0
+Lloyds,35,1,208.0
+Piper Sandler & Co,36,2,188.0
+Leerink Partners LLC,37,3,166.0
+Allen & Company LLC,38,1,143.0
+Capital One Securities,39,1,136.0
+Evercore Group L,40,2,121.0
+Huntington Securities,41,2,98.0
+Guggenheim Securities,42,1,71.0
+Commerce Brokerage Services,43,1,70.0
+Regions,44,1,70.0
+Credit Agricole,45,1,68.0
+KeyBanc,46,1,68.0
+Raymond James & Associates,47,1,50.0
+William Blair & Company L,48,1,45.0
+Brookfield Securities LLC,49,1,21.0
+Lucid Capital Markets,50,2,21.0
+Oppenheimer & Co,51,2,21.0
+B,52,1,11.0

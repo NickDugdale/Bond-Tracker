@@ -1,0 +1,26 @@
+{
+  "source_file": "2026-10-27_meta-platforms-inc_0001193125-26-432549.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:44:14",
+  "usage": {
+    "input_tokens": 9763,
+    "output_tokens": 311
+  },
+  "data": {
+    "is_bond_pricing": false,
+    "not_bond_reason": "This document prices a concurrent offering of common stock and mandatory convertible preferred stock (depositary shares), not a bond issue.",
+    "issuer": "Meta Platforms, Inc.",
+    "sector": "Technology",
+    "trade_date": "2026-10-27",
+    "settlement_date": "2026-10-29",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "Morgan Stanley & Co. LLC",
+      "Goldman Sachs & Co. LLC"
+    ],
+    "use_of_proceeds": "Net proceeds to be used for general corporate purposes.",
+    "tranches": []
+  }
+}

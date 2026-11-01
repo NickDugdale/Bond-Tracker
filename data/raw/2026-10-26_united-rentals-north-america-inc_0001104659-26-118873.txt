@@ -1,0 +1,93 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1047166/000110465926118873/tm2628016d5_fwp.htm
+ISSUER (SEC filer): UNITED RENTALS NORTH AMERICA INC
+FILED: 2026-10-26
+========================================
+FWP
+1
+tm2628016d5_fwp.htm
+FWP
+Filed pursuant to Rule 433
+Free Writing Prospectus dated October 26, 2026
+Registration Statement No. 333-299595
+UNITED RENTALS (NORTH AMERICA), INC.
+Pricing Term Sheet – October 26, 2026
+$700,000,000 5.550% Senior Notes due 2029
+$800,000,000 5.750% Senior Notes due 2031
+$1,000,000,000 6.200% Senior Notes due 2036
+This pricing term sheet (this “pricing
+term sheet”) is qualified in its entirety by reference to the preliminary prospectus supplement, dated October 23, 2026 (the “preliminary
+prospectus supplement”), and the related base prospectus, dated October 23, 2026 (the “base prospectus” and, together
+with the preliminary prospectus supplement, including the documents incorporated by reference in the preliminary prospectus supplement
+and the base prospectus, the “prospectus”), of United Rentals (North America), Inc. The information in this pricing term sheet
+supplements the prospectus and updates and supersedes the information in the prospectus to the extent it is inconsistent with the information
+in the prospectus. Capitalized terms used and not defined herein have the meanings assigned in the preliminary prospectus supplement.
+Issuer: | United Rentals (North America), Inc. (the “ Issuer ”)
+Guarantor: | United Rentals, Inc. (the “ Guarantor ”)
+Title of Securities: | 2029 Notes: 5.550% Senior Notes due 2029 (the “ 2029 Notes ”) 2031 Notes: 5.750% Senior Notes due 2031 (the “ 2031 Notes ”) 2036 Notes: 6.200% Senior Notes due 2036 (the “ 2036 Notes ”
+and, together with the 2029 Notes and the 2031 Notes, the “ Notes ”)
+Aggregate Principal Amount: | 2029 Notes: $700,000,000 2031 Notes: $800,000,000 2036 Notes: $1,000,000,000
+Expected Ratings (Moody’s/S&P)*: | Baa3 / BBB-
+Security Type: | Senior Unsecured Notes
+Distribution: | SEC Registered
+Maturity: | 2029 Notes: October 15, 2029 2031 Notes: October 15, 2031 2036 Notes: October 15, 2036
+Issue Price: | 2029 Notes: 99.922% of the principal amount 2031 Notes: 99.884% of the principal amount 2036 Notes: 99.710% of the principal amount in each case, plus accrued interest, if any, from October 29,
+2026
+Coupon: | 2029 Notes: 5.550% 2031 Notes: 5.750% 2036 Notes: 6.200%
+Benchmark Treasury: | 2029 Notes: 4.875% due October 15, 2029 2031 Notes: 5.000% due September 30, 2031 2036 Notes: 4.625% due August 15, 2036
+Benchmark Treasury Price / Yield: | 2029 Notes: 100-08 ¼ / 4.780% 2031 Notes: 100-23 ¾ / 4.828% 2036 Notes: 97-06 / 4.990%
+Spread to Benchmark Treasury: | 2029 Notes: +80 bps 2031 Notes: +95 bps 2036 Notes: +125 bps
+Yield to Maturity: | 2029 Notes: 5.580% 2031 Notes: 5.778% 2036 Notes: 6.240%
+Interest Payment Dates: | 2029 Notes: April 15 and October 15 2031 Notes: April 15 and October 15 2036 Notes: April 15 and October 15
+Record Dates: | 2029 Notes: April 1 and October 1 2031 Notes: April 1 and October 1 2036 Notes: April 1 and October 1
+First Interest Payment Date: | 2029 Notes: April 15, 2027 2031 Notes: April 15, 2027 2036 Notes: April 15, 2027
+Optional Redemption:
+Make-Whole Call: | 2029 Notes: At any time prior to September 15, 2029, at the greater
+of (i) 100% of the principal amount being redeemed and (ii) a make-whole price calculated using a discount rate of Treasury plus 15 basis
+points. 2031 Notes: At any time prior to September 15, 2031, at the greater
+of (i) 100% of the principal amount being redeemed and (ii) a make-whole price calculated using a discount rate of Treasury plus 15 basis
+points. 2036 Notes: At any time prior to July 15, 2036, at the greater
+of (i) 100% of the principal amount being redeemed and (ii) a make-whole price calculated using a discount rate of Treasury plus 20 basis
+points.
+Par
+Call: | 2029 Notes: At any time on or after September 15, 2029, at 100% of
+the principal amount being redeemed. 2031 Notes: At any time on or after September 15, 2031, at 100% of
+the principal amount being redeemed. 2036 Notes: At any time on or after July 15, 2036, at 100% of the principal
+amount being redeemed. In each case, for each series, the redemption price for any make-whole
+call or par call will also include accrued and unpaid interest, if any, on the Notes being redeemed to, but excluding, the redemption
+date.
+Change of Control Triggering Event: | If a Change of Control Triggering Event occurs with respect to a series of Notes, the Issuer will be required, subject to the exceptions described in the preliminary prospectus supplement, to make an offer to purchase the Notes of that series at 101% of their principal amount, plus accrued and unpaid interest, if any, to, but excluding, the date of purchase.
+Trade Date: | October 26, 2026
+Settlement Date: | October 29, 2026 (T+3)**
+CUSIP/ISIN Numbers: | 2029 Notes: 911365BT0 / US911365BT03 2031 Notes: 911365BU7 / US911365BU75 2036 Notes: 911365BV5 / US911365BV58
+Denominations: | Minimum denominations of $2,000 and integral multiples of $1,000 in excess thereof.
+Bookrunners: | J.P. Morgan Securities LLC BofA Securities, Inc. Goldman Sachs & Co. LLC Wells Fargo Securities, LLC
+Co-Managers: | Scotia Capital (USA) Inc. MUFG Securities Americas Inc. PNC Capital Markets LLC Regions Securities LLC TD Securities (USA) LLC Truist Securities, Inc. M&T Securities, Inc. SMBC Nikko Securities America, Inc. U.S. Bancorp Investments, Inc.
+Use of Proceeds: | Based
+on an offering of $2.5 billion aggregate principal amount of notes at par, we anticipate that we will receive approximately $2.476
+billion in net proceeds from the sale of the notes, after underwriting discounts and commissions and payment of estimated fees and
+expenses. We expect to use the net proceeds (i) to repay in full the indebtedness outstanding under the Term Loan Facility and (ii)
+for general corporate purposes, including to reduce borrowings under the ABL Facility and the Accounts Receivable Securitization
+Facility.
+*Note: A securities rating is not a recommendation to buy, sell or
+hold securities and may be revised or withdrawn at any time.
+** It is expected that delivery of the Notes will
+be made against payment therefor on or about October 29, 2026, which will be the third business day following the date hereof (this settlement
+cycle being referred to as “T + 3”). Under Rule 15c6-1 of the Securities Exchange Act of 1934, as amended, trades in the secondary
+market generally are required to settle in one business day, unless the parties to a trade expressly agree otherwise. Accordingly, purchasers
+who wish to trade the Notes on any day prior to one business day before delivery will be required to specify alternative settlement arrangements
+at the time of any such trade to prevent a failed settlement and should consult their own advisors.
+The Issuer and the Guarantor have filed a registration
+statement (including a prospectus) and a preliminary prospectus supplement with the Securities and Exchange Commission (the “
+SEC
+”)
+for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement,
+the preliminary prospectus supplement and other documents the Issuer and the Guarantor have filed with the SEC for more complete information
+about the Issuer, the Guarantor and this offering. You may get these documents for free by visiting EDGAR on the SEC web site at
+www.sec.gov.
+Alternatively, the Issuer, the Guarantor, any underwriter or any dealer participating in this offering will arrange to send you the prospectus
+and the prospectus supplement if you request them by contacting BofA Securities, Inc. toll free at (800) 294-1322 or by emailing BofA
+Securities, Inc. at dg.prospectus_requests@bofa.com, contacting Goldman Sachs & Co. LLC toll-free at (866) 471-2526 or by emailing
+Goldman Sachs & Co. LLC at prospectus-ny@ny.email.gs.com or contacting J.P. Morgan Securities LLC collect at (212) 834-4533.
+Any disclaimer or other notice that may appear
+below is not applicable to this communication and should be disregarded. Such disclaimer or notice was automatically generated as a result
+of this communication being sent by Bloomberg or another email system.

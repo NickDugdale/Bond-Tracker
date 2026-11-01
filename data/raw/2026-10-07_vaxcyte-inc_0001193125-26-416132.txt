@@ -1,0 +1,178 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1649094/000119312526416132/d165282dfwp.htm
+ISSUER (SEC filer): Vaxcyte, Inc.
+FILED: 2026-10-07
+========================================
+FWP
+1
+d165282dfwp.htm
+FWP
+FWP
+Issuer Free Writing Prospectus
+Filed Pursuant to Rule 433
+Registration Statement
+No. 333-279735
+Relating to the
+Preliminary
+Prospectus Supplements
+Dated October 5, 2026
+(To Prospectus Dated May 24, 2024)
+PRICING TERM SHEET
+October 6, 2026
+Vaxcyte, Inc.
+Offerings
+of
+7,412,500 Shares of Common Stock and
+Pre-Funded
+Warrants to Purchase 400,000 Shares of
+Common Stock
+and
+$500,000,000 Aggregate Principal Amount of
+1.50% Convertible Senior Notes due 2032
+The information in this pricing term sheet supplements Vaxcyte, Inc.’s preliminary prospectus supplement, dated October 5, 2026 (the
+“Common Stock Preliminary Prospectus Supplement”), relating to an offering of common stock and
+pre-funded
+warrants to purchase shares of common stock (the “Common Stock Offering”), and
+Vaxcyte, Inc.’s preliminary prospectus supplement, dated October 5, 2026 (the “Convertible Note Preliminary Prospectus Supplement,” and, together with the Common Stock Preliminary Prospectus Supplement, the “Preliminary
+Prospectus Supplements”), relating to an offering of convertible senior notes due 2032 (the “Convertible Note Offering”), and supersedes the information in the applicable Preliminary Prospectus Supplement to the extent inconsistent
+with the information in that Preliminary Prospectus Supplement. Terms used, but not defined, in this pricing term sheet have the respective meanings set forth in the applicable Preliminary Prospectus Supplement. As used in this pricing term sheet,
+“we,” “our” and “us” refer to Vaxcyte, Inc. and not to its subsidiary.
+- 1 -
+Common Stock Offering
+Issuer | Vaxcyte, Inc.
+Securities Offered | 7,412,500 (or, if the underwriters of the Common Stock Offering fully exercise their option to purchase additional shares, 8,584,375) shares of common stock, $0.001 par value per share, of Vaxcyte, Inc. (the “Common
+Stock”) and pre-funded warrants to purchase 400,000 shares of Common Stock (the “Pre-Funded Warrants”).
+Ticker / Exchange for Common Stock | PCVX / Nasdaq Global Select Market (“NASDAQ”).
+Last Reported Sale Price per Share of Common Stock on NASDAQ on October 6, 2026 | $66.70.
+Public Offering Price per Share of Common Stock | $64.00 per share of Common Stock.
+Public Offering Price per Pre-Funded Warrant | $63.999 per Pre-Funded Warrant, which equals the public offering price per share of Common Stock less the $0.001 per share exercise price of each Pre-Funded Warrant.
+Exercise Price per Pre-Funded Warrant | $0.001 per share of Common Stock, subject to adjustment as described in the Common Stock Preliminary Prospectus Supplement.
+Underwriting Discount | $3.36 per share of Common Stock or per Pre-Funded Warrant, and $26,250,000 in the aggregate (or $30,187,500 in the aggregate, if the underwriters of the Common Stock Offering fully exercise their option to purchase additional shares
+of Common Stock).
+Trade Date | October 7, 2026.
+Settlement Date | October 9, 2026, which is the second business day after the Trade Date (this settlement cycle being referred to as “T+2”). Under Rule 15c6-1 under the Securities Exchange Act
+of 1934, as amended (the “Exchange Act”), trades in the secondary market generally must settle in one business day, unless the parties to the trade expressly agree otherwise. Accordingly, purchasers who wish to trade the shares of Common
+Stock before the business day before the Settlement Date must, because the shares of Common Stock initially will settle T+2, specify an alternate settlement cycle at the time of such trade to prevent a failed settlement. Those purchasers should
+consult their advisors.
+Use of Proceeds | We estimate that the net proceeds to us from the Common Stock Offering will be approximately $473.3 million (or approximately $544.3 million if the underwriters of the Common Stock Offering fully exercise their option to
+purchase additional Common Stock), after deducting the underwriting discounts and commissions and our estimated offering expenses. We intend to use the combined net proceeds from the Common
+- 2 -
+Stock Offering and the Convertible Note Offering, together with our existing cash, cash equivalents and investments, to fund (i) clinical development of the VAX-31 adult and pediatric
+programs, including (a) for the ongoing VAX-31 adult Phase 3 program, the trial evaluating concomitant administration with a seasonal influenza vaccine (OPUS-2, enrolled), the trial in adults who have previously received a pneumococcal vaccine (OPUS-3, enrolled) and the planned manufacturing consistency study, and the anticipated topline safety, tolerability and
+immunogenicity data announcements from such studies, and (b) for the VAX-31 infant Phase 2 dosefinding study (enrolled), the anticipated topline data announcement(s) from the primary three-dose
+immunization series and booster dose; (ii) manufacturing scale-up, processes and supply to support our clinical studies and the potential commercial launches of our PCV programs, including (a) to
+establish additional manufacturing capacity to meet potential incremental supply requirements for the global adult and pediatric populations following the potential initial commercial launch of VAX-31 in
+adults in the United States and (b) to build inventory levels in advance of such potential commercial launch; (iii) medical affairs, commercial and systems-related investments to prepare for and execute the anticipated U.S. launch of VAX-31 in adults; (iv) ongoing research and development of our other earlystage pipeline vaccine candidates; and (v) general corporate purposes, including working capital, operating expenses and capital
+expenditures, as well as potential expansion of our research pipeline.
+Book-Running Managers | Jefferies LLC
+Leerink Partners LLC
+BofA Securities, Inc.
+Evercore Group L.L.C.
+Goldman Sachs & Co. LLC
+Guggenheim Securities, LLC
+Bookrunner | Mizuho Securities USA LLC
+Lead Manager | BTIG, LLC
+CUSIP / ISIN Numbers for the Common Stock | 92243G108 / US92243G1085.
+- 3 -
+Convertible Note Offering
+Issuer | Vaxcyte, Inc.
+Ticker / Exchange for Common Stock | PCVX / NASDAQ.
+Trade Date | October 7, 2026.
+Settlement Date | October 9, 2026, which is the second business day after the Trade Date (this settlement cycle being referred to as “T+2”). Under Rule 15c6-1 under the Exchange Act, trades in
+the secondary market generally must settle in one business day, unless the parties to the trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes before the business day before the Settlement Date must, because the Notes
+initially will settle T+2, specify an alternate settlement cycle at the time of such trade to prevent a failed settlement. Those purchasers should consult their advisors.
+Notes | 1.50% convertible senior notes due 2032 (the “Notes”).
+Principal Amount | $500,000,000 (or, if the underwriters of the Convertible Note Offering fully exercise their over-allotment option to purchase additional Notes, $575,000,000) aggregate principal amount of Notes.
+Public Offering Price | 100% of the principal amount of the Notes, plus accrued interest, if any, from the Settlement Date.
+Underwriting Discount | 2.75% of the principal amount of the Notes, and $13,750,000 in the aggregate (or $15,812,500 in the aggregate, if the underwriters of the Convertible Note Offering fully exercise their over-allotment option to purchase additional
+Notes), in each case plus accrued interest, if any, from the Settlement Date.
+Maturity | October 15, 2032, unless earlier repurchased, redeemed or converted.
+Stated Interest Rate | 1.50% per annum.
+Interest Payment Dates | April 15 and October 15 of each year, beginning on April 15, 2027.
+Record Dates | April 1 and October 1.
+- 4 -
+Last Reported Sale Price per Share of Common Stock on NASDAQ on October 6, 2026 | $66.70.
+Conversion Premium | Approximately 40.0% above the Public Offering Price per Share of Common Stock in the Common Stock Offering.
+Initial Conversion Price | Approximately $89.60 per share of our Common Stock.
+Initial Conversion Rate | 11.1607 shares of our Common Stock per $1,000 principal amount of Notes.
+Provisional Redemption | We will have the right, at our election, to redeem (a “provisional redemption”) all, or any portion (subject to certain limitations described below), of the Notes, at any time, and from time to time, on or after
+October 22, 2029 and on or before the 20th scheduled trading day immediately before the maturity date, at a cash redemption price equal to the principal amount of the Notes to be redeemed, plus accrued and unpaid interest, if any, to, but
+excluding, the redemption date, but only if the last reported sale price per share of our Common Stock exceeds 130% of the conversion price on (x) each of at least 20 trading days, whether or not consecutive, during the 30 consecutive trading
+days ending on, and including, the trading day immediately before the date we send the related redemption notice; and (y) the trading day immediately before the date we send such notice. However, we may not redeem less than all of the
+outstanding Notes pursuant to a provisional redemption unless at least $75.0 million aggregate principal amount of Notes are outstanding and not called for redemption as of the time we send the related redemption notice. In addition, calling
+any Note for provisional redemption will constitute a make-whole fundamental change with respect to that Note, in which case the conversion rate applicable to the conversion of that Note will be increased in certain circumstances if it is converted
+after it is called for provisional redemption. See “Description of Notes—Optional Redemption—Provisional Redemption” in the Convertible Note Preliminary Prospectus
+Supplement.
+- 5 -
+Cleanup Redemption | We will have the right, at our election, to redeem (a “cleanup redemption”) all, but not less than all, of the Notes, at any time, at a cash redemption price equal to the principal amount of the Notes to be redeemed,
+plus accrued and unpaid interest, if any, to, but excluding, the redemption date, but only if the principal amount of the Notes outstanding at the time we send the related redemption notice is less than 10% of the aggregate principal amount of the
+Notes issued in this offering (including any additional Notes issued pursuant to any exercise of the underwriters’ option to purchase additional Notes). In addition, calling the Notes for cleanup redemption will constitute a make-whole
+fundamental change, which will require us to increase the conversion rate in certain circumstances for a specified period of time. See “Description of Notes—Optional Redemption—Cleanup Redemption” in the Convertible Note
+Preliminary Prospectus Supplement.
+Use of Proceeds | We estimate that the net proceeds to us from the Convertible Note Offering will be approximately $485.8 million (or approximately $558.7 million if the underwriters of the Convertible Note Offering fully exercise their
+over-allotment option to purchase additional Notes), after deducting the underwriting discounts and commissions and our estimated offering expenses. We intend to use the combined net proceeds from the Convertible Note Offering and the Common Stock
+Offering together with our existing cash, cash equivalents and investments, to fund (i) clinical development of the VAX-31 adult and pediatric programs, including (a) for the ongoing VAX-31 adult Phase 3 program, the trial evaluating concomitant administration with a seasonal influenza vaccine (OPUS-2, enrolled), the trial in adults who have previously
+received a pneumococcal vaccine (OPUS-3, enrolled) and the planned manufacturing consistency study, and the anticipated topline safety, tolerability and immunogenicity data announcements from such studies, and
+(b) for the VAX-31 infant Phase 2 dosefinding study (enrolled), the anticipated topline data announcement(s) from the primary three-dose immunization series and booster dose; (ii) manufacturing scale-up, processes and supply to support our clinical studies and the potential commercial launches of our PCV programs, including (a) to establish additional manufacturing capacity to meet potential
+incremental supply requirements for the global adult and pediatric populations following the potential initial commercial launch of VAX-31 in adults in the United States and (b) to build inventory levels
+in advance of such potential commercial launch; (iii) medical affairs, commercial and systems-related investments to prepare for and execute the anticipated U.S. launch of VAX-31 in adults;
+(iv) ongoing research and development of our other earlystage pipeline vaccine
+- 6 -
+candidates; and (v) general corporate purposes, including working capital, operating expenses and capital expenditures, as well as potential expansion of our research pipeline. See “Use of Proceeds” in the
+Convertible Note Preliminary Prospectus Supplement.
+Book-Running Managers | Jefferies LLC
+Leerink Partners LLC
+BofA Securities, Inc.
+Goldman Sachs & Co. LLC
+Evercore Group L.L.C.
+Bookrunners | Guggenheim Securities, LLC
+Mizuho Securities USA LLC
+Lead Manager | Needham & Company, LLC
+CUSIP / ISIN Numbers for the Notes | 92243G AA6 / US92243GAA67.
+Increase to Conversion Rate in Connection with a Make-Whole Fundamental Change | If a make-whole fundamental change occurs with respect to any Note and the conversion date for the conversion of such Note occurs during the related make-whole fundamental change conversion period, then, subject to the provisions
+described in the Convertible Note Preliminary Prospectus Supplement under the caption “Description of Notes—Conversion Rights—Increase in Conversion Rate in Connection with a Make-Whole Fundamental Change,” the conversion
+rate applicable to such conversion will be increased by a number of shares set forth in the table below corresponding (after interpolation, as described below) to the make-whole fundamental change effective date and the stock price of such
+make-whole fundamental change:
+Stock Price
+Make-Whole Fundamental
+Change Effective Date | $64.00 | $75.00 | $89.60 | $102.50 | $116.48 | $150.00 | $225.00 | $325.00 | $475.00 | $650.00
+October 9, 2026 | 4.4643 | 3.4015 | 2.4747 | 1.9262 | 1.5049 | 0.8977 | 0.3527 | 0.1234 | 0.0232 | 0.0000
+October 15, 2027 | 4.4643 | 3.3957 | 2.4289 | 1.8637 | 1.4348 | 0.8289 | 0.3068 | 0.0995 | 0.0151 | 0.0000
+October 15, 2028 | 4.4643 | 3.3775 | 2.3605 | 1.7757 | 1.3394 | 0.7400 | 0.2524 | 0.0739 | 0.0076 | 0.0000
+October 15, 2029 | 4.4643 | 3.3049 | 2.2319 | 1.6296 | 1.1913 | 0.6147 | 0.1854 | 0.0468 | 0.0013 | 0.0000
+October 15, 2030 | 4.4643 | 3.1395 | 2.0000 | 1.3858 | 0.9584 | 0.4383 | 0.1082 | 0.0216 | 0.0000 | 0.0000
+October 15, 2031 | 4.4643 | 2.8052 | 1.5648 | 0.9565 | 0.5792 | 0.2024 | 0.0364 | 0.0049 | 0.0000 | 0.0000
+October 15, 2032 | 4.4643 | 2.1727 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000
+- 7 -
+If such make-whole fundamental change effective date or stock price is not set forth in the table above,
+then:
+• | if such stock price is between two stock prices in the table above or the make-whole fundamental change effective
+date is between two dates in the table above, then the number of additional shares will be determined by straight-line interpolation between the numbers of additional shares set forth for the higher and lower stock prices in the table above or the
+earlier and later dates in the table above, based on a 365- or 366-day year, as applicable; and
+• | if the stock price is greater than $650.00 (subject to adjustment in the same manner as the stock prices set
+forth in the column headings of the table above are adjusted, as described in the Convertible Note Preliminary Prospectus Supplement under the caption “Description of Notes—Conversion Rights—Increase in Conversion Rate in
+Connection with a Make-Whole Fundamental Change—Adjustment of Stock Prices and Number of Additional Shares”), or less than $64.00 (subject to adjustment in the same manner), per share, then no additional shares will be added to the
+conversion rate.
+Notwithstanding anything to the contrary, in no event will the conversion rate be increased to an amount that exceeds
+15.6250 shares of our Common Stock per $1,000 principal amount of Notes, which amount is subject to adjustment in the same manner as, and at the same time and for the same events for which, the conversion rate is required to be adjusted pursuant to
+the provisions described in the Convertible Note Preliminary Prospectus Supplement under the caption “Description of Notes—Conversion Rights—Conversion Rate Adjustments—Generally.”
+* * *
+We have filed a registration statement
+(including a prospectus) and the Preliminary Prospectus Supplements with the SEC for the offerings to which this communication relates. Before you invest, you should read the applicable Preliminary Prospectus Supplement and the prospectus in that
+registration statement and other documents we have filed with the SEC for more complete information about us and these offerings. You may get these documents free by visiting EDGAR on the SEC website at
+www.sec.gov
+.
+Alternatively, we, any underwriter or any dealer participating in the applicable offering will arrange to send you the applicable Preliminary Prospectus Supplement (or, when available, the applicable final prospectus supplement) and the accompanying
+prospectus upon request to: Jefferies LLC, Attention: Equity Syndicate Prospectus Department, 520 Madison Avenue, New York, New York 10022, by telephone at (877)
+821-7388
+or by email at
+Prospectus_Department@Jefferies.com; or Leerink Partners LLC, Attention: Syndicate Department, 53 State Street, 40th Floor, Boston, Massachusetts 02109, by telephone at (800)
+808-7525,
+ext. 6105, or by email
+at syndicate@leerink.com.
+- 8 -
+The information in this pricing term sheet is not a complete description of the Common Stock, the Common
+Stock Offering, the Notes or the Convertible Note Offering. You should rely only on the information contained or incorporated by reference in the applicable Preliminary Prospectus Supplement and the accompanying prospectus, as supplemented by this
+pricing term sheet, in making an investment decision with respect to the Common Stock or the Notes.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY
+APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.
+- 9 -

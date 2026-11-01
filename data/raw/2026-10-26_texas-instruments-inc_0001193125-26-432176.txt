@@ -1,0 +1,161 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/97476/000119312526432176/d161660dfwp.htm
+ISSUER (SEC filer): TEXAS INSTRUMENTS INC
+FILED: 2026-10-26
+========================================
+FWP
+1
+d161660dfwp.htm
+FWP
+FWP
+Filed pursuant to Rule 433
+Registration No.
+333-284977
+Issuer Free Writing Prospectus dated October 26, 2026
+Relating to Preliminary Prospectus Supplement dated October 26, 2026
+TEXAS INSTRUMENTS INCORPORATED
+Pricing Term Sheet
+5.000% Notes due 2028
+Issuer: | Texas Instruments Incorporated (“TI”)
+Principal Amount: | $500,000,000 (the “2028 Notes”)
+Maturity: | November 9, 2028
+Coupon: | 5.000%
+Price to Public: | 99.827% of principal amount
+Interest Payment Dates: | May 9 and November 9, beginning on May 9, 2027, and on the maturity date
+Day Count Convention: | 30/360
+Proceeds (before expenses) to TI: | $498,135,000
+Benchmark Treasury: | 4.750% due September 30, 2028
+Spread to Benchmark Treasury: | + 38 basis points
+Yield to Maturity: | 5.092%
+Benchmark Treasury Price and Yield: | 100-02 1 ⁄ 8 ; 4.712%
+Make-Whole Call: | At any time at the greater of: (1) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 10 basis points less (b) interest accrued to the date of redemption, and (2) 100% of the
+principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption date.
+1
+Special Mandatory Redemption: | If (i) the Acquisition (as defined in the preliminary prospectus supplement) is not consummated on or prior to the later of (x) February 4, 2027 (or, if the “Termination Date” under the Merger Agreement
+(as defined in the preliminary prospectus supplement) is automatically extended to August 4, 2027 or February 4, 2028 in accordance with the terms of the Merger Agreement, such extended date) and (y) the date that is five business
+days after any later date to which the parties to the Merger Agreement may agree to extend the “Termination Date” in the Merger Agreement (such later date, the “Special Mandatory Redemption End Date”), (ii) the Merger
+Agreement is terminated (other than in connection with the consummation of the Acquisition) or (iii) the Issuer determines that the Acquisition will not be consummated prior to the Special Mandatory Redemption End Date or at all, the Issuer
+will be required to redeem all of the outstanding 2028 Notes at a redemption price equal to 101% of the aggregate principal amount of the 2028 Notes to be redeemed plus accrued and unpaid interest, if any, to, but excluding the Special Mandatory
+Redemption Date (as defined in the preliminary prospectus supplement)
+Trade Date: | October 26, 2026
+Settlement Date: | November 9, 2026 (T+10)
+Denominations: | $2,000 and multiples of $1,000 thereafter
+CUSIP/ISIN: | 882508 CN2 / US882508CN25
+5.350% Notes due 2031
+Issuer: | Texas Instruments Incorporated (“TI”)
+Principal Amount: | $500,000,000 (the “2031 Notes”)
+Maturity: | November 9, 2031
+2
+Coupon: | 5.350%
+Price to Public: | 99.779% of principal amount
+Interest Payment Dates: | May 9 and November 9, beginning on May 9, 2027, and on the maturity date
+Day Count Convention: | 30/360
+Proceeds (before expenses) to TI: | $497,395,000
+Benchmark Treasury: | 5.000% due September 30, 2031
+Spread to Benchmark Treasury: | + 58 basis points
+Yield to Maturity: | 5.401%
+Benchmark Treasury Price and Yield: | 100-24 3 ⁄ 4 ; 4.821%
+Make-Whole Call: | At any time before October 9, 2031 (one month before the maturity date) at the greater of: (1) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption
+date (assuming the Notes matured on October 9, 2031) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus
+10 basis points less (b) interest accrued to the date of redemption, and (2) 100% of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption date.
+Par Call: | At any time on or after October 9, 2031 (one month before the maturity date) at 100% of the principal amount of notes being redeemed plus accrued and unpaid interest thereon to the redemption date.
+3
+Special Mandatory Redemption: | If (i) the Acquisition is not consummated on or prior to the later of (x) February 4, 2027 (or, if the “Termination Date” under the Merger Agreement is automatically extended to August 4, 2027 or
+February 4, 2028 in accordance with the terms of the Merger Agreement, such extended date) and (y) the date that is five business days after any later date to which the parties to the Merger Agreement may agree to extend the
+“Termination Date” in the Merger Agreement (such later date, the “Special Mandatory Redemption End Date”), (ii) the Merger Agreement is terminated (other than in connection with the consummation of the Acquisition) or
+(iii) the Issuer determines that the Acquisition will not be consummated prior to the Special Mandatory Redemption End Date or at all, the Issuer will be required to redeem all of the outstanding 2031 Notes at a redemption price equal to 101%
+of the aggregate principal amount of the 2031 Notes to be redeemed plus accrued and unpaid interest, if any, to, but excluding the Special Mandatory Redemption Date.
+Trade Date: | October 26, 2026
+Settlement Date: | November 9, 2026 (T+10)
+Denominations: | $2,000 and multiples of $1,000 thereafter
+CUSIP/ISIN: | 882508 CP7 / US882508CP72
+5.500% Notes due 2033
+Issuer: | Texas Instruments Incorporated (“TI”)
+Principal Amount: | $500,000,000 (the “2033 Notes”)
+Maturity: | November 9, 2033
+Coupon: | 5.500%
+Price to Public: | 99.587% of principal amount
+Interest Payment Dates: | May 9 and November 9, beginning on May 9, 2027, and on the maturity date
+Day Count Convention: | 30/360
+Proceeds (before expenses) to TI: | $496,310,000
+4
+Benchmark Treasury: | 5.000% due September 30, 2033
+Spread to Benchmark Treasury: | + 68 basis points
+Yield to Maturity: | 5.572%
+Benchmark Treasury Price and Yield: | 100-20; 4.892%
+Make-Whole Call: | At any time before September 9, 2033 (two months before the maturity date) at the greater of: (1) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the
+redemption date (assuming the Notes matured on September 9, 2033) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the
+Treasury Rate plus 15 basis points less (b) interest accrued to the date of redemption, and (2) 100% of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption
+date.
+Par Call: | At any time on or after September 9, 2033 (two months before the maturity date) at 100% of the principal amount of notes being redeemed plus accrued and unpaid interest thereon to the redemption date.
+Special Mandatory Redemption: | If (i) the Acquisition is not consummated on or prior to the later of (x) February 4, 2027 (or, if the “Termination Date” under the Merger Agreement is automatically extended to August 4, 2027 or
+February 4, 2028 in accordance with the terms of the Merger Agreement, such extended date) and (y) the date that is five business days after any later date to which the parties to the Merger Agreement may agree to extend the
+“Termination Date” in the Merger Agreement (such later date, the “Special Mandatory Redemption End Date”), (ii) the Merger Agreement is terminated (other than in connection with the consummation of the Acquisition) or
+(iii) the Issuer determines that the Acquisition will not be consummated prior to the Special Mandatory Redemption End Date or at all, the Issuer will be required to redeem all of the outstanding 2033 Notes at a redemption price equal to 101%
+of the aggregate principal amount of the 2033 Notes to be redeemed plus accrued and unpaid interest, if any, to, but excluding the Special Mandatory Redemption Date.
+5
+Trade Date: | October 26, 2026
+Settlement Date: | November 9, 2026 (T+10)
+Denominations: | $2,000 and multiples of $1,000 thereafter
+CUSIP/ISIN: | 882508 CQ5 / US882508CQ55
+5.750% Notes due 2036
+Issuer: | Texas Instruments Incorporated (“TI”)
+Principal Amount: | $500,000,000 (the “2036 Notes”)
+Maturity: | November 9, 2036
+Coupon: | 5.750%
+Price to Public: | 99.910% of principal amount
+Interest Payment Dates: | May 9 and November 9, beginning on May 9, 2027, and on the maturity date
+Day Count Convention: | 30/360
+Proceeds (before expenses) to TI: | $497,800,000
+Benchmark Treasury: | 4.625% due August 15, 2036
+Spread to Benchmark Treasury: | + 78 basis points
+Yield to Maturity: | 5.762%
+Benchmark Treasury Price and Yield: | 97-08; 4.982%
+6
+Make-Whole Call: | At any time before August 9, 2036 (three months before the maturity date) at the greater of: (1) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the
+redemption date (assuming the Notes matured on August 9, 2036) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury
+Rate plus 15 basis points less (b) interest accrued to the date of redemption, and (2) 100% of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption date.
+Par Call: | At any time on or after August 9, 2036 (three months before the maturity date) at 100% of the principal amount of notes being redeemed plus accrued and unpaid interest thereon to the redemption date.
+Special Mandatory Redemption: | If (i) the Acquisition is not consummated on or prior to the later of (x) February 4, 2027 (or, if the “Termination Date” under the Merger Agreement is automatically extended to August 4, 2027 or
+February 4, 2028 in accordance with the terms of the Merger Agreement, such extended date) and (y) the date that is five business days after any later date to which the parties to the Merger Agreement may agree to extend the
+“Termination Date” in the Merger Agreement (such later date, the “Special Mandatory Redemption End Date”), (ii) the Merger Agreement is terminated (other than in connection with the consummation of the Acquisition) or
+(iii) the Issuer determines that the Acquisition will not be consummated prior to the Special Mandatory Redemption End Date or at all, the Issuer will be required to redeem all of the outstanding 2036 Notes at a redemption price equal to 101%
+of the aggregate principal amount of the 2036 Notes to be redeemed plus accrued and unpaid interest, if any, to, but excluding the Special Mandatory Redemption Date.
+7
+Trade Date: | October 26, 2026
+Settlement Date: | November 9, 2026 (T+10)
+Denominations: | $2,000 and multiples of $1,000 thereafter
+CUSIP/ISIN: | 882508 CR3 / US882508CR39
+Other Information
+Ratings:* | Moody’s: Aa3 (stable outlook) S&P: A+
+(stable outlook)
+Joint Book-Running Managers: | J.P. Morgan Securities LLC Citigroup Global
+Markets Inc. BofA Securities, Inc. U.S. Bancorp Investments,
+Inc. Barclays Capital Inc. Mizuho Securities USA LLC Morgan Stanley & Co. LLC MUFG Securities Americas
+Inc.
+Co-Manager: | Goldman Sachs & Co. LLC
+* | A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision
+or withdrawal at any time.
+It is expected that delivery of the notes will be made against payment therefore on or about
+November 9, 2026, which is the tenth business day following the date hereof (such settlement cycle being referred to as “T+10”). Under Rule
+15c6-1
+under the Securities Exchange Act of 1934, as
+amended, trades in the secondary market generally are required to settle in one business day unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the notes prior to the business day immediately
+before the delivery of the notes will be required, by virtue of the fact that the notes initially will settle in T+10, to specify an alternative settlement cycle at the time of any such trade to prevent failed settlement. Purchasers of the notes who
+wish to trade the notes prior to the business day immediately before the delivery of the notes should consult their own advisors.
+8
+The issuer has filed a registration statement (including a prospectus) and a prospectus supplement with
+the Securities and Exchange Commission (“SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement, the prospectus supplement and other documents the
+issuer has filed with the SEC for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer
+participating in the offering will arrange to send you the prospectus and prospectus supplement if you request it by calling J.P. Morgan Securities LLC at
+1-212-834-4533
+(collect), Citigroup Global Markets Inc. at
+1-800-831-9146
+(toll-free), BofA Securities, Inc. at
+1-800-294-1322
+(toll-free) or U.S. Bancorp Investments, Inc. at
+1-877-558-2607
+(toll-free).
+Any
+disclaimer or other notice that may appear below is not applicable to this communication and should be disregarded. Such disclaimer or notice was automatically generated as a result of this communication being sent by Bloomberg or another email
+system.
+9

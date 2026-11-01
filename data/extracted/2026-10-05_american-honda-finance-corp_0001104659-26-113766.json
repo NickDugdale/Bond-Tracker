@@ -1,0 +1,43 @@
+{
+  "source_file": "2026-10-05_american-honda-finance-corp_0001104659-26-113766.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:42:19",
+  "usage": {
+    "input_tokens": 3818,
+    "output_tokens": 450
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "American Honda Finance Corporation",
+    "sector": "Financials",
+    "trade_date": "2026-10-05",
+    "settlement_date": "2026-10-07",
+    "rating_moodys": "A3",
+    "rating_sp": "BBB+",
+    "rating_fitch": "A-",
+    "bookrunners": [
+      "ANZ Securities, Inc.",
+      "BofA Securities, Inc.",
+      "ING Financial Markets LLC",
+      "J.P. Morgan Securities LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 300000000,
+        "coupon_pct": null,
+        "coupon_type": "floating",
+        "maturity_date": "2028-10-06",
+        "first_call_date": null,
+        "benchmark": "Compounded SOFR",
+        "spread_bps": 78,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread: +78 bps"
+      }
+    ]
+  }
+}

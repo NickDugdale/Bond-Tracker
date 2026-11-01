@@ -1,0 +1,96 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1393818/000119312526434433/d280387dfwp.htm
+ISSUER (SEC filer): Blackstone Inc.
+FILED: 2026-10-27
+========================================
+FWP
+1
+d280387dfwp.htm
+FWP
+FWP
+Free Writing Prospectus
+Filed pursuant to Rule 433
+Supplementing the
+Preliminary Prospectus Supplement dated October 27, 2026 to the
+Prospectus dated December 2, 2024
+Registration
+No. 333-283540
+Blackstone Reg Finance Co. L.L.C.
+$600,000,000 5.650% Senior Notes due 2031
+$500,000,000 5.900% Senior Notes due 2033
+Pricing Term Sheet
+October 27, 2026
+The information
+in this pricing term sheet relates to Blackstone Reg Finance Co. L.L.C.’s offering of $600,000,000 of its 5.650% Senior Notes due 2031 and $500,000,000 of its 5.900% Senior Notes due 2033 (the “Offering”) and should be read
+together with the preliminary prospectus supplement dated October 27, 2026 relating to the Offering (the “Preliminary Prospectus Supplement”), including the documents incorporated by reference therein, and the accompanying
+prospectus dated December 2, 2024, filed pursuant to Rule 424(b) under the Securities Act of 1933, as amended, with Registration Statement
+No. 333-283540,
+as amended by post-effective amendment no. 1
+thereto. The information in this pricing term sheet supersedes the information in the Preliminary Prospectus Supplement and the accompanying prospectus to the extent it is inconsistent with the information in the Preliminary Prospectus Supplement or
+the accompanying prospectus. Terms not defined in this pricing term sheet have the meanings given to such terms in the Preliminary Prospectus Supplement. All references to dollar amounts are references to U.S. dollars.
+Issuer: | Blackstone Reg Finance Co. L.L.C.
+Guarantors: | Blackstone Inc.
+Blackstone Holdings I L.P.
+Blackstone Holdings AI L.P.
+Blackstone Holdings II L.P.
+Blackstone Holdings III L.P.
+Blackstone Holdings IV L.P.
+Denominations: | $2,000 x $1,000
+Expected Ratings (Outlook)*: | A+ (stable) by Standard & Poor’s Financial Services LLC A+ (stable) by Fitch Ratings, Inc.
+Legal Format: | SEC Registered
+Interest Accrual Date: | November 2, 2026
+Settlement Date (T+4)**: | November 2, 2026
+Pricing Date: | October 27, 2026
+Title of Securities: | 5.650% Senior Notes due 2031 | 5.900% Senior Notes due 2033
+Principal Amount Offered: | $600,000,000 | $500,000,000
+Maturity Date: | November 3, 2031 | November 3, 2033
+Coupon: | 5.650% per year | 5.900% per year
+Interest Payment Dates: | May 3 and November 3, commencing on May 3, 2027 | May 3 and November 3, commencing on May 3, 2027
+Benchmark Treasury: | 5.000% due September 30, 2031 | 5.000% due September 30, 2033
+Benchmark Treasury Price and Yield: | 100-22+; 4.837% | 100-17; 4.908%
+Spread to Benchmark Treasury: | T + 85 bps | T + 100 bps
+Reoffer Yield: | 5.687% | 5.908%
+Issue Price: | 99.841% | 99.954%
+Proceeds (before expenses and underwriters’ discount): | $599,046,000 | $499,770,000
+Make-Whole Call: | T + 15 bps prior to October 3, 2031 | T + 15 bps prior to September 3, 2033
+Par Call: | On or after October 3, 2031 (one month prior to maturity date) | On or after September 3, 2033 (two months prior to maturity date)
+CUSIP / ISIN: | 092914 AD2 / US092914AD23 | 092914AE0 / US092914AE06
+Joint Book-Running Managers: | Citigroup Global Markets Inc. Goldman Sachs & Co. LLC Morgan Stanley & Co. LLC SMBC Nikko Securities America, Inc. Wells Fargo Securities, LLC
+Co-Managers: | ANZ Securities, Inc. Barclays Capital Inc. Blackstone
+Securities Partners L.P. BMO Capital Markets Corp. BNP Paribas Securities Corp. BNY
+Mellon Capital Markets, LLC BofA Securities, Inc. CIBC World Markets Corp. Deutsche
+Bank Securities Inc. HSBC Securities (USA) Inc. J.P. Morgan Securities LLC Loop
+Capital Markets LLC Mischler Financial Group, Inc. Mizuho Securities USA LLC MUFG
+Securities Americas Inc. RBC Capital Markets, LLC R. Seelaus & Co., LLC Santander US Capital Markets LLC Scotia Capital (USA) Inc. SG
+Americas Securities, LLC Standard Chartered Bank TD Securities (USA) LLC Truist
+Securities, Inc. UBS Securities LLC U.S. Bancorp Investments, Inc.
+Conflicts of Interest: | Blackstone Securities Partners L.P., as a subsidiary of Blackstone Inc., is deemed to have a “conflict of interest” within the meaning of Rule 5121 (Public Offerings of Securities with Conflicts of Interest)
+of the Financial Industry Regulatory Authority, Inc. (“Rule 5121”). Rule 5121 imposes certain requirements on a FINRA member participating in the public offering of securities of an issuer if there is a conflict of interest and/or if
+that issuer controls, is controlled by, or is under common control with, the FINRA member. This offering is being made in compliance with the requirements of Rule 5121. In compliance with Rule 5121, Blackstone Securities Partners L.P. will not sell
+any of our securities to a discretionary account unless it has received specific written approval from the account holder in accordance with Rule 5121. The appointment of a “qualified independent underwriter” is not necessary in
+connection with this offering.
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+** | We expect that delivery of the notes will be made against payment therefore on or about the closing date, which
+will be on or about the fourth business day following the date of pricing of the notes (this settlement cycle being referred to as “T+4”). Under Rule 15c6-l of the Exchange Act, trades in the secondary market are generally required to
+settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade notes prior to the date that is one business day preceding the settlement date will be required, by virtue of the
+fact that the notes initially will settle in T+4, to specify alternate arrangements at the time of any such trade to prevent a failed settlement and should consult their own advisor.
+Blackstone Inc. has filed a registration statement (including a prospectus and related prospectus supplement) with the U.S. Securities and Exchange
+Commission (the “SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus supplement and accompanying prospectus for this offering in that registration statement, and the documents
+incorporated by reference therein that Blackstone Inc. has filed with the SEC for more complete information about Blackstone Inc., the issuer, the guarantors and this offering. You may get these documents for free by searching the SEC online
+database (EDGAR
+®
+) at
+www.sec.gov
+. Alternatively, you may obtain a copy of the prospectus by contacting Citigroup Global Markets Inc. at
+1-800-831-9146;
+Goldman Sachs & Co. LLC at
+1-866-471-2526;
+Morgan Stanley & Co. LLC at
+1-866-718-1649;
+SMBC Nikko Securities America, Inc. at
+1-888-868-6856;
+and Wells
+Fargo Securities, LLC at
+1-800-645-3751.
+Any disclaimers or notices that may appear on this Pricing Term Sheet below the text of this legend are not applicable to this Pricing Term Sheet and
+should be disregarded. Such disclaimers may have been electronically generated as a result of this Pricing Term Sheet being sent via, or posted on, Bloomberg or another electronic mail system.

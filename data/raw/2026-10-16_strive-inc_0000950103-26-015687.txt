@@ -1,0 +1,123 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1920406/000095010326015687/dp255080_fwp.htm
+ISSUER (SEC filer): Strive, Inc.
+FILED: 2026-10-16
+========================================
+FWP
+1
+dp255080_fwp.htm
+FORM FWP
+Issuer Free Writing Prospectus
+Filed Pursuant to Rule 433
+Registration File No. 333-290252
+Relating to the Preliminary Prospectus Supplement
+Dated October 13, 2026
+(To Prospectus Dated September 15, 2025)
+PRICING TERM SHEET
+October 15, 2026
+STRIVE, INC.
+Offering of
+7,000,000 Shares of
+15.00% Series A Perpetual SATS Preferred Stock
+The information
+in this pricing term sheet supplements Strive, Inc.’s preliminary prospectus supplement, dated October 13, 2026 (the “Preliminary
+Prospectus Supplement”), and supersedes the information in the Preliminary Prospectus Supplement to the extent inconsistent with
+the information in the Preliminary Prospectus Supplement. In all other respects, this pricing term sheet is qualified in its entirety
+by reference to the Preliminary Prospectus Supplement, including all documents incorporated by reference therein. Terms used, but not
+defined, in this pricing term sheet have the respective meanings set forth in the Preliminary Prospectus Supplement. The size of the
+offering was increased from the previously announced offering of 5,000,000 shares of 15.00% Series A Perpetual SATS Preferred Stock as
+described below. The final prospectus supplement relating to the offering of the 15.00% Series A Perpetual SATS Preferred Stock will
+reflect conforming changes relating to such increase in the size of the offering.
+As used in this pricing term sheet, “we,”
+“our” and “us” refer to Strive, Inc. and not to its subsidiaries.
+Issuer | Strive, Inc. (the “Company”)
+Securities Offered | 15.00% Series A Perpetual SATS Preferred Stock, $0.001 par value per share, of the Company (the “SATS Stock”).
+Amount Offered | 7,000,000 shares of SATS Stock.
+Public Offering Price | $90.00 per share of SATS Stock.
+Trade Date | October 16, 2026.
+Settlement Date | October 20,
+2026, which will be the second business day after the Trade Date (this settlement cycle being referred to as “T+2”).
+Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), trades in the secondary
+market generally must settle in one business day, unless the parties to the trade expressly agree otherwise. Accordingly, purchasers
+who wish to trade SATS Stock before the business day before the Settlement Date must, because the SATS Stock initially will settle
+T+2, specify an alternate settlement cycle at the time of such trade to prevent a failed settlement. Those purchasers should consult
+their advisors.
+Stated Amount | $100 per share of SATS Stock.
+Ranking | The SATS Stock will rank as follows: · senior to (i) Dividend Junior Stock
+(as defined in the Preliminary Prospectus Supplement, and which includes the Company’s Class A common stock, par value
+$0.001 per share (the “Class A Common Stock”) and the Company’s Class B common stock, par value $0.001 per share (the
+“Class B Common Stock” and, together with the Class A Common Stock, the “Common Stock”)) with respect to the payment
+of dividends; and (ii) Liquidation Junior Stock (as defined in the Preliminary Prospectus Supplement, and which includes Class A Common
+Stock and the Class B Common Stock) with respect to the distribution of assets upon the Company’s liquidation, dissolution or winding
+up; · equally with (i)
+Dividend Parity Stock (as defined in the Preliminary Prospectus Supplement) with respect to the payment of dividends; and (ii) Liquidation
+Parity Stock (as defined in the Preliminary Prospectus Supplement) with respect to the distribution of assets upon the Company’s
+liquidation, dissolution or winding up; · junior to the
+Company’s (i) Dividend Senior Stock and Liquidation Senior Stock (as those terms are defined in the Preliminary Prospectus Supplement)
+and (ii) any existing and future indebtedness; and · structurally junior
+to all existing and future indebtedness and other liabilities, including trade payables, and (to the extent the Company is not a holder
+thereof) capital stock of the Company’s subsidiaries. The terms of the SATS Stock will not restrict
+the Company from issuing Dividend Senior Stock, Dividend Parity Stock, Liquidation Senior Stock or Liquidation Parity Stock.
+Liquidation Preference | Initially, $100 per share of SATS Stock. The Liquidation Preference will be subject to adjustment in the manner described in the Preliminary Prospectus Supplement. However, the Liquidation Preference will not be adjusted to an amount that is less than $100 per share of SATS Stock.
+Regular Dividends | The SATS Stock will accumulate cumulative dividends
+(“regular dividends”) at a rate per annum equal to 15.00% on the Stated Amount thereof, regardless of whether or not declared
+or funds are legally available for payment. Subject to the other provisions described in the Preliminary Prospectus Supplement, regular
+dividends will be payable when, as and if declared by our board of directors or any duly authorized committee thereof, out of funds legally
+available for their payment, in arrears for each regular dividend period on each regular dividend payment date (as defined in the Preliminary
+Prospectus Supplement) to the SATS preferred stockholders of record as of the close of business on the regular record date immediately
+preceding the applicable regular dividend payment date. If and when declared, any such payments shall be calculated for each calendar
+month and subdivided and paid on each regular dividend payment date in equally divided installments based on the number of regular dividend
+payment dates in each such calendar month as set forth in the Preliminary Prospectus Supplement. No dividend, interest or other amount
+will accumulate or accrue on any unpaid regular dividends, regardless of whether regular dividends are declared for any future regular
+dividend period. We currently anticipate we will declare the first
+dividend payment to occur on November 9, 2026. If declared in full, the first scheduled regular dividend on the SATS Stock payable on
+November 9, 2026 will include all accrued and unpaid dividends from and after the closing date, and will be $0.8710 per share, assuming
+that the closing of this offering occurs on October 20, 2026.
+Regular Dividend Payment Dates | Each business day (as such term is defined in the Preliminary Prospectus Supplement), beginning on November 9, 2026, subject to declaration by our board of directors or any duly authorized committee thereof. .
+Regular Record Dates | With respect to any regular dividend payment date, the immediately preceding business day on which such regular dividend payment date occurs.
+Regular Dividend Period | Each period from, and including, the calendar day after a regular dividend payment date (or, in the case of the first regular dividend period, from, and including, the calendar day after the initial issue date) to, and including, the next regular dividend payment date.
+Directed Share Program | At our request, the underwriters have reserved up to 350,000 shares of the SATS Stock, or 5% of the shares offered, for sale at the public offering price through a directed share program to certain of our employees, officers and directors based in the United States and their friends and family members, and certain other individuals identified by management. The number of shares of the SATS Stock available for sale to the general public will be reduced to the extent that such persons purchase such reserved shares. Any reserved shares not so purchased will be offered by the underwriters to the general public on the same basis as the other shares offered in this offering. Fidelity Brokerage Services LLC and Fidelity Capital Markets, a division of National Financial Services LLC, a selling group member in this offering, will administer our directed share program. See “Underwriting—Directed Share Program” in the Preliminary Prospectus Supplement.
+Dividend Reserve | At the closing of this offering, we intend to
+increase our existing dividend reserve in an amount equal to the first 18 months of dividend payments calculated as of the date of this
+offering (the “Dividend Reserve”) by depositing an equivalent of $22.50 per share of SATS Stock into an account funded by
+us with a combination of existing cash on hand and securities held by us (based on the value of such securities at the closing of this
+offering). Subject to compliance with Nevada law and any other applicable requirements, we may make dividend distributions from the Dividend
+Reserve or from any other account maintained by us to the holders of the then-outstanding SATS Stock following the closing of this offering. We intend to invest the proceeds of the Dividend
+Reserve in various capital preservation instruments, including short-term investment grade, interest-bearing securities, and money-market
+funds. Any investment income earned from the Dividend Reserve will be remitted to us to use for working capital or general corporate purposes,
+including the acquisition of additional bitcoin.
+No Preemptive or Conversion Rights | The SATS Stock will not be convertible into or exchangeable for any other securities or property and will not be entitled to any preemptive or similar rights.
+Limitation on Junior Payments | The Company will not declare or pay dividends on, or repurchase, Junior Stock while any accumulated SATS Stock dividends remain unpaid, subject to customary exceptions.
+Redemption | The SATS Stock is not redeemable at the Company’s option, except that the Company may redeem all, and not less than all, of the SATS Stock (i) if a Tax Event (as defined in the Preliminary Prospectus Supplement) occurs or (ii) if fewer than 25% of the total number of shares of SATS Stock issued in this offering and in any future offering, taken together, remain outstanding. The redemption price shall be equal to the Liquidation Preference as of the business day before the date the related redemption notice is sent, plus any accumulated and unpaid regular dividends to, and including, the redemption date.
+Fundamental Change Repurchase Right | Upon the occurrence of a Fundamental Change (as defined in the Preliminary Prospectus Supplement), each holder of SATS Stock will have the right to require the Company to repurchase some or all of its SATS Stock at a cash repurchase price equal to the Stated Amount thereof, plus any accumulated and unpaid regular dividends to, and including, the Fundamental Change Repurchase Date (as defined in the Preliminary Prospectus Supplement).
+Lockup | The Company shall not, until the earlier of (i) the first date on which SATS Stock is listed for trading on The Nasdaq Global Market or (ii) 15 days following the Trade Date, offer, issue or sell any additional shares of SATS Stock, subject to certain exceptions, including the issuance of SATS Stock in this offering.
+Voting Rights | The SATS Stock will not have Common Stock voting rights and will have only the limited voting rights described in the Preliminary Prospectus Supplement.
+Listing | No public market currently exists for the SATS Stock. We have applied to list the SATS Stock on The Nasdaq Global Market under the symbol “SATS.” If the listing is approved, we expect trading in the SATS Stock to commence within 30 days after the Settlement Date.
+Use of Proceeds | We estimate that the gross proceeds to us from this offering will be approximately $630 million, before deducting the underwriting discounts and commissions and our estimated offering expenses. We intend to use the net proceeds for general corporate purposes, including, among other things, the acquisition of bitcoin and bitcoin-related products and for working capital, the purchase of income generating assets to grow our business, other capital expenditures, and/or repurchases of shares of our Class A Common Stock or SATA Stock, $0.001 par value. We may also use such proceeds to fund acquisitions of businesses, assets or technologies that complement our current business.
+Joint Book-Running Managers | Barclays Capital Inc. Cantor Fitzgerald & Co.
+Lead Manager | Clear Street LLC
+Co-Managers | B. Riley Securities, Inc. H.C. Wainwright & Co., LLC Maxim Group LLC StoneX Financial Inc.
+CUSIP / ISIN Numbers for SATS Stock | 862945 409 / US8629454096
+* * *
+The Preliminary Prospectus Supplement incorporates
+by reference the Current Report on Form 8-K filed with the SEC on November 14, 2025 (Accession No. 0001140361-25-042336). Any other Current
+Report on Form 8-K filed with the SEC on November 14, 2025 is not deemed filed and is not incorporated by reference in the Preliminary
+Prospectus Supplement.
+* * *
+We have filed a registration
+statement (including a prospectus) and the Preliminary Prospectus Supplement with the SEC for the offering to which this communication
+relates. Before you invest, you should read the Preliminary Prospectus Supplement and the prospectus in that registration statement and
+other documents we have filed with the SEC for more complete information about us and this offering. You may get these documents free
+by visiting EDGAR on the SEC website at
+www.sec.gov
+. Alternatively, we, any underwriter or any dealer participating in the offering
+will arrange to send you the Preliminary Prospectus Supplement (or, when available, the final prospectus supplement) and the accompanying
+prospectus upon request to: Barclays Capital Inc., c/o Broadridge Financial Solutions, 1155 Long Island Avenue, Edgewood, New York 11717,
+by email at barclaysprospectus@broadridge.com or telephone at 1-888-603-5847; or Cantor Fitzgerald & Co., Attention: Capital Markets,
+110 East 59th Street, 6th Floor, New York, NY 10022, or by email at prospectus@cantor.com.
+The information in this pricing
+term sheet is not a complete description of the SATS Stock or the offering. You should rely only on the information contained or incorporated
+by reference in the Preliminary Prospectus Supplement and the accompanying prospectus, as supplemented by this pricing term sheet, in
+making an investment decision with respect to the SATS Stock.
+ANY DISCLAIMERS OR OTHER
+NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE
+AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.

@@ -1,0 +1,26 @@
+{
+  "source_file": "2026-10-16_strive-inc_0000950103-26-015687.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:43:15",
+  "usage": {
+    "input_tokens": 5748,
+    "output_tokens": 351
+  },
+  "data": {
+    "is_bond_pricing": false,
+    "not_bond_reason": "This is a preferred stock offering, not a bond issuance.",
+    "issuer": "Strive, Inc.",
+    "sector": null,
+    "trade_date": "2026-10-16",
+    "settlement_date": "2026-10-20",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "Barclays Capital Inc.",
+      "Cantor Fitzgerald & Co."
+    ],
+    "use_of_proceeds": "General corporate purposes, including acquisition of bitcoin and bitcoin-related products, working capital, purchase of income generating assets, capital expenditures, and/or repurchases of Class A Common Stock or SATA Stock; may also fund acquisitions of businesses, assets or technologies complementing current business.",
+    "tranches": []
+  }
+}

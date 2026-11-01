@@ -1,0 +1,366 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/9631/000119312526420851/d64767dfwp.htm
+ISSUER (SEC filer): BANK OF NOVA SCOTIA
+FILED: 2026-10-14
+========================================
+FWP
+1
+d64767dfwp.htm
+FWP
+FWP
+Filed pursuant to Rule 433
+Registration Statement
+No. 333-298611
+Pricing Term Sheet
+Dated October 13, 2026
+The Bank of Nova Scotia
+Senior Medium-Term Notes, Series I
+Consisting of
+US$400,000,000
+Floating Rate Senior Medium-Term Notes due 2029
+US$600,000,000 5.407%
+Fixed-to-Floating
+Rate Senior Medium-Term Notes due 2029
+US$700,000,000 5.632%
+Fixed-to-Floating
+Rate Senior Medium-Term
+Notes due 2030
+US$600,000,000 5.851%
+Fixed-to-Floating
+Rate
+Senior Medium-Term Notes due 2032
+US$400,000,000 Floating Rate Senior Medium-Term Notes due 2029
+Issuer: | The Bank of Nova Scotia
+Title of the Series: | Floating Rate Senior Medium-Term Notes, due October 16, 2029 (the “2029 Floating Rate Notes”)
+Expected Ratings*: | A2 / A- / AA- (Moody’s / S&P / Fitch)
+Principal Amount: | US$400,000,000
+Issue Price: | 100.000%, plus accrued interest, if any, from the start of the initial Interest Period (as defined below) to the date of delivery.
+Trade Date: | October 13, 2026
+Settlement Date**: | October 16, 2026 (T+3)
+Maturity Date: | October 16, 2029
+Minimum Denomination: | US$2,000 and integral multiples of US$1,000 in excess thereof.
+Interest Rate: | The interest rate for each Interest Period will be equal to the Base Rate plus the Spread and will in no event be less than 0.000%.
+Base Rate: | Compounded SOFR, as defined in, and in accordance with the specific formula described under, “Description of the Notes We May Offer—Interest Rates—Floating Rate Notes—SOFR Index Notes” in the prospectus
+supplement dated October 1, 2026 (the “Prospectus Supplement”).
+Spread: | +72 basis points
+1
+Fees: | 0.150%
+Interest Payment Dates: | Quarterly, on each January 16, April 16, July 16 and October 16, beginning on January 16, 2027 and ending on the Maturity Date or the redemption date, subject to the Floating Rate Payment Convention, as
+described below.
+Interest Periods: | Each quarterly period from, and including, an Interest Payment Date (or, in the case of the initial Interest Period, commencing on the Settlement Date) to, but excluding, the following Interest Payment Date (or, in the case of the
+final Interest Period, the Maturity Date or the redemption date) (each such period, an “Interest Period”), subject to the modified following business day convention described below under “Floating Rate Payment
+Convention.”
+SOFR Interest Payment Determination Date: | The date two U.S. Government Securities Business Days before each Interest Payment Date.
+Observation Period: | In respect of each Interest Period, the period from, and including, the date two U.S. Government Securities Business Days preceding the first date in such Interest Period to, but excluding, the date two U.S. Government Securities
+Business Days preceding the Interest Payment Date for such Interest Period (or in the final Interest Period, preceding the Maturity Date or the redemption date).
+Interest Calculation: | Other than as specified herein, the interest rate on the 2029 Floating Rate Notes will be calculated as described for SOFR Index Notes in the section “Description of the Notes We May Offer—Interest Rates—Floating
+Rate Notes” in the Prospectus Supplement.
+Floating Rate Payment Convention: | If any Interest Payment Date would otherwise fall on a day that is not a Business Day, then such Interest Payment Date will be the next succeeding Business Day. However, if the next Business Day falls in the next calendar month,
+then the Interest Payment Date will be advanced to the next preceding day that is a Business Day. If the Maturity Date or the redemption date falls on a day that is not a Business Day, the Bank will make the required payment of principal, premium,
+if any, and interest on the next succeeding Business Day, and no additional interest will be paid in respect of the postponement.
+Business Days: | New York, Toronto
+U.S. Government Securities Business Day: | Any day except for a Saturday, a Sunday or a day on which the Securities Industry and Financial Markets Association recommends that the fixed income departments of its members be closed for the entire day for purposes of trading in
+U.S. government securities.
+Day Count Fraction: | Actual/360
+Listing: | None
+2
+Optional Par Call Redemption: | The Bank may redeem the 2029 Floating Rate Notes at its option (i) in whole, but not in part, on October 16, 2028 (the date that is one year prior to the Maturity Date) or (ii) in whole, or in part, at any time and
+from time to time on or after September 16, 2029 (the date that is one month prior to the Maturity Date), in each case, at a redemption price equal to 100% of the principal amount of the 2029 Floating Rate Notes to be redeemed plus accrued and
+unpaid interest thereon to, but excluding, the redemption date. The Bank will provide written notice to the registered holders of the 2029 Floating Rate Notes of any redemption not more than 30 nor less than 5 calendar days prior to the redemption
+date.
+Tax Redemption: | The Bank may also redeem the 2029 Floating Rate Notes, in whole but not in part, at a redemption price equal to the principal amount of such 2029 Floating Rate Notes together with accrued and unpaid interest on such 2029 Floating
+Rate Notes to the date fixed for redemption under the circumstances described in “Description of the Notes We May Offer—Redemption at the Option of the Bank; No Sinking Fund—Tax Redemption” in the Prospectus
+Supplement.
+Canadian Bail-in Powers Acknowledgement: | Yes. The 2029 Floating Rate Notes are subject to bail-in conversion under the Canadian bail-in regime.
+CUSIP / ISIN: | 06418G BG1 / US06418GBG10
+Lead Managers and Joint
+Book-Runners: | Scotia Capital (USA) Inc. J.P. Morgan
+Securities LLC Natixis Securities Americas LLC Wells Fargo
+Securities, LLC
+Co-Managers: | Blaylock Van, LLC Cedar Leaf Capital Inc. Desjardins Securities Inc. Mischler Financial Group, Inc. R. Seelaus & Co., LLC
+3
+US$600,000,000 5.407% Fixed-to-Floating Rate Senior Medium-Term Notes due 2029
+Issuer: | The Bank of Nova Scotia
+Title of the Series: | 5.407% Fixed-to-Floating Rate Senior Medium-Term Notes, due October 16, 2029 (the “2029 Fixed-to-Floating Rate Notes”)
+Expected Ratings*: | A2 / A- / AA- (Moody’s / S&P / Fitch)
+Principal Amount: | US$600,000,000
+Issue Price: | 100.000%, plus accrued interest, if any, from October 16, 2026 to the date of delivery.
+Trade Date: | October 13, 2026
+Settlement Date**: | October 16, 2026 (T+3)
+Maturity Date: | October 16, 2029
+2029 Fixed Rate Period: | From, and including, October 16, 2026, to, but excluding, October 16, 2028.
+2029 Floating Rate Period: | From, and including, October 16, 2028, to, but excluding, the Maturity Date or the redemption date.
+Minimum Denomination: | US$2,000 and integral multiples of US$1,000 in excess thereof.
+Interest Rate: | With respect to the 2029 Fixed Rate Period, for each Interest Period (as defined below), the 2029 Fixed-to-Floating Rate Notes will bear interest at the fixed rate of 5.407% per annum. With respect to the 2029
+Floating Rate Period, the interest rate for each Interest Period will be equal to the Base Rate plus the Spread and will in no event be less than 0.000%.
+Treasury Benchmark: | UST 4.750% Notes due September 30, 2028
+Treasury Benchmark Price: | 99-29 3/4
+Treasury Yield: | 4.787%
+Re-offer Spread to Treasury Benchmark: | +62 basis points
+Base Rate: | Compounded SOFR, as defined in, and in accordance with the specific formula described under, “Description of the Notes We May Offer—Interest Rates—Floating Rate Notes—SOFR Index Notes” in the prospectus
+supplement dated October 1, 2026 (the “Prospectus Supplement”).
+Spread: | +72 basis points
+4
+Re-Offer Yield: | 5.407%
+Fees: | 0.150%
+Interest Payment Dates: | With respect to the 2029 Fixed Rate Period, semi-annually, on each April 16 and October 16, beginning on April 16, 2027 and
+ending on October 16, 2028 or the redemption date, subject to the Fixed-to-Floating Rate Payment Convention, as described below. With respect to the 2029 Floating Rate Period, quarterly on January 16, 2029,
+April 16, 2029, July 16, 2029 and the Maturity Date or the redemption date, subject to the Fixed-to-Floating Rate Payment Convention, as described
+below.
+Interest Periods: | The 2029 Fixed-to-Floating Rate Notes will bear interest from, and including, each Interest Payment Date (or in the case of the initial Interest Period,
+commencing on the Settlement Date) to, but excluding, the following Interest Payment Date (or, in the case of the final Interest Period, the Maturity Date or the redemption date) (each such period, an “Interest Period”), subject to the Fixed-to-Floating Rate Payment Convention, as described below.
+SOFR Interest Payment Determination Date: | With respect to the 2029 Floating Rate Period, the date two U.S. Government Securities Business Days before each Interest Payment Date.
+Observation Period: | In respect of each Interest Period during the 2029 Floating Rate Period, the period from, and including, the date two U.S. Government Securities Business Days preceding the first date in such Interest Period to, but excluding, the
+date two U.S. Government Securities Business Days preceding the Interest Payment Date for such Interest Period (or in the final Interest Period, preceding the Maturity Date or the redemption date).
+Fixed-to-Floating Rate Payment Convention: | For Interest Periods during the 2029 Fixed Rate Period, if any Interest Payment Date or the redemption date falls on a day that is not a
+Business Day, the Bank will postpone the making of such interest or principal payment to the next succeeding Business Day, and no additional interest will be paid in respect of the postponement. For Interest Periods during the 2029 Floating Rate Period, if any Interest Payment Date
+would otherwise fall on a day that is not a Business Day, then such Interest Payment Date will be the next succeeding Business Day. However, if the next Business Day falls in the next calendar month, then the Interest Payment Date will be advanced
+to the next preceding day that is a Business Day. If the Maturity Date or the redemption date falls on a day that is not a Business Day, the Bank will make the required payment of principal, premium, if any, and interest on the next succeeding
+Business Day, and no additional interest will be paid in respect of the postponement.
+5
+Business Days: | New York, Toronto
+U.S. Government Securities Business Day: | Any day except for a Saturday, a Sunday or a day on which the Securities Industry and Financial Markets Association recommends that the fixed income departments of its members be closed for the entire day for purposes of trading in
+U.S. government securities.
+Day Count Fraction: | 30/360 with respect to the 2029 Fixed Rate Period. Actual/360 with respect to the 2029 Floating Rate Period.
+Listing: | None
+Optional Make-Whole Redemption: | The Bank may redeem the 2029 Fixed-to-Floating Rate Notes at
+its option, in whole or in part, at any time and from time to time prior to October 16, 2028 (the date that is one year prior to the Maturity Date) (such date, the “2029 Par Call Date”), at a redemption price (expressed as a
+percentage of principal amount and rounded to three decimal places) equal to the greater of: (1) (a) the sum of the present values of the remaining scheduled payments of principal and
+interest thereon discounted to the redemption date on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the 2029 Treasury Rate plus 10
+basis points less (b) interest accrued to the date of redemption, and (2) 100% of the principal amount of the 2029 Fixed-to-Floating Rate Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption date. “ 2029 Treasury Rate ” means, with respect to any redemption date, the yield determined by the Bank in accordance with the following two
+paragraphs. The 2029 Treasury Rate shall be determined by the Bank after 4:15 p.m.,
+New York City time (or after such time as yields on U.S. government securities are posted daily by the Board of Governors of the Federal Reserve System), on the third business day preceding the redemption date based upon the yield or yields for the
+most recent day that appear after such time on such day in the most recent statistical release published by the Board of Governors of the Federal Reserve System designated as “Selected Interest Rates (Daily)—H.15” (or any successor
+designation or publication) (“H.15”) under the caption “U.S. government securities–Treasury constant maturities–Nominal” (or any successor caption or heading). In determining the 2029 Treasury Rate, the Bank shall
+select, as applicable: (1) the yield for the Treasury constant maturity on H.15 exactly equal to the period from the redemption date to the 2029 Par
+6
+Call Date (the “Remaining Life”); or (2) if there is no such Treasury constant maturity on H.15 exactly equal to the
+Remaining Life, the two yields – one yield corresponding to the Treasury constant maturity on H.15 immediately shorter than and one yield corresponding to the Treasury constant maturity on H.15 immediately longer than the Remaining Life
+– and shall interpolate to the 2029 Par Call Date on a straight-line basis (using the actual number of days) using such yields and rounding the result to three decimal places; or (3) if there is no such Treasury constant maturity on H.15
+shorter than or longer than the Remaining Life, the yield for the single Treasury constant maturity on H.15 closest to the Remaining Life. For purposes of this paragraph, the applicable Treasury constant maturity or maturities on H.15 shall be
+deemed to have a maturity date equal to the relevant number of months or years, as applicable, of such Treasury constant maturity from the redemption date. If on the third business day preceding the redemption date H.15 or any successor designation or publication is no longer published, the Bank shall calculate
+the 2029 Treasury Rate based on the rate per annum equal to the semi-annual equivalent yield to maturity at 11:00 a.m., New York City time, on the second business day preceding such redemption date of the United States Treasury security maturing on,
+or with a maturity that is closest to, the 2029 Par Call Date, as applicable. If there is no United States Treasury security maturing on the 2029 Par Call Date but there are two or more United States Treasury securities with a maturity date equally
+distant from the 2029 Par Call Date, one with a maturity date preceding the 2029 Par Call Date and one with a maturity date following the 2029 Par Call Date, the Bank shall select the United States Treasury security with a maturity date preceding
+the 2029 Par Call Date. If there are two or more United States Treasury securities maturing on the 2029 Par Call Date or two or more United States Treasury securities meeting the criteria of the preceding sentence, the Bank shall select from among
+these two or more United States Treasury securities the United States Treasury security that is trading closest to par based upon the average of the bid and asked prices for such United States Treasury securities at 11:00 a.m., New York City time.
+In determining the 2029 Treasury Rate in accordance with the terms of this paragraph, the semi-annual yield to maturity of the applicable United States Treasury security shall be based upon the average of the bid and asked prices (expressed as a
+percentage of principal amount) at 11:00 a.m., New York City time, of such United States Treasury security, and rounded to three decimal places.
+Optional Par Call Redemption: | The Bank may redeem the 2029 Fixed-to-Floating Rate Notes at its option (i) in whole, but not in part, on October 16, 2028 (the date that is
+one year prior to the Maturity Date) or (ii) in whole, or in part, at any time and from time to time on or after September 16, 2029 (the date that is one month prior to the Maturity Date), in each case, at a redemption price equal to 100%
+of the principal amount of the 2029 Fixed-to-Floating Rate Notes to be redeemed plus accrued and unpaid interest thereon to, but excluding, the redemption date. The Bank
+will provide written notice to the registered holders of the 2029 Fixed-to-Floating Rate Notes of any redemption not more than 30 nor less than 5 calendar days prior to
+the redemption date.
+7
+Tax Redemption: | The Bank may also redeem the 2029 Fixed-to-Floating Rate Notes, in whole but not in part, at a redemption price equal to the principal amount of such
+2029 Fixed-to-Floating Rate Notes together with accrued and unpaid interest on such 2029 Fixed-to-Floating Rate Notes to the date fixed for redemption under the circumstances described in “Description of the Notes We May Offer—Redemption at the
+Option of the Bank; No Sinking Fund—Tax Redemption” in the Prospectus Supplement.
+Canadian Bail-in Powers Acknowledgement: | Yes. The 2029 Fixed-to-Floating Rate Notes are subject to bail-in conversion under the Canadian bail-in regime.
+CUSIP / ISIN: | 06418G BH9 / US06418GBH92
+Lead Managers and Joint
+Book-Runners: | Scotia Capital (USA) Inc. J.P. Morgan
+Securities LLC Natixis Securities Americas LLC Wells Fargo
+Securities, LLC
+Co-Managers: | Blaylock Van, LLC Cedar Leaf Capital Inc. Desjardins Securities Inc. Mischler Financial Group, Inc. R. Seelaus & Co., LLC
+8
+US $ 700,000,000 5.632 % Fixed-to- Floating Rate Sen ior Medium-Term Notes due 2030
+Issuer: | The Bank of Nova Scotia
+Title of the Series: | 5.632% Fixed-to-Floating Rate Senior Medium-Term Notes, due October 16, 2030 (the “2030 Fixed-to-Floating Rate Notes”)
+Expected Ratings * : | A2 / A- / AA- (Moody’s / S&P / Fitch)
+Principal Amount: | US$700,000,000
+Issue Price: | 100.000%, plus accrued interest, if any, from October 16, 2026 to the date of delivery.
+Trade Date: | October 13, 2026
+Settlement Date ** : | October 16, 2026 (T+3)
+Maturity Date: | October 16, 2030
+2030 Fixed Rate Period: | From, and including, October 16, 2026, to, but excluding, October 16, 2029.
+2030 Floating Rate Period: | From, and including, October 16, 2029, to, but excluding, the Maturity Date or the redemption date.
+Minimum Denomination: | US$2,000 and integral multiples of US$1,000 in excess thereof.
+Interest Rate: | With respect to the 2030 Fixed Rate Period, for each Interest Period (as defined below), the 2030 Fixed-to-Floating Rate Notes will bear
+interest at the fixed rate of 5.632% per annum. With respect to the 2030 Floating
+Rate Period, the interest rate for each Interest Period will be equal to the Base Rate plus the Spread and will in no event be less than 0.000%.
+Treasury Benchmark: | UST 4.875% Notes due October 15, 2029
+Treasury Benchmark Price: | 99-28 3/4
+Treasury Yield: | 4.912%
+Re-offer Spread to Treasury Benchmark: | +72 basis points
+Base Rate: | Compounded SOFR, as defined in, and in accordance with the specific formula described under, “Description of the Notes We May Offer—Interest Rates— Floating Rate Notes—SOFR Index Notes” in the
+prospectus supplement dated October 1, 2026 (the “Prospectus Supplement”).
+Spread : | +90 basis points
+9
+Re-Offer Yield: | 5.632%
+Fees: | 0.250%
+Interest Payment Dates: | With respect to the 2030 Fixed Rate Period, semi-annually, on each April 16 and October 16, beginning on April 16, 2027 and ending on October
+16, 2029 or the redemption date, subject to the Fixed-to-Floating Rate Payment Convention, as described below. With respect to the 2030 Floating Rate Period, quarterly on January 16, 2030, April 16, 2030, July 16, 2030 and the Maturity Date or the redemption date,
+subject to the Fixed-to-Floating Rate Payment Convention, as described below.
+Interest Periods: | The 2030 Fixed-to-Floating Rate Notes will bear interest from, and including, each Interest Payment Date (or in the case of the initial Interest Period, commencing on the Settlement Date) to, but excluding, the following
+Interest Payment Date (or, in the case of the final Interest Period, the Maturity Date or the redemption date) (each such period, an “Interest Period”), subject to the Fixed-to-Floating Rate Payment Convention, as described
+below.
+SOFR Interest Payment Determination Date: | With respect to the 2030 Floating Rate Period, the date two U.S. Government Securities Business Days before each Interest Payment Date.
+Observation Period: | In respect of each Interest Period during the 2030 Floating Rate Period, the period from, and including, the date two U.S. Government Securities Business Days preceding the first date in such Interest Period to, but
+excluding, the date two U.S. Government Securities Business Days preceding the Interest Payment Date for such Interest Period (or in the final Interest Period, preceding the Maturity Date or the redemption date).
+Fixed-to-Floating Rate Payment Convention: | For Interest Periods during the 2030 Fixed Rate Period, if any Interest Payment Date or the redemption date falls on a day that is not a
+Business Day, the Bank will postpone the making of such interest or principal payment to the next succeeding Business Day, and no additional interest will be paid in respect of the postponement. For Interest Periods during the 2030 Floating Rate Period, if any Interest Payment Date
+would otherwise fall on a day that is not a Business Day, then such Interest Payment Date will be the next succeeding Business Day. However, if the next Business Day falls in the next calendar month, then the Interest Payment Date will be advanced
+to the next preceding day that is a Business Day. If the Maturity Date or the redemption date falls on a day that is not a Business Day, the Bank will make the required payment of principal, premium, if any, and interest on the next succeeding
+Business Day, and no additional interest will be paid in respect of the postponement.
+10
+Business Days: | New York, Toronto
+U.S. Government Securities Business Day: | Any day except for a Saturday, a Sunday or a day on which the Securities Industry and Financial Markets Association recommends that the fixed income departments of its members be closed for the entire day for purposes of
+trading in U.S. government securities.
+Day Count Fraction: | 30/360 with respect to the 2030 Fixed Rate Period. Actual/360 with respect to the 2030 Floating Rate Period.
+Listing: | None
+Optional Make-Whole Redemption: | The Bank may redeem the 2030 Fixed-to-Floating Rate Notes at its option, in whole or in part, at any time and from time to time prior to
+October 16, 2029 (the date that is one year prior to the Maturity Date) (such date, the “2030 Par Call Date”), at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater
+of: (1) (a) the sum of
+the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the 2030 Treasury Rate plus 15 basis
+points less (b) interest accrued to the date of redemption, and (2) 100% of the principal amount of the 2030 Fixed-to-Floating Rate Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption date. “ 2030 Treasury Rate ” means, with respect to any redemption date, the
+yield determined by the Bank in accordance with the following two paragraphs. The
+2030 Treasury Rate shall be determined by the Bank after 4:15 p.m., New York City time (or after such time as yields on U.S. government securities are posted daily by the Board of Governors of the Federal Reserve System), on the third business day
+preceding the redemption date based upon the yield or yields for the most recent day that appear after such time on such day in the most recent statistical release published by the Board of Governors of the Federal Reserve System designated as
+“Selected Interest Rates (Daily) - H.15” (or any successor designation or publication) (“H.15”) under the caption “U.S. government securities–Treasury constant maturities–Nominal” (or any successor
+caption or heading). In determining the 2030 Treasury Rate, the Bank shall select, as applicable: (1) the yield for the Treasury constant maturity on H.15 exactly equal to the period from the redemption date to the 2030
+Par
+11
+Call Date (the “Remaining Life”); or (2) if there is no such Treasury constant maturity on H.15 exactly equal to the Remaining
+Life, the two yields – one yield corresponding to the Treasury constant maturity on H.15 immediately shorter than and one yield corresponding to the Treasury constant maturity on H.15 immediately longer than the Remaining Life – and
+shall interpolate to the 2030 Par Call Date on a straight-line basis (using the actual number of days) using such yields and rounding the result to three decimal places; or (3) if there is no such Treasury constant maturity on H.15 shorter than or
+longer than the Remaining Life, the yield for the single Treasury constant maturity on H.15 closest to the Remaining Life. For purposes of this paragraph, the applicable Treasury constant maturity or maturities on H.15 shall be deemed to have a
+maturity date equal to the relevant number of months or years, as applicable, of such Treasury constant maturity from the redemption date. If on the third business day preceding the redemption date H.15 or any successor designation or publication is no longer published, the Bank shall calculate
+the 2030 Treasury Rate based on the rate per annum equal to the semi-annual equivalent yield to maturity at 11:00 a.m., New York City time, on the second business day preceding such redemption date of the United States Treasury security maturing on,
+or with a maturity that is closest to, the 2030 Par Call Date, as applicable. If there is no United States Treasury security maturing on the 2030 Par Call Date but there are two or more United States Treasury securities with a maturity date equally
+distant from the 2030 Par Call Date, one with a maturity date preceding the 2030 Par Call Date and one with a maturity date following the 2030 Par Call Date, the Bank shall select the United States Treasury security with a maturity date preceding
+the 2030 Par Call Date. If there are two or more United States Treasury securities maturing on the 2030 Par Call Date or two or more United States Treasury securities meeting the criteria of the preceding sentence, the Bank shall select from among
+these two or more United States Treasury securities the United States Treasury security that is trading closest to par based upon the average of the bid and asked prices for such United States Treasury securities at 11:00 a.m., New York City time.
+In determining the 2030 Treasury Rate in accordance with the terms of this paragraph, the semi-annual yield to maturity of the applicable United States Treasury security shall be based upon the average of the bid and asked prices (expressed as a
+percentage of principal amount) at 11:00 a.m., New York City time, of such United States Treasury security, and rounded to three decimal places.
+Optional Par Call Redemption: | The Bank may redeem the 2030 Fixed-to-Floating Rate Notes at its option (i) in whole, but not in part, on October 16, 2029 (the date that is one year prior to the Maturity Date) or (ii) in whole, or in part, at any time and
+from time to time on or after September 16, 2030 (the date that is one month prior to the Maturity Date), in each case, at a redemption price equal to 100% of the principal amount of the 2030 Fixed-to-Floating Rate Notes to be redeemed plus accrued
+and unpaid interest thereon to, but excluding, the redemption date. The Bank will provide written notice to the registered holders of the 2030 Fixed-to-Floating Rate Notes of any redemption not more than 30 nor less than 5 calendar days prior to the
+redemption date.
+12
+Tax Redemption: | The Bank may also redeem the 2030 Fixed-to-Floating Rate Notes, in whole but not in part, at a redemption price equal to the principal amount of such 2030 Fixed-to-Floating Rate Notes together with accrued and unpaid interest
+on such 2030 Fixed-to-Floating Rate Notes to the date fixed for redemption under the circumstances described in “Description of the Notes We May Offer—Redemption at the Option of the Bank; No Sinking Fund—Tax Redemption” in
+the Prospectus Supplement.
+Canadian Bail-in Powers Acknowledgement: | Yes. The 2030 Fixed-to-Floating Rate Notes are subject to bail-in conversion under the Canadian bail-in regime.
+CUSIP / ISIN: | 06418G BK2 / US06418GBK22
+Lead Managers and Joint
+Book-Runners: | Scotia Capital (USA) Inc. J.P. Morgan
+Securities LLC Natixis Securities Americas LLC Wells Fargo
+Securities, LLC
+Co-Managers: | Blaylock Van, LLC Cedar Leaf Capital Inc. Desjardins Securities Inc. Mischler Financial Group, Inc. R. Seelaus & Co., LLC
+US$600,000,000 5.851% Fixed-to-Floating Rate Senior Medium-Term Notes due 2032
+Issuer: | The Bank of Nova Scotia
+Title of the Series: | 5.851% Fixed-to-Floating Rate Senior Medium-Term Notes, due October 16, 2032 (the “2032 Fixed-to-Floating Rate Notes”)
+Expected Ratings * : | A2 / A- / AA- (Moody’s / S&P / Fitch)
+13
+Principal Amount: | US$600,000,000
+Issue Price: | 100.000%, plus accrued interest, if any, from October 16, 2026 to the date of delivery.
+Trade Date: | October 13, 2026
+Settlement Date**: | October 16, 2026 (T+3)
+Maturity Date: | October 16, 2032
+2032 Fixed Rate Period: | From, and including, October 16, 2026, to, but excluding, October 16, 2031.
+2032 Floating Rate Period: | From, and including, October 16, 2031, to, but excluding, the Maturity Date or the redemption date.
+Minimum Denomination: | US$2,000 and integral multiples of US$1,000 in excess thereof.
+Interest Rate: | With respect to the 2032 Fixed Rate Period, for each Interest Period (as defined below), the 2032 Fixed-to-Floating Rate Notes will bear interest at the fixed rate of 5.851% per annum. With respect to the 2032 Floating Rate Period, the interest rate for each Interest Period will be equal to the Base Rate plus the Spread and will in no event
+be less than 0.000%.
+Treasury Benchmark: | UST 5.000% Notes due September 30, 2031
+Treasury Benchmark Price: | 99-31 3/4
+Treasury Yield: | 5.001%
+Re-offer Spread to Treasury Benchmark: | +85 basis points
+Base Rate: | Compounded SOFR, as defined in, and in accordance with the specific formula described under, “Description of the Notes We May Offer—Interest Rates—Floating Rate Notes—SOFR Index Notes” in the prospectus
+supplement dated October 1, 2026 (the “Prospectus Supplement”).
+Spread: | +110 basis points
+Re-Offer Yield: | 5.851%
+Fees: | 0.350%
+14
+Interest Payment Dates: | With respect to the 2032 Fixed Rate Period, semi-annually, on each April 16 and October 16, beginning on April 16, 2027 and
+ending on October 16, 2031 or the redemption date, subject to the Fixed-to-Floating Rate Payment Convention, as described below. With respect to the 2032 Floating Rate Period, quarterly on January 16, 2032,
+April 16, 2032, July 16, 2032 and the Maturity Date or the redemption date, subject to the Fixed-to-Floating Rate Payment Convention, as described
+below.
+Interest Periods: | The 2032 Fixed-to-Floating Rate Notes will bear interest from, and including, each Interest Payment Date (or in the case of the initial Interest Period,
+commencing on the Settlement Date) to, but excluding, the following Interest Payment Date (or, in the case of the final Interest Period, the Maturity Date or the redemption date) (each such period, an “Interest Period”), subject to the Fixed-to-Floating Rate Payment Convention, as described below.
+SOFR Interest Payment Determination Date: | With respect to the 2032 Floating Rate Period, the date two U.S. Government Securities Business Days before each Interest Payment Date.
+Observation Period: | In respect of each Interest Period during the 2032 Floating Rate Period, the period from, and including, the date two U.S. Government Securities Business Days preceding the first date in such Interest Period to, but excluding, the
+date two U.S. Government Securities Business Days preceding the Interest Payment Date for such Interest Period (or in the final Interest Period, preceding the Maturity Date or the redemption date).
+Fixed-to-Floating Rate Payment Convention: | For Interest Periods during the 2032 Fixed Rate Period, if any Interest Payment Date or the redemption date falls on a day that is not a
+Business Day, the Bank will postpone the making of such interest or principal payment to the next succeeding Business Day, and no additional interest will be paid in respect of the postponement. For Interest Periods during the 2032 Floating Rate Period, if any Interest Payment Date
+would otherwise fall on a day that is not a Business Day, then such Interest Payment Date will be the next succeeding Business Day. However, if the next Business Day falls in the next calendar month, then the Interest Payment Date will be advanced
+to the next preceding day that is a Business Day. If the Maturity Date or the redemption date falls on a day that is not a Business Day, the Bank will make the required payment of principal, premium, if any, and interest on the next succeeding
+Business Day, and no additional interest will be paid in respect of the postponement.
+Business Days: | New York, Toronto
+15
+U.S. Government Securities Business Day: | Any day except for a Saturday, a Sunday or a day on which the Securities Industry and Financial Markets Association recommends that the fixed income departments of its members be closed for the entire day for purposes of trading in
+U.S. government securities.
+Day Count Fraction: | 30/360 with respect to the 2032 Fixed Rate Period. Actual/360 with respect to the 2032 Floating Rate Period.
+Listing: | None
+Optional Make-Whole Redemption: | The Bank may redeem the 2032 Fixed-to-Floating Rate Notes at
+its option, in whole or in part, at any time and from time to time prior to October 16, 2031 (the date that is one year prior to the Maturity Date) (such date, the “2032 Par Call Date”), at a redemption price (expressed as a
+percentage of principal amount and rounded to three decimal places) equal to the greater of: (1) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption
+date on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the 2032 Treasury Rate plus 15 basis points less (b) interest accrued to
+the date of redemption, and (2) 100% of the principal amount of
+the 2032 Fixed-to-Floating Rate Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption date. “ 2032 Treasury Rate ” means, with respect to any redemption date, the yield determined by the Bank in accordance with the following two
+paragraphs. The 2032 Treasury Rate shall be determined by the Bank after 4:15 p.m.,
+New York City time (or after such time as yields on U.S. government securities are posted daily by the Board of Governors of the Federal Reserve System), on the third business day preceding the redemption date based upon the yield or yields for the
+most recent day that appear after such time on such day in the most recent statistical release published by the Board of Governors of the Federal Reserve System designated as “Selected Interest Rates (Daily) - H.15” (or any successor
+designation or publication) (“H.15”) under the caption “U.S. government securities–Treasury constant maturities–Nominal” (or any successor caption or heading). In determining the 2032 Treasury Rate, the Bank shall
+select, as applicable: (1) the yield for the Treasury constant maturity on H.15 exactly equal to the period from the redemption date to the 2032 Par Call Date (the “ Remaining Life ”); or (2) if there is no such Treasury
+constant maturity on H.15 exactly equal to the Remaining Life, the
+16
+two yields – one yield corresponding to the Treasury constant maturity on H.15 immediately shorter than and one yield corresponding to
+the Treasury constant maturity on H.15 immediately longer than the Remaining Life – and shall interpolate to the 2032 Par Call Date on a straight-line basis (using the actual number of days) using such yields and rounding the result to three
+decimal places; or (3) if there is no such Treasury constant maturity on H.15 shorter than or longer than the Remaining Life, the yield for the single Treasury constant maturity on H.15 closest to the Remaining Life. For purposes of this
+paragraph, the applicable Treasury constant maturity or maturities on H.15 shall be deemed to have a maturity date equal to the relevant number of months or years, as applicable, of such Treasury constant maturity from the redemption date. If on the third business day preceding the redemption date H.15 or any successor
+designation or publication is no longer published, the Bank shall calculate the 2032 Treasury Rate based on the rate per annum equal to the semi-annual equivalent yield to maturity at 11:00 a.m., New York City time, on the second business day
+preceding such redemption date of the United States Treasury security maturing on, or with a maturity that is closest to, the 2032 Par Call Date, as applicable. If there is no United States Treasury security maturing on the 2032 Par Call Date but
+there are two or more United States Treasury securities with a maturity date equally distant from the 2032 Par Call Date, one with a maturity date preceding the 2032 Par Call Date and one with a maturity date following the 2032 Par Call Date, the
+Bank shall select the United States Treasury security with a maturity date preceding the 2032 Par Call Date. If there are two or more United States Treasury securities maturing on the 2032 Par Call Date or two or more United States Treasury
+securities meeting the criteria of the preceding sentence, the Bank shall select from among these two or more United States Treasury securities the United States Treasury security that is trading closest to par based upon the average of the bid and
+asked prices for such United States Treasury securities at 11:00 a.m., New York City time. In determining the 2032 Treasury Rate in accordance with the terms of this paragraph, the semi-annual yield to maturity of the applicable United States
+Treasury security shall be based upon the average of the bid and asked prices (expressed as a percentage of principal amount) at 11:00 a.m., New York City time, of such United States Treasury security, and rounded to three decimal
+places.
+Optional Par Call Redemption: | The Bank may redeem the 2032 Fixed-to-Floating Rate Notes at its option (i) in whole, but not in part, on October 16, 2031 (the date that is
+one year prior to the Maturity Date) or (ii) in whole, or in part, at any time and from time to time on or after September 16, 2032 (the date that is one month prior to the Maturity Date), in each case, at a redemption price equal to 100%
+of the principal amount of the 2032 Fixed-to-Floating Rate Notes to be redeemed plus accrued and unpaid interest thereon to, but excluding, the redemption date. The Bank
+will provide written notice to the registered holders of the 2032 Fixed-to-Floating Rate Notes of any redemption not more than 30 nor less than 5 calendar days prior to
+the redemption date.
+17
+Tax Redemption: | The Bank may also redeem the 2032 Fixed-to-Floating Rate Notes, in whole but not in part, at a redemption price equal to the principal amount of such
+2032 Fixed-to-Floating Rate Notes together with accrued and unpaid interest on such 2032 Fixed-to-Floating Rate Notes to the date fixed for redemption under the circumstances described in “Description of the Notes We May Offer—Redemption at the
+Option of the Bank; No Sinking Fund—Tax Redemption” in the Prospectus Supplement.
+Canadian Bail-in Powers Acknowledgement: | Yes. The 2032 Fixed-to-Floating Rate Notes are subject to bail-in conversion under the Canadian bail-in regime.
+CUSIP / ISIN: | 06418G BJ5 / US06418GBJ58
+Lead Managers and Joint
+Book-Runners: | Scotia Capital (USA) Inc. J.P. Morgan
+Securities LLC Natixis Securities Americas LLC Wells Fargo
+Securities, LLC
+Co-Managers: | Blaylock Van, LLC Cedar Leaf Capital Inc. Desjardins Securities Inc. Mischler Financial Group, Inc. R. Seelaus & Co., LLC
+* | Note: A credit rating is not a recommendation to buy, sell or hold securities, and it may be subject to
+revision or withdrawal at any time. Each of the ratings above should be evaluated independently of any other rating.
+** | Under Rule 15c6-1 of the Securities Exchange Act of 1934, trades in the
+secondary market generally are required to settle no later than one business day after the trade date, unless the parties to such trade expressly agree otherwise at the time of the trade. Accordingly, purchasers who wish to trade on any date more
+than one business day prior to delivery of the notes will be required, by virtue of the fact that the notes initially will settle in three business days (T+3), to specify alternative settlement arrangements to prevent a failed settlement.
+The Notes are bail-inable notes (as defined in the Prospectus) and subject to conversion in whole or in part – by means of a transaction
+or series of transactions and in one or more steps – into common shares of the Bank or any of its affiliates under subsection 39.2(2.3) of the Canada Deposit Insurance Corporation Act (Canada) (the “CDIC Act”) and to variation or
+extinguishment in consequence, and subject to the application of the laws of the Province of Ontario and the federal laws of Canada applicable therein in respect of the operation of the CDIC Act with respect to the Notes.
+18
+The Issuer has filed a registration statement (including a prospectus supplement and a prospectus) with the
+SEC for the offering to which this communication relates. Before you invest, you should read those documents and the other documents that the Issuer has filed with the SEC for more complete information about the Issuer and this offering. You may
+obtain these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, the lead managers will arrange to send you the pricing supplement, the prospectus supplement, and the prospectus if you request them by contacting
+Scotia Capital (USA) Inc. at
+1-800-372-3930,
+J.P. Morgan Securities LLC at
+1-212-834-4533,
+Natixis Securities Americas LLC at
+1-212-872-5000
+and Wells Fargo Securities, LLC at
+1-800-645-3751.
+No EU Prospectus, as the Notes are to be offered in the EEA only to qualified investors, as defined in Regulation (EU) 2017/1129 (as amended). No UK
+Prospectus, as the Notes are to be offered in the UK only to qualified investors, as defined in the Public Offers and Admissions to Trading Regulations 2024. No PRIIPs or UK CCI disclosure document has been prepared as not available to retail in EEA
+or UK.
+This Pricing Term Sheet is for distribution only to persons who (i) have professional experience in matters relating to investments
+falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (as amended, the “Financial Promotion Order”), (ii) are persons falling within Article 49(2)(a) to (d) (“high net worth
+companies, unincorporated associations etc.”) of the Financial Promotion Order, (iii) are outside the United Kingdom, or (iv) are persons to whom an invitation or inducement to engage in investment activity (within the meaning of
+section 21 of the Financial Services and Markets Act 2000, as amended) in connection with the issue or sale of any securities may otherwise lawfully be communicated or caused to be communicated (all such persons together being referred to as
+“relevant persons”). This Pricing Term Sheet is directed only at relevant persons and must not be acted on or relied on by persons who are not relevant persons. Any investment or investment activity to which this Pricing Term Sheet
+relates is available only to relevant persons and will be engaged in only with relevant persons.
+Any disclaimer or other notice that may appear below is not applicable to this communication and should be disregarded. Such disclaimer or
+notice was automatically generated as a result of this communication being sent by Bloomberg or another email system.
+19

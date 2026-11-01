@@ -1,0 +1,224 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/2012593/000119312526435057/d59324dfwp.htm
+ISSUER (SEC filer): Rapport Therapeutics, Inc.
+FILED: 2026-10-28
+========================================
+FWP
+1
+d59324dfwp.htm
+FWP
+FWP
+Free Writing Prospectus dated October 28, 2026
+Relating to Preliminary Prospectus Supplement dated October 27, 2026
+Filed Pursuant to Rule 433 under the Securities Act of 1933
+Registration Statement
+No. 333-294170
+PRICING TERM SHEET
+October 28, 2026
+Rapport Therapeutics, Inc.
+Offerings of
+8,333,334
+Shares of Common Stock and
+Pre-Funded
+Warrants to Purchase up to 1,190,476
+Shares of Common
+Stock
+and
+$150,000,000 Aggregate Principal Amount of 2.25% Convertible Senior Notes Due 2032
+The information in this pricing term sheet supplements Rapport Therapeutics, Inc.’s (“Rapport”) (i)
+preliminary prospectus supplement, dated October 27, 2026, as supplemented by the Issuer Free Writing Prospectuses, each dated October 27, 2026 (the “Common Stock Preliminary Prospectus Supplement”), relating to an offering of
+Common Stock, and in lieu of Common Stock to certain investors that so choose,
+pre-funded
+warrants to purchase shares of Common Stock (the “Common Stock Offering”), and (ii) preliminary
+prospectus supplement, dated October 27, 2026 (the “Convertible Notes Preliminary Prospectus Supplement” and, together with the Common Stock Preliminary Prospectus Supplement, the “Preliminary Prospectus Supplements”),
+relating to an offering of convertible senior notes (the “Convertible Notes Offering”) and, in each case, the accompanying prospectus, dated March 10, 2026, each filed pursuant to Rule 424(b) under the Securities Act of 1933, as
+amended (the “Securities Act”). This pricing term sheet supersedes the information in the Common Stock Preliminary Prospectus Supplement and the Convertible Notes Preliminary Prospectus Supplement, in each case, to the extent
+inconsistent with the information in the Common Stock Preliminary Prospectus Supplement and the Convertible Notes Preliminary Prospectus Supplement, respectively. In all other respects, this pricing term sheet is qualified in its entirety by
+reference to the Common Stock Preliminary Prospectus Supplement, with respect to the Common Stock Offering, and the Convertible Notes Preliminary Prospectus Supplement, with respect to the Convertible Notes Offering, in each case, including all
+other documents incorporated by reference therein. References to “we,” “our” and “us” refer to Rapport Therapeutics, Inc. and not to its consolidated subsidiaries and references to “Common Stock” refer
+to our common stock, par value $0.001 per share. Terms used herein but not defined herein shall have the respective meanings as set forth in the Convertible Notes Preliminary Prospectus Supplement and the Common Stock Preliminary Prospectus
+Supplement, as applicable. In addition, Rapport has agreed to eliminate the conditional conversion feature of the notes to permit conversions at any time prior to the close of business on the second scheduled trading day immediately preceding the
+maturity date, to irrevocably fix the settlement method to physical settlement, and to add a beneficial ownership blocker as described below.
+Issuer: | Rapport Therapeutics, Inc.
+Ticker/Exchange for Our Common Stock: | “RAPP” / the Nasdaq Global Market.
+1
+Last Reported Sale Price per Share of Our Common Stock on October 27, 2026: | $27.54
+Common Stock Offering
+Securities: | 8,333,334 shares of Common Stock (or, if the underwriters of the Common Stock Offering fully exercise their option to
+purchase additional shares, 9,761,905 shares of Common Stock) and pre-funded warrants to purchase 1,190,476 shares of Common Stock (the “Pre-Funded Warrants”).
+Public Offering Price per Share of Common Stock: | $21.00
+Offering Size: | Approximately $200.0 million (or, if the underwriters of the Common Stock Offering fully exercise their option to
+purchase additional shares of Common Stock, approximately $230.0 million).
+Public Offering Price per Pre-Funded Warrant: | $20.999 per Pre-Funded Warrant, which equals the public offering price per share of Common Stock less the $0.001 per share exercise price of each Pre-Funded Warrant.
+Exercise Price per Pre-Funded Warrant: | $0.001 per share of Common Stock, subject to
+adjustment as described in the Common Stock Preliminary Prospectus Supplement.
+Underwriting Discounts: | $1.26 per share of Common Stock or per Pre-Funded Warrant, and approximately
+$12.0 million in the aggregate (or approximately $13.8 million in the aggregate, if the underwriters of the Common Stock Offering fully exercise their option to purchase additional shares of Common Stock).
+Concurrent Private Placement: | A certain investor has agreed to purchase 1,428,571 shares of Common Stock in a concurrent private placement which is
+exempt from the registration requirements of the Securities Act at a per share price of $21.00 (the “Concurrent Private Placement”). The consummation of the Concurrent Private Placement is contingent and conditioned upon consummation of
+the Common Stock Offering and the satisfaction of certain other customary conditions. However, the consummation of the Common Stock Offering and the Convertible Notes Offering is not contingent on the consummation of the Concurrent Private
+Placement. Morgan Stanley & Co. LLC, Leerink Partners LLC and Evercore Group L.L.C. are acting as placement agents in connection with the Concurrent Private Placement and will receive a placement agent fee equal to 6.0% of the total
+purchase price of the private placement shares.
+Pricing Date: | October 28, 2026
+Trade Date: | October 28, 2026
+Settlement Date: | October 30, 2026 (T+2) Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”), trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly
+2
+agree otherwise. Accordingly, purchasers who wish to trade shares prior to the business day preceding the settlement date
+will be required, by virtue of the fact that the shares initially will settle T+2, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of shares who wish to trade the shares prior to the
+business day preceding the settlement date should consult their own advisors.
+Use of Proceeds: | We estimate that the net proceeds to us from the Common Stock Offering and the Concurrent Private Placement will be
+approximately $215.7 million, or approximately $243.9 million if the underwriters of the Common Stock Offering exercise their option to purchase additional shares of Common Stock in full, after deducting the underwriting discounts and
+commissions, placement agent fees and estimated offering and private placement expenses payable by us. We currently intend to use the net proceeds from the Common Stock Offering, and, if it is consummated, the Concurrent Private Placement, and if
+it is consummated, the concurrent Convertible Notes Offering, primarily to fund our ongoing and planned clinical trials advancing RAP-219, for other research and development, and for working capital and
+general corporate purposes. We also may use a portion of the remaining net proceeds to in-license, acquire or invest in complementary businesses, technologies, products or assets. However, we currently have no
+agreements or commitments to complete any such transaction. We believe that the net proceeds from Common Stock Offering, and, if it is consummated, the Concurrent Private Placement, and if it is
+consummated, the concurrent Convertible Notes Offering, together with our existing cash, cash equivalents and short-term investments, will enable us to fund our operations through the end of 2029. We have based this estimate on assumptions that may
+prove to be wrong, and we could use our available capital resources sooner than we currently expect. See the section titled “Use of Proceeds” in the Common Stock Preliminary Prospectus Supplement for additional
+information.
+Joint Book-Running Managers: | Morgan Stanley & Co. LLC Leerink Partners LLC Evercore
+Group L.L.C. BTIG, LLC Citizens JMP Securities, LLC
+CUSIP Number / ISIN for the Common Stock: | 75383L102 / US75383L1026
+Convertible Notes Offering
+Securities: | 2.25% Convertible Senior Notes due 2032 (the “notes”).
+Offering Size: | $150,000,000 aggregate principal amount of notes (plus up to an additional $22,500,000 aggregate principal amount of notes
+if the underwriters of the Convertible Notes Offering exercise their over-allotment option in full). The Convertible Note Offering is not contingent on the consummation of the
+3
+Common Stock Offering, and the consummation of the Common Stock Offering is not contingent on the consummation of
+Convertible Note Offering.
+Offering Price: | 100% of principal amount per note plus accrued interest, if any, from the expected settlement date.
+Denominations: | $1,000 and integral multiples of $1,000 in excess thereof.
+Underwriting Discount: | 3.0% of the principal amount of the notes, and $4.5 million in the aggregate (or approximately $5.2 million in
+the aggregate, if the underwriters of the Convertible Notes Offering exercise their over-allotment option in full).
+Ranking: | Senior unsecured.
+Maturity: | December 1, 2032, unless earlier converted, redeemed or repurchased.
+Interest and Interest Payment Dates: | 2.25% per year. Interest will accrue from October 30, 2026 and will be payable semiannually in arrears on June 1 and December 1 of each year,
+beginning on June 1, 2027.
+Interest Record Dates: | May 15 and November 15 of each year (whether or not a business day), immediately preceding any June 1 or
+December 1 interest payment date, as the case may be.
+Initial Conversion Rate: | 37.3483 shares of our Common Stock per $1,000 principal amount of the notes.
+Initial Conversion Price: | Approximately $26.7750 per share of our Common Stock.
+Conversion Premium: | Approximately 27.50% above the Public Offering Price per Share of Common Stock in the Common Stock Offering.
+Conversion Rights: | Holders may convert all or any portion of their notes at their option at any time prior to the close of business on the
+second scheduled trading day immediately preceding the maturity date. The conversion rate for the notes is initially 37.3483 shares of Common Stock per $1,000 principal amount of notes (equivalent to an initial
+conversion price of approximately $26.7750 per share of Common Stock), subject to adjustment as described in the Convertible Notes Preliminary Prospectus Supplement. Notwithstanding the provisions of “Description of
+Notes—Conversion Rights—Settlement Upon Conversion” in the Convertible Notes Preliminary Prospectus Supplement, which provides that upon conversion, we will satisfy our conversion obligation by paying or delivering, as applicable,
+cash, shares of our Common Stock or a combination of cash and shares of our Common Stock, at our election, we will elect to irrevocably fix the settlement method to physical settlement in the indenture governing the notes and we will not be required
+to otherwise notify holders, the trustee or the conversion agent of such election or otherwise post an announcement of such election on our website or issue on a report on Form 8-K (or any successor form)
+disclosing
+4
+such irrevocably elected settlement method. As a result, we will satisfy our conversion obligation by delivering shares of
+our Common Stock, together with cash in lieu of fractional shares, if applicable. In addition, following certain corporate events that occur prior to the maturity date or if we deliver a notice of redemption, we will, in
+certain circumstances, increase the conversion rate for a holder who elects to convert its notes in connection with such a corporate event or convert its notes called (or deemed called) for redemption during the related redemption period (as defined
+under the caption “Description of Notes—Conversion Rights—General” in the Convertible Notes Preliminary Prospectus Supplement), as the case may be, as described under the caption “Description of Notes—Conversion
+Rights—Increase in Conversion Rate upon Conversion upon a Make-Whole Fundamental Change or Notice of Redemption” in the Convertible Notes Preliminary Prospectus Supplement. You will not receive any additional cash payment or
+additional shares representing accrued and unpaid interest, if any, upon conversion of a note, except in limited circumstances. Instead, interest will be deemed to be paid by the cash, shares of our common stock or a combination of cash and shares
+of our common stock paid or delivered, as the case may be, to you upon conversion of a note.
+Limitation on Issuance of Shares of Common Stock upon Conversion: | Notwithstanding anything in the Convertible Notes Preliminary Prospectus Supplement to the contrary, a holder shall not have the right to
+convert all or any portion of the notes held by such holder, to the extent that immediately prior to, or immediately after giving effect to such conversion by such holder (together with its affiliates and any other persons acting as a group together
+with such holder or any of such holder’s affiliates (such persons, collectively, the “Attribution Parties”)), would beneficially own in excess of the Beneficial Ownership Limitation (as defined below). For purposes of the foregoing
+sentence, the number of shares of Common Stock beneficially owned by a holder and its affiliates and Attribution Parties shall not include the number of shares of Common Stock that would be issuable upon (i) conversion of the non-converted portion of the notes beneficially owned by such holder or any of its affiliates or Attribution Parties and (ii) exercise or conversion of the unexercised or unconverted portion of any of our other
+securities, in each case, to the extent subject to a limitation on conversion or exercise analogous to the limitation contained herein beneficially owned by such holder or any of its affiliates or Attribution Parties. Except as set forth in the
+preceding sentence, beneficial ownership shall be calculated in accordance with Section 13(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), it being acknowledged by each holder that we are not representing
+to such holder that such calculation is in compliance with Section 13(d) of the Exchange Act and that such holder is solely responsible for any schedules required to be filed in accordance therewith. A determination as to any
+“group” status as contemplated above shall be determined in accordance with Section 13(d) of the Exchange Act and the rules and regulations promulgated thereunder. For purposes hereof, in determining the number of outstanding shares
+of Common Stock, a holder may rely on the number of outstanding shares of our Common Stock as reflected in (i) our most recent periodic or annual report filed with the Securities and Exchange Commission, as the case may be, (ii) a more
+recent public announcement by us or (iii) a more recent written notice by us setting
+5
+forth the number of shares of Common Stock outstanding. Upon the written request of a holder, we shall, within one trading
+day, confirm orally and in writing to such holder the number of shares of our Common Stock then outstanding. In any case, the number of outstanding shares of Common Stock shall be determined after giving effect to the conversion or exercise of our
+securities by such holder or its affiliates or Attribution Parties since the date as of which such number of outstanding shares of Common Stock was last publicly reported or confirmed to the holder. The “Beneficial Ownership Limitation” shall
+initially be 19.99% of the number of shares of our Common Stock outstanding immediately prior to, and immediately after giving effect to, the conversion of all or any portion of the notes. A holder, upon written notice to us, may increase or, on or
+prior to the 30 th calendar day after the date of the indenture, decrease the Beneficial Ownership Limitation provisions herein applicable to such holder (but not as to any other holder); provided that (x) the Beneficial Ownership Limitation in no event exceeds 19.99% or is set below 4.99%, in each case, of the number of shares of our Common Stock outstanding immediately prior to, and immediately after giving effect to,
+the conversion of all or any portion of the notes and (y) in connection with our delivery of a notice of redemption, each holder that has previously elected a Beneficial Ownership Limitation below 8.00% will be deemed to have automatically
+elected a Beneficial Ownership Limitation of 8.00% effective immediately prior to our delivery of such notice of redemption and no holder may decrease its Beneficial Ownership Limitation below 8.00% during the period from delivery of such notice
+through and including the related redemption date or, if later, the date conversion consideration is required to be delivered for conversions of notes called (or deemed called) for such redemption (such adjustment, an “Automatic Beneficial
+Ownership Adjustment”). Other than in the case of an Automatic Beneficial Ownership Adjustment, any increase in the Beneficial Ownership Limitation will not be effective until the 61st day after such notice is delivered to us.
+Redemption at Our Option: | We may redeem for cash all or any portion of the notes (subject to the partial redemption limitation described in the next
+succeeding sentence), at our option, on a redemption date on or after the later of (x) December 6, 2030 and (y) 60 days following (A) the reported topline data results, including the primary endpoint(s), following completion of
+prespecified analyses of the primary endpoint(s) under the respective protocols and statistical analysis plans of the FOCUS 1 and FOCUS 2 clinical trials of RAP-219 in drug resistant focal onset seizures as
+well as the two planned pivotal trials of RAP-219 in acute bipolar mania, or (B) in the event one or more of these trials is terminated, the reported results of the remaining trials, if any, that are
+completed, in each case, if the last reported sale price of our Common Stock has been at least 130% of the conversion price then in effect for at least 20 trading days (whether or not consecutive) during any 30 consecutive trading day period
+(including the last trading day of such period) ending on, and including, the trading day immediately preceding the date on which we provide the related notice of redemption at a redemption price equal to 100% of the principal amount of the notes to
+be redeemed, plus accrued and unpaid interest to, but excluding, the redemption date. If we redeem less than all the outstanding notes, at least $75.0 million aggregate principal amount of notes must be outstanding and not subject to redemption
+as of, and after giving effect to, delivery of the relevant notice of redemption. No “sinking fund” is provided for the notes, which means that we are not required to redeem or retire the notes periodically. Notwithstanding the
+foregoing, we may not
+6
+elect to redeem the notes if such redemption, after taking into account any Automatic Beneficial Ownership Adjustment,
+would cause any holder that has selected a Beneficial Ownership Limitation below 19.99% and has publicly disclosed its beneficial ownership on Schedule 13D, 13F or 13G (or otherwise provided notice thereof to us), assuming such holder elected to
+convert all of its notes, to exceed its Beneficial Ownership Limitation. See the caption “Description of Notes—Optional Redemption” in the Convertible Notes Preliminary Prospectus Supplement.
+Fundamental Change: | If we undergo a “fundamental change” (as defined in the Convertible Notes Preliminary Prospectus Supplement
+under the caption “Description of Notes—Fundamental Change Permits Holders to Require Us to Repurchase Notes”), then, subject to certain conditions and except as described in the Convertible Notes Preliminary Prospectus Supplement,
+holders may require us to repurchase for cash all or any portion of their notes in principal amounts of $1,000 or an integral multiple thereof. The fundamental change repurchase price will be equal to 100% of the principal amount of the notes to be
+repurchased, plus accrued and unpaid interest to, but excluding, the fundamental change repurchase date. See the caption “Description of Notes—Fundamental Change Permits Holders to Require Us to Repurchase Notes” in the Convertible
+Notes Preliminary Prospectus Supplement.
+Joint Book-Running Managers: | Morgan Stanley & Co. LLC Leerink Partners LLC Evercore
+Group L.L.C.
+Pricing Date: | October 28, 2026.
+Trade Date: | October 28, 2026.
+Expected Settlement Date: | October 30, 2026 (T+2). Under Rule 15c6-1 under the Exchange Act, trades in the secondary market generally are required to
+settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade notes prior to the business day preceding the settlement date will be required, by virtue of the fact that the
+notes initially will settle T+2, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the notes who wish to trade the notes prior to the business day preceding the settlement date
+should consult their own advisors.
+CUSIP Number / ISIN for the Notes: | 75383L AB8 / US75383LAB80
+Listing: | None.
+7
+Use of Proceeds: | We estimate that the net proceeds to us from the Convertible Notes Offering will be approximately $145.0 million, or
+approximately $166.8 million if the underwriters of the Convertible Notes Offering exercise their over-allotment option in full, after deducting the underwriting discounts and commissions and estimated offering expenses payable by us. We currently intend to use the net proceeds from the
+Convertible Notes Offering, and, if it is consummated, the Concurrent Equity Offering and, if it is consummated, the Concurrent Private Placement, primarily to fund our ongoing and planned clinical trials advancing RAP-219, for other research and development, and for working capital and general corporate purposes. We also may use a portion of the remaining net proceeds to in-license, acquire or invest in complementary businesses, technologies, products or assets. However, we currently have no agreements or commitments to complete any such transaction. We believe that the net proceeds from Convertible Notes
+Offering, and, if it is consummated, the Concurrent Private Placement, and if it is consummated, the concurrent Common Stock Offering, together with our existing cash, cash equivalents and short-term investments, will enable us to fund our
+operations through the end of 2029. We have based this estimate on assumptions that may prove to be wrong, and we could use our available capital resources sooner than we currently expect. See the section titled “Use of Proceeds” in
+the Convertible Notes Preliminary Prospectus Supplement for additional information.
+8
+Description of Notes—Conversion Rights—Increase in Conversion Rate upon
+Conversion upon a Make-Whole Fundamental Change or Notice of Redemption
+Holders who convert their notes in connection
+with a “make-whole fundamental change” (as defined in the Convertible Notes Preliminary Prospectus Supplement) occurring prior to the maturity date or convert their notes called for redemption (or deemed called for redemption) during the
+related redemption period (as defined in the Convertible Notes Preliminary Prospectus Supplement) may be entitled to an increase in the conversion rate for the notes so surrendered for conversion as set forth in the Convertible Notes Preliminary
+Prospectus Supplement under the caption “Description of Notes
+—
+Conversion Rights-Increase in Conversion Rate upon Conversion upon a Make-Whole Fundamental Change or Notice of Redemption.”
+The following table sets forth the number of additional shares by which the conversion rate will be increased per $1,000
+principal amount of notes for each stock price and effective date set forth below:
+Stock Price
+Effective Date | $21.00 | $23.00 | $25.00 | $26.77 | $30.00 | $34.81 | $50.00 | $75.00 | $100.00 | $125.00 | $150.00 | $175.00
+October 30, 2026 | 10.2707 | 8.7117 | 7.4688 | 6.5685 | 5.2793 | 3.9339 | 1.8254 | 0.6720 | 0.2725 | 0.1026 | 0.0266 | 0.0000
+December 1, 2027 | 10.2707 | 8.7117 | 7.4688 | 6.5245 | 5.1757 | 3.7886 | 1.6824 | 0.5905 | 0.2298 | 0.0813 | 0.0178 | 0.0000
+December 1, 2028 | 10.2707 | 8.7117 | 7.4324 | 6.4191 | 4.9997 | 3.5688 | 1.4904 | 0.4919 | 0.1822 | 0.0599 | 0.0109 | 0.0000
+December 1, 2029 | 10.2707 | 8.7117 | 7.2336 | 6.1502 | 4.6583 | 3.1994 | 1.2176 | 0.3697 | 0.1283 | 0.0369 | 0.0035 | 0.0000
+December 1, 2030 | 10.2707 | 8.4613 | 6.7700 | 5.6022 | 4.0403 | 2.5915 | 0.8442 | 0.2324 | 0.0750 | 0.0170 | 0.0001 | 0.0000
+December 1, 2031 | 10.2707 | 7.7017 | 5.7616 | 4.4770 | 2.8717 | 1.5645 | 0.3810 | 0.1031 | 0.0315 | 0.0038 | 0.0000 | 0.0000
+December 1, 2032 | 10.2707 | 6.1299 | 2.6516 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000
+The exact stock prices and effective dates may not be set forth in the table above, in which
+case:
+• | If the stock price is between two stock prices in the table or the effective date is between two effective
+dates in the table, the number of additional shares by which the conversion rate will be increased will be determined by a straight-line interpolation between the number of additional shares set forth for the higher and lower stock prices and the
+earlier and later effective dates, as applicable, based on a 365- or 366-day year, as applicable.
+• | If the stock price is greater than $175.00 per share (subject to adjustment in the same manner as the stock
+prices set forth in the column headings of the table above as described in the Preliminary Prospectus Supplement), no additional shares will be added to the conversion rate.
+• | If the stock price is less than $21.00 per share (subject to adjustment in the same manner as the stock prices
+set forth in the column headings of the table above as described in the Convertible Notes Preliminary Prospectus Supplement), no additional shares will be added to the conversion rate.
+Notwithstanding the foregoing, in no event will the conversion rate per $1,000 principal amount of notes exceed 47.6190 shares
+of our Common Stock, subject to adjustment in the same manner as the conversion rate as set forth in the Convertible Notes Preliminary Prospectus Supplement under the caption “Description of Notes—Conversion Rights—Conversion Rate
+Adjustments.”
+9
+We have filed a registration statement (including a prospectus), the Common Stock Preliminary Prospectus Supplement and the
+Convertible Notes Preliminary Prospectus Supplement with the SEC for the offerings to which this communication relates. Before you invest, you should read the Common Stock Preliminary Prospectus Supplement or the Convertible Notes Preliminary
+Prospectus Supplement, as applicable, and the prospectus in that registration statement and other documents we have filed with the SEC that are incorporated by reference into the Prospectus Supplement or the Convertible Notes Preliminary Prospectus
+Supplement, as applicable, for more complete information about us and the offerings. You may get these documents free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, we, any underwriter or any dealer participating in the
+applicable offering will arrange to send you the Common Stock Preliminary Prospectus Supplement or the Convertible Notes Preliminary Prospectus Supplement, as applicable (or, when available, the applicable final prospectus supplement) and the
+accompanying prospectus upon request to Morgan Stanley & Co. LLC, Attention: Prospectus Department, 180 Varick Street, 2nd Floor, New York, NY 10014, or by email at prospectus@morganstanley.com; Leerink Partners LLC, Attention: Syndicate
+Department, 53 State Street, 40th Floor, Boston, MA 02109, by telephone at (800)
+808-7525,
+ext. 6105, or by email at syndicate@leerink.com; or Evercore Group L.L.C., Attention: Equity Capital Markets, 55 East
+52nd Street, 35th Floor, New York, NY 10055, by telephone at (888)
+474-0200,
+or by email at ecm.prospectus@evercore.com.
+The information in this pricing term sheet is not a complete description of the Common Stock, the
+Pre-Funded
+Warrants, the Common Stock Offering, the Notes or the Convertible Notes Offering. You should rely only on the information contained or incorporated by reference in the Common Stock Preliminary Prospectus
+Supplement and the Convertible Notes Preliminary Prospectus Supplement and the accompanying prospectus, as supplemented by this pricing term sheet, in making an investment decision with respect to the Common Stock, the
+Pre-Funded
+Warrants or the notes.
+ANY DISCLAIMERS OR OTHER NOTICES THAT
+MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.
+10

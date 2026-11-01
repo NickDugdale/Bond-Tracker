@@ -1,0 +1,26 @@
+{
+  "source_file": "2026-10-22_oxford-lane-capital-corp_0001213900-26-111457.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:43:17",
+  "usage": {
+    "input_tokens": 3839,
+    "output_tokens": 293
+  },
+  "data": {
+    "is_bond_pricing": false,
+    "not_bond_reason": "This is a term preferred stock offering, not a bond issue.",
+    "issuer": "Oxford Lane Capital Corp.",
+    "sector": "Financials",
+    "trade_date": "2026-10-21",
+    "settlement_date": "2026-10-23",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "Piper Sandler & Co.",
+      "Lucid Capital Markets, LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": []
+  }
+}

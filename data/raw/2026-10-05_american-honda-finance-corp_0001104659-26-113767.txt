@@ -1,0 +1,75 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/864270/000110465926113767/tm2626941d4_fwp.htm
+ISSUER (SEC filer): AMERICAN HONDA FINANCE CORP
+FILED: 2026-10-05
+========================================
+FWP
+1
+tm2626941d4_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Registration No. 333-289425
+Pricing Term Sheet
+October
+5, 2026
+Issuer: | American Honda Finance Corporation
+Security: | Fixed Rate Medium-Term Notes, Series A
+Issuer Senior Long-Term Debt Ratings*: | Moody’s Investors Service, Inc.: A3 (stable outlook) Standard & Poor’s Ratings Services: BBB+ (stable outlook) Fitch Ratings, Inc.: A- (negative outlook)
+CUSIP/ISIN: | 02665WHF1 / US02665WHF14
+Trade Date: | October 5, 2026
+Original Issue Date**: | October 7, 2026 (T+ 2)
+Stated Maturity Date: | October 7, 2031
+Principal Amount: | $500,000,000
+Benchmark Treasury: | UST 5.000% due September 30, 2031
+Benchmark Treasury Yield: | 5.089%
+Spread to Benchmark Treasury: | +93 bps
+Yield to Maturity: | 6.019%
+Price to Public: | 99.919%
+Commission: | 0.350%
+Net Proceeds to Issuer: | 99.569% / $497,845,000
+Interest Rate: | 6.000% per annum, accruing from October 7, 2026
+Interest Payment Frequency: | Semi-annual
+Interest Payment Dates: | Each April 7 and October 7, beginning on April 7, 2027, and ending at Maturity
+Day Count Convention: | 30/360
+Business Day Convention: | Following (unadjusted); if any Interest Payment Date or Maturity falls on a day that is not a Business Day, the related payment of principal, premium, if any, or interest will be made on the next succeeding Business Day as if made on the date the applicable payment was due, and no interest will accrue on the amount payable for the period from and after the Interest Payment Date or Maturity, as the case may be, to the date of such payment on the next succeeding Business Day.
+Record Dates: | 15th calendar day, whether or not a Business Day, preceding the related Interest Payment Date
+Calculation Agent: | Deutsche Bank Trust Company Americas
+Optional Redemption: | T+15 bps
+The Issuer may redeem the Notes at its option before the Stated Maturity Date, in whole or in part, at any time, and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (1) (a) the sum of the present values of the remaining scheduled payments of principal and interest on the Notes to be redeemed discounted to the applicable date of redemption on a semiannual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 15 basis points less (b) interest accrued to the redemption date; and (2) 100% of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption date. “Treasury Rate” means, with respect to any redemption date, the yield determined by the Issuer in accordance with the following two paragraphs.
+The Treasury Rate shall be determined by the Issuer after 4:15 p.m., New York City time (or after such time as yields on U.S. government securities are posted daily by the Board of Governors of the Federal Reserve System), on the third Business Day preceding the applicable redemption date based upon the yield or yields for the most recent day that appear after such time on such day in the most recent statistical release published by the Board of Governors of the Federal Reserve System designated as “Selected Interest Rates (Daily) - H.15” (or any successor designation or publication) (“H.15”) under the caption “U.S. government securities–Treasury constant maturities–Nominal” (or any successor caption or heading) (“H.15 TCM”). In determining the Treasury Rate, the Issuer shall select, as applicable: (1) the yield for the Treasury constant maturity on H.15 exactly equal to the period from the redemption date to the Stated Maturity Date of the Notes (the “Remaining Life”); or (2) if there is no such Treasury constant maturity on H.15 exactly equal to the Remaining Life, the two yields – one yield corresponding to the Treasury constant maturity on H.15 immediately shorter than and one yield corresponding to the Treasury constant maturity on H.15 immediately longer than the Remaining Life – and shall interpolate to the Stated Maturity Date of the Notes on a straight- line basis (using the actual number of days) using such yields and rounding the result to three decimal places; or (3) if there is no such Treasury constant maturity on H.15 shorter than or longer than the Remaining Life, the yield for the single Treasury constant maturity on H.15 closest to the Remaining Life. For purposes of this paragraph, the applicable Treasury constant maturity or maturities on H.15 shall be deemed to have a maturity date equal to the relevant number of months or years, as applicable, of such Treasury constant maturity from the applicable redemption date.
+If on the third Business Day preceding the applicable redemption date H.15 TCM is no longer published, the Issuer shall calculate the Treasury Rate based on the rate per annum equal to the semi-annual equivalent yield to maturity at 11:00 a.m., New York City time, on the second Business Day preceding such redemption date of the United States Treasury security maturing on, or with a maturity that is closest to, the Stated Maturity Date of the Notes, as applicable. If there is no United States Treasury security maturing on the Stated Maturity Date of the Notes but there are two or more United States Treasury securities with a maturity date equally distant from the Stated Maturity Date of the Notes, one with a maturity date preceding the Stated Maturity Date of the Notes and one with a maturity date following the Stated Maturity Date of the Notes, the Issuer shall select the United States Treasury security with a maturity date preceding the Stated Maturity Date of the Notes. If there are two or more United States Treasury securities maturing on the Stated Maturity Date of the Notes or two or more United States Treasury securities meeting the criteria of the preceding sentence, the Issuer shall select from among these two or more United States Treasury securities the United States Treasury security that is trading closest to par based upon the average of the bid and asked prices for such United States Treasury securities at 11:00 a.m., New York City time. In determining the Treasury Rate in accordance with the terms of this paragraph, the semi-annual yield to maturity of the applicable United States Treasury security shall be based upon the average of the bid and asked prices (expressed as a percentage of principal amount) at 11:00 a.m., New York City time, of such United States Treasury security, and rounded to three decimal places.
+2
+The Issuer’s actions and determinations in determining the redemption price shall be conclusive and binding for all purposes, absent manifest error.
+Notice of any redemption will be mailed or electronically delivered (or otherwise transmitted in accordance with the depositary’s procedures) at least 10 days but not more than 60 days before the redemption date to each holder of the Notes to be redeemed.
+Business Days: | New York
+Minimum Denominations: | $2,000 and $1,000 increments thereafter
+Joint Book-Running Managers: | ANZ Securities, Inc. BofA Securities, Inc. ING Financial Markets LLC J.P. Morgan Securities LLC
+Co-Managers: | BNY Mellon Capital Markets, LLC SG Americas Securities, LLC SMBC Nikko Securities America, Inc. TD Securities (USA) LLC CastleOak Securities, L.P. Penserra Securities LLC Samuel A. Ramirez & Company, Inc. Stern Brothers & Co.
+DTC Number: | 0773
+*A securities rating is not a recommendation to buy, sell or hold
+securities and may be changed or withdrawn at any time.
+**The Issuer expects that delivery of the Notes will be made to
+investors on or about October 7, 2026, which will be the second business day following the date of pricing of the Notes (such settlement
+being referred to as “T+2”). Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended, trades in the secondary
+market are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers
+who wish to trade the Notes on the date of pricing will be required, by virtue of the fact that the Notes initially settle in T+2, to
+specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to
+trade the Notes on the pricing date should consult their own advisors.
+This term sheet supplements
+the prospectus supplements dated August 8, 2025 and August 11, 2026 and the related prospectus dated August 8, 2025; capitalized terms
+used in this term sheet, but otherwise not defined, shall have the meanings assigned to them in the related prospectus supplements and
+prospectus.
+The
+issuer has filed a registration statement (including a prospectus) with the U.S. Securities and Exchange Commission (the “SEC”)
+for the offering to which this communication relates. Before you invest, you should read the aforementioned prospectus and prospectus
+supplements and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You
+may get these documents for free by visiting EDGAR on the web at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer
+participating in the offering will arrange to send you the aforementioned prospectus, the prospectus supplements and the
+applicable
+pricing supplement if you request them by calling ANZ Securities, Inc. toll-free at 1-212-801-9000,
+BofA Securities, Inc. toll-free
+at 1-800-294-1322, ING Financial Markets LLC toll-free at 1-877-446-4930 or J.P. Morgan Securities LLC collect at 1-212-834-4533
+.
+Any disclaimer or other notice that may appear below is not applicable
+to this communication and should be disregarded. Such disclaimer or notice was automatically generated as a result of this communication
+being sent by Bloomberg or another email system.
+3

@@ -1,0 +1,58 @@
+{
+  "source_file": "2026-10-27_blackstone-inc_0001193125-26-434433.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:43:52",
+  "usage": {
+    "input_tokens": 4342,
+    "output_tokens": 672
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Blackstone Reg Finance Co. L.L.C.",
+    "sector": "Financials",
+    "trade_date": "2026-10-27",
+    "settlement_date": "2026-11-02",
+    "rating_moodys": null,
+    "rating_sp": "A+",
+    "rating_fitch": "A+",
+    "bookrunners": [
+      "Citigroup Global Markets Inc.",
+      "Goldman Sachs & Co. LLC",
+      "Morgan Stanley & Co. LLC",
+      "SMBC Nikko Securities America, Inc.",
+      "Wells Fargo Securities, LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 600000000,
+        "coupon_pct": 5.65,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-11-03",
+        "first_call_date": "2031-10-03",
+        "benchmark": "UST 5.000% due September 30, 2031",
+        "spread_bps": 85,
+        "yield_pct": 5.687,
+        "issue_price_pct": 99.841,
+        "seniority": "senior unsecured",
+        "pricing_quote": "T + 85 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 5.9,
+        "coupon_type": "fixed",
+        "maturity_date": "2033-11-03",
+        "first_call_date": "2033-09-03",
+        "benchmark": "UST 5.000% due September 30, 2033",
+        "spread_bps": 100,
+        "yield_pct": 5.908,
+        "issue_price_pct": 99.954,
+        "seniority": "senior unsecured",
+        "pricing_quote": "T + 100 bps"
+      }
+    ]
+  }
+}

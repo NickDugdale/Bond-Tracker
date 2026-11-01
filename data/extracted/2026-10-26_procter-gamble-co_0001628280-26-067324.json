@@ -1,0 +1,86 @@
+{
+  "source_file": "2026-10-26_procter-gamble-co_0001628280-26-067324.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:43:25",
+  "usage": {
+    "input_tokens": 4781,
+    "output_tokens": 1004
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "The Procter & Gamble Company",
+    "sector": "Consumer",
+    "trade_date": "2026-10-26",
+    "settlement_date": "2026-10-30",
+    "rating_moodys": "Aa3",
+    "rating_sp": "AA-",
+    "rating_fitch": null,
+    "bookrunners": [
+      "Citigroup Global Markets Inc.",
+      "Deutsche Bank Securities Inc.",
+      "Goldman Sachs & Co. LLC",
+      "HSBC Securities (USA) Inc.",
+      "Morgan Stanley & Co. LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 750000000,
+        "coupon_pct": 5.125,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-10-30",
+        "first_call_date": null,
+        "benchmark": "5.000% UST due September 30, 2031",
+        "spread_bps": 30,
+        "yield_pct": 5.133,
+        "issue_price_pct": 99.965,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +30 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 750000000,
+        "coupon_pct": 5.3,
+        "coupon_type": "fixed",
+        "maturity_date": "2033-10-30",
+        "first_call_date": null,
+        "benchmark": "5.000% UST due September 30, 2033",
+        "spread_bps": 40,
+        "yield_pct": 5.308,
+        "issue_price_pct": 99.954,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +40 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1250000000,
+        "coupon_pct": 5.45,
+        "coupon_type": "fixed",
+        "maturity_date": "2036-10-30",
+        "first_call_date": null,
+        "benchmark": "4.625% UST due August 15, 2036",
+        "spread_bps": 50,
+        "yield_pct": 5.497,
+        "issue_price_pct": 99.642,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +50 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1250000000,
+        "coupon_pct": 5.9,
+        "coupon_type": "fixed",
+        "maturity_date": "2056-10-30",
+        "first_call_date": null,
+        "benchmark": "5.000% UST due May 15, 2056",
+        "spread_bps": 60,
+        "yield_pct": 5.91,
+        "issue_price_pct": 99.86,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +60 basis points"
+      }
+    ]
+  }
+}

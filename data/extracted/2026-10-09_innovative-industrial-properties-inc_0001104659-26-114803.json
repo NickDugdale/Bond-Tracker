@@ -1,0 +1,25 @@
+{
+  "source_file": "2026-10-09_innovative-industrial-properties-inc_0001104659-26-114803.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:42:40",
+  "usage": {
+    "input_tokens": 4920,
+    "output_tokens": 289
+  },
+  "data": {
+    "is_bond_pricing": false,
+    "not_bond_reason": "This is a preferred stock offering, not a debt security.",
+    "issuer": "Innovative Industrial Properties, Inc.",
+    "sector": "Real Estate",
+    "trade_date": "2026-10-09",
+    "settlement_date": "2026-10-19",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "Stifel, Nicolaus & Company, Incorporated"
+    ],
+    "use_of_proceeds": null,
+    "tranches": []
+  }
+}

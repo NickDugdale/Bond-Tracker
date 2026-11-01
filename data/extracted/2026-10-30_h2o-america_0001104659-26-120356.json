@@ -1,0 +1,23 @@
+{
+  "source_file": "2026-10-30_h2o-america_0001104659-26-120356.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:44:42",
+  "usage": {
+    "input_tokens": 6028,
+    "output_tokens": 279
+  },
+  "data": {
+    "is_bond_pricing": false,
+    "not_bond_reason": "This is an offering of equity units (structured equity product), not a new bond issuance, though the units contain embedded Remarketable Senior Notes.",
+    "issuer": null,
+    "sector": null,
+    "trade_date": null,
+    "settlement_date": null,
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [],
+    "use_of_proceeds": null,
+    "tranches": []
+  }
+}

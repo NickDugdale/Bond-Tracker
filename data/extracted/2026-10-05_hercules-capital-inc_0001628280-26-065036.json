@@ -1,0 +1,42 @@
+{
+  "source_file": "2026-10-05_hercules-capital-inc_0001628280-26-065036.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:42:28",
+  "usage": {
+    "input_tokens": 3911,
+    "output_tokens": 479
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Hercules Capital, Inc.",
+    "sector": "Financials",
+    "trade_date": "2026-10-05",
+    "settlement_date": "2026-10-08",
+    "rating_moodys": "Baa2",
+    "rating_sp": null,
+    "rating_fitch": "BBB-",
+    "bookrunners": [
+      "Goldman Sachs & Co. LLC",
+      "SMBC Nikko Securities America, Inc.",
+      "MUFG Securities Americas Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 400000000,
+        "coupon_pct": 6.7,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-10-08",
+        "first_call_date": "2029-09-08",
+        "benchmark": "UST 4.375% due September 15, 2029",
+        "spread_bps": 195,
+        "yield_pct": 6.933,
+        "issue_price_pct": 99.379,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +195 basis points"
+      }
+    ]
+  }
+}

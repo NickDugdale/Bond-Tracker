@@ -1,0 +1,42 @@
+{
+  "source_file": "2026-10-28_rapport-therapeutics-inc_0001193125-26-435057.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:44:27",
+  "usage": {
+    "input_tokens": 9629,
+    "output_tokens": 460
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Rapport Therapeutics, Inc.",
+    "sector": "Healthcare",
+    "trade_date": "2026-10-28",
+    "settlement_date": "2026-10-30",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "Morgan Stanley & Co. LLC",
+      "Leerink Partners LLC",
+      "Evercore Group L.L.C."
+    ],
+    "use_of_proceeds": "Fund ongoing and planned clinical trials advancing RAP-219, other research and development, working capital and general corporate purposes, and potentially in-license, acquire or invest in complementary businesses, technologies, products or assets.",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 150000000,
+        "coupon_pct": 2.25,
+        "coupon_type": "fixed",
+        "maturity_date": "2032-12-01",
+        "first_call_date": null,
+        "benchmark": null,
+        "spread_bps": null,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "2.25% per year at 100% of principal amount"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "source_file": "2026-10-14_jpmorgan-chase-co_0001193125-26-421096.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:42:59",
+  "usage": {
+    "input_tokens": 4252,
+    "output_tokens": 455
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "JPMorgan Chase & Co.",
+    "sector": "Financials",
+    "trade_date": "2026-10-13",
+    "settlement_date": "2026-10-20",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "J.P. Morgan Securities LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 2900000000,
+        "coupon_pct": 5.615,
+        "coupon_type": "fixed-to-floating",
+        "maturity_date": "2030-10-20",
+        "first_call_date": "2029-10-20",
+        "benchmark": "UST 4.875% due 2029-10-15",
+        "spread_bps": 70,
+        "yield_pct": 5.615,
+        "issue_price_pct": 100,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +70 basis points"
+      }
+    ]
+  }
+}

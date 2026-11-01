@@ -1,0 +1,43 @@
+{
+  "source_file": "2026-10-27_main-street-capital-corp_0001396440-26-000118.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:44:11",
+  "usage": {
+    "input_tokens": 4176,
+    "output_tokens": 520
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Main Street Capital Corporation",
+    "sector": "Financials",
+    "trade_date": "2026-10-27",
+    "settlement_date": "2026-10-29",
+    "rating_moodys": null,
+    "rating_sp": "BBB-",
+    "rating_fitch": "BBB-",
+    "bookrunners": [
+      "RBC Capital Markets, LLC",
+      "J.P. Morgan Securities LLC",
+      "SMBC Nikko Securities America, Inc.",
+      "Truist Securities, Inc."
+    ],
+    "use_of_proceeds": "To initially repay outstanding indebtedness, including amounts outstanding under the Company's multi-year revolving credit facility and/or under the Company's special purpose vehicle revolving credit facility.",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 6.55,
+        "coupon_type": "fixed",
+        "maturity_date": "2030-01-15",
+        "first_call_date": "2029-12-15",
+        "benchmark": "UST 4.875% due October 15, 2029",
+        "spread_bps": 200,
+        "yield_pct": 6.8,
+        "issue_price_pct": 99.258,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: + 200 basis points"
+      }
+    ]
+  }
+}

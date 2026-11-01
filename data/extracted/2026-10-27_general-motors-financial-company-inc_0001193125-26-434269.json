@@ -1,0 +1,45 @@
+{
+  "source_file": "2026-10-27_general-motors-financial-company-inc_0001193125-26-434269.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:44:06",
+  "usage": {
+    "input_tokens": 3404,
+    "output_tokens": 476
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "General Motors Financial Company, Inc.",
+    "sector": "Financials",
+    "trade_date": "2026-10-27",
+    "settlement_date": "2026-10-30",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "Citigroup Global Markets Inc.",
+      "Goldman Sachs & Co. LLC",
+      "J.P. Morgan Securities LLC",
+      "Lloyds Securities Inc.",
+      "RBC Capital Markets, LLC",
+      "Scotia Capital (USA) Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 1250000000,
+        "coupon_pct": 5.6,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-10-30",
+        "first_call_date": null,
+        "benchmark": "UST 4.875% due October 15, 2029",
+        "spread_bps": 83,
+        "yield_pct": 5.627,
+        "issue_price_pct": 99.926,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +83 bps; Yield to Maturity: 5.627%"
+      }
+    ]
+  }
+}

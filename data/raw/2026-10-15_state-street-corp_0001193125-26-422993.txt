@@ -1,0 +1,74 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/93751/000119312526422993/d104687dfwp.htm
+ISSUER (SEC filer): STATE STREET CORP
+FILED: 2026-10-15
+========================================
+FWP
+1
+d104687dfwp.htm
+FWP
+FWP
+FILED PURSUANT TO RULE 433
+REGISTRATION STATEMENT
+NO. 333-288196
+DATED OCTOBER 15, 2026
+STATE STREET CORPORATION
+$750,000,000
+Fixed-to-Floating
+Rate Senior Notes due 2037
+Pricing Term Sheet
+Issuer: | State Street Corporation
+Security: | Fixed-to-Floating Rate Senior Notes due 2037
+Aggregate Principal Amount: | $750,000,000
+Trade Date: | October 15, 2026
+Settlement Date*: | October 20, 2026 (T + 3)
+Maturity Date: | October 20, 2037
+Price to Public (Issue Price): | 100.000%
+Fixed Rate Benchmark Treasury: | 4.625% Notes due August 15, 2036
+Benchmark Treasury Price and Yield: | 96-15+; 5.083%
+Fixed Rate Spread to Benchmark Treasury: | +88 basis points
+Fixed Rate Period: | From, and including, October 20, 2026, to, but excluding, October 20, 2036
+Floating Rate Period: | From, and including, October 20, 2036, to, but excluding, the maturity date
+Fixed Rate Coupon: | 5.963%, payable semi-annually in arrears during the fixed rate period
+Floating Period Base Rate: | SOFR (compounded daily over a quarterly interest payment period in accordance with the specific formula described in the Preliminary Prospectus Supplement).
+Floating Rate Spread: | +122 basis points. In no event will the interest payable in respect of any interest payment period be less than zero.
+Interest Payment Dates: | Fixed rate period: Each April 20 and October 20, commencing on April 20, 2027, and including October 20, 2036. Floating rate period: the second business day following each floating rate period end
+date; provided, that the interest payment date with respect to the final interest payment period will be the maturity date. If the scheduled maturity date falls on a day that is not a business day, the payment of principal and interest will be made
+on the next succeeding business day, but interest on that payment will not accrue during the period from and after the scheduled maturity date.
+Optional Redemption: | The Issuer may redeem the notes, at its option, in whole, but not in part, on, and only on, October 20, 2036, at a redemption price equal to 100% of the principal amount of the notes being redeemed, plus accrued and unpaid
+interest thereon, if any, to, but excluding, the redemption date.
+Calculation Agent: | State Street Bank, an affiliate thereof or any other bank or other entity as the Issuer may appoint
+Day Count Convention: | Fixed rate period: 30/360 Floating rate period: Actual/360
+Business Day: | Fixed rate period: Boston and New York Floating rate period: Boston and New York
+Business Day Convention: | Fixed rate period: Following Floating rate period: Modified following, adjusted
+Denominations: | Minimum denominations of $2,000 and integral multiples of $1,000 in excess thereof
+Currency: | U.S. Dollars
+CUSIP: | 857477DM2
+ISIN: | US857477DM24
+Expected Ratings**: | Aa3 / A / AA- (Moody’s / S&P / Fitch)
+Joint Book-Running Managers: | Goldman Sachs & Co. LLC Morgan
+Stanley & Co. LLC Scotia Capital (USA) Inc. TD
+Securities (USA) LLC
+Co-Managers: | CastleOak Securities, L.P. Drexel Hamilton,
+LLC Independence Point Securities LLC Mischler Financial
+Group, Inc.
+All terms used and not otherwise defined in this final pricing term sheet have the respective meanings assigned to such
+terms in the preliminary prospectus supplement, dated October 15, 2026 (the “Preliminary Prospectus Supplement”).
+The Issuer has
+filed a registration statement (including a prospectus) with the Securities and Exchange Commission (the “SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration
+statement and other documents the Issuer has filed with the SEC for more complete information about the Issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, the Issuer,
+any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling Goldman Sachs & Co. LLC toll-free at 1 (866)
+471-2526,
+Morgan
+Stanley & Co. LLC toll-free at 1 (866)
+718-1649,
+Scotia Capital (USA) Inc. toll-free at 1 (800)
+372-3930,
+and TD Securities (USA) LLC toll-free at 1 (855)
+495-9846.
+* | The underwriters expect to deliver the notes to purchasers on or about October 20, 2026, which will be the
+third business day following the pricing of the notes (such settlement cycle being herein referred to as “T + 3”). Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended,
+trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the notes prior to the business day preceding the
+settlement date will be required, by virtue of the fact that the notes initially will settle T + 3, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the notes who wish to
+trade the notes prior to the business day preceding the settlement date should consult their own advisor.
+** | A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or
+withdrawal at any time.

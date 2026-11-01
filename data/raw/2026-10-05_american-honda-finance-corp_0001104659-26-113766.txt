@@ -1,0 +1,74 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/864270/000110465926113766/tm2626941d3_fwp.htm
+ISSUER (SEC filer): AMERICAN HONDA FINANCE CORP
+FILED: 2026-10-05
+========================================
+FWP
+1
+tm2626941d3_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Registration No. 333-289425
+Pricing Term Sheet
+October 5, 2026
+Issuer: | American Honda Finance Corporation
+Security: | Floating Rate Medium-Term Notes, Series A
+Issuer Senior Long-Term Debt Ratings*: | Moody’s Investors Service, Inc.: A3 (stable outlook) Standard & Poor’s Ratings Services: BBB+ (stable outlook) Fitch Ratings, Inc.: A- (negative outlook)
+CUSIP/ISIN: | 02665WHD6 / US02665WHD65
+Trade Date: | October 5, 2026
+Original Issue Date**: | October 7, 2026 (T+ 2)
+Stated Maturity Date: | October 6, 2028
+Principal Amount: | $300,000,000
+Interest Category: | Regular Floating Rate Note
+Interest Rate Basis: | Compounded SOFR
+Initial Interest Rate: | The initial interest rate will be based on Compounded SOFR determined on January 4 , 2027 plus the Spread, accruing from October 7, 2026
+Minimum Interest Rate: | 0.000%
+Initial Interest Reset Date: | January 6, 2027
+Interest Reset Dates: | Each Interest Payment Date
+Interest Determination Date: | The second U.S. Government Securities Business Day preceding each Interest Reset Date
+Interest Period: | The period from and including an Interest Payment Date (or, in the case of the first Interest Period, the Original Issue Date) to, but excluding, the next Interest Payment Date (or, in the case of the final Interest Period, the Stated Maturity Date).
+Observation Period: | The period from and including two U.S. Government Securities Business Days preceding an Interest Payment Date to but excluding two U.S. Government Securities Business Days preceding the next Interest Payment Date, provided that the first Observation Period shall be from and including two U.S. Government Securities Business Days preceding the Original Issue Date to but excluding two U.S. Government Securities Business Days preceding the first Interest Payment Date.
+Interest Payment Frequency: | Quarterly
+Interest Payment Dates: | Each January 6, April 6, July 6 and October 6 beginning on January 6, 2027 (short first coupon), and ending on the Stated Maturity Date
+Spread: | +78 bps
+Designated Currency: | U.S. dollars
+Price to Public: | 100.000%
+Commission: | 0.100%
+Net Proceeds to Issuer: | 99.900% / $299,700,000
+Day Count Convention: | Actual/360
+1
+Business Day Convention: | Modified Following (adjusted); provided, however, if the Stated Maturity Date falls on a day that is not a Business Day, the payment of principal and interest that is due on the Stated Maturity Date will be made on the next succeeding Business Day, and no interest on such payment will accrue for the period from and after the Stated Maturity Date to the date of that payment on the next succeeding Business Day.
+Record Dates: | 15 th calendar day, whether or not a Business Day, preceding the related Interest Payment Date
+Calculation Agent: | Deutsche Bank Trust Company Americas
+Business Days: | New York and U.S. Government Securities Business Day
+Minimum Denominations: | $2,000 and $1,000 increments thereafter
+Joint Book-Running Managers: | ANZ Securities, Inc. BofA Securities, Inc. ING Financial Markets LLC J.P. Morgan Securities LLC
+Co-Managers: | BNY Mellon Capital Markets, LLC SG Americas Securities, LLC SMBC Nikko Securities America, Inc. TD Securities (USA) LLC CastleOak Securities, L.P. Penserra Securities LLC Samuel A. Ramirez & Company, Inc. Stern Brothers & Co.
+DTC Number: | 187
+*A securities rating is not a recommendation to buy, sell or hold
+securities and may be changed or withdrawn at any time.
+**The Issuer expects that delivery of the Notes will be made to
+investors on or about October 7, 2026, which will be the second business day following the date of pricing of the Notes (such settlement
+being referred to as “T+2”). Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended, trades in the secondary
+market are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers
+who wish to trade the Notes on the date of pricing will be required, by virtue of the fact that the Notes initially settle in T+2, to
+specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to
+trade the Notes on the pricing date should consult their own advisors.
+This term sheet supplements
+the prospectus supplements dated August 8, 2025 and August 11, 2026 and the related prospectus dated August 8, 2025; capitalized terms
+used in this term sheet, but otherwise not defined, shall have the meanings assigned to them in the related prospectus supplements and
+prospectus.
+The
+issuer has filed a registration statement (including a prospectus) with the U.S. Securities and Exchange Commission (the “SEC”)
+for the offering to which this communication relates. Before you invest, you should read the aforementioned prospectus and prospectus
+supplements and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You
+may get these documents for free by visiting EDGAR on the web at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer
+participating in the offering will arrange to send you the aforementioned prospectus, the prospectus supplements and the
+applicable
+pricing supplement if you request them by calling ANZ Securities, Inc. toll-free at 1-212-801-9000,
+BofA Securities, Inc. toll-free
+at 1-800-294-1322, ING Financial Markets LLC toll-free at 1-877-446-4930 or J.P. Morgan Securities LLC collect at 1-212-834-4533
+.
+Any disclaimer or other notice that may appear below is not applicable
+to this communication and should be disregarded. Such disclaimer or notice was automatically generated as a result of this communication
+being sent by Bloomberg or another email system.
+2

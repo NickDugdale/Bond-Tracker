@@ -1,0 +1,29 @@
+{
+  "source_file": "2026-10-27_bread-financial-holdings-inc_0001193125-26-434417.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:43:56",
+  "usage": {
+    "input_tokens": 4163,
+    "output_tokens": 328
+  },
+  "data": {
+    "is_bond_pricing": false,
+    "not_bond_reason": "This is a perpetual preferred stock offering (depositary shares), not a traditional bond.",
+    "issuer": "Bread Financial Holdings, Inc.",
+    "sector": "Financials",
+    "trade_date": "2026-10-27",
+    "settlement_date": "2026-11-03",
+    "rating_moodys": "Ba3",
+    "rating_sp": null,
+    "rating_fitch": "B-",
+    "bookrunners": [
+      "Morgan Stanley & Co. LLC",
+      "Keefe, Bruyette & Woods, Inc.",
+      "RBC Capital Markets, LLC",
+      "UBS Securities LLC",
+      "Wells Fargo Securities, LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": []
+  }
+}

@@ -1,0 +1,101 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/312069/000119312526439897/d147141dfwp.htm
+ISSUER (SEC filer): BARCLAYS PLC
+FILED: 2026-10-30
+========================================
+FWP
+1
+d147141dfwp.htm
+FWP
+FWP
+Free Writing Prospectus Filed
+pursuant to Rule 433 Registration Statement No. 333-277578
+$1,000,000,000 5.674%
+Fixed-to-Floating
+Rate Senior Callable Notes due 2030
+Barclays PLC
+PRICING TERM SHEET
+Issuer: | Barclays PLC (the “Issuer”)
+Notes: | $1,000,000,000 5.674% Fixed-to-Floating Rate Senior Callable Notes due 2030 (the “2030 notes”)
+Expected Issue Ratings 1 : | Baa1 (Moody’s) / BBB+ (S&P) / A (Fitch)
+Status: | Senior Debt / Unsecured
+Legal Format: | SEC registered
+Principal Amount: | $1,000,000,000
+Trade Date: | October 29, 2026
+Settlement Date: | November 5, 2026 (T+5) (the “Issue Date”)
+Maturity Date: | November 5, 2030 (the “2030 Notes Maturity Date”)
+Fixed Rate Period Coupon: | From (and including) the Issue Date to (but excluding) the 2030 Notes Par Redemption Date (as defined below) (the “2030 Notes Fixed Rate Period”), the 2030 notes will bear interest at a rate of 5.674% per
+annum.
+Floating Rate Period Coupon: | From (and including) the 2030 Notes Par Redemption Date to (but excluding) the 2030 Notes Maturity Date (the “2030 Notes Floating Rate
+Period”), the applicable per annum interest rate will be equal to the Benchmark (as defined below, such term subject to the provisions described under “ Description of Senior Notes ” in the Preliminary Prospectus Supplement)
+as determined on the applicable Interest Determination Date (as defined below), plus the 2030 Notes Margin (as defined below) (the “2030 Notes Floating Interest Rate”). The 2030 Notes Floating Interest Rate will be calculated quarterly
+on each Interest Determination Date. During the 2030 Notes Floating Rate Period,
+each interest period on the 2030 notes will begin on (and include) a 2030 Notes Floating Rate Period Interest Payment Date (as defined below) and end on (but exclude) the next succeeding 2030 Notes Floating Rate Period Interest Payment Date (each, a
+“2030 Notes Floating Rate Interest Period”); provided that the first 2030 Notes Floating Rate Interest Period will begin on (and include) the 2030 Notes Par Redemption Date and will end on (but exclude) the first 2030 Notes Floating Rate
+Period Interest Payment Date.
+Par Redemption Date: | November 5, 2029 (the “2030 Notes Par Redemption Date”)
+Fixed Rate Period Interest Payment Dates: | During the 2030 Notes Fixed Rate Period, interest will be payable semi-annually in arrear on May 5 and November 5 in each year, from (and including) May 5, 2027 up to (and including) the 2030 Notes Par Redemption
+Date.
+1 | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+Floating Rate Period Interest Payment Dates: | During the 2030 Notes Floating Rate Period, interest will be payable quarterly in arrear on February 5, 2030, May 5, 2030, August 5, 2030, and the 2030 Notes Maturity Date (each, a “2030 Notes Floating Rate
+Period Interest Payment Date”).
+Interest Determination Dates: | The second USGS Business Day preceding the applicable Floating Rate Period Interest Payment Date (each, an “Interest Determination Date”).
+Benchmark: | Compounded Daily SOFR (calculated as described under “ Description of Senior Notes—Calculation of the Benchmark ” in the Preliminary Prospectus Supplement), subject to the Benchmark Transition
+Provisions.
+Day Count: | 30/360, Following, Unadjusted, for the 2030 Notes Fixed Rate Period. Actual/360, Modified Following, Adjusted, for the 2030 Notes Floating Rate
+Period.
+Business Days: | Any weekday, other than one on which banking institutions are authorized or obligated by law, regulation or executive order to close in London, England or in the City of New York, United States.
+Preliminary Prospectus Supplement: | Preliminary Prospectus Supplement dated October 29, 2026 (the “Preliminary Prospectus Supplement,” incorporating the Prospectus dated March 1, 2024 relating to the 2030 notes (the “Base
+Prospectus”)). If there is any discrepancy or contradiction between this Pricing Term Sheet and the Preliminary Prospectus Supplement, this Pricing Term Sheet shall prevail.
+U.K. Bail-in Power Acknowledgement: | Yes. See the section entitled “Description of Senior Notes—Agreement with Respect to the Exercise of U.K. Bail-in Power ” in the Preliminary Prospectus Supplement and “Description of Debt Securities—Agreement with Respect to the Exercise of U.K. Bail-in Power ” in the Base Prospectus.
+Ranking: | The ranking of the 2030 notes is described under “ Description of Senior Notes—Ranking ” in the Preliminary Prospectus Supplement.
+Optional Redemption: | The Issuer may, at its option, redeem (i) the 2030 notes in whole or in part, pursuant to the 2030 Notes Make-Whole Redemption at any
+time on or after May 5, 2027 to (but excluding) the 2030 Notes Par Redemption Date; and/or (ii) the 2030 notes then outstanding, in whole but not in part, on the 2030 Notes Par Redemption Date, at an amount equal to 100% of their principal
+amount together with accrued but unpaid interest, if any, on the principal amount of the 2030 notes to be redeemed to (but excluding) the redemption date, on the terms and subject to the provisions set forth in the Preliminary Prospectus Supplement
+under “ Description of Senior Notes—Optional Redemption .” For purposes of the 2030 Notes Make-Whole Redemption, the 2030 Notes Discount Factor is 15 bps.
+Tax Redemption: | The 2030 notes are also redeemable as described under “ Description of Senior Notes—Tax Redemption ” in the Preliminary Prospectus Supplement.
+Loss Absorption Disqualification Event Redemption: | The 2030 notes are also redeemable as described under “ Description of Senior Notes—Loss Absorption Disqualification Event Redemption ” in the Preliminary Prospectus Supplement.
+Margin: | 116.0 bps (the “2030 Notes Margin”)
+Benchmark Treasury: | UST 4.875% due October 15, 2029
+Spread to Benchmark Treasury: | 100 bps
+Reoffer Yield: | 5.674%
+Price to Public: | 100.000%
+Underwriting Discount: | 0.250%
+Net Proceeds: | $997,500,000
+Sole Bookrunner: | Barclays Capital Inc.
+Senior Co-Managers: | Danske Markets Inc., Erste Group Bank AG, Huntington Securities, Inc., J.P. Morgan Securities LLC, Nomura Securities International, Inc., Truist Securities, Inc., UBS Securities LLC, U.S. Bancorp Investments, Inc.
+Co-Managers: | Academy Securities, Inc., Banco de Sabadell, S.A., Citigroup Global Markets Inc., Loop Capital Markets LLC, M&T Securities, Inc.
+Risk Factors: | An investment in the 2030 notes involves risks. See “ Risk Factors ” section beginning on page S-25 of the Preliminary Prospectus Supplement.
+Denominations: | $200,000 and integral multiples of $1,000 in excess thereof.
+ISIN/CUSIP: | US06738EDP79/06738EDP7
+Legal Entity Identifier (“LEI”) Code: | 213800LBQA1Y9L22JB70
+Settlement: | The Depository Trust Company; Book-entry; Transferable
+Documentation: | To be documented under the Issuer’s shelf registration statement on Form F-3 (No. 333-277578) and to be issued pursuant to the Senior Debt
+Securities Indenture dated January 17, 2018 (as heretofore supplemented and amended), between the Issuer and The Bank of New York Mellon, London Branch, as trustee (the “Trustee”), as amended and supplemented by the Twenty-Third
+Supplemental Indenture, to be entered into on or about the Issue Date, between the Issuer, the Trustee and The Bank of New York Mellon SA/NV, Luxembourg Branch, as senior debt security registrar.
+Listing: | We will apply to list the 2030 notes on the New York Stock Exchange.
+Calculation Agent: | The Bank of New York Mellon, New York, or its successor appointed by the Issuer.
+Governing Law: | New York law, except for the waiver of set-off provisions which will be governed by English law.
+Definitions: | Unless otherwise defined herein, all capitalized terms have the meaning set forth in the Preliminary Prospectus Supplement.
+The Issuer has filed a registration statement (including the Base Prospectus) and the Preliminary Prospectus Supplement with
+the U.S. Securities and Exchange Commission (“SEC”) for this offering. Before you invest, you should read the Base Prospectus and the Preliminary Prospectus Supplement for this offering in that registration statement, and other documents
+the Issuer has filed with the SEC for more complete information about the Issuer and this offering. You may get these documents for free by searching the SEC online database (EDGAR) at
+www.sec.gov
+. Alternatively, you may obtain a copy of the
+Base Prospectus and the Preliminary Prospectus Supplement from Barclays Capital Inc. by calling
++1-888-603-5847.
+It is expected that delivery of the 2030 notes will be made, against payment for the 2030 notes, on or about November 5, 2026, which will be the fifth
+(5th) business day in the United States following the date of pricing of the 2030 notes. Under Rule
+15c6-1
+under the Securities Exchange Act of 1934, purchases or sales of 2030 notes in the secondary market
+generally are required to settle within one (1) business day (T+1), unless the parties to any such transaction expressly agree otherwise. Accordingly, purchasers who wish to trade the 2030 notes on any day prior to the business day before
+delivery will be required, by virtue of the fact that the 2030 notes initially will not settle on T+1, to specify any alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the 2030 notes who wish to
+make such trades should consult their own advisors.
+No EEA PRIIPs key information document has been prepared as the 2030 notes are not available to
+retail in the EEA. No disclosure document required by the FCA Product Disclosure Sourcebook has been prepared as the 2030 notes are not available to retail in the United Kingdom.
+This communication is being distributed to, and is directed only at, persons in the United Kingdom in
+circumstances where section 21(1) of the Financial Services and Markets Act 2000, as amended, does not apply (such persons being referred to as “relevant persons”). Any person who is not a relevant person should not act or rely on this
+communication or any of its contents. Any investment activity (including, but not limited to, any invitation, offer or agreement to subscribe, purchase or otherwise acquire securities) to which this communication relates will only be available to,
+and will only be engaged with, relevant persons.
+To the extent any underwriter that is not a U.S. registered broker-dealer intends to effect any
+offers or sales of any 2030 notes in the United States, it will do so through one or more U.S. registered broker-dealers in accordance with the applicable U.S. securities laws and regulations.

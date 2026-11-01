@@ -1,0 +1,64 @@
+{
+  "source_file": "2026-10-26_southwest-airlines-co_0001193125-26-432199.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:43:31",
+  "usage": {
+    "input_tokens": 4552,
+    "output_tokens": 708
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Southwest Airlines Co.",
+    "sector": "Industrials",
+    "trade_date": "2026-10-26",
+    "settlement_date": "2026-11-02",
+    "rating_moodys": "Baa2",
+    "rating_sp": "BBB",
+    "rating_fitch": "BBB+",
+    "bookrunners": [
+      "Barclays Capital Inc.",
+      "BNP Paribas Securities Corp.",
+      "Standard Chartered Bank",
+      "U.S. Bancorp Investments, Inc.",
+      "Wells Fargo Securities, LLC",
+      "BofA Securities, Inc.",
+      "Citigroup Global Markets Inc.",
+      "Goldman Sachs & Co. LLC",
+      "J.P. Morgan Securities LLC",
+      "Morgan Stanley & Co. LLC",
+      "PNC Capital Markets LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 600000000,
+        "coupon_pct": 5.75,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-11-15",
+        "first_call_date": "2029-10-15",
+        "benchmark": "4.875% UST due October 15, 2029",
+        "spread_bps": 100,
+        "yield_pct": 5.772,
+        "issue_price_pct": 99.936,
+        "seniority": "senior unsecured",
+        "pricing_quote": "+100 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 650000000,
+        "coupon_pct": 6.0,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-11-15",
+        "first_call_date": "2031-10-15",
+        "benchmark": "5.000% UST due September 30, 2031",
+        "spread_bps": 125,
+        "yield_pct": 6.067,
+        "issue_price_pct": 99.71,
+        "seniority": "senior unsecured",
+        "pricing_quote": "+125 basis points"
+      }
+    ]
+  }
+}

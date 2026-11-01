@@ -1,0 +1,141 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/80424/000162828026067657/pg-eurfwpoct2026.htm
+ISSUER (SEC filer): PROCTER & GAMBLE Co
+FILED: 2026-10-27
+========================================
+FWP
+1
+pg-eurfwpoct2026.htm
+FWP
+Document
+Filed Pursuant to Rule 433
+Registration No. 333-299472
+October 27, 2026
+Pricing Term Sheet
+€3,250,000,000
+The Procter & Gamble Company
+€750,000,000 3.750% Notes due 2030
+€1,000,000,000 4.100% Notes due 2034
+€750,000,000 4.250% Notes due 2038
+€750,000,000 4.625% Notes due 2046
+3.750% Notes due 2030
+Issuer: | The Procter & Gamble Company
+Aggregate Principal Amount: | €750,000,000
+Maturity Date: | November 3, 2030
+Mid-swap rate: | 3.407%
+Spread to mid-swap rate: | +38 basis points
+Yield to Maturity: | 3.787%
+Coupon (Interest Rate): | 3.750%
+Price to Public (Issue Price): | 99.865% of principal amount
+Reference Government security: | 2.200% due October 10, 2030
+Reference Government security price/yield: | 96.600%; 3.128%
+Spread to reference Government security: | +65.9 basis points
+Interest Payment Date: | November 3, commencing November 3, 2027
+Day Count Convention: | ACT/ACT, following, unadjusted
+Make-Whole Redemption: | At any time at the greater of 100% or a discount rate of the Comparable Government Bond Rate plus 10 basis points
+Tax Redemption: | The notes will be redeemable if certain events occur involving United States taxation as described in the Prospectus Supplement
+Trade Date: | October 27, 2026
+Settlement Date*: | November 3, 2026 (T+5)
+Common Code: | 355399036
+ISIN: | XS3553990360
+CUSIP: | 742718 GZ6
+Denominations: | €100,000 x €1,000
+Joint Book-Running Managers: | Citigroup Global Markets Limited Deutsche Bank AG, London Branch Goldman Sachs & Co. LLC HSBC Bank plc Morgan Stanley & Co. International plc
+Co-Managers: | Banco Bilbao Vizcaya Argentaria, S.A. Barclays Bank PLC BNP PARIBAS Merrill Lynch International RBC Europe Limited Bank of China (Europe) S.A. PNC Capital Markets LLC Siebert Williams Shank & Co., LLC Standard Chartered Bank
+Type of Offering: | SEC Registered
+Listing: | Application will be made for listing on the New York Stock Exchange on terms described in the Prospectus Supplement
+Long-term Debt Ratings**: | Moody’s: Aa3 (Positive); S&P: AA- (Stable)
+Concurrent Offering: | $750,000,000 of 5.125% Notes due 2031, $750,000,000 of 5.300% Notes due 2033, $1,250,000,000 of 5.450% Notes due 2036 and $1,250,000,000 of 5.900% Notes due 2056, expected to be issued on October 30, 2026 by The Procter & Gamble Company. The closing of the offering of the notes offered hereby is not contingent on the closing of the concurrent offering.
+4.100% Notes due 2034
+Issuer: | The Procter & Gamble Company
+Aggregate Principal Amount: | €1,000,000,000
+Maturity Date: | November 3, 2034
+Mid-swap rate: | 3.421%
+Spread to mid-swap rate: | +70 basis points
+Yield to Maturity: | 4.121%
+Coupon (Interest Rate): | 4.100%
+Price to Public (Issue Price): | 99.859% of principal amount
+Reference Government security: | 2.600% due August 15, 2034
+Reference Government security price/yield: | 95.460%; 3.268%
+Spread to reference Government security: | +85.3 basis points
+Interest Payment Date: | November 3, commencing November 3, 2027
+Day Count Convention: | ACT/ACT, following, unadjusted
+Make-Whole Redemption: | At any time at the greater of 100% or a discount rate of the Comparable Government Bond Rate plus 15 basis points
+Tax Redemption: | The notes will be redeemable if certain events occur involving United States taxation as described in the Prospectus Supplement
+Trade Date: | October 27, 2026
+Settlement Date*: | November 3, 2026 (T+5)
+Common Code: | 355399044
+ISIN: | XS3553990444
+CUSIP: | 742718 HA0
+Denominations: | €100,000 x €1,000
+Joint Book-Running Managers: | Citigroup Global Markets Limited Deutsche Bank AG, London Branch Goldman Sachs & Co. LLC HSBC Bank plc Morgan Stanley & Co. International plc
+Co-Managers: | Banco Bilbao Vizcaya Argentaria, S.A. Barclays Bank PLC BNP PARIBAS Merrill Lynch International RBC Europe Limited Bank of China (Europe) S.A. PNC Capital Markets LLC Siebert Williams Shank & Co., LLC Standard Chartered Bank
+Type of Offering: | SEC Registered
+Listing: | Application will be made for listing on the New York Stock Exchange on terms described in the Prospectus Supplement
+Long-term Debt Ratings**: | Moody’s: Aa3 (Positive); S&P: AA- (Stable)
+Concurrent Offering: | $750,000,000 of 5.125% Notes due 2031, $750,000,000 of 5.300% Notes due 2033, $1,250,000,000 of 5.450% Notes due 2036 and $1,250,000,000 of 5.900% Notes due 2056, expected to be issued on October 30, 2026 by The Procter & Gamble Company. The closing of the offering of the notes offered hereby is not contingent on the closing of the concurrent offering.
+4.250% Notes due 2038
+Issuer: | The Procter & Gamble Company
+Aggregate Principal Amount: | €750,000,000
+Maturity Date: | November 3, 2038
+Mid-swap rate: | 3.473%
+Spread to mid-swap rate: | +90 basis points
+Yield to Maturity: | 4.373%
+Coupon (Interest Rate): | 4.250%
+Price to Public (Issue Price): | 98.870% of principal amount
+Reference Government security: | 1.000% due May 15, 2038
+Reference Government security price/yield: | 76.860%; 3.466%
+Spread to reference Government security: | +90.7 basis points
+Interest Payment Date: | November 3, commencing November 3, 2027
+Day Count Convention: | ACT/ACT, following, unadjusted
+Make-Whole Redemption: | At any time at the greater of 100% or a discount rate of the Comparable Government Bond Rate plus 15 basis points
+Tax Redemption: | The notes will be redeemable if certain events occur involving United States taxation as described in the Prospectus Supplement
+Trade Date: | October 27, 2026
+Settlement Date*: | November 3, 2026 (T+5)
+Common Code: | 355399052
+ISIN: | XS3553990527
+CUSIP: | 742718 HB8
+Denominations: | €100,000 x €1,000
+Joint Book-Running Managers: | Citigroup Global Markets Limited Deutsche Bank AG, London Branch Goldman Sachs & Co. LLC HSBC Bank plc Morgan Stanley & Co. International plc
+Co-Managers: | Banco Bilbao Vizcaya Argentaria, S.A. Barclays Bank PLC BNP PARIBAS Merrill Lynch International RBC Europe Limited Bank of China (Europe) S.A. PNC Capital Markets LLC Siebert Williams Shank & Co., LLC Standard Chartered Bank
+Type of Offering: | SEC Registered
+Listing: | Application will be made for listing on the New York Stock Exchange on terms described in the Prospectus Supplement
+Long-term Debt Ratings**: | Moody’s: Aa3 (Positive); S&P: AA- (Stable)
+Concurrent Offering: | $750,000,000 of 5.125% Notes due 2031, $750,000,000 of 5.300% Notes due 2033, $1,250,000,000 of 5.450% Notes due 2036 and $1,250,000,000 of 5.900% Notes due 2056, expected to be issued on October 30, 2026 by The Procter & Gamble Company. The closing of the offering of the notes offered hereby is not contingent on the closing of the concurrent offering.
+4.625% Notes due 2046
+Issuer: | The Procter & Gamble Company
+Aggregate Principal Amount: | €750,000,000
+Maturity Date: | November 3, 2046
+Mid-swap rate: | 3.459%
+Spread to mid-swap rate: | +120 basis points
+Yield to Maturity: | 4.659%
+Coupon (Interest Rate): | 4.625%
+Price to Public (Issue Price): | 99.564% of principal amount
+Reference Government security: | 2.500% due August 15, 2046
+Reference Government security price/yield: | 83.740%; 3.669%
+Spread to reference Government security: | +99.0 basis points
+Interest Payment Date: | November 3, commencing November 3, 2027
+Day Count Convention: | ACT/ACT, following, unadjusted
+Make-Whole Redemption: | At any time at the greater of 100% or a discount rate of the Comparable Government Bond Rate plus 15 basis points
+Tax Redemption: | The notes will be redeemable if certain events occur involving United States taxation as described in the Prospectus Supplement
+Trade Date: | October 27, 2026
+Settlement Date*: | November 3, 2026 (T+5)
+Common Code: | 355399079
+ISIN: | XS3553990790
+CUSIP: | 742718 HC6
+Denominations: | €100,000 x €1,000
+Joint Book-Running Managers: | Citigroup Global Markets Limited Deutsche Bank AG, London Branch Goldman Sachs & Co. LLC HSBC Bank plc Morgan Stanley & Co. International plc
+Co-Managers: | Banco Bilbao Vizcaya Argentaria, S.A. Barclays Bank PLC BNP PARIBAS Merrill Lynch International RBC Europe Limited Bank of China (Europe) S.A. PNC Capital Markets LLC Siebert Williams Shank & Co., LLC Standard Chartered Bank
+Type of Offering: | SEC Registered
+Listing: | Application will be made for listing on the New York Stock Exchange on terms described in the Prospectus Supplement
+Long-term Debt Ratings**: | Moody’s: Aa3 (Positive); S&P: AA- (Stable)
+Concurrent Offering: | $750,000,000 of 5.125% Notes due 2031, $750,000,000 of 5.300% Notes due 2033, $1,250,000,000 of 5.450% Notes due 2036 and $1,250,000,000 of 5.900% Notes due 2056, expected to be issued on October 30, 2026 by The Procter & Gamble Company. The closing of the offering of the notes offered hereby is not contingent on the closing of the concurrent offering.
+*Note:
+We expect that delivery of the notes will be made against payment therefor on or about the fifth business day following the date of pricing of the notes (such settlement cycle being referred to as “T+5”). Under Rule 15c6-1 of the Securities and Exchange Commission (the “SEC”) under the Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the notes on any date prior to the business day before delivery of the notes will be required, by virtue of the fact that the notes initially will settle in T+5 business days, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the notes who wish to make such trades should consult their own advisors.
+**Note:
+A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+MiFID II and UK MiFIR – Professionals/ECPs only / No PRIIPs KID or CCI product summary - Manufacturer target market (MiFID II product governance/UK MiFIR product governance) is eligible counterparties and professional clients only (all distribution channels). No PRIIPs key information document (KID) or CCI product summary has been prepared as the notes are not available to retail investors in the EEA or the United Kingdom.
+The notes may not be offered, sold or otherwise made available to any retail investor in the European Economic Area. For the purposes of this provision, the expression “retail investor” means a person who is one (or both) of (i) a retail client as defined in point (11) of Article 4(1) of Directive (EU) 2014/65 (as amended, “MiFID II”); or (ii) a customer within the meaning of Directive (EU) 2016/97 (as amended), where that customer would not qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II.
+This Pricing Term Sheet has not been approved by any authorized person in the United Kingdom and is for distribution only to persons who (i) are outside the United Kingdom or (ii) are “qualified investors” as defined in paragraph 15 of Schedule 1 to the Public Offers and Admissions to Trading Regulations 2024 (the “POATRs”) who also (a) have professional experience in matters relating to investments (being investment professionals falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005, as amended (the “Financial Promotion Order”)), (b) are persons falling within Article 43(2) of the Financial Promotion Order, (c) are persons falling within Article 49(2)(a) to (d) (among others, high net worth companies or unincorporated associations) of the Financial Promotion Order, or (d) are persons to whom an invitation or inducement to engage in investment activity within the meaning of section 21 of the Financial Services and Markets Act 2000 (the “FSMA”) in connection with the issue or sale of any securities may otherwise lawfully be communicated or caused to be communicated (all such persons together being referred to as “relevant persons”).This Pricing Term Sheet is directed only at relevant persons and must not be acted on or relied on by persons who are not relevant persons. Any investment or investment activity to which this Pricing Term Sheet relates is available only to relevant persons and will be engaged in only with relevant persons.
+No person may communicate or cause to be communicated any invitation or inducement to engage in investment activity (within the meaning of section 21 of the FSMA) received by it in connection with the issue or sale of the securities described in this Pricing Term Sheet other than in circumstances in which section 21(1) of the FSMA does not apply.
+The issuer has filed a registration statement (including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling Citigroup Global Markets Limited toll-free at 1-800-831-9146, Deutsche Bank AG, London Branch toll-free at 1-800-503-4611, Goldman Sachs & Co. LLC toll-free at 1-866-471-2526, HSBC Bank plc toll-free at 1-866-811-8049 or Morgan Stanley & Co. International plc toll-free at 1-866-718-1649.
+Any disclaimers or other notices that may appear below are not applicable to this communication and should be disregarded. Such disclaimers or other notices were automatically generated as a result of this communication being sent via Bloomberg or another email system.

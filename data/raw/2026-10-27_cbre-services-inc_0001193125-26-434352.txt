@@ -1,0 +1,101 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/852203/000119312526434352/d187280dfwp.htm
+ISSUER (SEC filer): CBRE SERVICES, INC.
+FILED: 2026-10-27
+========================================
+FWP
+1
+d187280dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+File
+No. 333-276141
+Pricing Term Sheet
+CBRE Services, Inc.
+$500,000,000 5.650% Senior Notes due 2032
+$500,000,000 5.900% Senior Notes due 2037
+October 27, 2026
+The following information, filed pursuant to Rule 433, supplements the Preliminary Prospectus Supplement dated October 27, 2026, Registration Statement
+No. 333-276141.
+Issuer: | CBRE Services, Inc. (the “ Issuer ”)
+Expected Ratings (Moody’s/S&P/Fitch):* | Baa1/ BBB+ / BBB+
+Guarantor: | CBRE Group, Inc.
+Title of Securities: | 5.650% Senior Notes due 2032 (the “ 2032 Notes ”) 5.900% Senior Notes due 2037 (the “ 2037 Notes ”)
+Principal Amount: | 2032 Notes: $500,000,000 2037 Notes:
+$500,000,000
+Trade Date: | October 27, 2026
+Settlement Date (T+7):** | November 5, 2026
+Final Maturity Date: | 2032 Notes: January 15, 2032 2037 Notes:
+January 15, 2037
+Interest Payment Dates: | 2032 Notes: January 15 and July 15, commencing January 15, 2027 2037 Notes: January 15 and July 15, commencing January 15, 2027
+Record Dates: | 2032 Notes: January 1 and July 1 2037
+Notes: January 1 and July 1
+Coupon: | 2032 Notes: 5.650% 2037 Notes:
+5.900%
+Benchmark Treasury: | 2032 Notes: UST 5.000% due September 30, 2031 2037 Notes: UST 4.625% due August 15, 2036
+Benchmark Treasury Price / Yield: | 2032 Notes: 100-23 1 ⁄ 4 / 4.832% 2037 Notes: 97-07 / 4.986%
+Spread to Benchmark Treasury: | 2032 Notes: +95 basis points 2037 Notes: +120
+basis points
+Yield to Maturity: | 2032 Notes: 5.782% 2037 Notes:
+6.186%
+Public Offering Price: | 2032 Notes: 99.424% of the principal amount 2037 Notes: 97.872% of the principal amount
+Net Proceeds to Issuer (after deducting the underwriting discount, but before expenses): | 2032 Notes: $ 494,120,000 2037 Notes:
+$486,110,000
+Optional Redemption: | 2032 Notes: Following issuance and prior to December 15, 2031, make-whole call at T+15 basis points. At any time on or after
+December 15, 2031, par call. 2037 Notes: Following issuance and prior to October 15, 2036, make-whole call at T+20 basis points. At any time on
+or after October 15, 2036, par call.
+CUSIP/ISIN: | 2032 Notes: 12505B AN0 / US12505BAN01 2037
+Notes: 12505B AP5 / US12505BAP58
+Joint Book-Running Managers: | Wells Fargo Securities, LLC BofA Securities,
+Inc. HSBC Securities (USA) Inc. J.P. Morgan Securities
+LLC Citigroup Global Markets Inc. NatWest Markets Securities
+Inc. Scotia Capital (USA) Inc.
+Senior Co-Managers: | ING Financial Markets LLC U.S. Bancorp
+Investments, Inc.
+Co-Managers: | Morgan Stanley & Co. LLC Standard
+Chartered Bank ANZ Securities, Inc. CBRE Capital Advisors,
+Inc.
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision, suspension or withdrawal at any time.
+** | We expect that delivery of the 2032 Notes and the 2037 Notes (collectively, the “ Notes ”)
+will be made against payment therefor on or about the settlement date specified in this pricing term sheet, which will be the seventh business day following the date of pricing of the Notes (this settlement cycle being referred to as
+“ T+7 ”). Pursuant to Rule 15c6-1 under the Securities Exchange Act of 1934, trades in the secondary market generally are required to settle in one business day, unless the parties to that
+trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes prior to the first business day before settlement will be required, by virtue of the fact that the Notes initially will settle in T+7, to specify an alternate
+settlement cycle at the time of any such trade to prevent a failed settlement and should consult their own advisor.
+Changes to the Preliminary Prospectus Supplement
+The following paragraph shall replace the third paragraph under the subsection “Conflicts of Interest” under the section heading
+“Underwriting” in the Preliminary Prospectus Supplement, and such section, and any references thereto, shall be retitled “Underwriting (Conflicts of Interest)”.
+CBRE Capital Advisors, Inc., as a subsidiary of CBRE Group Inc., is deemed to have a “conflict of interest” within the meaning of Rule 5121
+(Public Offerings of Securities with Conflicts of Interest) of the Financial Industry Regulatory Authority, Inc. (“
+Rule 5121
+”). In addition, certain of the underwriters and/or their respective affiliates may hold commercial paper
+under our commercial paper program. To the extent
+any such commercial paper is to be repaid using net proceeds from this offering, such underwriters and/or their respective affiliates, as applicable, may receive an aggregate amount in excess of
+5% of the net proceeds from this offering, not including underwriting compensation. See “Use of Proceeds.” The receipt by any such underwriter and/or its affiliates of an aggregate amount in excess of 5% of the net proceeds from this
+offering, not including underwriting compensation, would constitute a “conflict of interest” under Rule 5121 for each such underwriter. Consequently, this offering will be conducted in accordance with the applicable requirements of Rule
+5121. Rule 5121 imposes certain requirements on a FINRA member participating in the public offering of securities of an issuer if there is a conflict of interest and/or if that issuer controls, is controlled by, or is under common control with, the
+FINRA member, including prominent disclosure of the nature of the conflict of interest in the prospectus supplement for the public offering. In compliance with Rule 5121, CBRE Capital Advisors, Inc. will not sell any of our securities to a
+discretionary account unless it has received specific written approval from the account holder in accordance with Rule 5121. Pursuant to Rule 5121(a)(1)(C), the appointment of a “qualified independent underwriter” is not necessary in
+connection with this offering as the securities offered are expected to be “investment grade rated” (as defined in Rule 5121).
+The following
+paragraph shall be added as the first paragraph under a new subsection “Other Matters” under the section heading “Underwriting” in the Prospectus Supplement:
+“Standard Chartered Bank will not effect any offers or sales of any notes in the United States unless it is through one or more U.S. registered
+broker-dealers as permitted by the regulations of FINRA.”
+Where similar language or information to that set forth above appears in other sections
+of the preliminary prospectus supplement dated October 27, 2026, that language or information is deemed modified accordingly as set forth above.
+The Issuer has filed a registration statement including a prospectus and a prospectus supplement with the Securities and Exchange Commission (the
+“
+SEC
+”) for the offering to which this communication relates. Before you invest, you should read the prospectus and prospectus supplement in that registration statement and other documents the Issuer has filed with the SEC for more
+complete information about the Issuer and this offering. You may obtain these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, copies may be obtained by calling Wells Fargo Securities, LLC toll free at
+1-800-645-3751,
+BofA Securities, Inc. toll free at
+1-880-294-1322,
+HSBC Securities (USA) Inc. toll free at
+1-866-811-8049
+or J.P.
+Morgan Securities LLC, c/o Broadridge Financial Solutions, 1155 Long Island Avenue, Edgewood, NY 11717 or by email at
+prospectus-eq_fi@jpmchase.com
+and postsalemanualrequests@broadridge.com.
+Any disclaimer or other notice that may appear below is not applicable to this communication and should be disregarded. Such disclaimer or notice was
+automatically generated as a result of this communication being sent by Bloomberg or another email system.

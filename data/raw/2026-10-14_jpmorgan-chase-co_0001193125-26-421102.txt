@@ -1,0 +1,84 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/19617/000119312526421102/d180688dfwp.htm
+ISSUER (SEC filer): JPMORGAN CHASE & CO
+FILED: 2026-10-14
+========================================
+FWP
+1
+d180688dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration
+No. 333-285537
+Dated: October 13, 2026
+Pricing Term Sheet
+This term sheet
+supplements the information set forth under “Description of the Notes” in the Prospectus Supplement, subject to completion, dated October 13, 2026 to the Prospectus dated April 10, 2025 (the “Preliminary Prospectus
+Supplement”).
+Issuer: | JPMorgan Chase & Co.
+Security Type: | SEC Registered Senior Notes
+Security: | Fixed-to-Floating Rate Notes due 2037
+Currency: | USD
+Size: | $3,750,000,000
+Maturity: | October 20, 2037
+Fixed Rate Period: | From and including October 20, 2026 to, but excluding, October 20, 2036
+Floating Rate Period: | From and including October 20, 2036 to, but excluding, Maturity
+Payment Frequency: | Semi-annual during the Fixed Rate Period and quarterly during the Floating Rate Period
+Day Count Fraction: | 30/360 during the Fixed Rate Period, Actual/360 during the Floating Rate Period
+Benchmark Treasury: | 4.625% due August 15, 2036
+Benchmark Treasury Yield: | 5.217%
+Spread to Benchmark Treasury: | +90 basis points
+Reoffer Yield: | 6.117%
+2
+Fixed Rate Coupon: | 6.117%, payable semiannually in arrears during the Fixed Rate Period.
+Floating Rate Coupon: | An annual floating rate equal to the Floating Rate Index plus a spread of 1.255% per annum, payable quarterly in arrears during the Floating Rate Period.
+Floating Rate Index: | Benchmark rate (expected to be Compounded SOFR as described under “Description of the Notes—Interest on the notes” in the Preliminary Prospectus Supplement).
+Floating Rate Reset Frequency: | Quarterly during the Floating Rate Period
+Price to Public: | 100% of face amount
+Proceeds (Before Expenses) to Issuer: | $3,733,125,000
+Interest Payment Dates: | During the Fixed Rate Period, each April 20 and October 20, beginning April 20, 2027 and including October 20, 2036, and during the Floating Rate Period, each of January 20, 2037, April 20, 2037,
+July 20, 2037 and October 20, 2037.
+Business Day: | New York
+Business Day Convention: | During the Fixed Rate Period, following business day. During the Floating Rate Period, modified following business day.
+Optional Redemption: | We may redeem the notes, at our option, in whole at any time or in part from time to time, on or after April 20, 2027 and prior to October 20, 2036 upon at least 5 days’ but no more than 60 days’ notice to
+holders of the notes, at a redemption price equal to the greater of: (i) (a) the sum of the present values of the remaining scheduled payments of principal and interest on the notes to be redeemed discounted to the redemption date (assuming the
+notes matured on October 20, 2036) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the “Treasury Rate” plus 15
+basis points less (b) interest accrued on those notes to the redemption date; and (ii) 100% of the principal amount of the
+3
+notes to be redeemed; plus, in either case, accrued and unpaid interest on the notes to be redeemed to, but excluding, the redemption date.
+In addition, we may redeem the notes, at our option, in whole, but not in part, on October 20, 2036 upon at least 5 days’ but no more than 60 days’ notice to holders of the notes, at a redemption price equal to 100%
+of the principal amount of the notes to be redeemed plus accrued and unpaid interest thereon to, but excluding, the redemption date.
+In addition, we may redeem the notes, at our option, in whole at any time or in part from time to time, on or after July 20, 2037 upon at least 5 days’ but no more than 60 days’ notice to holders of the notes, at a
+redemption price equal to 100% of the principal amount of the notes to be redeemed plus accrued and unpaid interest thereon to, but excluding, the redemption date.
+The foregoing supplements and supersedes the information set forth under “Description of the Notes” in the Preliminary Prospectus Supplement.
+CUSIP/ISIN: | 48128BBA8 / US48128BBA89
+Trade Date: | October 13, 2026
+Settlement Date: | October 20, 2026 (T+5)
+Denominations: | $2,000 x $1,000
+Concurrent Issuance: | In addition to the notes described in this term sheet, JPMorgan Chase & Co. is concurrently offering $350,000,000 of floating rate notes due 2030 and $2,900,000,000 of fixed-to-floating rate notes due 2030. The consummation of each of these offerings is not contingent on any other offering.
+Sole Bookrunner: | J.P. Morgan Securities LLC
+Co-Managers: | CaixaBank, S.A. Citizens JMP Securities,
+LLC Commonwealth Bank of Australia Desjardins Securities
+Inc.
+4
+Fifth Third Securities, Inc. Goodbody
+Stockbrokers UC ING Financial Markets LLC Lloyds Securities
+Inc. nabSecurities, LLC National Bank of Canada Financial
+Inc. Natixis Securities Americas LLC Nykredit Bank A/S PNC Capital Markets LLC Rabo Securities USA, Inc. Scotia Capital (USA) Inc. TD Securities (USA) LLC UniCredit Capital Markets LLC Westpac Capital Markets LLC Academy Securities, Inc. American Veterans Group, PBC Apto Partners, LLC Blaylock Van, LLC C.L. King & Associates, Inc. Cabrera Capital Markets
+LLC CastleOak Securities, L.P. Drexel Hamilton, LLC Falcon Square Capital LLC Loop Capital Markets LLC R. Seelaus & Co., LLC Samuel A. Ramirez &
+Company, Inc. Siebert Williams Shank & Co., LLC Stern Brothers & Co. Telsey Advisory Group LLC Tigress Financial Partners, LLC
+Certain of the underwriters are not U.S. registered broker-dealers, and will not effect any offers or sales of any notes
+in the United States unless it is through one or more U.S. registered broker-dealers as permitted by the regulations of the Financial Industry Regulatory Authority, Inc.
+Settlement Period: The closing will occur on October 20, 2026 which will be more than one U.S. business day after the date of this pricing term sheet.
+Rule
+15c6-1
+under the Securities Exchange Act of 1934 generally requires that securities trades in the secondary market settle in one business day, unless the parties to a trade expressly agree otherwise.
+JPMorgan Chase & Co. has filed a registration statement (including a prospectus, as supplemented by a prospectus supplement) with the Securities and
+Exchange Commission, or SEC, for the offering to which this term sheet relates. Before you invest,
+5
+you should read the prospectus in that registration statement, the prospectus supplement and any other documents relating to this offering that JPMorgan Chase & Co. has filed with the
+SEC for more complete information about JPMorgan Chase & Co. and this offering. You may get these documents without cost by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer
+participating in the offering will arrange to send you the prospectus if you request it by calling collect
+1-212-834-4533.
+Any disclaimer or other notice that may appear below is not applicable to this communication and should be disregarded. Such disclaimer or notice was
+automatically generated as a result of this communication being sent by Bloomberg or another email system.

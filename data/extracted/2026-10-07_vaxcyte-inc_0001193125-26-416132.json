@@ -1,0 +1,46 @@
+{
+  "source_file": "2026-10-07_vaxcyte-inc_0001193125-26-416132.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:42:38",
+  "usage": {
+    "input_tokens": 7249,
+    "output_tokens": 534
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Vaxcyte, Inc.",
+    "sector": "Healthcare",
+    "trade_date": "2026-10-07",
+    "settlement_date": "2026-10-09",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "Jefferies LLC",
+      "Leerink Partners LLC",
+      "BofA Securities, Inc.",
+      "Goldman Sachs & Co. LLC",
+      "Evercore Group L.L.C.",
+      "Guggenheim Securities, LLC",
+      "Mizuho Securities USA LLC"
+    ],
+    "use_of_proceeds": "Clinical development of VAX-31 adult and pediatric programs, manufacturing scale-up and supply chain, commercial preparation for U.S. launch, ongoing R&D of other pipeline candidates, and general corporate purposes including working capital and capital expenditures.",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 1.5,
+        "coupon_type": "fixed",
+        "maturity_date": "2032-10-15",
+        "first_call_date": "2029-10-22",
+        "benchmark": null,
+        "spread_bps": null,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "1.50% convertible senior notes due 2032"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/57183/000119312526414418/d185585dfwp.htm
+ISSUER (SEC filer): SPIRE MISSOURI INC
+FILED: 2026-10-05
+========================================
+FWP
+1
+d185585dfwp.htm
+FWP
+FWP
+Free Writing Prospectus Filed Pursuant to Rule 433
+To Prospectus dated May 7, 2025
+Preliminary Prospectus Supplement dated October 5, 2026
+Registration Statement File
+No. 333-287024-01
+Spire Missouri Inc.
+Offering of
+$350,000,000
+First Mortgage Bonds, 6.200% Series due 2036
+(the “Offering”)
+Pricing Term Sheet
+October 5, 2026
+The information
+in this pricing term sheet relates to the Offering and should be read together with the preliminary prospectus supplement dated October 5, 2026 relating to the Offering (the “Preliminary Prospectus Supplement”), including the
+documents incorporated by reference therein and the related base prospectus dated May 7, 2025, filed pursuant to Rule 424(b) under the Securities Act of 1933, as amended (Registration Statement File
+No. 333-287024-01).
+Terms used but not defined herein have the meanings ascribed to them in the Preliminary Prospectus Supplement.
+Issuer: | Spire Missouri Inc.
+Expected Ratings (Moody’s / S&P)*: | A1 (Stable) /A (Stable)
+Security Type: | First Mortgage Bonds
+Pricing Date: | October 5, 2026
+Settlement Date**: | October 8, 2026 (T+3)
+Maturity Date: | October 15, 2036
+Interest Payment Dates: | April 15 and October 15, beginning April 15, 2027
+Principal Amount: | $350,000,000
+Benchmark Treasury: | 4.625% due August 15, 2036
+Benchmark Treasury Price / Yield: | 94-18+ / 5.339%
+Spread to Benchmark Treasury: | + 90 bps
+Yield to Maturity: | 6.239%
+Coupon: | 6.200%
+Public Offering Price: | 99.711% of the principal amount
+Optional Redemption:
+Make-Whole Call: | Prior to July 15, 2036 (the date that is three months prior to the maturity date of the First Mortgage Bonds (the “Par Call Date”)), the Issuer may redeem the First Mortgage Bonds at its option, in whole or in part,
+at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (i)(a) the sum of the present values of the remaining scheduled payments of
+principal and interest on the First Mortgage Bonds being redeemed discounted to the redemption date (assuming the First Mortgage Bonds being redeemed matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 15 basis points less (b) interest accrued to the redemption date and (ii) 100% of the
+principal amount of the First Mortgage Bonds to be redeemed, plus, in either case, accrued and unpaid interest thereon to, but excluding, the redemption date.
+Par Call: | On or after the Par Call Date, the Issuer may redeem the First Mortgage Bonds at its option, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the First Mortgage
+Bonds being redeemed, plus accrued and unpaid interest thereon to, but excluding, the redemption date.
+CUSIP / ISIN: | 84859D AE7 / US84859DAE76
+Book-Running Managers: | U.S. Bancorp Investments, Inc. BofA Securities,
+Inc. Regions Securities LLC TD Securities (USA) LLC Commerce Brokerage Services, Inc.
+Co-Manager: | Stern Brothers & Co.
+The Issuer has filed a registration statement (including a base prospectus) and the Preliminary Prospectus Supplement
+(including such base prospectus) with the SEC for the Offering to which this communication relates (File
+No. 333-287024-01).
+Before you invest, you should read the
+Preliminary Prospectus Supplement (including such base prospectus) and any other documents the Issuer has filed with the SEC for more complete information about the Issuer and the Offering. You may get these documents for free by searching the SEC
+online database (EDGAR) on the SEC website at www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating in the Offering will arrange to send you the Preliminary Prospectus Supplement (including such base prospectus) upon
+your request by calling: U.S. Bancorp Investments, Inc. toll-free at
+1-877-558-2607;
+BofA Securities, Inc. toll-free at
+1-800-294-1322
+(or by email at dg.prospectus_requests@bofa.com); Regions Securities LLC toll-free at
+1-800-734-4667;
+or TD Securities (USA) LLC toll-free at
+1-855-495-9846.
+-2-
+This communication should be read in conjunction with the Preliminary Prospectus Supplement (including such
+base prospectus). The information in this communication supersedes the information in the Preliminary Prospectus Supplement (including such base prospectus) to the extent inconsistent with the information therein.
+* | A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or
+withdrawal at any time.
+** | It is expected that delivery of the First Mortgage Bonds will be made against payment for the First Mortgage
+Bonds on or about October 8, 2026, which is the third business day following the date of this pricing term sheet (such settlement cycle being referred to as “T+3”). Under Rule 15c6-1 under the Securities Exchange Act of 1934,
+trades in the secondary market generally are required to settle in one business day unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the First Mortgage Bonds on any date prior to the first
+business day before delivery of the First Mortgage Bonds will be required, by virtue of the fact that the First Mortgage Bonds initially will settle in T+3, to specify an alternative settlement cycle at the time of any such trade to prevent failed
+settlement. Purchasers of the First Mortgage Bonds who wish to trade the First Mortgage Bonds on any date prior to the first business day before delivery should consult their own advisors.
+-3-

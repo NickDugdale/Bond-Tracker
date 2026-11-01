@@ -1,154 +1,150 @@
 {
   "period": "month",
-  "label": "September 2026",
-  "start": "01 Sep 2026",
-  "end": "30 Sep 2026",
+  "label": "October 2026",
+  "start": "01 Oct 2026",
+  "end": "31 Oct 2026",
   "this_period": {
-    "volume_usd_bn": 86.6,
-    "deals": 56,
-    "bonds": 106,
-    "ig_share_pct": 87,
+    "volume_usd_bn": 64.4,
+    "deals": 22,
+    "bonds": 56,
+    "ig_share_pct": 86,
     "currencies": [
       "EUR",
-      "GBP",
       "USD"
     ],
-    "hybrid_or_subordinated_deals": 10,
+    "hybrid_or_subordinated_deals": 1,
     "sector_volume_usd_bn": {
-      "Financials": 31.6,
-      "Technology": 15.2,
-      "Industrials": 9.5,
-      "Consumer": 8.7,
-      "Healthcare": 6.7,
-      "Utilities": 5.8,
-      "Energy": 4.9,
-      "Government & Agency": 2.8,
-      "Telecoms & Media": 1.0,
-      "Real Estate": 0.4
+      "Technology": 27.0,
+      "Financials": 23.0,
+      "Consumer": 8.0,
+      "Industrials": 4.8,
+      "Healthcare": 0.6,
+      "Real Estate": 0.6,
+      "Utilities": 0.4
     }
   },
   "senior_ig_spreads_by_tenor": {
     "1-3y": {
-      "bonds_this_period": 16,
-      "median_this_period_bps": 55,
-      "bonds_prior": 1,
-      "median_prior_bps": 73,
-      "vs_prior": "too few bonds to compare"
+      "bonds_this_period": 12,
+      "median_this_period_bps": 76,
+      "bonds_prior": 17,
+      "median_prior_bps": 55,
+      "vs_prior": "wider"
     },
     "5y": {
-      "bonds_this_period": 17,
-      "median_this_period_bps": 82,
-      "bonds_prior": 1,
-      "median_prior_bps": 90,
-      "vs_prior": "too few bonds to compare"
+      "bonds_this_period": 12,
+      "median_this_period_bps": 94,
+      "bonds_prior": 18,
+      "median_prior_bps": 82,
+      "vs_prior": "wider"
     },
     "7y": {
-      "bonds_this_period": 12,
-      "median_this_period_bps": 92,
-      "bonds_prior": 0,
-      "median_prior_bps": null,
-      "vs_prior": "too few bonds to compare"
+      "bonds_this_period": 4,
+      "median_this_period_bps": 62,
+      "bonds_prior": 12,
+      "median_prior_bps": 92,
+      "vs_prior": "tighter"
     },
     "10y": {
-      "bonds_this_period": 16,
-      "median_this_period_bps": 102,
-      "bonds_prior": 0,
-      "median_prior_bps": null,
-      "vs_prior": "too few bonds to compare"
+      "bonds_this_period": 9,
+      "median_this_period_bps": 90,
+      "bonds_prior": 16,
+      "median_prior_bps": 102,
+      "vs_prior": "tighter"
     },
     "20y": {
       "bonds_this_period": 1,
-      "median_this_period_bps": 108,
-      "bonds_prior": 0,
-      "median_prior_bps": null,
+      "median_this_period_bps": 85,
+      "bonds_prior": 1,
+      "median_prior_bps": 108,
       "vs_prior": "too few bonds to compare"
     },
     "30y+": {
-      "bonds_this_period": 5,
-      "median_this_period_bps": 115,
-      "bonds_prior": 0,
-      "median_prior_bps": null,
-      "vs_prior": "too few bonds to compare"
+      "bonds_this_period": 3,
+      "median_this_period_bps": 95,
+      "bonds_prior": 5,
+      "median_prior_bps": 115,
+      "vs_prior": "tighter"
     }
   },
   "prior_period": {
     "from": "20 Aug 2026",
     "months": 1,
-    "avg_monthly_volume_usd_bn": null
+    "avg_monthly_volume_usd_bn": 89.0
   },
   "chart_window_from": "20 Aug 2026",
   "notable_deals": [
     {
-      "issuer": "Aon North America",
-      "trade_date": "14 Sep",
-      "rating": "BBB+",
+      "issuer": "Microsoft",
+      "trade_date": "29 Oct",
+      "rating": "AAA",
       "currency": "USD",
-      "size_usd_m": 13500,
-      "bonds": 7,
-      "tenors": "3y, 5y, 7y, 10y, 12y, 20y, 30y",
-      "spread_range": "+63 to +115",
+      "size_usd_m": 25000,
+      "bonds": 10,
+      "tenors": "2y, 3y, 5y, 7y, 10y, 20y, 30y, 40y",
+      "spread_range": "+25 to +105",
+      "hybrid_or_sub": false,
+      "sector": "Technology"
+    },
+    {
+      "issuer": "JPMorgan Chase &",
+      "trade_date": "13 Oct",
+      "rating": "NR",
+      "currency": "USD",
+      "size_usd_m": 7000,
+      "bonds": 3,
+      "tenors": "3y, 10y",
+      "spread_range": "+70 to +90",
       "hybrid_or_sub": false,
       "sector": "Financials"
     },
     {
-      "issuer": "GlaxoSmithKline Capital",
-      "trade_date": "08 Sep",
-      "rating": "A",
+      "issuer": "HSBC Holdings",
+      "trade_date": "29 Oct",
+      "rating": "A-",
       "currency": "USD",
-      "size_usd_m": 6500,
-      "bonds": 6,
-      "tenors": "3y, 5y, 7y, 10y, 30y",
-      "spread_range": "+40 to +80",
+      "size_usd_m": 4250,
+      "bonds": 2,
+      "tenors": "5y, 10y",
+      "spread_range": "+105 to +130",
       "hybrid_or_sub": false,
-      "sector": "Healthcare"
+      "sector": "Financials"
     },
     {
-      "issuer": "Amazon.com",
-      "trade_date": "09 Sep",
+      "issuer": "The Procter & Gamble",
+      "trade_date": "26 Oct",
       "rating": "AA-",
-      "currency": "GBP",
-      "size_usd_m": 5683,
+      "currency": "USD",
+      "size_usd_m": 4000,
       "bonds": 4,
-      "tenors": "3y, 6y, 12y, 19y",
-      "spread_range": "+53 to +93",
+      "tenors": "5y, 7y, 10y, 30y",
+      "spread_range": "+30 to +60",
       "hybrid_or_sub": false,
       "sector": "Consumer"
     },
     {
-      "issuer": "Uber Technologies",
-      "trade_date": "09 Sep",
-      "rating": "BBB+",
-      "currency": "EUR",
-      "size_usd_m": 5159,
-      "bonds": 5,
-      "tenors": "3y, 6y, 8y, 12y, 20y",
-      "spread_range": "+69 to +147",
-      "hybrid_or_sub": false,
-      "sector": "Technology"
-    },
-    {
-      "issuer": "Dell International",
-      "trade_date": "09 Sep",
+      "issuer": "Barclays PLC",
+      "trade_date": "29 Oct",
       "rating": "BBB+",
       "currency": "USD",
-      "size_usd_m": 5000,
-      "bonds": 4,
-      "tenors": "3y, 5y, 7y, 11y",
-      "spread_range": "+60 to +110",
-      "hybrid_or_sub": false,
-      "sector": "Technology"
-    },
-    {
-      "issuer": "The Toronto-Dominion Bank",
-      "trade_date": "21 Sep",
-      "rating": "A",
-      "currency": "USD",
-      "size_usd_m": 3750,
-      "bonds": 4,
-      "tenors": "2y, 5y, 10y",
-      "spread_range": "+45 to +85",
+      "size_usd_m": 4000,
+      "bonds": 3,
+      "tenors": "3y, 5y, 10y",
+      "spread_range": "+100 to +143",
       "hybrid_or_sub": false,
       "sector": "Financials"
+    },
+    {
+      "issuer": "The Procter & Gamble",
+      "trade_date": "27 Oct",
+      "rating": "AA-",
+      "currency": "EUR",
+      "size_usd_m": 3726,
+      "bonds": 4,
+      "tenors": "4y, 8y, 12y, 20y",
+      "spread_range": "+38 to +120",
+      "hybrid_or_sub": false,
+      "sector": "Consumer"
     }
   ]
 }

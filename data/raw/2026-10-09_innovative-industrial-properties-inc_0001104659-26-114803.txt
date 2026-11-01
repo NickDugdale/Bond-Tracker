@@ -1,0 +1,98 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1677576/000110465926114803/tm2627332d1_fwp.htm
+ISSUER (SEC filer): INNOVATIVE INDUSTRIAL PROPERTIES INC
+FILED: 2026-10-09
+========================================
+FWP
+1
+tm2627332d1_fwp.htm
+FWP
+Issuer Free Writing Prospectus
+Filed Pursuant to Rule 433
+Relating to Preliminary Prospectus Supplement
+dated October 7, 2026
+to Prospectus dated February 21, 2025
+Registration No. 333-285148
+Pricing Term Sheet
+Innovative Industrial Properties, Inc.
+9.25% Series B Cumulative Redeemable Preferred
+Stock
+(Liquidation Preference $25.00 per Share)
+October 8, 2026
+Issuer: | Innovative Industrial Properties, Inc.
+Security: | 9.25% Series B Cumulative Redeemable Preferred Stock (“Series B Preferred Stock”)
+Number of Shares: | 2,000,000 shares (2,300,000 shares if the underwriters’ over-allotment option to purchase additional shares is exercised in full)
+Public Offering Price: | $25.00 per share; $50,000,000 total
+Underwriting Discount: | $0.7875 per share; $1,575,000 total
+Maturity Date: | Perpetual (unless redeemed by the Issuer on or after October 19, 2031 or pursuant to its special optional redemption right, or converted by a holder in connection with a Change of Control)
+Trade Date: | October 9, 2026
+Settlement Date: | October 19, 2026 (T + 5)
+Liquidation Preference: | $25.00 per share, plus accrued and unpaid dividends
+Dividend Rate: | 9.25% per annum of the $25.00 per share liquidation preference (equivalent to a fixed annual amount of $2.13 per share), accruing from October 19, 2026
+Dividend Payment Dates: | Quarterly on or about the 15th day of January, April, July and October of each year, beginning on January 15, 2027
+Optional Redemption: | On and after October 19, 2031, the Issuer may, at its option, redeem the Series B Preferred Stock, in whole or in part, at any time or from time to time, for cash at a redemption price of $25.00 per share, plus an amount equal to all accrued but unpaid dividends (whether or not authorized or declared) to, but not including, the date fixed for redemption, without interest. Any partial redemption will be on a pro rata basis.
+Special Optional Redemption: | Upon the occurrence of a Change of Control, the Issuer may, at its option, redeem the Series B Preferred Stock, in whole or in part within 120 days after the date on which such Change of Control occurred, by paying $25.00 per share, plus an amount equal to all accrued but unpaid dividends to, but not including, the redemption date. If, prior to the Change of Control Conversion Date, the Issuer has provided or provides notice of its election to redeem the Series B Preferred Stock (whether the optional redemption right or the special optional redemption right), the holders of Series B Preferred Stock will not have the conversion rights described below with respect to the shares of Series B Preferred Stock subject to such notice.
+Change of Control: | A “Change of Control” is when, after
+the original issuance of the Series B Preferred Stock, the following have occurred and are continuing: · the acquisition by any person, including any syndicate or group deemed to be a “person” under Section 13(d)(3) of the
+Securities Exchange Act of 1934, as amended, of beneficial ownership, directly or indirectly, through a purchase, merger or other acquisition
+transaction or series of purchases, mergers or other acquisition transactions of stock of the Issuer entitling that person to exercise
+more than 50.0% of the total voting power of all stock of the Issuer entitled to vote generally in the election of the Issuer’s
+directors (except that such person will be deemed to have beneficial ownership of all securities that such person has the right to acquire,
+whether such right is currently exercisable or is exercisable only upon the occurrence of a subsequent condition); and · following the closing of any transaction referred to in the bullet point above, neither the Issuer nor the acquiring or surviving
+entity has a class of common securities (or American Depositary Receipts representing such securities) listed on the New York Stock Exchange
+(“NYSE”), the NYSE American LLC (“NYSE American”), or the Nasdaq Stock Market (“Nasdaq”), or listed
+or quoted on an exchange or quotation system that is a successor to the NYSE, NYSE American or Nasdaq. Notwithstanding the foregoing,
+if the transaction or series of transactions described in the first bullet point above (the “Change of Control Transaction”)
+forms part of a series of related transactions that are closed or consummated within 12 months of the closing or consummation of the
+Change of Control Transaction (including, without limitation, any merger, consolidation, sale or transfer of assets, recapitalization,
+reorganization, or special or extraordinary distribution, in each case outside of the ordinary course of our business (the “Related
+Transactions”)), and if the aggregate consideration paid to us and/or holders of our common stock in connection with the Change
+of Control Transaction represents less than 50.0% of the aggregate consideration payable to us and/or our holders of common stock in
+connection with both the Change of Control Transaction and the Related Transaction on a combined basis, then the Change of Control Transaction
+shall be deemed to constitute a Change of Control, regardless of whether the second bullet point above is satisfied.
+2
+Conversion Rights: | Upon the occurrence of a Change of Control, each
+holder of shares of Series B Preferred Stock will have the right (unless, prior to the Change of Control Conversion Date, the Issuer has
+provided or provides notice of its election to redeem the Series B Preferred Stock) to convert some or all of such holder’s shares
+of the Series B Preferred Stock (the “Change of Control Conversion Right”) on the Change of Control Conversion Date into a
+number of shares of the Issuer’s common stock per share of Series B Preferred Stock to be converted, which is equal to the lesser
+of: · the quotient obtained by dividing (i) the sum of (x) the liquidation preference amount of $25.00 per share of Series B Preferred
+Stock, plus (y) the amount of any accrued but unpaid dividends (whether or not declared) to, but not including, the Change of Control
+Conversion Date (unless the Change of Control Conversion Date is after a record date for a Series B Preferred Stock dividend payment and
+prior to the corresponding Series B Preferred Stock dividend payment date, in which case no additional amount for such accrued but unpaid
+dividend will be included in this sum) by (ii) the Common Stock Price (as defined below); and · .96302 (i.e., the Share Cap), subject to certain adjustments; subject, in each case, to provisions for the receipt
+of alternative consideration as described in the preliminary prospectus. The Share Cap is subject to pro rata adjustments
+for any share splits (including those effected pursuant to a distribution of the Issuer’s common stock), subdivisions or combinations
+(in each case, a “Share Split”) with respect to the Issuer’s common stock as described in the preliminary prospectus. If, prior to the Change of Control Conversion
+Date, the Issuer has provided or provides a redemption notice, whether pursuant to its special optional redemption right in connection
+with a Change of Control or its optional redemption right, holders of Series B Preferred Stock will not have any right to convert the
+Series B Preferred Stock in connection with the Change of Control Conversion Right and any shares of Series B Preferred Stock selected
+for redemption that have been tendered for conversion will be redeemed on the related date of redemption instead of converted on the Change
+of Control Conversion Date. The “Change of Control Conversion Date”
+is the date the Series B Preferred Stock is to be converted, which will be a business day that is no earlier than 20 days and no later
+than 35 days after the date on which the Issuer delivers the required notice of the occurrence of a Change of Control to the holders of
+Series B Preferred Stock. The “Common Stock Price” will be (i)
+if the consideration to be received in the Change of Control by the holders of the Issuer’s common stock is solely cash, the amount
+of cash consideration per share of the Issuer’s common stock, or (ii) if the consideration to be received in the Change of Control
+by holders of the Issuer’s common stock is other than solely cash, (x) the average of the closing sale prices per share of the Issuer’s
+common stock (or, if no closing sale price is reported, the average of the closing bid and ask prices or, if more than one in either case,
+the average of the average closing bid and the average closing ask prices) for the ten consecutive trading days immediately preceding,
+but not including, the effective date of the Change of Control as reported on the principal U.S. securities exchange on which the Issuer’s
+common stock is then traded, or (y) if the common stock is not then listed for trading on a U.S. securities exchange, the average of the
+last quoted bid prices for the Issuer’s common stock in the over-the-counter market as reported by OTC Markets Group, Inc. or similar
+organization for the ten consecutive trading days immediately preceding, but not including, the effective date of the Change of Control.
+Purchases by Officers and Directors: | The Issuer’s Executive Chairman, Alan Gold, intends to purchase an aggregate of 40,000 shares of the Series B Preferred Stock at the public offering price.
+CUSIP/ISIN: | 45781V 309 / US45781V3096
+Listing: | The Issuer intends to apply to list the Series B Preferred Stock on the NYSE under the symbol “IIPR Pr B.” If the application is approved, trading of the Series B Preferred Stock on the NYSE is expected to commence within 30 days after the date of initial delivery of the Series B Preferred Stock.
+3
+Book-Running Manager: | Stifel, Nicolaus & Company, Incorporated
+Passive Book-Runners: | A.G.P./Alliance Global Partners Huntington Securities, Inc. Oppenheimer & Co. Inc.
+Co-Managers: | Academy Securities, Inc. Clear Street LLC Compass Point Research & Trading, LLC Roberts & Ryan, Inc. Roth Capital Partners, LLC WR Securities, LLC
+This communication is intended for the sole use
+of the person to whom it is provided by the sender.
+The Issuer has filed a registration statement
+(including a preliminary prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should
+read the prospectus in that registration statement and other documents the Issuer has filed with the SEC for more complete information
+about the Issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC web site at www.sec.gov. Alternatively,
+the Issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by contacting
+Stifel, Nicolaus & Company, Incorporated toll-free at (855) 300-7136.
+4

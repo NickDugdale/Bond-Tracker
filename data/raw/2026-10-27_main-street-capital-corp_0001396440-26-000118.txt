@@ -1,0 +1,64 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1396440/000139644026000118/pricingtermsheetfwpoctober.htm
+ISSUER (SEC filer): Main Street Capital CORP
+FILED: 2026-10-27
+========================================
+FWP
+1
+pricingtermsheetfwpoctober.htm
+FWP
+Document
+Filed Pursuant to Rule 433
+Issuer Free Writing Prospectus dated October 27, 2026
+Relating to Preliminary Prospectus Supplement dated October 27, 2026 and
+Prospectus dated February 28, 2025
+Registration No. 333-285405
+MAIN STREET CAPITAL CORPORATION
+$500,000,000
+6.550% Notes due 2030
+PRICING TERM SHEET
+October 27, 2026
+The following sets forth the final terms of the 6.550% Notes due 2030 and should only be read together with the preliminary prospectus supplement dated October 27, 2026, together with the accompanying prospectus dated February 28, 2025, relating to these securities (collectively, the “Preliminary Prospectus”), and supersedes the information in the Preliminary Prospectus to the extent inconsistent with the information in the Preliminary Prospectus. In all other respects, this pricing term sheet is qualified in its entirety by reference to the Preliminary Prospectus. Terms used herein but not defined herein shall have the respective meanings as set forth in the Preliminary Prospectus. All references to dollar amounts are references to U.S. dollars.
+Issuer: | Main Street Capital Corporation
+Security: | 6.550% Notes due 2030
+Expected Ratings*: | BBB- Stable (S&P) BBB- Stable (Fitch)
+Aggregate Principal Amount Offered: | $500,000,000
+Maturity: | January 15, 2030
+Trade Date: | October 27, 2026
+Settlement Date**: | October 29, 2026 (T+2)
+Use of Proceeds: | To initially repay outstanding indebtedness, including amounts outstanding under the Company’s multi-year revolving credit facility and/or under the Company’s special purpose vehicle revolving credit facility.
+Price to Public (Issue Price): | 99.258% of the principal amount
+Coupon (Interest Rate): | 6.550%
+Yield to Maturity: | 6.800%
+Spread to Benchmark Treasury: | + 200 basis points
+Benchmark Treasury: | 4.875% due October 15, 2029
+Benchmark Treasury Price and Yield: | 100-06+ and 4.800%
+Interest Payment Dates: | January 15 and July 15 of each year, commencing July 15, 2027.
+Optional Redemption: | Prior to December 15, 2029 (one month prior to the maturity date of the Notes) (the “Par Call Date”), the Company may redeem the Notes at its option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of:
+(1) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the Notes matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 30 basis points less (b) interest accrued to the date of redemption, and
+(2) 100% of the principal amount of the Notes to be redeemed,
+plus, in either case, accrued and unpaid interest thereon to the redemption date.
+On or after the Par Call Date, the Company may redeem the Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the Notes being redeemed plus accrued and unpaid interest thereon to the redemption date.
+Offer to Purchase upon a Change of Control Repurchase Event: | If a Change of Control Repurchase Event (as defined in “Description of the Notes” in the Preliminary Prospectus) occurs prior to maturity, holders will have the right, at their option, to require the Company to repurchase for cash some or all of the Notes at a repurchase price equal to 100% of the principal amount of the Notes being repurchased, plus accrued and unpaid interest to, but not including, the repurchase date.
+Denomination: | $2,000 and integral multiples of $1,000 in excess thereof
+CUSIP: | 56035L AM6
+ISIN: | US56035LAM63
+Underwriting Discount: | 0.50%
+Active Bookrunners: | RBC Capital Markets, LLC
+J.P. Morgan Securities LLC
+SMBC Nikko Securities America, Inc.
+Truist Securities, Inc.
+Passive Bookrunner: | Huntington Securities, Inc.
+Co-Managers: | Raymond James & Associates, Inc.
+Academy Securities, Inc.
+Zions Direct, Inc.
+TCBI Securities, Inc., doing business as Texas Capital Securities
+Hancock Whitney Investment Services, Inc.
+Fifth Third Securities, Inc.
+FNB America Securities LLC
+* Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+** Under Rule 15c6-1 of the Securities Exchange Act of 1934, trades in the secondary market generally are required to settle in one business day, unless the parties to such trade expressly agree otherwise at the time of the trade. Accordingly, purchasers who wish to trade the Notes prior to the business day before the date of delivery of the Notes will be required, by virtue of the fact that the Notes initially will settle in two business days (T+2), to specify alternative settlement arrangements to prevent a failed settlement.
+Investors are advised to carefully consider the investment objectives, risks, charges and expenses of Main Street Capital Corporation before investing. The Preliminary Prospectus, which has been filed with the Securities and Exchange Commission, contains this and other information about Main Street Capital Corporation and should be read carefully before investing.
+The information in the Preliminary Prospectus and in this announcement is not complete and may be changed. The Preliminary Prospectus and this pricing term sheet are not offers to sell any securities of Main Street Capital Corporation and are not soliciting an offer to buy such securities in any state where such offer and sale is not permitted.
+The issuer has filed a registration statement, including a prospectus and a preliminary prospectus supplement with the Securities and Exchange Commission, for the offering to which this communication relates. Before you invest, you should read the Preliminary Prospectus and other documents the issuer has filed with the Securities and Exchange Commission for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the Securities and Exchange Commission web site at
+www.sec.gov
+. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the Preliminary Prospectus if you request them by contacting RBC Capital Markets, LLC, Attention: Investment Grade Syndicate Desk, Brookfield Place, 200 Vesey St., 8th Floor, New York, New York 10281, telephone: 866-375-6829, or e-mail: rbcnyfixedincomeprospectus@rbccm.com; J.P. Morgan Securities LLC, 270 Park Avenue, New York, New York 10017, Attn: Investment Grade Syndicate Desk, telephone (collect): 212-834-4533, or email: prospectus-eq_fi@jpmchase.com; SMBC Nikko Securities America, Inc., 277 Park Avenue, New York, New York 10172, Attn: Debt Capital Markets, email: prospectus@smbcnikko-si.com; or Truist Securities, Inc., 740 Battery Avenue SE, Atlanta, Georgia, 30339, Attn: Prospectus Dept, telephone: 800-685-4786, or email: truistsecurities.prospectus@truist.com.

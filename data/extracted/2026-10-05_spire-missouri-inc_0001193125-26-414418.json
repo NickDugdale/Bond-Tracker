@@ -1,0 +1,44 @@
+{
+  "source_file": "2026-10-05_spire-missouri-inc_0001193125-26-414418.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:42:33",
+  "usage": {
+    "input_tokens": 3882,
+    "output_tokens": 472
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Spire Missouri Inc.",
+    "sector": "Utilities",
+    "trade_date": "2026-10-05",
+    "settlement_date": "2026-10-08",
+    "rating_moodys": "A1",
+    "rating_sp": "A",
+    "rating_fitch": null,
+    "bookrunners": [
+      "U.S. Bancorp Investments, Inc.",
+      "BofA Securities, Inc.",
+      "Regions Securities LLC",
+      "TD Securities (USA) LLC",
+      "Commerce Brokerage Services, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 350000000,
+        "coupon_pct": 6.2,
+        "coupon_type": "fixed",
+        "maturity_date": "2036-10-15",
+        "first_call_date": "2036-07-15",
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 90,
+        "yield_pct": 6.239,
+        "issue_price_pct": 99.711,
+        "seniority": "senior secured",
+        "pricing_quote": "Spread to Benchmark Treasury: + 90 bps; Yield to Maturity: 6.239%"
+      }
+    ]
+  }
+}

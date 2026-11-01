@@ -1,0 +1,86 @@
+{
+  "source_file": "2026-10-27_procter-gamble-co_0001628280-26-067657.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:44:22",
+  "usage": {
+    "input_tokens": 6398,
+    "output_tokens": 965
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "The Procter & Gamble Company",
+    "sector": "Consumer",
+    "trade_date": "2026-10-27",
+    "settlement_date": "2026-11-03",
+    "rating_moodys": "Aa3",
+    "rating_sp": "AA-",
+    "rating_fitch": null,
+    "bookrunners": [
+      "Citigroup Global Markets Limited",
+      "Deutsche Bank AG, London Branch",
+      "Goldman Sachs & Co. LLC",
+      "HSBC Bank plc",
+      "Morgan Stanley & Co. International plc"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "EUR",
+        "principal_amount": 750000000,
+        "coupon_pct": 3.75,
+        "coupon_type": "fixed",
+        "maturity_date": "2030-11-03",
+        "first_call_date": null,
+        "benchmark": "Mid-swap",
+        "spread_bps": 38,
+        "yield_pct": 3.787,
+        "issue_price_pct": 99.865,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to mid-swap rate: +38 basis points"
+      },
+      {
+        "currency": "EUR",
+        "principal_amount": 1000000000,
+        "coupon_pct": 4.1,
+        "coupon_type": "fixed",
+        "maturity_date": "2034-11-03",
+        "first_call_date": null,
+        "benchmark": "Mid-swap",
+        "spread_bps": 70,
+        "yield_pct": 4.121,
+        "issue_price_pct": 99.859,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to mid-swap rate: +70 basis points"
+      },
+      {
+        "currency": "EUR",
+        "principal_amount": 750000000,
+        "coupon_pct": 4.25,
+        "coupon_type": "fixed",
+        "maturity_date": "2038-11-03",
+        "first_call_date": null,
+        "benchmark": "Mid-swap",
+        "spread_bps": 90,
+        "yield_pct": 4.373,
+        "issue_price_pct": 98.87,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to mid-swap rate: +90 basis points"
+      },
+      {
+        "currency": "EUR",
+        "principal_amount": 750000000,
+        "coupon_pct": 4.625,
+        "coupon_type": "fixed",
+        "maturity_date": "2046-11-03",
+        "first_call_date": null,
+        "benchmark": "Mid-swap",
+        "spread_bps": 120,
+        "yield_pct": 4.659,
+        "issue_price_pct": 99.564,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to mid-swap rate: +120 basis points"
+      }
+    ]
+  }
+}

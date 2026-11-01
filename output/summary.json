@@ -1,56 +1,71 @@
 {
   "window_start": "2026-08-20",
-  "window_end": "2026-09-30",
-  "deals": 58,
-  "bonds": 110,
-  "total_usd_bn": 89.0,
-  "avg_deal_usd_m": 1535.0,
-  "avg_bonds_per_deal": 1.9,
+  "window_end": "2026-10-29",
+  "deals": 80,
+  "bonds": 166,
+  "total_usd_bn": 153.5,
+  "avg_deal_usd_m": 1918.0,
+  "avg_bonds_per_deal": 2.1,
   "volume_by_currency_usd_bn": {
-    "EUR": 7.5,
+    "EUR": 11.2,
     "GBP": 6.7,
-    "USD": 74.9
+    "USD": 135.6
   },
   "volume_by_grade_usd_bn": {
-    "HY": 4.0,
-    "IG": 77.9,
-    "Unrated": 7.1
+    "HY": 4.3,
+    "IG": 133.1,
+    "Unrated": 16.0
   },
   "volume_by_sector_usd_bn": {
-    "Financials": 34.1,
-    "Technology": 15.2,
-    "Industrials": 9.5,
-    "Consumer": 8.7,
-    "Healthcare": 6.7,
-    "Utilities": 5.8,
+    "Financials": 57.2,
+    "Technology": 42.2,
+    "Consumer": 16.7,
+    "Industrials": 14.3,
+    "Healthcare": 7.4,
+    "Utilities": 6.1,
     "Energy": 4.9,
     "Government & Agency": 2.8,
-    "Telecoms & Media": 1.0,
-    "Real Estate": 0.4
+    "Real Estate": 1.0,
+    "Telecoms & Media": 1.0
   },
   "median_senior_ig_spread_by_tenor_bps": {
-    "1-3y": 55.0,
+    "1-3y": 63.0,
     "10y": 102.0,
-    "20y": 108.0,
-    "30y+": 115.0,
-    "5y": 82.0,
-    "7y": 92.0
+    "20y": 96.0,
+    "30y+": 100.0,
+    "5y": 85.0,
+    "7y": 85.0
   },
   "median_spread_by_rating_bps": {
-    "A": 68.0,
-    "A-": 61.0,
-    "BB": 242.0,
+    "A": 71.0,
+    "A+": 73.0,
+    "A-": 70.0,
+    "AA-": 50.0,
+    "AAA": 60.0,
+    "BB": 254.0,
     "BB+": 220.0,
-    "BBB": 96.0,
-    "BBB+": 93.0,
-    "BBB-": 194.0
+    "BBB": 98.0,
+    "BBB+": 98.0,
+    "BBB-": 187.0
   },
   "largest_deals": [
+    {
+      "issuer": "Microsoft Corporation",
+      "trade_date": "2026-10-29",
+      "bonds": 10,
+      "usd_bn": 25.0
+    },
     {
       "issuer": "Aon North America, Inc. and Aon Global Holdings plc",
       "trade_date": "2026-09-14",
       "bonds": 7,
       "usd_bn": 13.5
+    },
+    {
+      "issuer": "JPMorgan Chase & Co.",
+      "trade_date": "2026-10-13",
+      "bonds": 3,
+      "usd_bn": 7.0
     },
     {
       "issuer": "GlaxoSmithKline Capital Inc.",
@@ -63,45 +78,33 @@
       "trade_date": "2026-09-09",
       "bonds": 4,
       "usd_bn": 5.68
-    },
-    {
-      "issuer": "Uber Technologies, Inc.",
-      "trade_date": "2026-09-09",
-      "bonds": 5,
-      "usd_bn": 5.16
-    },
-    {
-      "issuer": "Dell International L.L.C. and EMC Corporation",
-      "trade_date": "2026-09-09",
-      "bonds": 4,
-      "usd_bn": 5.0
     }
   ],
   "top_bookrunners": [
     {
-      "bank": "BofA Securities",
-      "deals": 30,
-      "credited_usd_m": 7547.0
+      "bank": "J.P. Morgan",
+      "deals": 42,
+      "credited_usd_m": 19150.0
     },
     {
-      "bank": "J.P. Morgan",
-      "deals": 30,
-      "credited_usd_m": 7373.0
+      "bank": "HSBC",
+      "deals": 13,
+      "credited_usd_m": 12973.0
     },
     {
       "bank": "Citigroup",
-      "deals": 23,
-      "credited_usd_m": 7370.0
+      "deals": 33,
+      "credited_usd_m": 12212.0
     },
     {
-      "bank": "Morgan Stanley",
-      "deals": 22,
-      "credited_usd_m": 6745.0
+      "bank": "Barclays",
+      "deals": 21,
+      "credited_usd_m": 11818.0
     },
     {
-      "bank": "Wells Fargo",
-      "deals": 23,
-      "credited_usd_m": 5886.0
+      "bank": "BofA Securities",
+      "deals": 40,
+      "credited_usd_m": 11558.0
     }
   ]
 }

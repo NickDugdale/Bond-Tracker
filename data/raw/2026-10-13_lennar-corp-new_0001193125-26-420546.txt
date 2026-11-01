@@ -1,0 +1,132 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/920760/000119312526420546/d91936dfwp.htm
+ISSUER (SEC filer): LENNAR CORP /NEW/
+FILED: 2026-10-13
+========================================
+FWP
+1
+d91936dfwp.htm
+FWP
+FWP
+Issuer Free Writing Prospectus, dated October 13, 2026
+Filed Pursuant to Rule 433
+supplementing the Preliminary Prospectus Supplement,
+dated October 13, 2026
+and the accompanying Prospectus, dated April 10, 2026
+Registration Statement
+No. 333-294985
+Lennar Corporation
+$300,000,000 5.700% Senior Notes due 2029 (the “
+2029 Notes
+”)
+$300,000,000 5.950% Senior Notes due 2032
+(the “
+2032 Notes
+” and together with the 2029 Notes, the “
+Notes
+”)
+Pricing Term Sheet
+The information in
+this pricing term sheet supplements Lennar Corporation
+’
+s preliminary prospectus supplement
+,
+dated October
+13, 2026 (the
+“
+Preliminary Prospectus Supplement
+”
+)
+,
+and
+supersedes the information in the Preliminary Prospectus Supplement to the extent inconsistent with the information in the Preliminary Prospectus Supplement. In all other respects
+,
+this pricing term sheet is qualified in its entirety by
+reference to the Preliminary Prospectus Supplement. Terms used herein but not defined herein shall have the respective meanings as set forth in the Preliminary Prospectus Supplement.
+Terms Applicable to the 2029 Notes
+Title of Securities: | 5.700% Senior Notes due 2029
+Aggregate Principal Amount: | $300,000,000
+Public Offering Price: | 99.929% of the principal amount, plus accrued interest, if any, from October 15, 2026 if settlement occurs after that date
+Maturity Date: | October 15, 2029
+Coupon: | 5.700%
+Interest Payment Dates: | April 15 and October 15 of each year, commencing April 15, 2027
+Yield to Maturity: | 5.726%
+Benchmark Treasury: | 4.875% UST due October 15, 2029
+Benchmark Treasury Price/Yield: | 99-27+ / 4.926%
+Spread to Benchmark Treasury: | T+80 basis points
+Record Dates: | Notes held in book-entry only form: Close of business on the business day immediately preceding the relevant interest payment date
+Notes not in book-entry form: April 1 and October 1 preceding the relevant interest payment date
+Optional Redemption: | Make-whole call at T+15 basis points prior to September 15, 2029; 100% of principal amount on or after September 15, 2029, in either case, plus any accrued and unpaid interest thereon to, but excluding, the redemption
+date
+CUSIP / ISIN: | 526057 CZ5 / US526057CZ52
+Terms Applicable to the 2032 Notes
+Title of Securities: | 5.950% Senior Notes due 2032
+Aggregate Principal Amount: | $300,000,000
+Public Offering Price: | 99.948% of the principal amount, plus accrued interest, if any, from October 15, 2026 if settlement occurs after that date
+Maturity Date: | January 15, 2032
+Coupon: | 5.950%
+Interest Payment Dates: | January 15 and July 15 of each year, commencing January 15, 2027 (short first coupon)
+Yield to Maturity: | 5.964%
+Benchmark Treasury: | 5.000% UST due September 30, 2031
+Benchmark Treasury Price/Yield: | 99-30 / 5.014%
+Spread to Benchmark Treasury: | T+95 basis points
+Record Dates: | Notes held in book-entry only form: Close of business on the business day immediately preceding the relevant interest payment date
+Notes not in book-entry form: January 1 and July 1 preceding the relevant interest payment date
+Optional Redemption: | Make-whole call at T+15 basis points prior to December 15, 2031; 100% of principal amount on or after December 15, 2031, in either case, plus any accrued and unpaid interest thereon to, but excluding, the redemption
+date
+-2-
+CUSIP / ISIN: | 526057 DA9 / US526057DA92
+Terms Applicable to both series of Notes
+Issuer: | Lennar Corporation
+Change of Control Triggering Event: | 101% of principal, plus any accrued and unpaid interest on the Notes to, but excluding, the repurchase date
+Expected Ratings*: | Baa2 (stable) (Moody’s)
+BBB (stable) (S&P)
+BBB+ (negative) (Fitch)
+Trade Date: | October 13, 2026
+Settlement Date**: | October 15, 2026 (T+2)
+Denominations/Multiple: | $2,000 / $1,000
+Joint Book-Running Managers: | BBVA Securities Inc.
+BofA Securities, Inc.
+Goldman Sachs & Co. LLC
+J.P. Morgan Securities LLC
+Mizuho Securities USA LLC
+Truist Securities, Inc.
+Wells Fargo Securities, LLC
+BMO Capital Markets Corp.
+Citigroup Global Markets Inc.
+Citizens JMP Securities, LLC
+Fifth Third Securities, Inc.
+Huntington Securities, Inc.
+PNC Capital Markets LLC
+Scotiabank Capital (USA) Inc.
+ING Financial Markets LLC
+TD Securities (USA) LLC
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time and each rating should be evaluated independently of any other rating.
+** | It is expected that delivery of the Notes will be made to investors on or about October 15, 2026, which
+will be the second business day following the Trade Date (such settlement period being referred to as “T+2”). Under Rule 15c6-1 of the Exchange Act as currently in effect, trades in the secondary
+market are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes prior to one business day before the Notes are delivered will be required, by
+virtue of the fact that the Notes initially settle in T+2, to specify an alternate settlement arrangement at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to trade such Notes prior to their date of
+delivery hereunder should consult their advisors.
+-3-
+Lennar Corporation and the Guarantors have filed a registration statement (including a prospectus) with
+the Securities and Exchange Commission (“SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents that Lennar Corporation and the
+Guarantors have filed with the SEC, including the prospectus supplement, for more complete information about Lennar Corporation, the Guarantors and this offering. You may get these documents for free by visiting the SEC web site at www.sec.gov.
+Alternatively, Lennar Corporation, the Guarantors, or any underwriter or dealer participating in the offering will arrange to send you the prospectus and the accompanying prospectus supplement if you request it by calling BBVA Securities Inc. at
+1-800-422-8692,
+BofA Securities, Inc. at
+1-800-294-1322,
+Goldman Sachs & Co. LLC at
+1-866-471-2526,
+J.P. Morgan
+Securities LLC at
+1-212-834-4533,
+Mizuho Securities USA LLC at
+1-866-271-7403,
+Truist Securities, Inc. at
+1-800-685-4786
+and Wells Fargo
+Securities, LLC at
+1-800-645-3751.
+Any legends, disclaimers or other notices that may appear below are not applicable to this communication and should be disregarded. Such legends,
+disclaimers or other notices have been automatically generated as a result of this communication having been sent via Bloomberg or another email system.
+-4-

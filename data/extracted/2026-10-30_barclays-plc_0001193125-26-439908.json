@@ -1,0 +1,40 @@
+{
+  "source_file": "2026-10-30_barclays-plc_0001193125-26-439908.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:44:40",
+  "usage": {
+    "input_tokens": 5346,
+    "output_tokens": 465
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Barclays PLC",
+    "sector": "Financials",
+    "trade_date": "2026-10-29",
+    "settlement_date": "2026-11-05",
+    "rating_moodys": "Baa1",
+    "rating_sp": "BBB+",
+    "rating_fitch": "A",
+    "bookrunners": [
+      "Barclays Capital Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 1750000000,
+        "coupon_pct": 6.367,
+        "coupon_type": "fixed-to-floating",
+        "maturity_date": "2037-11-05",
+        "first_call_date": "2036-11-05",
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 143,
+        "yield_pct": 6.367,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: 143 bps"
+      }
+    ]
+  }
+}

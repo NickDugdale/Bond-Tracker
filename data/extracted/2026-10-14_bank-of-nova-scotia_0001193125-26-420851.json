@@ -1,0 +1,85 @@
+{
+  "source_file": "2026-10-14_bank-of-nova-scotia_0001193125-26-420851.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:42:55",
+  "usage": {
+    "input_tokens": 12675,
+    "output_tokens": 1025
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "The Bank of Nova Scotia",
+    "sector": "Financials",
+    "trade_date": "2026-10-13",
+    "settlement_date": "2026-10-16",
+    "rating_moodys": "A2",
+    "rating_sp": "A-",
+    "rating_fitch": "AA-",
+    "bookrunners": [
+      "Scotia Capital (USA) Inc.",
+      "J.P. Morgan Securities LLC",
+      "Natixis Securities Americas LLC",
+      "Wells Fargo Securities, LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 400000000,
+        "coupon_pct": null,
+        "coupon_type": "floating",
+        "maturity_date": "2029-10-16",
+        "first_call_date": "2028-10-16",
+        "benchmark": "Compounded SOFR",
+        "spread_bps": 72,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread: +72 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 600000000,
+        "coupon_pct": 5.407,
+        "coupon_type": "fixed-to-floating",
+        "maturity_date": "2029-10-16",
+        "first_call_date": "2028-10-16",
+        "benchmark": "UST 4.750% Notes due September 30, 2028",
+        "spread_bps": 62,
+        "yield_pct": 5.407,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Re-offer Spread to Treasury Benchmark: +62 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 700000000,
+        "coupon_pct": 5.632,
+        "coupon_type": "fixed-to-floating",
+        "maturity_date": "2030-10-16",
+        "first_call_date": "2029-10-16",
+        "benchmark": "UST 4.875% Notes due October 15, 2029",
+        "spread_bps": 72,
+        "yield_pct": 5.632,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Re-offer Spread to Treasury Benchmark: +72 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 600000000,
+        "coupon_pct": 5.851,
+        "coupon_type": "fixed-to-floating",
+        "maturity_date": "2032-10-16",
+        "first_call_date": "2031-10-16",
+        "benchmark": "UST 5.000% Notes due September 30, 2031",
+        "spread_bps": 85,
+        "yield_pct": 5.851,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Re-offer Spread to Treasury Benchmark: +85 basis points"
+      }
+    ]
+  }
+}

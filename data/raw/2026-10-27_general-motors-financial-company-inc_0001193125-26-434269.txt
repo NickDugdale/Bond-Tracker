@@ -1,0 +1,69 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/804269/000119312526434269/d155632dfwp.htm
+ISSUER (SEC filer): General Motors Financial Company, Inc.
+FILED: 2026-10-27
+========================================
+FWP
+1
+d155632dfwp.htm
+FWP
+FWP
+Issuer Free Writing Prospectus dated October 27, 2026 filed
+pursuant to Rule 433 supplementing the Preliminary Prospectus
+Supplement dated October 27, 2026 and the Prospectus dated
+December 5, 2025 (Registration
+No. 333-291951)
+Pricing Term Sheet
+Issuer: | General Motors Financial Company, Inc. (the “ Issuer ”)
+Securities: | 5.600% Senior Notes due 2029 (the “ Notes ”)
+Ranking of the Notes: | Senior unsecured
+Trade Date: | October 27, 2026
+Settlement Date: | October 30, 2026 (T+3)*
+Form of Offering: | SEC-Registered (Registration No. 333-291951)
+Joint Book-Running Managers: | Citigroup Global Markets Inc.
+Goldman Sachs & Co. LLC
+J.P. Morgan Securities LLC
+Lloyds Securities Inc.
+RBC Capital Markets, LLC
+Scotia Capital (USA) Inc.
+Co-Managers: | Academy Securities, Inc.
+Intesa Sanpaolo IMI Securities Corp.
+Loop Capital Markets LLC
+CastleOak Securities, L.P.
+C.L. King & Associates, Inc.
+Great Pacific Securities
+Aggregate Principal Amount: | $1,250,000,000
+Final Maturity Date: | October 30, 2029
+Public Offering Price: | 99.926%, plus accrued and unpaid interest, if any, from October 30, 2026
+Benchmark Treasury: | 4.875% due October 15, 2029
+Benchmark Treasury Price and Yield: | 100-06 3 ⁄ 4 ; 4.797%
+Spread to Benchmark Treasury: | +83 bps
+Yield to Maturity: | 5.627%
+Coupon: | 5.600%
+Interest Payment Dates: | April 30 and October 30 of each year, commencing on April 30, 2027
+Day Count Convention: | 30 / 360
+Optional Redemption: | Prior to the stated maturity date, make-whole call at T+15 bps
+Denominations: | $2,000 and integral multiples of $1,000 in excess thereof
+CUSIP / ISIN: | 37045XFS0 / US37045XFS09
+* | Under Rule 15c6-1 under the Securities Exchange Act of 1934, as
+amended, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade Notes prior to the date that is one business day
+preceding the settlement date will be required, by virtue of the fact that the Notes initially will settle T+3, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish
+to trade the Notes during such period should consult their own advisors.
+The Issuer has filed a registration statement (including a preliminary prospectus supplement and an
+accompanying prospectus) with the Securities and Exchange Commission (the “SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents
+that the Issuer has filed with the SEC, including the preliminary prospectus supplement, for more complete information about the Issuer and this offering. You may get these documents for free by visiting the SEC website at www.sec.gov.
+Alternatively, the Issuer, any underwriter or any dealer participating in the offering will arrange to send you the preliminary prospectus supplement and the accompanying prospectus if you request it by contacting: Citigroup Global Markets Inc. at
+1-800-831-9146
+(toll free), Goldman Sachs & Co. LLC at
+1-866-471-2526
+(toll free), J.P. Morgan Securities LLC at
+1-212-834-4533
+(collect), Lloyds Securities Inc. at
+1-212-930-5039
+(collect), RBC Capital Markets, LLC at
+1-877-822-4089
+(toll free), and Scotia Capital (USA) Inc. at
+1-800-372-3930
+(toll free).
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER
+NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.
+2

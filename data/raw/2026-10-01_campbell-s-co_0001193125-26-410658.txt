@@ -1,0 +1,118 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/16732/000119312526410658/d209398dfwp.htm
+ISSUER (SEC filer): CAMPBELL'S Co
+FILED: 2026-10-01
+========================================
+FWP
+1
+d209398dfwp.htm
+FWP
+FWP
+Issuer Free Writing Prospectus, dated October 1, 2026
+Filed Pursuant to Rule 433
+Registration Statement
+No. 333-298306
+(Supplementing the Preliminary Prospectus
+Supplement dated September 30, 2026 to the
+Prospectus dated August 13, 2026)
+The Campbell’s Company
+$300,000,000 8.500%
+Fixed-to-Fixed
+Reset Rate Junior
+Subordinated Notes due 2057 (the “Notes”)
+PRICING TERM SHEET
+October 1, 2026
+The information
+in this pricing term sheet relates to the offering (the “Offering”) of the Notes described above of The Campbell’s Company (the “Issuer” or the “Company”), and should be read together with the preliminary
+prospectus supplement dated September 30, 2026 relating to the Offering and the accompanying prospectus dated August 13, 2026 included in the Issuer’s Registration Statement on Form
+S-3
+(File
+No. 333-298306)
+(as supplemented by such preliminary prospectus supplement, the “Preliminary Prospectus”).
+The information in this pricing term sheet supersedes the information in the Preliminary Prospectus to the extent inconsistent with the information in the
+Preliminary Prospectus. Terms used but not defined herein have the meanings given in the Preliminary Prospectus.
+Issuer: | The Campbell’s Company
+Expected Ratings of the Issuer (Moody’s /
+S&P / Fitch)*: | Baa3 / BBB- / BBB-
+Expected Ratings of the Notes (Moody’s /
+S&P / Fitch)*: | Ba1 / BB / BB
+Aggregate Principal Amount: | $300,000,000
+Offering Price: | 100.000%
+Offering Format: | SEC Registered
+Security Type: | Fixed-to-Fixed Reset Rate Junior Subordinated Notes
+Trade Date: | October 1, 2026
+Settlement Date**: | October 5, 2026 (T+2)
+Maturity Date: | April 5, 2057
+Subordination; Ranking: | The Notes will be subordinate and junior in right of payment, to the extent and in the manner set forth in the indenture governing the Notes, to all of the Company’s senior indebtedness (as defined in the Preliminary
+Prospectus). The Notes will be effectively junior to any of the Company’s future secured indebtedness to the extent of the assets securing that indebtedness, and will be structurally subordinated to any indebtedness and other liabilities of
+the Company’s subsidiaries. The Notes will rank equally in right of payment with any future unsecured indebtedness that the Company may incur from time to time if the terms of such indebtedness provide that it ranks equally with the Notes in
+right of payment.
+Interest Rate: | The Notes will bear interest (i) from and including October 5, 2026 (“original issue date”) to, but excluding, April 5, 2032 (the “First Reset Date”) at the rate of 8.500% per annum (the
+“Initial Interest Rate”) and (ii) from and including the First Reset Date, during each Reset Period (as defined in the Preliminary Prospectus) at a rate per annum equal to the Five-Year U.S. Treasury Rate (as defined in the
+Preliminary Prospectus) as of the most recent Reset Interest Determination Date (as defined in the Preliminary Prospectus) for such Reset Period plus a spread of 3.511%, to be reset on each Reset Date (as defined in the Preliminary Prospectus);
+provided that the interest rate during any Reset Period will not reset below 8.500% (which equals the Initial Interest Rate on the Notes).
+Interest Payment Dates: | Subject to the Company’s right to defer interest payments as described under “Optional Deferral of Interest” below, semi-annually in arrears on April 5 and October 5 of each year, beginning on April 5,
+2027.
+Record Dates: | The close of business on the record date for the applicable interest payment date, which will be (i) the business day immediately preceding such interest payment date so long as all of the Notes remain in book-entry only form
+or (ii) the 15th calendar day preceding such interest payment date (whether or not a business day) if any of the Notes do not remain in book-entry only form.
+Optional Deferral of Interest: | So long as no event of default with respect to the Notes has occurred and is continuing, the Company may, on one or more occasions, defer payment of all or part of the current and accrued interest otherwise due on the Notes for a
+period of up to 10 consecutive years (commencing on the date that the first such interest payment would otherwise have been made on the Notes, an “Optional Interest Deferral Period”). Any deferred interest will not be due or payable on
+the Notes during any Optional Interest Deferral Period unless the Company elects, at its option, to redeem the Notes during such Optional Interest Deferral Period, in which case accrued and unpaid interest to, but excluding, the redemption date will
+be due and payable on such redemption date only on the Notes being redeemed, or unless the principal of and interest on the Notes shall have been declared due and payable as the result of an event of default with respect to the Notes, in which case
+all accrued and unpaid interest on the Notes shall become due and payable. A deferral of interest payments may not end on a date other than an interest payment date and may not extend beyond the maturity date of the Notes, and the Company may not
+begin a new Optional Interest Deferral Period with respect to the Notes, and may not pay current interest on the Notes, until the Company has paid all accrued interest on the Notes from the previous Optional Interest Deferral Period. The Company may
+also elect, at its option, to shorten the length of any Optional Interest Deferral Period.
+2
+Any deferred interest on the Notes will accrue additional interest at a rate equal to the interest rate then applicable to the Notes, compounded on each interest payment date, to the extent permitted by applicable law
+(“compound interest”). Once the Company pays all deferred interest payments on the Notes, including any compound interest accrued on the deferred interest, the Company can again defer interest payments on the Notes as described above,
+but not beyond the maturity date of the Notes.
+Optional Redemption: | At its option, the Company may redeem some or all of the Notes, as applicable, before their maturity, as follows: • in whole or in part, on one or more occasions at a price equal to 100% of the principal amount being redeemed, plus accrued and unpaid interest to,
+but excluding, the redemption date (i) on any day during the period commencing on the date that is 90 days prior to the First Reset Date and ending on and including the First Reset Date and (ii) after the First Reset Date, on any interest
+payment date for the Notes; • in whole, but not in part, at 100% of the principal amount being redeemed, plus accrued and unpaid interest to, but excluding, the redemption date,
+by a date no later than 120 days following the occurrence of a Tax Event (as defined in the Preliminary Prospectus); and • in whole, but not in part, at 102% of the principal amount being redeemed, plus accrued and unpaid interest to, but excluding, the redemption date,
+by a date no later than 120 days following a Rating Agency Event (as defined in the Preliminary Prospectus). For additional information and the definitions of the terms Tax Event and Rating Agency Event, see “Description of the Notes—Redemption” in
+the Preliminary Prospectus.
+Change of Control: | If a Change of Control Triggering Event (as defined in the Preliminary Prospectus) occurs, the Company may elect to redeem, in whole but not in part, the Notes at 101% of the principal amount of the Notes, together with any accrued
+and unpaid interest up to, but excluding, the redemption date. If the Company does not elect to redeem in such manner, the per annum rate of interest payable on the Notes will subsequently be increased by 500.0 basis points (5.0 percentage
+points).
+Proceeds to the Company: | $297,000,000 (after deducting the underwriting discount but before deducting estimated offering expenses payable by the Company).
+Day Count Convention: | 30/360
+CUSIP / ISIN: | 134429 BS7 / US134429BS72
+3
+Joint Book-Running Managers: | Barclays Capital Inc. BNP Paribas Securities
+Corp. BofA Securities, Inc. Citigroup Global Markets Inc. J.P. Morgan Securities LLC UBS Securities LLC
+Co-Managers: | BMO Capital Markets Corp. PNC Capital Markets
+LLC Rabo Securities USA, Inc. SMBC Nikko Securities America,
+Inc. U.S. Bancorp Investments, Inc. Wells Fargo Securities,
+LLC Academy Securities, Inc. R. Seelaus & Co.,
+LLC
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+suspension, revision or withdrawal at any time.
+** | It is expected that delivery of the Notes will be made against payment thereof on or about
+October 5, 2026, which will be the second business day following the date of the pricing of the Notes (such settlement being referred to as “T+2”). Under Rule 15c6-1 of the Exchange Act,
+trades in the secondary market are generally required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade Notes prior to the business day preceding the scheduled
+settlement date will be required, by virtue of the fact that the Notes will initially settle in T+2, to specify an alternate settlement arrangement at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to
+trade the Notes prior to the business day preceding the scheduled settlement date should consult their advisors.
+No PRIIPs
+KID
+—
+No PRIIPs key information document (KID) has been prepared as the Notes are not available to retail investors in the EEA and the UK.
+The Issuer has filed a registration statement (including a prospectus) and a preliminary prospectus supplement with the SEC for the offering to which this
+communication relates. Before you invest, you should read the preliminary prospectus supplement and the accompanying prospectus in that registration statement and other documents the Issuer has filed with the SEC for more complete information about
+the Issuer and this offering. You may obtain these documents for free by visiting EDGAR on the SEC web site at www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating in the offering will arrange to send you the
+prospectus if you request it by calling Barclays Capital Inc. toll-free at
+1-888-603-5847,
+BNP Paribas Securities Corp. toll-free
+at
+1-800-854-5674,
+BofA Securities, Inc. toll-free at
+1-800-294-1322,
+Citigroup Global Markets Inc. toll-free at
+1-800-831-9146,
+J.P.
+Morgan Securities LLC collect at
+1-212-834-4533,
+or UBS Securities LLC toll-free at
+1-833-481-0269.
+ANY DISCLAIMER OR OTHER NOTICE THAT MAY APPEAR BELOW
+IS NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMER OR NOTICE WAS AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT BY BLOOMBERG OR ANOTHER EMAIL SYSTEM.
+4

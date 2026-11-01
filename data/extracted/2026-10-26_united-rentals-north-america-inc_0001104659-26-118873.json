@@ -1,0 +1,71 @@
+{
+  "source_file": "2026-10-26_united-rentals-north-america-inc_0001104659-26-118873.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:43:47",
+  "usage": {
+    "input_tokens": 4758,
+    "output_tokens": 872
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "United Rentals (North America), Inc.",
+    "sector": "Industrials",
+    "trade_date": "2026-10-26",
+    "settlement_date": "2026-10-29",
+    "rating_moodys": "Baa3",
+    "rating_sp": "BBB-",
+    "rating_fitch": null,
+    "bookrunners": [
+      "J.P. Morgan Securities LLC",
+      "BofA Securities, Inc.",
+      "Goldman Sachs & Co. LLC",
+      "Wells Fargo Securities, LLC"
+    ],
+    "use_of_proceeds": "To repay in full the indebtedness outstanding under the Term Loan Facility and for general corporate purposes, including to reduce borrowings under the ABL Facility and the Accounts Receivable Securitization Facility.",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 700000000,
+        "coupon_pct": 5.55,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-10-15",
+        "first_call_date": "2029-09-15",
+        "benchmark": "UST 4.875% due October 15, 2029",
+        "spread_bps": 80,
+        "yield_pct": 5.58,
+        "issue_price_pct": 99.922,
+        "seniority": "senior unsecured",
+        "pricing_quote": "+80 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 800000000,
+        "coupon_pct": 5.75,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-10-15",
+        "first_call_date": "2031-09-15",
+        "benchmark": "UST 5.000% due September 30, 2031",
+        "spread_bps": 95,
+        "yield_pct": 5.778,
+        "issue_price_pct": 99.884,
+        "seniority": "senior unsecured",
+        "pricing_quote": "+95 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1000000000,
+        "coupon_pct": 6.2,
+        "coupon_type": "fixed",
+        "maturity_date": "2036-10-15",
+        "first_call_date": "2036-07-15",
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 125,
+        "yield_pct": 6.24,
+        "issue_price_pct": 99.71,
+        "seniority": "senior unsecured",
+        "pricing_quote": "+125 bps"
+      }
+    ]
+  }
+}

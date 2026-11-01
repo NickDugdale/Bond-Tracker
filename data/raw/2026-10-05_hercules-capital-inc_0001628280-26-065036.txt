@@ -1,0 +1,53 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1280784/000162828026065036/htgc-fwpoctober2026debtoff.htm
+ISSUER (SEC filer): Hercules Capital, Inc.
+FILED: 2026-10-05
+========================================
+FWP
+1
+htgc-fwpoctober2026debtoff.htm
+FWP
+Document
+Filed pursuant to Rule 433
+Issuer Free Writing Prospectus dated October 5, 2026
+Relating to Preliminary Prospectus Supplement dated October 5, 2026 and
+Prospectus dated December 11, 2024
+Registration No. 333-283735
+Hercules Capital, Inc.
+$400,000,000
+6.700% Notes due 2029
+PRICING TERM SHEET
+October 5, 2026
+The following sets forth the final terms of the 6.700% Notes due 2029 and should only be read together with the preliminary prospectus supplement dated October 5, 2026, together with the accompanying prospectus dated December 11, 2024, relating to these securities (the “Preliminary Prospectus”), and supersedes the information in the Preliminary Prospectus to the extent inconsistent with the information in the Preliminary Prospectus. In all other respects, this pricing term sheet is qualified in its entirety by reference to the Preliminary Prospectus. Terms used herein but not defined herein shall have the respective meanings as set forth in the Preliminary Prospectus. All references to dollar amounts are references to U.S. dollars.
+Issuer | Hercules Capital, Inc.
+Issuer Ticker | HTGC
+Security | 6.700% Notes due 2029 (the “Notes”)
+Ratings* | Baa2 (Stable) (Moody’s); BBB- (Stable) (Fitch)
+Trade Date | October 5, 2026
+Settlement Date** | October 8, 2026 (T+3)
+Aggregate Principal Amount Offered | $400,000,000
+Maturity | October 8, 2029, unless earlier repurchased or redeemed
+Price to Public (Issue Price) | 99.379%
+Coupon (Interest Rate) | 6.700%
+Yield to Maturity | 6.933%
+Spread to Benchmark Treasury | +195 basis points
+Benchmark Treasury | 4.375% due September 15, 2029
+Benchmark Treasury Price and Yield | 98-11 ¼ / 4.983%
+Interest Payment Dates | April 8 and October 8, commencing April 8, 2027
+Optional Redemption | Prior to September 8, 2029 (one month prior to their maturity date) (the “Par Call Date”), we may redeem the Notes at our option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of:
+(1) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the Notes matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 30 basis points less (b) interest accrued to, but not including, the date of redemption, and
+(2) 100% of the principal amount of the Notes to be redeemed,
+plus , in either case, accrued and unpaid interest thereon to, but not including, the redemption date.
+On or after the Par Call Date, we may redeem the Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the Notes being redeemed plus accrued and unpaid interest thereon to, but not including, the redemption date.
+Change of Control | Holders have the right to require Hercules Capital, Inc. to repurchase the Notes at 100% of their principal amount plus accrued and unpaid interest, if any, in the event of a change of control repurchase event.
+Denomination | $2,000 and integral multiples of $1,000 in excess thereof
+CUSIP | 427096AP7
+ISIN | US427096AP76
+Joint Book-Running Managers | Goldman Sachs & Co. LLC SMBC Nikko Securities America, Inc. MUFG Securities Americas Inc.
+Co-Managers: | Citizens JMP Securities, LLC DZ Financial Markets LLC RBC Capital Markets, LLC R. Seelaus & Co., LLC Synovus Securities, Inc. Wedbush Securities Inc. Zions Direct, Inc.
+2
+*Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time. Each securities rating should be evaluated independent of each other securities rating.
+**Hercules Capital, Inc. expects that delivery of the Notes will be made to investors on or about October 8, 2026, which will be the third business day following the date hereof. Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended, trades in the secondary market are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade Notes prior to the business day before the delivery of the Notes hereunder will be required, by virtue of the fact that the Notes initially settle in T+3, to specify an alternate settlement arrangement at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to trade the Notes prior to their date of delivery should consult their advisors.
+Investors are advised to carefully consider the investment objectives, risks, charges and expenses of Hercules Capital, Inc. before investing. The Preliminary Prospectus, which has been filed with the Securities and Exchange Commission (the “SEC”), contains this and other information about Hercules Capital, Inc. and should be read carefully before investing.
+The information in the Preliminary Prospectus and in this pricing term sheet is not complete and may be changed. The Preliminary Prospectus and this pricing term sheet are not offers to sell any securities of Hercules Capital, Inc. and are not soliciting an offer to buy such securities in any jurisdiction where such offer and sale is not permitted.
+An effective shelf registration statement relating to these securities is on file with the SEC. The offering may be made only by means of a preliminary prospectus supplement and an accompanying prospectus. Copies of the Preliminary Prospectus may be obtained from Goldman Sachs & Co. LLC, 200 West Street, New York, New York 10282, or email prospectus-ny@ny.email.gs.com, or telephone: 1-866-471-2526, or SMBC Nikko Securities America, Inc., 277 Park Avenue, New York, New York 10172, or email prospectus@smbcnikko-si.com, or telephone: 1-888-868-6856.
+3

@@ -1,0 +1,69 @@
+{
+  "source_file": "2026-10-13_lennar-corp-new_0001193125-26-420546.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-01T12:42:46",
+  "usage": {
+    "input_tokens": 4238,
+    "output_tokens": 688
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Lennar Corporation",
+    "sector": "Real Estate",
+    "trade_date": "2026-10-13",
+    "settlement_date": "2026-10-15",
+    "rating_moodys": "Baa2",
+    "rating_sp": "BBB",
+    "rating_fitch": "BBB+",
+    "bookrunners": [
+      "BBVA Securities Inc.",
+      "BofA Securities, Inc.",
+      "Goldman Sachs & Co. LLC",
+      "J.P. Morgan Securities LLC",
+      "Mizuho Securities USA LLC",
+      "Truist Securities, Inc.",
+      "Wells Fargo Securities, LLC",
+      "BMO Capital Markets Corp.",
+      "Citigroup Global Markets Inc.",
+      "Citizens JMP Securities, LLC",
+      "Fifth Third Securities, Inc.",
+      "Huntington Securities, Inc.",
+      "PNC Capital Markets LLC",
+      "Scotiabank Capital (USA) Inc.",
+      "ING Financial Markets LLC",
+      "TD Securities (USA) LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 300000000,
+        "coupon_pct": 5.7,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-10-15",
+        "first_call_date": "2029-09-15",
+        "benchmark": "UST 4.875% due October 15, 2029",
+        "spread_bps": 80,
+        "yield_pct": 5.726,
+        "issue_price_pct": 99.929,
+        "seniority": "senior unsecured",
+        "pricing_quote": "T+80 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 300000000,
+        "coupon_pct": 5.95,
+        "coupon_type": "fixed",
+        "maturity_date": "2032-01-15",
+        "first_call_date": "2031-12-15",
+        "benchmark": "UST 5.000% due September 30, 2031",
+        "spread_bps": 95,
+        "yield_pct": 5.964,
+        "issue_price_pct": 99.948,
+        "seniority": "senior unsecured",
+        "pricing_quote": "T+95 basis points"
+      }
+    ]
+  }
+}

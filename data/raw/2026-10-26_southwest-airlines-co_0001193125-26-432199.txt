@@ -1,0 +1,89 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/92380/000119312526432199/d152988dfwp.htm
+ISSUER (SEC filer): SOUTHWEST AIRLINES CO
+FILED: 2026-10-26
+========================================
+FWP
+1
+d152988dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration
+No. 333-276909
+Dated October 26, 2026
+PRICING TERM SHEET
+October 26, 2026
+Southwest Airlines Co.
+$600,000,000 5.750% Notes due 2029
+$650,000,000 6.000% Notes due 2031
+Issuer: | Southwest Airlines Co.
+Securities: | 5.750% Notes due 2029 (the “2029 Notes”)
+6.000% Notes due 2031 (the “2031 Notes” and, together with the 2029 Notes, the “Notes”)
+Expected Ratings (Moody’s/S&P/Fitch):* | Baa2/BBB/BBB+
+Principal Amount: | 2029 Notes: $600,000,000 2031 Notes: $650,000,000
+Maturity Date: | 2029 Notes: November 15, 2029 2031 Notes: November 15, 2031
+Coupon: | 2029 Notes: 5.750% 2031 Notes: 6.000%
+Price to Public: | 2029 Notes: 99.936% of the principal amount, plus accrued interest, if any, from November 2, 2026 2031 Notes: 99.710% of the principal amount, plus accrued interest, if any, from
+November 2, 2026
+Spread to Benchmark Treasury: | 2029 Notes: +100 basis points 2031 Notes: +125 basis points
+Benchmark Treasury: | 2029 Notes: 4.875% UST due October 15, 2029 2031 Notes: 5.000% UST due September 30, 2031
+Benchmark Treasury Price and Yield: | 2029 Notes: 100-09 / 4.772% 2031 Notes: 100-25 1/4 / 4.817%
+Yield to Maturity: | 2029 Notes: 5.772% 2031 Notes: 6.067%
+Interest Payment Dates: | 2029 Notes: May 15 and November 15 of each year, beginning on May 15, 2027 2031 Notes: May 15 and November 15 of each year, beginning on May 15,
+2027
+Payment Frequency: | Semi-Annually
+Redemption Provisions:
+Make-Whole Call: | Prior to October 15, 2029, in the case of the 2029 Notes and October 15, 2031, in the case of the 2031 Notes (each such date, a
+“Par Call Date” with respect to the applicable series of notes), the Issuer may redeem the 2029 Notes or the 2031 Notes at its option, in whole or in part, at any time and from time to time, at a redemption price equal to the greater
+of: (1) (a) the sum of the present values of the remaining scheduled payments of
+principal and interest thereon discounted to the redemption date (assuming the Notes matured on the applicable Par Call Date for such series) on a semi-annual basis (assuming a 360-day year consisting of
+twelve 30-day months) at the Treasury Rate (as defined in the Preliminary Prospectus Supplement) plus 15 basis points, in the case of the 2029 Notes, and 20 basis points, in the case of the 2031
+Notes, less (b) interest accrued to, but excluding, the redemption date, and (2) 100% of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to, but excluding, the redemption
+date.
+Par Call: | On or after the Par Call Date for either series of Notes, the Issuer may redeem the 2029 Notes or the 2031 Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of
+the 2029 Notes or the 2031 Notes, as applicable, being redeemed plus accrued and unpaid interest thereon to, but excluding, the redemption date.
+Day Count Convention: | 30/360
+Change of Control Offer: | If a change of control triggering event occurs with respect to either series of Notes, the issuer will be required, subject to certain conditions, to offer to repurchase such Notes at a purchase price equal to 101% of the principal
+amount, plus accrued and unpaid interest, if any, to, but excluding, the date of repurchase.
+Trade Date: | October 26, 2026
+Settlement Date: | November 2, 2026 (T+5)
+CUSIP/ISIN: | 2029 Notes: 844741 BN7 / US844741BN72 2031 Notes: 844741 BP2 / US844741BP21
+Joint Book-Running Managers: | Barclays Capital Inc. BNP Paribas Securities
+Corp. Standard Chartered Bank U.S. Bancorp Investments,
+Inc. Wells Fargo Securities, LLC BofA Securities, Inc. Citigroup Global Markets Inc. Goldman Sachs & Co.
+LLC J.P. Morgan Securities LLC Morgan Stanley & Co.
+LLC PNC Capital Markets LLC
+*Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or
+withdrawal at any time.
+The information herein supplements the preliminary prospectus supplement and supersedes the information in the preliminary
+prospectus supplement to the extent inconsistent with the information in the preliminary prospectus supplement.
+The issuer expects to deliver
+Notes against payment for the Notes on the Settlement Date, which will be the fifth business day following the date of the pricing of the Notes. Under Rule
+15c6-1
+of the Securities Exchange Act of 1934, as
+amended, trades in the secondary market generally are required to settle in one business day, unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade Notes prior to the first business day before the
+settlement date will be required, by virtue of the fact that the Notes initially will settle in T+5, to specify alternative settlement arrangements to prevent a failed settlement.
+The issuer has filed a registration statement (including a preliminary prospectus supplement) with the Securities and Exchange Commission (the
+“SEC”) for the offering to which this communication relates. Before you invest, you should read the preliminary prospectus supplement included in that registration statement and other documents the issuer has filed with the SEC for more
+complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Website at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to
+send you the prospectus if you request it by calling Barclays Capital Inc. at
+1-888-603-5847,
+BNP Paribas Securities Corp. at
+1-800-854-5674,
+Standard Chartered Bank at +44 2078 855739, U.S. Bancorp Investments, Inc. at
+1-877-558-2607
+or Wells Fargo Securities, LLC at
+1-800-645-3751.
+The communication of this term sheet and any other documents and/or materials relating to the issue of
+the Notes is not being made, and this term sheet and such other documents and/or materials have not been approved, by an authorized person for the purposes of section 21 of the United Kingdom’s Financial Services and Markets Act 2000, as
+amended. Accordingly, this term sheet and such other documents and/or materials are not being distributed to, and must not be passed on to, the general public in the United Kingdom. This term sheet and such other documents and/or materials are for
+distribution only to persons who (i) have professional experience in matters relating to investments and who fall within the definition of investment professionals (as defined in Article 19(5) of the Financial Services and Markets Act 2000
+(Financial Promotion) Order 2005, as amended (the “Financial Promotion Order”)), (ii) fall within Article 49(2)(a) to (d) of the Financial Promotion Order, (iii) are outside the United Kingdom, or (iv) are any other
+persons to whom it may otherwise lawfully be communicated or distributed under the Financial Promotion Order (all such persons together being referred to as “relevant persons”). This term sheet and any such other documents and/or
+materials are directed only at relevant persons and must not be acted on or relied on by persons who are not relevant persons. Any investment or investment activity to which this term sheet and any such other documents and/or materials relate will
+be engaged in only with relevant persons. Any person in the United Kingdom that is not a relevant person should not act or rely on this term sheet or any other documents and/or materials relating to the issue of the Notes or any of their contents.
+UK MiFIR professionals/ECPs-only / No PRIIPs KID or UK CCI disclosure document – Manufacturer target market (UK MiFIR product governance) is
+eligible counterparties and professional clients only (all distribution channels). No PRIIPs key information document (KID) or UK CCI disclosure document has been prepared as not available to retail investors in the European Economic Area or the
+United Kingdom.
+Any disclaimer or other notice that may appear below is not applicable to this communication and should be disregarded. Such
+disclaimer or notice was automatically generated as a result of this communication being sent by Bloomberg or another electronic communication system.

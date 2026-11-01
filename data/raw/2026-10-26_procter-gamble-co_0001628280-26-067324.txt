@@ -1,0 +1,117 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/80424/000162828026067324/pg-usdfwpoct2026xnew.htm
+ISSUER (SEC filer): PROCTER & GAMBLE Co
+FILED: 2026-10-26
+========================================
+FWP
+1
+pg-usdfwpoct2026xnew.htm
+FWP
+Document
+Filed Pursuant to Rule 433
+Registration No. 333-299472
+October 26, 2026
+Pricing Term Sheet
+$4,000,000,000
+The Procter & Gamble Company
+$750,000,000 5.125% Notes due 2031
+$750,000,000 5.300% Notes due 2033
+$1,250,000,000 5.450% Notes due 2036
+$1,250,000,000 5.900% Notes due 2056
+5.125% Notes due 2031
+Issuer: | The Procter & Gamble Company
+Aggregate Principal Amount: | $750,000,000
+Maturity Date: | October 30, 2031
+Coupon (Interest Rate): | 5.125%
+Price to Public (Issue Price): | 99.965% of principal amount
+Yield to Maturity: | 5.133%
+Spread to Benchmark Treasury: | +30 basis points
+Benchmark Treasury: | 5.000% UST due September 30, 2031
+Benchmark Treasury Yield: | 4.833%
+Interest Payment Dates: | April 30 and October 30, commencing April 30, 2027
+Day Count Convention: | 30/360
+Make-Whole Redemption: | At any time at the greater of 100% or a discount rate of Treasury plus 5 basis points
+Trade Date: | October 26, 2026
+Settlement Date*: | October 30, 2026 (T+4)
+CUSIP Number: | 742718 GU7
+ISIN: | US742718GU73
+Denominations: | $2,000 x $1,000
+Joint Book-Running Managers: | Citigroup Global Markets Inc. Deutsche Bank Securities Inc. Goldman Sachs & Co. LLC HSBC Securities (USA) Inc. Morgan Stanley & Co. LLC
+Co-Managers: | BofA Securities, Inc. Barclays Capital Inc. BBVA Securities, Inc. BNP Paribas Securities Corp. RBC Capital Markets LLC Bank of China (Europe) S.A. PNC Capital Markets LLC Siebert Williams Shank & Co., LLC Standard Chartered Bank
+Type of Offering: | SEC Registered
+Listing: | None
+Long-term Debt Ratings**: | Moody’s: Aa3 (Positive); S&P: AA- (Stable)
+5.300% Notes due 2033
+Issuer: | The Procter & Gamble Company
+Aggregate Principal Amount: | $750,000,000
+Maturity Date: | October 30, 2033
+Coupon (Interest Rate): | 5.300%
+Price to Public (Issue Price): | 99.954% of principal amount
+Yield to Maturity: | 5.308%
+Spread to Benchmark Treasury: | +40 basis points
+Benchmark Treasury: | 5.000% UST due September 30, 2033
+Benchmark Treasury Yield: | 4.908%
+Interest Payment Dates: | April 30 and October 30, commencing April 30, 2027
+Day Count Convention: | 30/360
+Make-Whole Redemption: | At any time at the greater of 100% or a discount rate of Treasury plus 10 basis points
+Trade Date: | October 26, 2026
+Settlement Date*: | October 30, 2026 (T+4)
+CUSIP Number: | 742718 GV5
+ISIN: | US742718GV56
+Denominations: | $2,000 x $1,000
+Joint Book-Running Managers: | Citigroup Global Markets Inc. Deutsche Bank Securities Inc. Goldman Sachs & Co. LLC HSBC Securities (USA) Inc. Morgan Stanley & Co. LLC
+Co-Managers: | BofA Securities, Inc. Barclays Capital Inc. BBVA Securities, Inc. BNP Paribas Securities Corp. RBC Capital Markets LLC Bank of China (Europe) S.A. PNC Capital Markets LLC Siebert Williams Shank & Co., LLC Standard Chartered Bank
+Type of Offering: | SEC Registered
+Listing: | None
+Long-term Debt Ratings**: | Moody’s: Aa3 (Positive); S&P: AA- (Stable)
+5.450% Notes due 2036
+Issuer: | The Procter & Gamble Company
+Aggregate Principal Amount: | $1,250,000,000
+Maturity Date: | October 30, 2036
+Coupon (Interest Rate): | 5.450%
+Price to Public (Issue Price): | 99.642% of principal amount
+Yield to Maturity: | 5.497%
+Spread to Benchmark Treasury: | +50 basis points
+Benchmark Treasury: | 4.625% UST due August 15, 2036
+Benchmark Treasury Yield: | 4.997%
+Interest Payment Dates: | April 30 and October 30, commencing April 30, 2027
+Day Count Convention: | 30/360
+Make-Whole Redemption: | At any time at the greater of 100% or a discount rate of Treasury plus 10 basis points
+Trade Date: | October 26, 2026
+Settlement Date*: | October 30, 2026 (T+4)
+CUSIP Number: | 742718 GW3
+ISIN: | US742718GW30
+Denominations: | $2,000 x $1,000
+Joint Book-Running Managers: | Citigroup Global Markets Inc. Deutsche Bank Securities Inc. Goldman Sachs & Co. LLC HSBC Securities (USA) Inc. Morgan Stanley & Co. LLC
+Co-Managers: | BofA Securities, Inc. Barclays Capital Inc. BBVA Securities, Inc. BNP Paribas Securities Corp. RBC Capital Markets LLC Bank of China (Europe) S.A. PNC Capital Markets LLC Siebert Williams Shank & Co., LLC Standard Chartered Bank
+Type of Offering: | SEC Registered
+Listing: | None
+Long-term Debt Ratings**: | Moody’s: Aa3 (Positive); S&P: AA- (Stable)
+5.900% Notes due 2056
+Issuer: | The Procter & Gamble Company
+Aggregate Principal Amount: | $1,250,000,000
+Maturity Date: | October 30, 2056
+Coupon (Interest Rate): | 5.900%
+Price to Public (Issue Price): | 99.860% of principal amount
+Yield to Maturity: | 5.910%
+Spread to Benchmark Treasury: | +60 basis points
+Benchmark Treasury: | 5.000% UST due May 15, 2056
+Benchmark Treasury Yield: | 5.310%
+Interest Payment Dates: | April 30 and October 30, commencing April 30, 2027
+Day Count Convention: | 30/360
+Make-Whole Redemption: | At any time at the greater of 100% or a discount rate of Treasury plus 10 basis points
+Trade Date: | October 26, 2026
+Settlement Date*: | October 30, 2026 (T+4)
+CUSIP Number: | 742718 GX1
+ISIN: | US742718GX13
+Denominations: | $2,000 x $1,000
+Joint Book-Running Managers: | Citigroup Global Markets Inc. Deutsche Bank Securities Inc. Goldman Sachs & Co. LLC HSBC Securities (USA) Inc. Morgan Stanley & Co. LLC
+Co-Managers: | BofA Securities, Inc. Barclays Capital Inc. BBVA Securities, Inc. BNP Paribas Securities Corp. RBC Capital Markets LLC Bank of China (Europe) S.A. PNC Capital Markets LLC Siebert Williams Shank & Co., LLC Standard Chartered Bank
+Type of Offering: | SEC Registered
+Listing: | None
+Long-term Debt Ratings**: | Moody’s: Aa3 (Positive); S&P: AA- (Stable)
+*Note
+: We expect that delivery of the notes will be made against payment therefor on or about the fourth business day following the date of pricing of the notes (such settlement cycle being referred to as “T+4”). Under Rule 15c6-1 of the Securities and Exchange Commission (the “SEC”) under the Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the notes on any date prior to the business day before delivery of the notes will be required, by virtue of the fact that the notes initially will settle in T+4 business days, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the notes who wish to make such trades should consult their own advisors.
+**Note
+: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+The issuer has filed a registration statement (including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling Citigroup Global Markets Inc. toll-free at 1-800-831-9146, Deutsche Bank Securities Inc. toll-free at 1-800-503-4611, Goldman Sachs & Co. LLC toll-free at 1-866-471-2526, HSBC Securities (USA) Inc. toll-free at 1-866-811-8049 and Morgan Stanley & Co. LLC toll-free at 1-866-718-1649.
+Any disclaimers or other notices that may appear below are not applicable to this communication and should be disregarded. Such disclaimers or other notices were automatically generated as a result of this communication being sent via Bloomberg or another email system.

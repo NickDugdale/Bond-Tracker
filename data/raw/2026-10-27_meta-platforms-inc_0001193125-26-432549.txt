@@ -1,0 +1,226 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1326801/000119312526432549/d382225dfwp.htm
+ISSUER (SEC filer): Meta Platforms, Inc.
+FILED: 2026-10-27
+========================================
+FWP
+1
+d382225dfwp.htm
+FWP
+FWP
+Pricing Term Sheet | Free Writing Prospectus
+dated as of October 26, 2026 | Filed pursuant to Rule 433
+Relating to the Preliminary Prospectus Supplements each dated October 26, 2026 to the
+Prospectus dated October 26, 2026
+Registration No. 333-299631
+Meta Platforms, Inc.
+Concurrent Offerings of
+40,000,000 Shares of Class A Common Stock, par value $0.000006 per Share (the “Class A Common Stock” and such
+offering, the “Common Stock Offering”),
+and
+250,000,000 Series A Depositary Shares (the “Series A Depositary Shares”)
+Each Representing a 1/20th Interest in a Share of
+6.50% Series A Mandatory Convertible Preferred Stock
+(the “Series A Depositary Shares Offering”)
+The information in this pricing term sheet relates only to the Common Stock Offering and the Series A Depositary Shares Offering and should be read
+together with (i) the preliminary prospectus supplement dated October 26, 2026 relating to the Common Stock Offering (the “
+Common Stock Preliminary Prospectus Supplement
+”) and (ii) the preliminary
+prospectus supplement dated October 26, 2026 relating to the Series A Depositary Shares Offering (the “
+Series A Depositary Shares Preliminary Prospectus Supplement
+”), respectively, in each case including the
+documents incorporated by reference therein and the related base prospectus dated October 26, 2026. Each preliminary prospectus supplement has been filed, together with the related base prospectus, pursuant to Rule 424(b) under the Securities
+Act of 1933, as amended (the “
+Securities Act
+”), Registration
+No. 333-299631.
+The closing of the Series A Depositary Shares Offering is not conditioned upon the closing of
+the Common Stock Offering and the closing of the Common Stock Offering is not conditioned upon the closing of the Series A Depositary Shares Offering. Terms not defined in this pricing term sheet have the meanings given to such terms in the Common
+Stock Preliminary Prospectus Supplement or the Series A Depositary Shares Preliminary Prospectus Supplement, as applicable. All references to dollar amounts are references to U.S. dollars. Meta Platforms, Inc. has increased the size of the Common
+Stock Offering to $25.0 billion, consisting of 40,000,000 shares of Class A Common Stock (or 46,000,000 shares of Class A Common Stock if the underwriters in the Common Stock Offering exercise in full their option to purchase
+additional shares of Class A Common Stock). The final prospectus supplement relating to the Common Stock Offering will reflect conforming changes relating to such increase in the size of the Common Stock Offering.
+Issuer: | Meta Platforms, Inc.
+Ticker / Exchange for the Class A Common Stock: | META / The Nasdaq Global Select Market (“ Nasdaq ”)
+Pricing Date: | October 26, 2026.
+Trade Date: | October 27, 2026 (“T”).
+Settlement Date for the Common Stock Offering: | October 29, 2026 (T+2), which is the second business day following the trade date for the Class A Common Stock (such settlement cycle being referred to as “T+2”). Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree
+otherwise. Accordingly, purchasers
+who wish to trade the Class A Common Stock prior to the business day preceding the Settlement Date for the Common Stock Offering will be required, by virtue of the fact that the Class A Common Stock initially will settle
+T+2, to specify an alternative settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the Class A Common Stock who wish to trade such Class A Common Stock prior to the business day preceding the
+Settlement Date for the Common Stock Offering should consult their own advisors.
+Settlement Date for the Series A Depositary Shares Offering: | October 29, 2026 (T+2), which is the second business day following the trade date for the Series A Depositary Shares (such settlement cycle being referred to as “T+2”). Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree
+otherwise. Accordingly, purchasers who wish to trade the Series A Depositary Shares prior to the business day preceding the Settlement Date for the Series A Depositary Shares Offering will be required, by virtue of the fact that the Series A
+Depositary Shares initially will settle T+2, to specify an alternative settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the Series A Depositary Shares who wish to trade such Series A Depositary Shares
+prior to the business day preceding the Settlement Date for the Series A Depositary Shares Offering should consult their own advisors.
+Common Stock Offering
+Class A Common Stock Offered: | 40,000,000 shares of Class A Common Stock
+Option for Underwriters to Purchase Additional Shares of Class A Common Stock: | 6,000,000 shares of Class A Common Stock
+Public Offering Price of the Class A Common Stock: | $625.00 per share of Class A Common Stock
+Nasdaq Last Reported Sale Price of the Class A Common Stock on October 26, 2026: | $630.56 per share of Class A Common Stock
+CUSIP / ISIN for the Class A Common Stock: | 30303M102 / US30303M1027
+Forward Sale Agreements: | In connection with the Common Stock Offering, the Issuer entered into forward sale agreements with each of Morgan Stanley Capital Services LLC and Goldman Sachs & Co. LLC, initially with respect to an aggregate of
+40,000,000 shares of the Class A Common Stock. Upon the occurrence of the Class C Trigger Event (as such term is defined in the Common Stock Preliminary Prospectus Supplement), the Issuer expects that such forward sale agreements will
+reference both the Class A Common Stock and the Class C Common Stock (as such term is defined in the Common Stock Preliminary Prospectus Supplement) and, in certain circumstances, the Issuer will have the
+2
+ability to settle all of the forward sale agreements through the delivery of only shares of Class C Common Stock. See “Underwriting (Conflicts of Interest)—Forward Sale Agreements” in the Common Stock
+Preliminary Prospectus Supplement.
+Initial Forward Sale Price: | $622.91875 per share, which is the Public Offering Price of the Class A Common Stock in the Common Stock Offering less the applicable underwriting discount for the Common Stock Offering. The forward sale agreements provide
+that the Initial Forward Sale Price is subject to adjustment on a daily basis based on a floating interest rate factor equal to the overnight bank funding rate less a spread and will be subject to decrease on each of certain dates specified
+in the forward sale agreements by amounts related to expected dividends on shares of Class A Common Stock or Class C Common Stock, as applicable, during the term of the forward sale agreements.
+Upon the occurrence of a Class C Effective Date (as such term is defined in the Common Stock Preliminary Prospectus Supplement), each forward sale agreement will become two separate transactions, each with terms identical to
+those of the applicable forward sale agreement immediately prior to the Class C Effective Date, except with one transaction having shares of Class A Common Stock as the underlying shares (a “Class A Transaction”) and the
+other transaction having Class C Common Stock as the underlying shares and with such further changes as required under the terms of each forward sale agreement. Subject to certain conditions, the Issuer will have the ability to settle the
+Class A Transactions through the delivery of shares of Class C Common Stock, with an adjustment to the forward sale price applicable to such settlement.
+See “Underwriting (Conflicts of Interest)—Forward Sale Agreements” in the Common Stock Preliminary Prospectus Supplement.
+Use of Proceeds: | The Issuer does not expect to initially receive any proceeds from the sale of shares of Class A Common Stock offered by the Forward Sellers in the Common Stock Offering unless an event occurs that requires the Issuer to sell
+such shares to the underwriters in the Common Stock Offering in lieu of the Forward Sellers selling such shares to such underwriters (including in connection with the exercise of such underwriters’ option to purchase additional shares, in
+whole or in part), in which case the Issuer intends to use all net proceeds from any such sales for the same purposes described below.
+The Issuer expects to receive net proceeds, before expenses, of approximately $24.9 billion (or approximately $28.7 billion if the underwriters’ option to purchase additional shares is exercised in full), subject to
+the price adjustment and other provisions of the forward sale agreements, upon settlement of the forward sale agreements, which the Issuer expects to occur on or prior to November 19, 2027.
+The actual proceeds to us from the forward sales are subject to the final settlement of the forward sale agreements. The Issuer currently intends to use the net proceeds, if any, that it receives upon settlement of the forward sale
+agreements for general corporate purposes.
+3
+Joint Book-Running Managers: | Morgan Stanley & Co. LLC
+Goldman Sachs & Co. LLC
+Co-Managers | Allen & Company LLC BDT & MSD
+Partners, LLC Centerview Partners LLC Jefferies
+LLC
+Lazard Frères & Co. LLC Raine
+Securities LLC
+Series A Depositary Shares Offering
+Series A Depositary Shares Offered: | 250,000,000 Series A Depositary Shares, each of which represents a 1/20th interest in a share of the Issuer’s 6.50% Series A Mandatory Convertible Preferred Stock (the “ Series A Mandatory Convertible Preferred
+Stock ”). At settlement of the Series A Depositary Shares Offering, the Issuer will issue 12,500,000 shares of Series A Mandatory Convertible Preferred Stock, subject to the underwriters’ over-allotment option.
+Over-allotment Option for Underwriters to Purchase Additional Series A Depositary Shares: | 37,500,000 additional Series A Depositary Shares (corresponding to 1,875,000 additional shares of the Series A Mandatory Convertible Preferred Stock), solely to cover over-allotments.
+Public Offering Price of the Series A Depositary Shares: | $50.00 per Series A Depositary Share.
+Dividends: | 6.50% of the liquidation preference of $1,000 per share of the Series A Mandatory Convertible Preferred Stock per year. Dividends will accumulate from the Settlement Date for the Series A Depositary Shares Offering and, to the
+extent that the Issuer is legally permitted to pay dividends and its board of directors, or an authorized committee thereof, declares a dividend payable with respect to the Series A Mandatory Convertible Preferred Stock, the Issuer initially will
+pay such dividends in cash or, subject to certain limitations, by delivery of shares of Class A Common Stock or through any combination of cash and shares of Class A Common Stock, as determined by the Issuer’s board of directors in
+its sole discretion; provided that any unpaid dividends will continue to accumulate. Following the Class C Dividend Trigger Date (as defined in the Series A Depositary Shares Preliminary Prospectus Supplement), any declared dividends may
+be payable in cash or, subject to certain limitations, by delivery of shares of Class C Common Stock or through any combination of cash and shares of Class C Common Stock, as determined by the Issuer’s board of directors in its sole
+discretion.
+4
+The expected dividend payable on the first Dividend Payment Date is approximately $19.1389 per share of Series A Mandatory Convertible Preferred Stock (equivalent to approximately $0.9569 per Series A Depositary Share). Each
+subsequent dividend is expected to be $16.2500 per share of Series A Mandatory Convertible Preferred Stock (equivalent to $0.8125 per Series A Depositary Share).
+Dividend Record Dates: | The February 1, May 1, August 1 and November 1 immediately preceding the relevant Dividend Payment Date.
+Dividend Payment Dates: | February 15, May 15, August 15 and November 15 of each year, commencing on, and including, February 15, 2027 and ending on, and including, August 15, 2029.
+Mandatory Conversion Date: | The second business day immediately following the last trading day of the 20 consecutive trading day period beginning on, and including, the 21st scheduled trading day immediately preceding August 15, 2029.
+Initial Price: | Equal to $1,000, divided by the Maximum Conversion Rate, rounded to the nearest $0.0001, which initially is $625.0000 and is approximately equal to the Public Offering Price of the Class A Common Stock in the Common
+Stock Offering.
+Threshold Appreciation Price: | Equal to $1,000, divided by the Minimum Conversion Rate, rounded to the nearest $0.0001, which initially is $734.2144 and represents a premium of approximately 17.5% over the Initial Price.
+Floor Price: | $218.75 (35% of the Initial Price), subject to adjustment as described in the Series A Depositary Shares Preliminary Prospectus Supplement.
+Conversion Rate per Share of Series A Mandatory Convertible Preferred Stock: | The conversion rate for each share of Series A Mandatory Convertible Preferred Stock will be not more than 1.6000 shares of Class A Common Stock and not less than 1.3620 shares of Class A Common Stock (respectively, the
+“ Maximum Conversion Rate ” and “ Minimum Conversion Rate ”), depending on the applicable market value (as defined in the Series A Depositary Shares Preliminary Prospectus Supplement) of the Class A Common
+Stock, as described below and subject to certain anti-dilution adjustments. Correspondingly, the conversion rate per Series A Depositary Share will be not more than 0.0800 shares of Class A Common Stock and not less than 0.0681 shares of
+Class A Common Stock.
+The following table illustrates the conversion rate per share of the Series A Mandatory Convertible Preferred Stock, subject to certain anti-dilution adjustments described in the Series A Depositary Shares Preliminary Prospectus
+Supplement, based on the applicable market value of the Class A Common Stock:
+5
+Applicable Market Value of the Class A
+Common Stock | Conversion Rate per Share of Series A Mandatory Convertible Preferred Stock
+Greater than the Threshold Appreciation Price | 1.3620 shares of Class A Common Stock
+Equal to or less than the Threshold Appreciation Price but greater than or equal to the Initial Price | Between 1.3620 and 1.6000 shares of Class A Common Stock, determined by dividing $1,000 by the applicable market value, rounded to the nearest ten-thousandth
+Less than the Initial Price | 1.6000 shares of Class A Common Stock
+The following table illustrates the conversion rate per Series A Depositary Share, subject to certain anti-dilution adjustments described in the Series A Depositary Shares Preliminary Prospectus Supplement, based on the
+applicable market value of the Class A Common Stock:
+Applicable Market Value of the Class A
+Common Stock | Conversion Rate per Series A Depositary Share
+Greater than the Threshold Appreciation Price | 0.0681 shares of Class A Common Stock
+Equal to or less than the Threshold Appreciation Price but greater than or equal to the Initial Price | Between 0.0681 and 0.0800 shares of Class A Common Stock, determined by dividing $50 by the applicable market value
+Less than the Initial Price | 0.0800 shares of Class A Common Stock
+Notwithstanding the foregoing, following the occurrence of the Class C Trigger Event (as defined in the Series A Depositary
+Shares Preliminary Prospectus Supplement) and upon conversion on the mandatory conversion date, the conversion rate for each share of Series A Mandatory Convertible Preferred Stock will be a number of shares of Class C Common Stock not more
+than the then-current Maximum Conversion Rate and not less than the then-current Minimum Conversion Rate, depending on the applicable market value of the Class C Common Stock. Upon the occurrence of the Class C Trigger Event, the Maximum
+Conversion Rate and the Minimum Conversion Rate will be adjusted in a manner as described in the Series A Depositary Shares Preliminary Prospectus Supplement, and the conversion rate per share of the Series A Depositary Shares will be adjusted accordingly.
+6
+Optional Conversion: | Other than during a fundamental change conversion period (as defined in the Series A Depositary Shares Preliminary Prospectus Supplement), at any time on or after the 50th trading day immediately following the
+Class C Dividend Trigger Date and prior to August 15, 2029, a holder of Series A Mandatory Convertible Preferred Stock may elect to convert such holder’s shares of Series A Mandatory Convertible Preferred Stock, in whole or in part,
+into a number of shares of Class C Common Stock at the then-current Minimum Conversion Rate. Upon the occurrence of the Class C Trigger Event, the Minimum Conversion Rate will be adjusted in a manner as described in the Series A Depositary
+Shares Preliminary Prospectus Supplement. Because each Series A Depositary Share represents a 1/20th fractional interest in a share of Series A Mandatory Convertible Preferred Stock, a holder of Series A Depositary Shares may convert its Series A
+Depositary Shares only in lots of 20 Series A Depositary Shares.
+Fundamental Change: | If a fundamental change (as defined in the Series A Depositary Shares Preliminary Prospectus Supplement) occurs on or prior to August 15, 2029, holders of the Series A Mandatory Convertible Preferred Stock will have
+the right to convert their shares of Series A Mandatory Convertible Preferred Stock, in whole or in part, into (i) shares of Class C Common Stock, if the Class C Trigger Event has occurred on or prior to the related fundamental change
+reference date (as defined in the Series A Depositary Shares Preliminary Prospectus Supplement) or (ii) shares of Class A Common Stock, if the Class C Trigger Event has not occurred on or prior to the related fundamental change
+reference date, in each case, at the applicable fundamental change conversion rate (as defined in the Series A Depositary Shares Preliminary Prospectus Supplement) during the period beginning on, and including, the related fundamental change
+reference date and ending on, and including, the earlier of (a) the date that is 20 calendar days after such fundamental change reference date (or, if later in the case of a fundamental change reference date that occurs on the effective date of
+the fundamental change, the date that is 20 calendar days after holders receive notice of such fundamental change) and (b) August 15, 2029. For the avoidance of doubt, the period described in the immediately preceding sentence may not end
+on a date that is later than August 15, 2029.
+The following table sets forth the fundamental change conversion rate per share of Series A Mandatory Convertible Preferred Stock based on the effective date of the fundamental change and the stock price (as defined in
+the Series A Depositary Shares Preliminary Prospectus Supplement) of the Class A Common Stock in the fundamental change:
+Stock Price
+Effective Date | $100.00 | $250.00 | $400.00 | $525.00 | $625.00 | $650.00 | $700.00 | $734.21 | $875.00 | $1,000.00 | $1,250.00 | $1,750.00
+October 29, 2026 | 1.4980 | 1.5020 | 1.4520 | 1.4200 | 1.4000 | 1.3960 | 1.3900 | 1.3860 | 1.3720 | 1.3640 | 1.3560 | 1.3520
+August 15, 2027 | 1.5280 | 1.5360 | 1.4840 | 1.4440 | 1.4180 | 1.4120 | 1.4040 | 1.3980 | 1.3800 | 1.3700 | 1.3600 | 1.3540
+August 15, 2028 | 1.5640 | 1.5780 | 1.5400 | 1.4880 | 1.4480 | 1.4400 | 1.4240 | 1.4160 | 1.3880 | 1.3740 | 1.3620 | 1.3580
+August 15, 2029 | 1.6000 | 1.6000 | 1.6000 | 1.6000 | 1.6000 | 1.5380 | 1.4280 | 1.3620 | 1.3620 | 1.3620 | 1.3620 | 1.3620
+7
+The exact stock price and effective date may not be set forth on the table, in which case:
+• if the stock price is between two stock prices on the table or the effective date is between two effective dates on the table, the fundamental change
+conversion rate per share of Series A Mandatory Convertible Preferred Stock will be determined by straight-line interpolation between the fundamental change conversion rates per share of Series A Mandatory Convertible Preferred Stock set forth for
+the higher and lower stock prices and the earlier and later effective dates, as applicable, based on a 365-day or 366-day year, as applicable;
+• if the stock price is in excess of $1,750.00 per share (subject to adjustment in the same manner as the stock prices in the column headings of the
+table above as described in the Series A Depositary Shares Preliminary Prospectus Supplement), then the fundamental change conversion rate per share of Series A Mandatory Convertible Preferred Stock will be the Minimum Conversion Rate;
+and
+• if the stock price is less than $100.00 per share (subject to adjustment in the same manner as the stock prices in the column headings of the table
+above as described in the Series A Depositary Shares Preliminary Prospectus Supplement), then the fundamental change conversion rate per share of Series A Mandatory Convertible Preferred Stock will be the Maximum Conversion
+Rate.
+The following table sets forth the fundamental change conversion rate per Series A Depositary Share based on the effective date of the fundamental change and the stock price of the Class A Common Stock in the fundamental
+change:
+Stock Price
+Effective Date | $100.00 | $250.00 | $400.00 | $525.00 | $625.00 | $650.00 | $700.00 | $734.21 | $875.00 | $1,000.00 | $1,250.00 | $1,750.00
+October 29, 2026 | 0.0749 | 0.0751 | 0.0726 | 0.0710 | 0.0700 | 0.0698 | 0.0695 | 0.0693 | 0.0686 | 0.0682 | 0.0678 | 0.0676
+August 15, 2027 | 0.0764 | 0.0768 | 0.0742 | 0.0722 | 0.0709 | 0.0706 | 0.0702 | 0.0699 | 0.0690 | 0.0685 | 0.0680 | 0.0677
+August 15, 2028 | 0.0782 | 0.0789 | 0.0770 | 0.0744 | 0.0724 | 0.0720 | 0.0712 | 0.0708 | 0.0694 | 0.0687 | 0.0681 | 0.0679
+August 15, 2029 | 0.0800 | 0.0800 | 0.0800 | 0.0800 | 0.0800 | 0.0769 | 0.0714 | 0.0681 | 0.0681 | 0.0681 | 0.0681 | 0.0681
+The exact stock price and effective date may not be set forth on the table, in which case:
+• if the stock price is between two stock prices on the table or the effective date is between two effective dates on the table, the fundamental change
+conversion rate per Series A Depositary Share will be determined by straight-line interpolation between the fundamental change conversion rates per Series A Depositary Share set forth for the higher and lower stock prices and the earlier and later
+effective dates, as applicable, based on a 365-day or 366-day year, as applicable;
+• if the stock price is in excess of $1,750.00 per share (subject to adjustment in the same manner as the stock prices in the column headings of the
+table above as described in the Series A Depositary Shares Preliminary Prospectus Supplement), then the fundamental change conversion rate per Series A Depositary Share will be the Minimum Conversion Rate, divided by 20;
+and
+8
+• if the stock price is less than $100.00 per share (subject to adjustment in the same manner as the stock prices in the column headings of the table
+above as described in the Series A Depositary Shares Preliminary Prospectus Supplement), then the fundamental change conversion rate per Series A Depositary Share will be the Maximum Conversion Rate, divided by 20.
+Notwithstanding the foregoing, (i) following the occurrence of the Class C Trigger Event, all references to “Class A Common Stock” in the second and fourth immediately preceding paragraphs will be deemed
+to be references to “Class C Common Stock” and (ii) with respect to any fundamental change that occurs prior to the first anniversary of the last date of original issuance of the Series A Mandatory Convertible Preferred Stock,
+the fundamental change conversion rate for the Series A Mandatory Convertible Preferred Stock and the Series A Depositary Shares applicable to such fundamental change will be the relevant rate determined in accordance with the four immediately
+preceding paragraphs as of the effective date of such fundamental change, as adjusted from time to time in the same manner and at the same time as the Minimum Conversion Rate and the Maximum Conversion Rate as described in the Series A Depositary
+Shares Preliminary Prospectus Supplement, including upon the Class C Trigger Event, until the related conversion date.
+The stock prices set forth in the first row of each of the two tables above ( i.e. , the column headers), the prices in the second and third bullet under each of the two tables above and each fundamental change conversion rate
+in each of the two tables above will be adjusted as of any date on which the Minimum Conversion Rate and the Maximum Conversion Rate are adjusted as described in the Series A Depositary Shares Preliminary Prospectus Supplement, including upon the
+Class C Trigger Event.
+Because each Series A Depositary Share represents a 1/20th fractional interest in a share of Series A Mandatory Convertible Preferred Stock, a holder of Series A Depositary Shares may convert its Series A Depositary Shares upon the
+occurrence of a fundamental change only in lots of 20 Series A Depositary Shares.
+Discount Rate for Purposes of Fundamental Change Dividend Make- Whole Amount: | The discount rate for purposes of determining the fundamental change dividend make-whole amount (as defined in the Series A Depositary Shares Preliminary Prospectus Supplement) is 4.75% per annum.
+Listing: | The Issuer intends to apply to list the Series A Depositary Shares on Nasdaq under the symbol “METAM.” No assurance can be given that the Series A Depositary Shares will be listed or that any such application for listing
+will be approved.
+9
+CUSIP / ISIN for the Series A Depositary Shares: | 30303M 201 / US30303M2017
+CUSIP / ISIN for the Series A Mandatory Convertible Preferred Stock: | 30303M 300 / US30303M3007
+Use of Proceeds: | The Issuer expects the net proceeds from the Series A Depositary Shares Offering to be approximately $12.5 billion (or approximately $14.3 billion if the underwriters of the Series A Depositary Shares Offering exercise in
+full their over-allotment option to purchase additional Series A Depositary Shares), after deducting the applicable underwriting discounts and the Issuer’s estimated offering expenses totaling approximately $4 million.
+The Issuer intends to use the net proceeds from the Series A Depositary Shares Offering for general corporate purposes.
+Joint Book-Running Managers: | Morgan Stanley & Co. LLC
+Goldman Sachs & Co. LLC
+Co-Managers | Allen & Company LLC BDT & MSD
+Partners, LLC Centerview Partners LLC Jefferies
+LLC
+Lazard Frères & Co. LLC Raine
+Securities LLC
+The Issuer has filed a registration statement (including a prospectus and related preliminary prospectus supplements for the offerings) with the U.S.
+Securities and Exchange Commission (the “SEC”) for the offerings to which this communication relates. Before you invest, you should read the Common Stock Preliminary Prospectus Supplement or the Series A Depositary Shares Preliminary
+Prospectus Supplement, as the case may be, the related base prospectus in that registration statement and the other documents the Issuer has filed with the SEC for more complete information about the Issuer, the Common Stock Offering and the Series
+A Depositary Shares Offering. You may get these documents for free by visiting EDGAR on the SEC’s website at http://www.sec.gov. Alternatively, copies may be obtained from Morgan Stanley & Co. LLC, Attention: Prospectus Department,
+180 Varick Street, 2nd Floor, New York, NY 10014 or by emailing prospectus@morganstanley.com or Goldman Sachs & Co. LLC, Attention: Prospectus Department, 200 West Street, New York, New York 10282, telephone:
+1-866-471-2526,
+facsimile:
+212-902-9316
+or by
+emailing
+prospectus-ny@ny.email.gs.com.
+This communication should be read in conjunction with the Common
+Stock Preliminary Prospectus Supplement or the Series A Depositary Shares Preliminary Prospectus Supplement, as the case may be, and the related base prospectus. The information in this communication supersedes the information in the Common Stock
+Preliminary Prospectus Supplement or the Series A Depositary Shares Preliminary Prospectus Supplement, as the case may be, and the related base prospectus to the extent it is inconsistent with the information in such preliminary prospectus
+supplement or the related base prospectus.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD
+BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.
+10
