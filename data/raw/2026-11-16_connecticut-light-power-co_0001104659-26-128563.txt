@@ -1,0 +1,74 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/23426/000110465926128563/tm2629527d2_fwp.htm
+ISSUER (SEC filer): CONNECTICUT LIGHT & POWER CO
+FILED: 2026-11-16
+========================================
+FWP
+1
+tm2629527d2_fwp.htm
+FWP
+Free Writing Prospectus
+Filed pursuant
+to Rule 433
+Registration No. 333-286362-01
+November 16,
+2026
+The Connecticut
+Light and Power Company
+doing business
+as Eversource Energy
+Pricing
+Term Sheet
+Issuer: | The Connecticut
+Light and Power Company doing business as Eversource Energy
+Security: | $500,000,000
+5.85% First and Refunding Mortgage Bonds, 2026 Series A, due 2036
+Principal Amount: | $500,000,000
+Maturity Date: | November 15,
+2036
+Coupon: | 5.85 %
+Benchmark
+Treasury: | 5.000% due November 15,
+2036
+Benchmark Treasury Price /
+Yield: | 99-03 + / 5.115%
+Spread to Benchmark Treasury: | 78 basis points
+Yield to Maturity: | 5.895%
+Price to Public: | 99.666% of the principal amount
+Interest Payment Dates: | Semi-annually in arrears on
+May 15 and November 15 of each year, commencing on May 15, 2027
+Optional Redemption Provisions: | Make-whole call at any time
+prior to August 15, 2036 (three months prior to the Maturity
+Date) at a discount rate of Treasury plus 15 basis points and on or after such date at par
+Tax Credit Event Redemption: | At the issuer’s option,
+in whole but not in part, at 101% of the principal amount plus accrued and unpaid interest to, but excluding, the redemption date
+(any notice of redemption may be issued by the later of (a) December 31, 2026 and (b) six months from the date of
+issuance)
+Trade Date: | November 16, 2026
+Settlement Date*: | November 23, 2026 (T+5)
+CUSIP / ISIN: | 207597EU5 / US207597EU59
+Expected Ratings**: | A2 (Moody’s); A (S&P);
+A+ (Fitch)
+Joint Book-Running Managers: | BNY Mellon Capital Markets,
+LLC
+Goldman Sachs & Co.
+LLC Mizuho Securities USA LLC RBC Capital Markets, LLC
+Co-Managers: | Samuel A. Ramirez &
+Company, Inc. Siebert Williams Shank & Co., LLC
+* Pursuant to Rule 15c6-1 under
+the Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required to settle in one business day,
+unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the 2026 Series A Bonds
+in the secondary market prior to the date that is one business day before the settlement date will be required, by virtue of the fact
+that the 2026 Series A Bonds will initially settle T+5 (on November 23, 2026) to specify an alternate settlement cycle at the
+time of any such trade to prevent a failed settlement. Purchasers of 2026 Series A Bonds who wish to trade 2026 Series A Bonds
+prior to the date that is one business day before the settlement date should consult their own advisors.
+** Note: A securities rating is not
+a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+The issuer has filed a registration
+statement (including a prospectus, as supplemented) with the SEC for the offering to which this communication relates. Before you invest,
+you should read the prospectus (as supplemented) in that registration statement and other documents the issuer has filed with the SEC
+for more complete information about the issuer and this offering.
+You may get these documents for free by visiting EDGAR on the SEC
+Web site at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send
+you the prospectus (as supplemented) if you request it by calling BNY Mellon Capital Markets, LLC toll-free at (800) 269-6864; Goldman
+Sachs & Co. LLC toll-free at (866) 471-2526; Mizuho Securities USA LLC toll-free at (866) 271-7403; or RBC Capital Markets,
+LLC toll-free at (866) 375-6829.

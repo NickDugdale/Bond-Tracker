@@ -1,0 +1,74 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1024478/000119312526475873/d171318dfwp.htm
+ISSUER (SEC filer): ROCKWELL AUTOMATION, INC
+FILED: 2026-11-24
+========================================
+FWP
+1
+d171318dfwp.htm
+FWP
+FWP
+Free Writing Prospectus
+Filed Pursuant to Rule 433
+Registration Nos. 333-300144 and 333-300144-01
+November 24, 2026
+Rockwell Automation Holdings B.V.
+Pricing Term Sheet
+November 24, 2026
+€500,000,000 4.250% Notes due 2033 (the “Notes”)
+Issuer: | Rockwell Automation Holdings B.V.
+Guarantor: | Rockwell Automation, Inc.
+Expected Ratings (Moody’s / S&P / Fitch)*: | A3 (Stable) / A- (Stable) / A (Stable)
+Trade Date: | November 24, 2026
+Settlement Date (T+4)**: | December 1, 2026
+Interest Payment Date: | December 1 of each year, commencing December 1, 2027
+Denominations: | €100,000 and integral multiples of €1,000 in excess thereof
+Principal Amount: | €500,000,000
+Maturity Date: | December 1, 2033
+Coupon: | 4.250% per annum, accruing from December 1, 2026
+Price to Public: | 99.467% of the principal amount, plus accrued interest, if any, from December 1, 2026
+Re-Offer Yield to Maturity: | 4.340%
+Benchmark Bund: | DBR 2.6% due August 15, 2033
+Benchmark Bund Yield: | 3.168%
+Spread to Government Bund: | +117.2 bps
+Mid-Swaps Yield: | 3.310%
+Spread to Mid-Swaps: | +103 bps
+Optional Redemption Provisions:
+Make-Whole Call: | Bund + 20 bps, plus accrued and unpaid interest, at any time prior to September 1, 2033
+Par Call: | In whole or in part, at any time on or after September 1, 2033
+Change of Control Repurchase Event: | Upon a change of control repurchase event, unless the Issuer has exercised its right to redeem the Notes, holders of the Notes will have the right to require the Issuer to repurchase their Notes at a price equal to 101% of the
+principal amount of the Notes repurchased plus any accrued and unpaid interest.
+Common Code / CUSIP / ISIN: | 358001742 / 77432Q AB4 / XS3580017427
+Listing: | The Issuer intends to apply to list the Notes on the New York Stock Exchange (the “NYSE”). The listing application will be subject to approval by the NYSE. The Issuer currently expects trading in the Notes on the NYSE to
+begin within 30 days after the original issue date. If such a listing is obtained, the Issuer has no obligation to maintain such listing, and may delist the Notes at any time.
+Underwriters: | Joint Book-Running Managers: BofA Securities Europe SA Goldman Sachs & Co. LLC Wells Fargo Securities Europe,
+S.A.
+Senior Co-Managers: Loop Capital Markets LLC Bank of Montreal Europe plc PNC Capital Markets LLC Citigroup Global Markets Europe AG Morgan Stanley & Co.
+International plc Deutsche Bank Aktiengesellschaft U.S. Bancorp Investments, Inc. TD Global Finance unlimited company ING Bank N.V., Belgian Branch
+Co-Manager: Fifth Third Securities, Inc.
+* | A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or
+withdrawal at any time.
+** | It is expected that delivery of the Notes will be made against payment therefor on or about December 1,
+2026, which will be the fourth business day following the date hereof (such settlement cycle being referred to as “T+4”). Pursuant to Rule 15c6-1 under the Securities Exchange Act of 1934, as
+amended, trades in the secondary market generally are required to settle in one business day unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes more than one business day prior to the
+scheduled settlement date will be required, by virtue of the fact that the Notes initially will settle in T+4, to specify an alternative settlement cycle at the time of any such trade to prevent failed settlement. Purchasers of the Notes who wish to
+trade such Notes prior to the business day before the settlement date should consult their own advisors.
+MIFID II AND UK MIFIR PRODUCT
+GOVERNANCE / PROFESSIONAL INVESTORS AND ELIGIBLE COUNTERPARTIES ONLY TARGET MARKET / NO PRIIPs KID OR DISC DISCLOSURE DOCUMENT / EXEMPTION UNDER THE POATRs— Manufacturer target market is eligible counterparties and professional clients only
+(all distribution channels). No key information document under Regulation (EU) No. 1286/2014 or disclosure document required by the FCA Product Disclosure Sourcebook has been prepared as the notes are not available to retail investors in the
+European Economic Area or the United Kingdom.
+The Issuer and the Guarantor have filed a registration statement (including a prospectus) with the SEC
+for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents the Issuer and the Guarantor have filed with the SEC for more complete information about the
+Issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you
+request it by calling
+BofA Securities Europe SA toll-free at
+1-800-294-1322,
+Goldman Sachs & Co. LLC toll-free at
+1-866-471-2526
+or Wells Fargo Securities Europe, S.A. toll-free at
+1-800-645-3751
+.
+This pricing term sheet supplements and, to the extent inconsistent, supersedes the preliminary form of prospectus supplement filed with the SEC by the Issuer
+and the Guarantor on November 19, 2026 relating to the Prospectus dated November 18, 2026.
+Any disclaimer or other notice that may appear
+below is not applicable to this communication and should be disregarded. Such disclaimer or notice was automatically generated as a result of this communication being sent by Bloomberg or another email system.
+2

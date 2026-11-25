@@ -1,0 +1,87 @@
+{
+  "source_file": "2026-11-19_boston-scientific-corp_0001104659-26-130228.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:15:02",
+  "usage": {
+    "input_tokens": 4436,
+    "output_tokens": 1053
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Boston Scientific Corporation",
+    "sector": "Healthcare",
+    "trade_date": "2026-11-19",
+    "settlement_date": "2026-12-01",
+    "rating_moodys": "A3",
+    "rating_sp": "A-",
+    "rating_fitch": "A-",
+    "bookrunners": [
+      "BofA Securities, Inc.",
+      "Citigroup Global Markets Inc.",
+      "J.P. Morgan Securities LLC",
+      "Barclays Capital Inc.",
+      "Morgan Stanley & Co. LLC",
+      "Wells Fargo Securities, LLC"
+    ],
+    "use_of_proceeds": "Finance the cash consideration payable in connection with the Penumbra Acquisition and to pay related fees and expenses, and for general corporate purposes including short term investments, reduction of short term debt, funding of working capital and potential future acquisitions.",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 1000000000,
+        "coupon_pct": 5.375,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-12-01",
+        "first_call_date": "2029-11-01",
+        "benchmark": "4.625% UST due November 15, 2029",
+        "spread_bps": 62,
+        "yield_pct": 5.449,
+        "issue_price_pct": 99.798,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Plus 62 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 750000000,
+        "coupon_pct": 5.5,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-12-01",
+        "first_call_date": "2031-11-01",
+        "benchmark": "4.750% UST due October 31, 2031",
+        "spread_bps": 72,
+        "yield_pct": 5.597,
+        "issue_price_pct": 99.582,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Plus 72 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 750000000,
+        "coupon_pct": 5.75,
+        "coupon_type": "fixed",
+        "maturity_date": "2033-12-01",
+        "first_call_date": "2033-10-01",
+        "benchmark": "4.875% UST due October 31, 2033",
+        "spread_bps": 80,
+        "yield_pct": 5.755,
+        "issue_price_pct": 99.972,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Plus 80 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 5.875,
+        "coupon_type": "fixed",
+        "maturity_date": "2036-12-01",
+        "first_call_date": "2036-09-01",
+        "benchmark": "5.000% UST due November 15, 2036",
+        "spread_bps": 85,
+        "yield_pct": 5.914,
+        "issue_price_pct": 99.709,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Plus 85 basis points"
+      }
+    ]
+  }
+}

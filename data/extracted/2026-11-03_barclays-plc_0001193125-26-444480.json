@@ -1,0 +1,25 @@
+{
+  "source_file": "2026-11-03_barclays-plc_0001193125-26-444480.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:09:22",
+  "usage": {
+    "input_tokens": 7973,
+    "output_tokens": 313
+  },
+  "data": {
+    "is_bond_pricing": false,
+    "not_bond_reason": "These are contingent convertible securities (CoCos), which are equity-linked hybrid instruments with automatic conversion triggered by capital adequacy events, not traditional fixed-income bonds.",
+    "issuer": "Barclays PLC",
+    "sector": "Financials",
+    "trade_date": "2026-11-02",
+    "settlement_date": "2026-11-09",
+    "rating_moodys": "Ba1",
+    "rating_sp": "BB+",
+    "rating_fitch": "BBB-",
+    "bookrunners": [
+      "Barclays Bank PLC"
+    ],
+    "use_of_proceeds": "Not stated",
+    "tranches": []
+  }
+}

@@ -1,0 +1,69 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1111711/000119312526443908/d516516dfwp.htm
+ISSUER (SEC filer): NISOURCE INC.
+FILED: 2026-11-02
+========================================
+FWP
+1
+d516516dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration Statement (No.
+333-291167)
+November 2, 2026
+NiSource Inc.
+$600,000,000 5.400% Notes due 2032
+PRICING TERM SHEET
+(To
+Preliminary Prospectus Supplement dated November 2, 2026 (the “Preliminary Prospectus Supplement”))
+Issuer: | NiSource Inc.
+Security: | 5.400% Notes due 2032 (the “ Notes ”)
+Ratings (Moody’s; S&P; Fitch)*: | Baa2 (stable)/BBB+ (stable)/BBB (stable)
+Size (aggregate principal amount): | $600,000,000
+Public Offering Price: | 99.752% of the principal amount
+Underwriting Discount: | 0.600% of the principal amount
+Net Proceeds, Before Expenses, to the Issuer: | $594,912,000
+Maturity Date: | February 28, 2032
+Benchmark Treasury: | 4.750% due October 31, 2031
+Benchmark Treasury Price/Yield: | 100-07+ / 4.697%
+Spread to Benchmark Treasury: | T+75 basis points
+Yield to Maturity: | 5.447%
+Optional Redemption Terms: | Make-whole call at any time prior to January 28, 2032 (the “Par Call Date ”) at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of:
+(1)(a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the Notes matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate (as defined in the Preliminary
+Prospectus Supplement) applicable to the Notes plus 12.5 basis points less (b) interest accrued to the date of redemption and (2) 100%
+of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to, but excluding, the redemption date. Callable on or after the Par Call Date at a redemption price equal to 100% of the principal amount of the Notes being redeemed plus accrued and unpaid interest
+thereon to, but excluding, the redemption date.
+Tax Credit Event Redemption: | If a Tax Credit Event (as defined in the Preliminary Prospectus Supplement) occurs, the issuer may redeem the Notes, at its option, in whole but not in part, at a redemption price equal to 101% of the principal amount of the Notes,
+plus accrued and unpaid interest thereon to, but excluding, the redemption date (any notice of redemption may be sent only by the later of (a) the end of the calendar year in which the Notes were issued and (b) six months from the date of
+issuance), in accordance with the terms and provisions set forth under “Supplemental Description of the Notes—Tax Credit Event Redemption” in the Preliminary Prospectus Supplement.
+Coupon (interest rate): | 5.400%
+Interest Payment Dates: | February 28 and August 28 of each year, beginning August 28, 2027 (long first interest period)
+Initial Interest Accrual Date: | November 9, 2026
+Format: | SEC Registered
+Transaction Date: | November 2, 2026
+Expected Settlement Date**: | November 9, 2026 (T+5)
+CUSIP/ISIN: | 65473P BD6 / US65473PBD69
+Joint Book-Running Managers: | BMO Capital Markets Corp. KeyBanc Capital
+Markets Inc. Mizuho Securities USA LLC PNC Capital Markets
+LLC
+Co-Managers: | Academy Securities, Inc. Siebert Williams
+Shank & Co., LLC
+* | Note : A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+** | We expect to deliver the Notes against payment for the Notes on or about November 9, 2026, which will be
+the fifth business day following the date of the pricing of the Notes. Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required to settle
+in one business day, unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade Notes on any date prior to the first business day before delivery of the Notes will be required, by virtue of the fact that the
+Notes initially will settle in T+5, to specify alternative settlement arrangements to prevent a failed settlement. Purchasers of the Notes who wish to trade the Notes on any date prior to the first business day before delivery of the Notes should
+consult their own advisors.
+The issuer has filed a registration statement (including a prospectus) with the Securities and Exchange
+Commission (the “SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete
+information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, any underwriter or any dealer participating in the offering will arrange to send you the
+prospectus if you request it by calling BMO Capital Markets Corp. toll-free at (888)
+200-0266,
+KeyBanc Capital Markets Inc. toll-free at (866)
+227-6479,
+Mizuho
+Securities USA LLC toll-free at (866)
+271-7403
+or PNC Capital Markets LLC toll-free at (855)
+881-0697.

@@ -1,0 +1,146 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/798941/000119312526463729/d120762dfwp.htm
+ISSUER (SEC filer): FIRST CITIZENS BANCSHARES INC /DE/
+FILED: 2026-11-16
+========================================
+FWP
+1
+d120762dfwp.htm
+FWP
+FWP
+Filed pursuant to Rule 433
+Registration
+No. 333-281553
+Dated November 16, 2026
+$750,000,000 6.169%
+Fixed-to-Floating
+Rate Senior Notes due 2030 (the “Senior Notes”)
+$500,000,000 7.177% Fixed Rate Reset Subordinated Notes due 2036 (the “Subordinated Notes”
+and, together with the Senior Notes, the “Notes”)
+Pricing Term Sheet
+Terms
+Applicable to the Senior Notes
+Issuer: | First Citizens BancShares, Inc. (“BancShares”)
+Security: | 6.169% Fixed-to-Floating Rate Senior Notes due 2030
+Legal Format: | SEC Registered
+Aggregate Principal Amount: | $750,000,000
+Expected Ratings*: | Baa2 (Moody’s) / BBB (S&P)
+Trade Date: | November 16, 2026
+Settlement Date**: | November 19, 2026 (T+3) (“Senior Notes Issue Date”)
+Maturity Date: | November 19, 2030 (“Senior Notes Maturity Date”)
+Benchmark Treasury: | UST 4.625% due November 15, 2029
+Benchmark Treasury Price and Yield: | 99-10+; 4.869%
+Spread to Benchmark Treasury: | +130 bps
+Fixed Rate Period: | The period from (and including) the Senior Notes Issue Date to (but excluding) November 19, 2029.
+Floating Rate Period: | The period from (and including) November 19, 2029 to (but excluding) the Senior Notes Maturity Date.
+Interest Rate: | From (and including) the Senior Notes Issue Date to (but excluding) November 19, 2029, or the date of earlier redemption (the
+“Senior Notes Fixed Rate Period”), interest on the Senior Notes will accrue at a rate of 6.169% per annum. From (and including) November 19, 2029 to (but excluding) the Senior Notes Maturity Date or the date of earlier redemption (the “Senior Notes
+Floating Rate Period”), interest on the Senior Notes will accrue at a rate equal to the Benchmark (as defined below) plus 146 basis points per annum.
+Interest Payment Dates: | Fixed Rate Period Semi-annually in arrears on May 19 and November 19 of each year, commencing on May 19, 2027, and ending on November 19, 2029, or on any
+redemption date during the Senior Notes Fixed Rate Period (each, a “Senior Notes Fixed Rate Interest Payment Date”). Floating Rate Period Quarterly in arrears on February 19, 2030, May 19, 2030, August 19, 2030 and on the Senior Notes Maturity Date or on any redemption date during
+the Senior Notes Floating Rate Period (each, a “Senior Notes Floating Rate Interest Payment Date”).
+Floating Rate Interest Period: | During the Senior Notes Floating Rate Period, the period beginning on (and including) a Senior Notes Floating Rate Interest Payment Date and ending on (but excluding) the next succeeding Senior Notes Floating Rate Interest Payment
+Date or the Senior Notes Maturity Date or date of redemption (each, a “Senior Notes Floating Rate Interest Period”); provided that the first Senior Notes Floating Rate Interest Period will begin on (and include) November 19, 2029
+and will end on (but exclude) the first Senior Notes Floating Rate Interest Payment Date.
+Interest Determination Date: | The second U.S. Government Securities Business Day preceding the applicable Senior Notes Floating Rate Interest Payment Date.
+Record Date: | The fifteenth calendar day (whether or not a Business Day) preceding the related Senior Notes Fixed Rate Interest Payment Date or Senior Notes Floating Rate Interest Payment Date, as applicable.
+Benchmark: | The “Benchmark” means, initially, the Compounded SOFR Index Rate; provided that if a Benchmark Transition Event and related Benchmark Replacement Date have occurred with respect to SOFR or the then-current Benchmark,
+then “Benchmark” means the applicable Benchmark Replacement.
+2
+Redemption: | On or after May 18, 2027 (180 days after the Senior Notes Issue Date) (or, if additional Senior Notes are issued, beginning 180 days
+after the issue date of such additional Senior Notes), and prior to November 19, 2029 (one year prior to the Senior Notes Maturity Date (the “Senior Notes First Par Call Date”)), we may redeem the Senior Notes at our option, in
+whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (1)(a) the sum of the present values of the remaining scheduled
+payments of principal and interest thereon discounted to the redemption date (assuming the Senior Notes matured on the Senior Notes First Par Call Date) on a semi-annual basis (assuming a 360-day year
+consisting of twelve 30-day months) at the Treasury Rate plus 20 basis points less (b) interest accrued to (but excluding) the date of redemption, and (2) 100% of the principal amount of the Senior Notes to be
+redeemed, plus, in either case, accrued and unpaid interest thereon to (but
+excluding) the redemption date. On the Senior Notes First Par Call Date, we may
+redeem the Senior Notes, in whole but not in part, and on or after October 19, 2030 (one month prior to the Senior Notes Maturity Date), we may redeem the Senior Notes, in whole or in part, at any time and from time to time, in each case at a
+redemption price equal to 100% of the principal amount of the Senior Notes being redeemed, plus accrued and unpaid interest thereon to (but excluding) the redemption date.
+Denominations: | $2,000 minimum denominations and $1,000 integral multiples in excess thereof.
+Use of Proceeds: | BancShares intends to use the net proceeds from this offering of the Senior Notes for general corporate purposes, which may include, among other uses, the partial or full prepayment or redemption of certain outstanding long-term
+debt.
+Price to Public: | 100.000%
+Underwriters’ Discount: | 0.250% of principal amount
+Proceeds to Issuer (after underwriters’ discount, but before expenses): | $748,125,000
+CUSIP/ISIN: | 31959XAM5 / US31959XAM56
+Joint Book-Running Managers: | J.P. Morgan Securities LLC Citigroup Global
+Markets Inc. Piper Sandler & Co. TD Securities (USA) LLC
+Co-Manager: | First Citizens Capital Securities, LLC
+3
+Conflicts of Interest: | First Citizens Capital Securities, LLC, a subsidiary of BancShares, is participating in the offering of the Senior Notes as an underwriter. Accordingly, the offering is being conducted in compliance with the provisions of FINRA Rule
+5121. In accordance with that rule, First Citizens Capital Securities, LLC is not permitted to sell the Senior Notes in the offering to an account over which it exercises discretionary authority without the prior specific written approval of the
+customer to which the account relates.
+Terms Applicable to the Subordinated Notes
+Issuer: | First Citizens BancShares, Inc. (“BancShares”)
+Security: | 7.177% Fixed Rate Reset Subordinated Notes due 2036
+Legal Format: | SEC Registered
+Aggregate Principal Amount: | $500,000,000
+Expected Ratings*: | Baa2 (Moody’s) / BBB- (S&P)
+Trade Date: | November 16, 2026
+Settlement Date**: | November 19, 2026 (T+3) (“Subordinated Notes Issue Date”)
+Maturity Date: | November 19, 2036 (“Subordinated Notes Maturity Date”)
+Benchmark Treasury: | UST 4.750% due October 31, 2031
+Benchmark Treasury Price and Yield: | 99-07 1 ⁄ 4 ; 4.927%
+Spread to Benchmark Treasury: | +225 bps
+Interest Rate: | From (and including) the Subordinated Notes Issue Date to (but excluding) November 19, 2031 (the “Subordinated Notes Reset
+Date”) or the date of earlier redemption, the interest on the Subordinated Notes will accrue at a rate of 7.177% per annum. From (and including) the Subordinated Notes Reset Date to (but excluding) the Subordinated Notes Maturity Date or the date of earlier redemption, the interest
+on the Subordinated Notes will accrue at a rate per annum which will be the Five-year U.S. Treasury Rate as of the day falling two Business Days prior to the Subordinated Notes Reset Date, plus 225 basis points per annum.
+Interest Payment Dates: | Interest on the Subordinated Notes will be payable semi-annually in arrears on May 19 and November 19 of each year and on the Subordinated Notes Maturity Date and any redemption date (each, a “Subordinated Notes
+Interest Payment Date”), commencing on May 19, 2027, and ending on the Subordinated Notes Maturity Date or on any redemption date.
+Record Date: | The fifteenth calendar day (whether or not a Business Day) preceding the related Subordinated Notes Interest Payment Date.
+4
+Redemption: | We may, at our option, redeem the Subordinated Notes in whole, but not in part, on the Subordinated Notes Reset Date subject to obtaining the
+prior approval of the Federal Reserve to the extent such approval is then required under the capital adequacy rules of the Federal Reserve, at a redemption price equal to 100% of the principal amount of the Subordinated Notes, plus accrued and
+unpaid interest thereon to (but excluding) the redemption date. We may also, at our
+option, redeem the Subordinated Notes, in whole or in part, on or after August 19, 2036 (three months prior to the Subordinated Notes Maturity Date), at any time and from time to time, subject to obtaining the prior approval of the Federal
+Reserve to the extent such approval is then required under the capital adequacy rules of the Federal Reserve, at a redemption price equal to 100% of the principal amount of the Subordinated Notes being redeemed, plus accrued and unpaid interest
+thereon to (but excluding) the redemption date. In addition, we may also, at our
+option, redeem the Subordinated Notes in whole, but not in part, at any time before the Subordinated Notes Maturity Date, subject to obtaining the prior approval of the Federal Reserve to the extent such approval is then required under the capital
+adequacy rules of the Federal Reserve, if (i) a “Tax Event” occurs, (ii) a “Tier 2 Capital Event” occurs, or (iii) we are required to register as an investment company under the Investment Company Act of 1940,
+as amended, in each case, at a redemption price equal to 100% of the principal amount of the Subordinated Notes, plus any accrued and unpaid interest to (but excluding) the date of redemption.
+Denominations: | $2,000 minimum denominations and $1,000 integral multiples in excess thereof.
+Use of Proceeds: | BancShares intends to use the net proceeds from this offering of the Subordinated Notes for general corporate purposes, which may include, among other uses, the partial or full prepayment or redemption of certain outstanding
+long-term debt.
+Price to Public: | 100.000%
+Underwriters’ Discount: | 0.350% of principal amount
+Proceeds to Issuer (after underwriters’ discount, but before expenses): | $498,250,000
+Subordination: | The Subordinated Notes will be unsecured, subordinated obligations of BancShares.
+CUSIP/ISIN: | 31959XAN3 / US31959XAN30
+Joint Book-Running Managers: | J.P. Morgan Securities LLC Citigroup Global
+Markets Inc. Piper Sandler & Co. TD Securities (USA)
+LLC
+Co-Manager: | First Citizens Capital Securities, LLC
+5
+Conflicts of Interest: | First Citizens Capital Securities, LLC, a subsidiary of BancShares, is participating in the offering of the Subordinated Notes as an underwriter. Accordingly, the offering is being conducted in compliance with the provisions of
+FINRA Rule 5121. In accordance with that rule, First Citizens Capital Securities, LLC is not permitted to sell the Subordinated Notes in the offering to an account over which it exercises discretionary authority without the prior specific written
+approval of the customer to which the account relates.
+* | A securities rating is not a recommendation to buy, sell or hold securities. Ratings may be subject to
+revision or withdrawal at any time by the assigning rating organization. Each rating should be evaluated independently of any other rating.
+** | We expect that delivery of the Notes will be made against payment for the Notes on or about
+November 19, 2026, which will be the third Business Day following the trade date of November 16, 2026 (this settlement cycle being referred to as “T+3”). Under Rule 15c6-1 of the
+Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required to settle in one Business Day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes on
+any date prior to the date that is one Business Day preceding the settlement date will be required, by virtue of the fact that the Notes will initially settle in three Business Days (T+3), to specify alternative settlement arrangements to prevent a
+failed settlement and should consult their own investment advisor.
+This Pricing Term Sheet is qualified in its entirety by
+reference to the preliminary prospectus supplement dated November 16, 2026 (the “Preliminary Prospectus”). The information in this Pricing Term Sheet supplements the Preliminary Prospectus and supersedes the information in the
+Preliminary Prospectus to the extent it is inconsistent with the information in the Preliminary Prospectus. Other information (including other financial information) presented in the Preliminary Prospectus is deemed to have changed to the extent
+affected by the information contained herein. Capitalized terms used in this Pricing Term Sheet but not otherwise defined have the meanings given to them in the Preliminary Prospectus. BancShares has filed a registration statement on Form
+S-3
+(Registration
+No. 333-281553),
+including the Preliminary Prospectus and an accompanying base prospectus, with the Securities and Exchange Commission (the
+“SEC”) for the offering to which this communication relates. Before you invest, you should read the Preliminary Prospectus and the accompanying base prospectus and other documents that BancShares has filed with the SEC for more complete
+information about BancShares and this offering. You may get these documents for free by visiting EDGAR on the SEC’s website at
+www.sec.gov.
+Alternatively, BancShares, any underwriter or any dealer participating in the offering will
+arrange to send you the Preliminary Prospectus and the accompanying base prospectus if you request it by calling J.P. Morgan Securities LLC collect at
+1-212-834-4533,
+Citigroup Global Markets Inc. toll-free at
+1-800-831-9146,
+Piper Sandler & Co. toll-free at
+1-800-747-3924,
+or TD
+Securities (USA) LLC toll-free at
+1-855-495-9846.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER
+NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.
+6

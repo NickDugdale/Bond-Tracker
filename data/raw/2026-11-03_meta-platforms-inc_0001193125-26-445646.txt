@@ -1,0 +1,80 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1326801/000119312526445646/d186765dfwp.htm
+ISSUER (SEC filer): Meta Platforms, Inc.
+FILED: 2026-11-03
+========================================
+FWP
+1
+d186765dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration
+No. 333-295425
+Issuer Free Writing Prospectus dated November 3, 2026
+Relating to Preliminary Prospectus Supplement dated November 3, 2026
+PRICING TERM SHEET
+META
+PLATFORMS, INC.
+November 3, 2026
+$3,250,000,000 5.850% Senior Notes due 2031
+$3,250,000,000 6.250% Senior Notes due 2033
+$4,000,000,000 6.550% Senior Notes due 2036
+$1,750,000,000 7.350% Senior Notes due 2046
+$2,750,000,000 7.500% Senior Notes due 2056
+Summary of Terms
+Issuer: | Meta Platforms, Inc.
+Format: | SEC Registered
+Issue: | Senior Notes
+Trade Date: | November 3, 2026
+Settlement Date (T+2):* | November 5, 2026
+Denominations: | $2,000 x $1,000
+Ratings:** | Aa3/Stable (Moody’s Investors Service, Inc.) AA-/Negative (Standard & Poor’s Ratings Services)
+Maturity: | 2031 Notes: November 15, 2031 2033 Notes: November 15, 2033 2036 Notes: November 15, 2036 2046 Notes: November 15, 2046 2056 Notes: November 15, 2056
+Principal Amount: | 2031 Notes: $3,250,000,000 2033 Notes: $3,250,000,000 2036 Notes: $4,000,000,000 2046 Notes: $1,750,000,000 2056 Notes: $2,750,000,000
+Public Offering Price: | 2031 Notes: 99.998% 2033 Notes: 99.778% 2036 Notes: 99.982% 2046 Notes: 99.903% 2056 Notes: 99.629%
+Coupon (Interest Rate): | 2031 Notes: 5.850% 2033 Notes: 6.250% 2036 Notes: 6.550% 2046 Notes: 7.350% 2056 Notes: 7.500%
+Yield to Maturity: | 2031 Notes: 5.850% 2033 Notes: 6.289% 2036 Notes: 6.552% 2046 Notes: 7.359% 2056 Notes: 7.531%
+Spread to Benchmark Treasury: | 2031 Notes: T + 110 basis points 2033 Notes: T + 145 basis points 2036 Notes: T + 160 basis points 2046 Notes: T + 200 basis points 2056 Notes: T + 220 basis points
+Benchmark Treasury: | 2031 Notes: UST 4.750% due October 31, 2031 2033 Notes: UST 4.875% due October 31, 2033 2036 Notes: UST 4.625% due August 15, 2036 2046 Notes: UST 5.125% due August 15, 2046 2056 Notes: UST 5.000% due May 15,
+2056
+Benchmark Treasury Price/Yield: | 2031 Notes: 100-00 and 4.750% 2033 Notes: 100-06 3 ⁄ 4 and 4.839% 2036
+Notes: 97-15+ and 4.952% 2046 Notes: 97-05 and 5.359% 2056 Notes: 95-03+ and 5.331%
+Interest Payment Dates: | May 15 and November 15, commencing on May 15, 2027
+Optional Redemption: | 2031 Notes: At any time prior to October 15, 2031, make-whole call at the Treasury Rate (as defined in the Preliminary Prospectus
+Supplement) plus 20 basis points; par call at any time on or after October 15, 2031. 2033 Notes: At any time prior to September 15, 2033, make-whole call at the Treasury Rate (as defined in the Preliminary Prospectus Supplement)
+plus 25 basis points; par call at any time on or after September 15, 2033. 2036 Notes: At any time prior to August 15, 2036, make-whole call at the Treasury Rate (as defined in the Preliminary Prospectus Supplement) plus
+25 basis points; par call at any time on or after August 15, 2036. 2046
+Notes: At any time prior to May 15, 2046, make-whole call at the Treasury Rate (as defined in the Preliminary Prospectus Supplement) plus 30 basis points; par call at any time on or after May 15,
+2046.
+2
+2056 Notes: At any time prior to May 15, 2056, make-whole
+call at the Treasury Rate (as defined in the Preliminary Prospectus Supplement) plus 35 basis points; par call at any time on or after May 15, 2056.
+Joint Book-Running Managers: | Citigroup Global Markets Inc.
+Morgan Stanley & Co. LLC
+Passive Joint Bookrunners: | Goldman Sachs & Co. LLC
+BofA Securities, Inc.
+J.P. Morgan Securities LLC
+Co-Managers: | Blaylock Van, LLC CastleOak Securities, L.P. R. Seelaus & Co., LLC Siebert Williams Shank & Co., LLC
+CUSIP / ISIN: | 2031 Notes : 30303MAM4 / US30303MAM47 2033 Notes : 30303MAN2 / US30303MAN20 2036 Notes : 30303MAP7 / US30303MAP77 2046 Notes : 30303MAQ5 / US30303MAQ50 2056 Notes : 30303MAR3 / US30303MAR34
+3
+* | It is expected that the delivery of the notes will be made against payment therefor on or about
+November 5, 2026, which will be the second business day after the date of the prospectus supplement. Under Rule 15c6-1 of the Securities Exchange Act of 1934, as amended, trades in the secondary market
+generally are required to settle in one business day, unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade the notes prior to the business day preceding the Settlement Date will be required, by virtue of
+the fact that the notes will settle in two business days, to specify an alternative settlement cycle at the time of any such trade to prevent a failed settlement. Such purchasers should consult their own advisors in this regard.
+** | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+The Issuer has filed a registration statement, including a prospectus and a preliminary
+prospectus supplement, with the Securities and Exchange Commission (the “SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus and the related preliminary prospectus supplement and
+other documents the Issuer has filed with the SEC for more complete information about the Issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC’s website at
+www.sec.gov
+. Alternatively, the
+representatives of the underwriters can arrange to send you the prospectus and the related preliminary prospectus supplement if you request it by calling Citigroup Global Markets Inc. at
+1-800-831-9146
+or Morgan Stanley & Co. LLC at
+1-866-718-1649.
+This
+information does not purport to be a complete description of these securities or the offering. Please refer to the preliminary prospectus supplement for a complete description of the securities. This communication does not constitute an offer to
+sell or the solicitation of an offer to buy any securities in any jurisdiction to any person to whom it is unlawful to make such offer or solicitation in such jurisdiction.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER
+NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.
+4

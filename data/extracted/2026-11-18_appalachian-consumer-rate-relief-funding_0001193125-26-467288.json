@@ -1,0 +1,70 @@
+{
+  "source_file": "2026-11-18_appalachian-consumer-rate-relief-funding_0001193125-26-467288.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:14:37",
+  "usage": {
+    "input_tokens": 9206,
+    "output_tokens": 746
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Appalachian Consumer Rate Relief Funding II LLC",
+    "sector": "Utilities",
+    "trade_date": "2026-11-18",
+    "settlement_date": "2026-11-30",
+    "rating_moodys": "Aaa",
+    "rating_sp": "AAA",
+    "rating_fitch": null,
+    "bookrunners": [
+      "RBC Capital Markets, LLC",
+      "Citigroup Global Markets Inc.",
+      "Morgan Stanley & Co. LLC"
+    ],
+    "use_of_proceeds": "Consumer rate relief financing",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 5.92,
+        "coupon_type": "fixed",
+        "maturity_date": "2046-02-01",
+        "first_call_date": null,
+        "benchmark": null,
+        "spread_bps": null,
+        "yield_pct": null,
+        "issue_price_pct": 99.9953,
+        "seniority": "senior secured",
+        "pricing_quote": "Interest Rate 5.920%"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 350000000,
+        "coupon_pct": 6.426,
+        "coupon_type": "fixed",
+        "maturity_date": "2052-08-01",
+        "first_call_date": null,
+        "benchmark": null,
+        "spread_bps": null,
+        "yield_pct": null,
+        "issue_price_pct": 99.98902,
+        "seniority": "senior secured",
+        "pricing_quote": "Interest Rate 6.426%"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 838600000,
+        "coupon_pct": 6.478,
+        "coupon_type": "fixed",
+        "maturity_date": "2061-08-01",
+        "first_call_date": null,
+        "benchmark": null,
+        "spread_bps": null,
+        "yield_pct": null,
+        "issue_price_pct": 99.99028,
+        "seniority": "senior secured",
+        "pricing_quote": "Interest Rate 6.478%"
+      }
+    ]
+  }
+}

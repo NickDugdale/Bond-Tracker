@@ -1,0 +1,157 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/860730/000119312526444011/hca_inc._fwp_3.htm
+ISSUER (SEC filer): HCA Healthcare, Inc.
+FILED: 2026-11-03
+========================================
+FWP
+1
+hca_inc._fwp_3.htm
+FWP
+FWP
+Filed pursuant to Rule 433
+Issuer Free Writing Prospectus, dated November 2, 2026
+Supplementing the Preliminary Prospectus Supplement, dated November 2, 2026
+Registration No. 333-295336
+HCA Inc.
+$500,000,000 5.200% Senior Notes due 2028 (the “2028 notes”)
+$300,000,000 Floating Rate Senior Notes due 2028 (the “floating rate notes”)
+$1,000,000,000 5.350% Senior Notes due 2029 (the “2029 notes”)
+$1,250,000,000 5.500% Senior Notes due 2031 (the “2031 notes”)
+$1,200,000,000 5.750% Senior Notes due 2033 (the “2033 notes”)
+$1,500,000,000 6.000% Senior Notes due 2036 (the “2036 notes”)
+$750,000,000 6.500% Senior Notes due 2056 (the “2056 notes”)
+(collectively, the “notes”)
+Pricing Supplement
+Pricing Supplement dated November 2, 2026 to HCA Inc.’s Preliminary Prospectus Supplement dated November 2, 2026. This Pricing Supplement is qualified in its entirety by reference to the Preliminary Prospectus Supplement. The information in this Pricing Supplement supplements the Preliminary Prospectus Supplement and supersedes the information in the Preliminary Prospectus Supplement to the extent it is inconsistent with the information in the Preliminary Prospectus Supplement. Financial information presented in the Preliminary Prospectus Supplement is deemed to have changed to the extent affected by changes described herein. Capitalized terms used in this Pricing Supplement but not defined have the meanings given them in the Preliminary Prospectus Supplement.
+Terms Applicable to the 2028 notes
+Issuer | HCA Inc.
+Aggregate Principal Amount | $500,000,000
+Title of Security | 5.200% Senior Notes due 2028
+Maturity Date | November 3, 2028
+Spread to Treasury | +65 basis points
+Benchmark Treasury | UST 4.625% due October 31, 2028
+Benchmark Treasury Price & Yield | 100-02 ¼ / 4.587%
+Coupon | 5.200%
+Public Offering Price | 99.931% of the principal amount plus accrued interest, if any, from November 5, 2026
+Yield to Maturity | 5.237%
+Interest Payment Dates | May 3 and November 3 of each year, beginning on May 3, 2027
+Record Dates | April 18 and October 19 of each year; provided that for so long as the Notes are held by DTC, the record date for the Notes will be the close of business on the Business Day preceding the applicable Interest Payment Date.
+Net Proceeds to Issuer before Expenses | $498,905,000
+CUSIP/ISIN Numbers | CUSIP: 404119 DM8 ISIN: US404119DM86
+Optional Redemption | The 2028 notes will be redeemable, at our option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (i) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 10 basis points, less (b) interest accrued to the date of redemption, and (ii) 100% of the aggregate principal amount of the 2028 notes to be redeemed, plus, in each of clauses (i) and (ii) above, accrued and unpaid interest, if any, to such redemption date.
+Terms Applicable to the floating rate notes
+Issuer | HCA Inc.
+Aggregate Principal Amount | $300,000,000
+Title of Security | Floating Rate Senior Notes due 2028
+Maturity Date | November 3, 2028
+Spread | +75 basis points
+Base Rate | Compounded SOFR (as determined in accordance with the provisions set forth in the Preliminary Prospectus Supplement)
+Public Offering Price | 100.000% of the principal amount plus accrued interest, if any, from November 5, 2026
+Interest Payment Dates | February 3, May 3, August 3 and November 3 of each year, beginning on February 3, 2027
+Interest Periods | Quarterly. The initial period will be the period from, and including the Settlement Date to, but excluding, February 3, 2027, the initial Interest Payment Date. The subsequent interest periods will be the periods from, and including the applicable Interest Payment Date to, but excluding, the next Interest Payment Date or the Maturity Date, as applicable.
+Interest Determination Dates | Two U.S. Government Securities Business Days (as defined in the Preliminary Prospectus Supplement) preceding each Interest Payment Date or the Maturity Date, as applicable.
+Record Dates | January 19, April 18, July 19 and October 19 of each year; provided that for so long as the Notes are held by DTC, the record date for the Notes will be the close of business on the Business Day preceding the applicable Interest Payment Date.
+Day Count Convention | Actual / 360
+Optional Redemption | N/A
+Net Proceeds to Issuer before Expenses | $299,550,000
+CUSIP/ISIN Numbers | CUSIP: 404119 DN6 ISIN: US404119DN69
+Terms Applicable to the 2029 notes
+Issuer | HCA Inc.
+Aggregate Principal Amount | $1,000,000,000
+Title of Security | 5.350% Senior Notes due 2029
+Maturity Date | November 15, 2029
+Spread to Treasury | +75 basis points
+Benchmark Treasury | UST 4.875% due October 15, 2029
+Benchmark Treasury Price & Yield | 100-19+ / 4.650%
+Coupon | 5.350%
+Public Offering Price | 99.860% of the principal amount plus accrued interest, if any, from November 5, 2026
+Yield to Maturity | 5.400%
+Interest Payment Dates | May 15 and November 15 of each year, beginning on May 15, 2027
+Record Dates | May 1 and November 1 of each year; provided that for so long as the Notes are held by DTC, the record date for the Notes will be the close of business on the Business Day preceding the applicable Interest Payment Date.
+Net Proceeds to Issuer before Expenses | $996,100,000
+CUSIP/ISIN Numbers | CUSIP: 404119 DP1 ISIN: US404119DP18
+Optional Redemption | Prior to October 15, 2029 (the “2029 Notes Par Call Date”), the 2029 notes will be redeemable, at our option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (i) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the 2029 notes to be redeemed matured on the 2029 Notes Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 15 basis points, less (b) interest accrued to the date of redemption, and (ii) 100% of the aggregate principal amount of the 2029 notes to be redeemed, plus, in each of clauses (i) and (ii) above, accrued and unpaid interest, if any, to such redemption date. On and after the 2029 Notes Par Call Date, the 2029 notes will be redeemable, at our option, in whole or in part, at any time and from time to time, at an applicable redemption price equal to 100% of the principal amount of each 2029 note to be redeemed plus accrued and unpaid interest on the 2029 notes to be redeemed to, but not including, the date of redemption.
+Terms Applicable to the 2031 notes
+Issuer | HCA Inc.
+Aggregate Principal Amount | $1,250,000,000
+Title of Security | 5.500% Senior Notes due 2031
+Maturity Date | November 15, 2031
+Spread to Treasury | +90 basis points
+Benchmark Treasury | UST 4.750% due October 31, 2031
+Benchmark Treasury Price & Yield | 100-07 / 4.700%
+Coupon | 5.500%
+Public Offering Price | 99.565% of the principal amount plus accrued interest, if any, from November 5, 2026
+Yield to Maturity | 5.600%
+Interest Payment Dates | May 15 and November 15 of each year, beginning on May 15, 2027
+Record Dates | May 1 and November 1 of each year; provided that for so long as the Notes are held by DTC, the record date for the Notes will be the close of business on the Business Day preceding the applicable Interest Payment Date.
+Net Proceeds to Issuer before Expenses | $1,240,187,500
+CUSIP/ISIN Numbers | CUSIP: 404119 DQ9 ISIN: US404119DQ90
+Optional Redemption | Prior to October 15, 2031 (the “2031 Notes Par Call Date”), the 2031 notes will be redeemable, at our option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (i) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the 2031 notes to be redeemed matured on the 2031 Notes Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 15 basis points, less (b) interest accrued to the date of redemption, and (ii) 100% of the aggregate principal amount of the 2031 notes to be redeemed, plus, in each of clauses (i) and (ii) above, accrued and unpaid interest, if any, to such redemption date. On and after the 2031 Notes Par Call Date, the 2031 notes will be redeemable, at our option, in whole or in part, at any time and from time to time, at an applicable redemption price equal to 100% of the principal amount of each 2031 note to be redeemed plus accrued and unpaid interest on the 2031 notes to be redeemed to, but not including, the date of redemption.
+Terms Applicable to the 2033 notes
+Issuer | HCA Inc.
+Aggregate Principal Amount | $1,200,000,000
+Title of Security | 5.750% Senior Notes due 2033
+Maturity Date | November 15, 2033
+Spread to Treasury | +105 basis points
+Benchmark Treasury | UST 4.875% due October 31, 2033
+Benchmark Treasury Price & Yield | 100-16 / 4.790%
+Coupon | 5.750%
+Public Offering Price | 99.485% of the principal amount plus accrued interest, if any, from November 5, 2026
+Yield to Maturity | 5.840%
+Interest Payment Dates | May 15 and November 15 of each year, beginning on May 15, 2027
+Record Dates | May 1 and November 1 of each year; provided that for so long as the Notes are held by DTC, the record date for the Notes will be the close of business on the Business Day preceding the applicable Interest Payment Date.
+Net Proceeds to Issuer before Expenses | $1,189,020,000
+CUSIP/ISIN Numbers | CUSIP: 404119 DR7 ISIN: US404119DR73
+Optional Redemption | Prior to September 15, 2033 (the “2033 Notes Par Call Date”), the 2033 notes will be redeemable, at our option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (i) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the 2033 notes to be redeemed matured on the 2033 Notes Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 20 basis points, less (b) interest accrued to the date of redemption, and (ii) 100% of the aggregate principal amount of the 2033 notes to be redeemed, plus, in each of clauses (i) and (ii) above, accrued and unpaid interest, if any, to such redemption date. On and after the 2033 Notes Par Call Date, the 2033 notes will be redeemable, at our option, in whole or in part, at any time and from
+time to time, at an applicable redemption price equal to 100% of the principal amount of each 2033 note to be redeemed plus accrued and unpaid interest on the 2033 notes to be redeemed to, but not including, the date of redemption.
+Terms Applicable to the 2036 notes
+Issuer | HCA Inc.
+Aggregate Principal Amount | $1,500,000,000
+Title of Security | 6.000% Senior Notes due 2036
+Maturity Date | November 15, 2036
+Spread to Treasury | +120 basis points
+Benchmark Treasury | UST 4.625% due August 15, 2036
+Benchmark Treasury Price & Yield | 97-27 / 4.904%
+Coupon | 6.000%
+Public Offering Price | 99.226% of the principal amount plus accrued interest, if any, from November 5, 2026
+Yield to Maturity | 6.104%
+Interest Payment Dates | May 15 and November 15 of each year, beginning on May 15, 2027
+Record Dates | May 1 and November 1 of each year; provided that for so long as the Notes are held by DTC, the record date for the Notes will be the close of business on the Business Day preceding the applicable Interest Payment Date.
+Net Proceeds to Issuer before Expenses | $1,481,640,000
+CUSIP/ISIN Numbers | CUSIP: 404119 DS5 ISIN: US404119DS56
+Optional Redemption | Prior to August 15, 2036 (the “2036 Notes Par Call Date”), the 2036 notes will be redeemable, at our option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (i) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the 2036 notes to be redeemed matured on the 2036 Notes Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 20 basis points, less (b) interest accrued to the date of redemption, and
+(ii) 100% of the aggregate principal amount of the 2036 notes to be redeemed, plus, in each of clauses (i) and (ii) above, accrued and unpaid interest, if any, to such redemption date. On and after the 2036 Notes Par Call Date, the 2036 notes will be redeemable, at our option, in whole or in part, at any time and from time to time, at an applicable redemption price equal to 100% of the principal amount of each 2036 note to be redeemed plus accrued and unpaid interest on the 2036 notes to be redeemed to, but not including, the date of redemption.
+Terms Applicable to the 2056 notes
+Issuer | HCA Inc.
+Aggregate Principal Amount | $750,000,000
+Title of Security | 6.500% Senior Notes due 2056
+Maturity Date | November 15, 2056
+Spread to Treasury | +130 basis points
+Benchmark Treasury | UST 5.000% due May 15, 2056
+Benchmark Treasury Price & Yield | 95-26+ / 5.280%
+Coupon | 6.500%
+Public Offering Price | 98.955% of the principal amount plus accrued interest, if any, from November 5, 2026
+Yield to Maturity | 6.580%
+Interest Payment Dates | May 15 and November 15 of each year, beginning on May 15, 2027
+Record Dates | May 1 and November 1 of each year; provided that for so long as the Notes are held by DTC, the record date for the Notes will be the close of business on the Business Day preceding the applicable Interest Payment Date.
+Net Proceeds to Issuer before Expenses | $735,600,000
+CUSIP/ISIN Numbers | CUSIP: 404119 DT3 ISIN: US404119DT30
+Optional Redemption | Prior to May 15, 2056 (the “2056 Notes Par Call Date”), the 2056 notes will be redeemable, at our option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of
+principal amount and rounded to three decimal places) equal to the greater of: (i) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the 2056 notes to be redeemed matured on the 2056 Notes Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 20 basis points, less (b) interest accrued to the date of redemption, and (ii) 100% of the aggregate principal amount of the 2056 notes to be redeemed, plus, in each of clauses (i) and (ii) above, accrued and unpaid interest, if any, to such redemption date. On and after the 2056 Notes Par Call Date, the 2056 notes will be redeemable, at our option, in whole or in part, at any time and from time to time, at an applicable redemption price equal to 100% of the principal amount of each 2056 note to be redeemed plus accrued and unpaid interest on the 2056 notes to be redeemed to, but not including, the date of redemption.
+Terms Applicable to the notes
+Change of Control | Upon a Change of Control Triggering Event, each Holder may require the Issuer to repurchase at 101%, plus accrued and unpaid interest, if any.
+Trade Date | November 2, 2026
+Total Net Proceeds to Issuer before Expenses | $6,441,002,500
+Use of Proceeds | We intend to use the net proceeds of this offering general corporate purposes, which may include the redemption of all or a portion of the $1.200 billion outstanding aggregate principal amount of our 4.500% senior notes due 2027, the repayment of outstanding borrowings under our commercial paper program and the repayment of any outstanding borrowings under our senior unsecured credit facility.
+Denominations | $2,000 and integral multiples of $1,000
+Form of Offering | SEC Registered (Registration No. 333-295336)
+Joint Book-Running Managers | Mizuho Securities USA LLC Barclays Capital Inc. BofA Securities, Inc. Wells Fargo Securities, LLC BNP Paribas Securities Corp. Capital One Securities, Inc. Citigroup Global Markets Inc. Credit Agricole Securities (USA) Inc. Fifth Third Securities, Inc. Goldman Sachs & Co. LLC
+J.P. Morgan Securities LLC Morgan Stanley & Co. LLC PNC Capital Markets LLC RBC Capital Markets, LLC SMBC Nikko Securities America, Inc. Truist Securities, Inc.
+Co-Managers | BBVA Securities Inc. CIBC World Markets Corp. DNB Carnegie, Inc. Huntington Securities, Inc. NatWest Markets Securities Inc. Regions Securities LLC Scotia Capital (USA) Inc. TD Securities (USA) LLC
+Settlement Date | November 5, 2026 (T+3) We expect that delivery of the notes will be made to investors on or about November 5, 2026, which will be the third business day following the date of this pricing term sheet (such settlement being referred to as “T+3”). Under Rule 15c6-1 under the Exchange Act, trades in the secondary market are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade notes more than one business day prior to the delivery of the notes hereunder will be required, by virtue of the fact that the notes initially settle in T+3, to specify an alternate settlement arrangement at the time of any such trade to prevent a failed settlement. Purchasers of the notes who wish to trade the notes prior to their date of delivery hereunder should consult their advisors.
+The Issuer has filed a registration statement (including a prospectus and a related preliminary prospectus supplement) with the United States Securities and Exchange Commission (“SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement, the preliminary prospectus supplement and other documents HCA Healthcare, Inc. has filed with the SEC for more complete information about the Issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, copies of the preliminary prospectus supplement and accompanying prospectus may be obtained from
+Mizuho Securities USA LLC, 1271 Avenue of the Americas, New York, NY 10020, telephone: 1-866-271-7403 or email: BA-DCM_Notices@mizuhogroup.com, to Barclays Capital Inc., 745 Seventh Avenue, New York, NY 10019, Attention: Syndicate Registration, fax no.: 1-646-834-8133, to BofA Securities, Inc., NC1-022-02-25, 201 North Tryon Street, Charlotte, NC 28255-0001, Attn: Prospectus Department, email: dg.prospectus_requests@bofa.com, telephone: 1-800-294-1322, and to Wells Fargo Securities, LLC, 608 2
+nd
+Avenue South, Suite 1000, Minneapolis, MN 55402, Attention: WFS Customer Service, telephone: 1-800-645-3751 or email: wfscustomerservice@wellsfargo.com.
+This communication should be read in conjunction with the preliminary prospectus supplement and the accompanying prospectus. The information in this communication supersedes the information in the preliminary prospectus supplement and the accompanying prospectus to the extent inconsistent with the information in such preliminary prospectus supplement and the accompanying prospectus.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH
+DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.

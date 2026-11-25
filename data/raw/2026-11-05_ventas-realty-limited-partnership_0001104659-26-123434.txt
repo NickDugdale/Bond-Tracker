@@ -1,0 +1,75 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1174174/000110465926123434/tm2628944d3_fwp.htm
+ISSUER (SEC filer): Ventas Realty, Limited Partnership
+FILED: 2026-11-05
+========================================
+FWP
+1
+tm2628944d3_fwp.htm
+FWP
+Issuer Free Writing Prospectus
+Filed pursuant to Rule 433
+Supplementing the Preliminary
+Prospectus Supplement dated November 5, 2026 and the
+Prospectus dated February 20,
+2024
+Registration Nos. 333-277185 and 333-277185-01
+PRICING TERM SHEET
+VENTAS REALTY, LIMITED PARTNERSHIP
+Fully and unconditionally guaranteed by Ventas, Inc.
+Terms applicable to
+$500,000,000 5.500% Senior Notes due 2033
+Dated: November 5, 2026
+Issuer: | Ventas Realty, Limited Partnership (the “Issuer”)
+Guarantor: | Ventas, Inc.
+Aggregate Principal Amount: | $500,000,000
+Maturity Date: | December 15, 2033
+Public Offering Price: | 99.441% of the aggregate principal amount, plus accrued interest from November 10, 2026, if any
+Coupon (Interest Rate): | 5.500%
+Yield to Maturity: | 5.595%
+Benchmark Treasury: | 4.875% due October 31, 2033
+Benchmark Treasury Price / Yield: | 101-02/ 4.695%
+Spread to Benchmark Treasury: | +90 basis points
+Interest Payment Dates: | June 15 and December 15, commencing June 15, 2027
+Optional Redemption: | Prior to October 15, 2033 (two months prior
+to the maturity date of the notes (the “Par Call Date”)), the Issuer may redeem the notes at its option, in whole or in part,
+at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places)
+equal to the greater of: (1)(a) the sum of the present values of the
+remaining scheduled payments of principal and interest on the notes discounted to the redemption date (assuming the notes matured on the
+Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate (as defined under
+“Description of Notes – Optional Redemption”) plus 15 basis points less (b) interest accrued to, but excluding,
+the date of redemption, and (2) 100% of the principal amount of the notes
+to be redeemed, plus, in either case, accrued and unpaid interest
+thereon to, but excluding, the redemption date. On or after the Par Call Date, the Issuer may
+redeem the notes at its option, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal
+amount of the notes being redeemed plus accrued and unpaid interest thereon to, but excluding, the redemption date. See “Description
+of Notes – Optional Redemption” in the preliminary prospectus supplement, dated November 5, 2026 for more information.
+Joint Book-Running Managers: | J.P. Morgan Securities LLC BofA Securities, Inc. Citigroup Global Markets Inc. PNC Capital Markets LLC SMBC Nikko Securities America, Inc.
+BBVA Securities Inc. BNP Paribas Securities Corp. BNY Mellon Capital Markets, LLC Credit Agricole Securities (USA) Inc. Mizuho Securities USA LLC Morgan Stanley & Co. LLC MUFG Securities Americas Inc. RBC Capital Markets, LLC Scotia Capital (USA) Inc. Truist Securities, Inc. TD Securities (USA) LLC UBS Securities LLC Wells Fargo Securities, LLC
+Senior Co-Manager: | M&T Securities, Inc.
+Co-Managers: | Loop Capital Markets LLC U.S. Bancorp Investments, Inc. Fifth Third Securities, Inc.
+CUSIP / ISIN: | 92277G BD8 / US92277GBD88
+Denominations: | $2,000 and integral multiples of $1,000 in excess thereof
+Trade Date: | November 5, 2026
+Settlement Date: | November 10, 2026 (T+3)
+Form of Offering: | SEC Registered (Registration Nos. 333-277185 and 333-277185-01)
+Ventas Inc. expects that delivery of the notes
+will be made to investors against payment therefor on or about November 10, 2026, which will be the third business day following
+the date of pricing of the notes (such settlement being referred to as “T+3”). Under Rule 15c6-1 of the Securities Exchange
+Act of 1934, as amended, trades in the secondary market generally are required to settle in one business day, unless the parties to any
+such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the notes on any day prior to the first business day preceding
+the settlement date will be required, by virtue of the fact that the notes initially will be settled in T+3, to specify an alternative
+settlement cycle at the time of any such trade to prevent failed settlement. Purchasers of the notes who wish to make such trades prior
+to the first business day preceding the settlement date should consult their own advisors.
+Ventas, Inc. and the Issuer have filed
+a registration statement (including a prospectus) and a preliminary prospectus supplement with the Securities and Exchange Commission
+(the “SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that
+registration statement, the preliminary prospectus supplement and other documents that Ventas, Inc. and the Issuer have filed with
+the SEC for more complete information about Ventas, Inc., the Issuer and this offering. You may get these documents for free by visiting
+the SEC’s website at www.sec.gov. Alternatively, Ventas, Inc., the Issuer, any underwriter or any dealer participating in this
+offering will arrange to send you the preliminary prospectus supplement and the accompanying prospectus if you request it by contacting:
+J.P. Morgan Securities LLC collect at 1-212-834-4533; BofA Securities, Inc. toll-free at 1-800-294-1322; Citigroup Global Markets
+Inc. toll-free at 1-800-831-9146 or email: prospectus@citi.com; PNC Capital Markets LLC toll-free at 1-855-881-0697; or SMBC Nikko Securities
+America, Inc. toll-free at 1-888-868-6856.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR
+BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY GENERATED
+AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER E-MAIL SYSTEM.

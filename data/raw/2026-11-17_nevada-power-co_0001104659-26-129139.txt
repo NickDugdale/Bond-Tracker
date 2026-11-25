@@ -1,0 +1,133 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/71180/000110465926129139/tm2629719d4_fwp.htm
+ISSUER (SEC filer): NEVADA POWER CO
+FILED: 2026-11-17
+========================================
+FWP
+1
+tm2629719d4_fwp.htm
+FWP
+Issuer Free Writing Prospectus
+(Relating to Preliminary Prospectus Supplement
+Date November 17, 2026)
+Filed Pursuant to Rule 433(d)
+Registration Statement No. 333-283731
+Nevada Power Company
+d/b/a NV Energy
+Final Pricing Term Sheet
+November
+17,
+2026
+7.000
+%
+Fixed-to-Fixed Reset Rate Junior Subordinated Notes, NPC JSN Series 2026A, due 2057
+This
+issuer free writing prospectus relates only to the securities described below and should be read together with Nevada Power Company’s
+preliminary prospectus supplement, dated November 17,
+2026 (the “Preliminary Prospectus Supplement”), the accompanying
+prospectus, dated December 11, 2024, and the documents incorporated and deemed to be incorporated by reference therein.
+Issuer: | Nevada
+Power Company d/b/a NV Energy (the “Company”)
+Anticipated Ratings 1 : | Baa2 (stable) by Moody’s Investors Service, Inc. BBB (stable) by S&P Global Ratings
+Trade Date: | November 17, 2026
+Settlement Date: | November
+19, 2026 (T+2*)
+Securities Offered: | 7.000 %
+Fixed-to-Fixed Reset Rate Junior Subordinated Notes, NPC JSN Series 2026A, due 2057 (the “notes”)
+Aggregate Principal Amount Offered: | $300,000,000
+Maturity: | June
+15 , 2057
+Price to Public: | 100.000 %
+of the principal amount, plus accrued interest, if any.
+Net Proceeds (before expenses): | $297,000,000
+Interest Rate: | The
+notes will bear interest (i) from and including November 19, 2026 to, but excluding, June 15, 2032 (the “First Reset Date”)
+at the rate of 7.000% per annum and (ii) from and including the First Reset Date, during each Reset Period (as defined in the Preliminary
+Prospectus Supplement) at a rate per annum equal to the Five-year U.S. Treasury Rate (as defined in the Preliminary Prospectus Supplement)
+as of the most recent Reset Interest Determination Date (as defined in the Preliminary Prospectus Supplement) plus a spread of 2.098%,
+to be reset on each Reset Date (as defined in the Preliminary Prospectus Supplement); provided that the interest rate during any
+Reset Period will not be reset below 7.000% per annum (which is the same interest rate as in effect on the original issue date). For additional information and the definitions of the
+terms Reset Period, Five-year U.S. Treasury Rate, Reset Interest Determination Date and Reset Date, see “Description of the Notes—Interest
+Rate and Maturity” in the Preliminary Prospectus Supplement.
+1
+Note: A securities rating is not a recommendation to buy, sell or hold securities and is subject to revision or withdrawal at any time.
+Interest Payment Dates: | June
+15 and December 15 of each year, beginning on June 15, 2027 (each, an “interest payment date”) (subject to the Company’s
+right to defer interest payments as described under “Optional Interest Deferral” below).
+Optional Interest Deferral: | So long as no event of default (as defined in the Preliminary
+Prospectus Supplement) with respect to the notes has occurred and is continuing, the Company may, at its option, defer interest payments
+on the notes, from time to time, for one or more Optional Deferral Periods (as defined in the Preliminary Prospectus Supplement) of up
+to 20 consecutive semi-annual Interest Payment Periods (as defined in the Preliminary Prospectus Supplement), except that no such Optional
+Deferral Period may extend beyond the final maturity date of the notes or end on a day other than the day immediately preceding an interest
+payment date. No interest will be due or payable on the notes during any such Optional Deferral Period unless the Company elects, at its
+option, to redeem notes during such Optional Deferral Period, in which case accrued and unpaid interest to, but excluding, the redemption
+date will be due and payable on such redemption date only on the notes being redeemed, or unless the principal of and interest on the
+notes shall have been declared due and payable as the result of an event of default with respect to the notes, in which case all accrued
+and unpaid interest on the notes shall become due and payable. The Company may elect, at its option, to extend the length of any Optional
+Deferral Period that is shorter than 20 consecutive semi-annual Interest Payment Periods (so long as the entire Optional Deferral Period
+does not exceed 20 consecutive semi-annual Interest Payment Periods or extend beyond the final maturity date of the notes) and to shorten
+the length of any Optional Deferral Period. The Company cannot begin a new Optional Deferral Period until the Company has paid all accrued
+and unpaid interest on the notes from any previous Optional Deferral Period. During any Optional Deferral Period, interest on the notes
+will continue to accrue at the then-applicable interest rate on the notes (as reset from time to time on any Reset Date occurring during
+such Optional Deferral Period in accordance with the terms of the notes). In addition, during any Optional Deferral Period, interest on
+the deferred interest will accrue at the then-applicable interest rate on the notes (as reset from time to time on any Reset Date occurring
+during such Optional Deferral Period in accordance with the terms of the notes), compounded semi-annually, to the extent permitted by
+applicable law. For additional information and the definitions of the
+terms event of default, Optional Deferral Period and Interest Payment Period, see “Description of the Notes—Events of Default”
+and “Description of the Notes—Option to Defer Interest Payments” in the Preliminary Prospectus Supplement.
+2
+Optional Redemption Provisions: | The Company may redeem some or all of the notes, at its option,
+in whole or in part (i) on any day in the period commencing on the date falling 90 days prior to the First Reset Date and ending on and
+including the First Reset Date and (ii) after the First Reset Date, on any interest payment date, at a redemption price in cash equal
+to 100% of the principal amount of the notes being redeemed, plus, subject to the terms described in the first paragraph under “Description
+of the Notes— Redemption—Redemption Procedures; Cancellation of Redemption” in the Preliminary Prospectus Supplement,
+accrued and unpaid interest on the notes to be redeemed to, but excluding, the redemption date. The Company may at its option redeem the notes, in whole
+but not in part, for a period of 120 days following the occurrence of a Tax Event (as defined in the Preliminary Prospectus Supplement)
+at a redemption price in cash equal to 100% of the principal amount of the notes, plus, subject to the terms described in the first paragraph
+under “Description of the Notes—Redemption—Redemption Procedures; Cancellation of Redemption” in the Preliminary
+Prospectus Supplement, accrued and unpaid interest on the notes to, but excluding, the redemption date. The Company may at its option redeem the notes, in whole
+but not in part, for a period of 120 days following the occurrence of a Rating Agency Event (as defined in the Preliminary Prospectus
+Supplement) at a redemption price in cash equal to 102% of the principal amount of the notes, plus, subject to the terms described in
+the first paragraph under “Description of the Notes— Redemption—Redemption Procedures; Cancellation of Redemption”
+in the Preliminary Prospectus Supplement, accrued and unpaid interest on the notes to, but excluding, the redemption date. For additional information and the definitions of the
+terms Tax Event and Rating Agency Event, see “Description of the Notes—Redemption” in the Preliminary Prospectus Supplement.
+3
+Call for Tax Credit Event: | In whole but not in part at 101% of the principal amount
+plus accrued and unpaid interest to, but excluding, the redemption date (notice may be sent by the later of (a) the end of the calendar
+year in which the notes were issued and (b) six months from the date of issuance of the notes, for a redemption no less than 10 days
+nor more than 60 days after notice)
+CUSIP: | 641423 CK2
+ISIN: | US641423CK20
+Joint Book-Running Managers: | BofA Securities, Inc. CIBC World Markets Corp. Citigroup Global Markets Inc. MUFG Securities Americas Inc. SMBC Nikko Securities America, Inc. U.S. Bancorp Investments, Inc. BMO Capital Markets Corp. BNY Mellon Capital Markets, LLC Huntington Securities, Inc. KeyBanc Capital Markets Inc. nabSecurities LLC Regions Securities LLC RBC Capital Markets, LLC Scotia Capital (USA) Inc. TD Securities (USA) LLC Truist Securities, LLC
+Co-Manager: | Loop Capital Markets LLC
+*We
+expect that delivery of the notes will be made against payment therefor on or about
+November 19, 2026
+,
+which will be the second business day following the date hereof. This settlement cycle is referred to as “T+
+2
+.”
+Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), trades in the secondary market
+generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers
+who wish to trade notes prior to the date that is one business day preceding the settlement date, will be required, by virtue of the fact
+that the notes initially will settle T+
+2
+, to specify an alternate settlement cycle at the time of
+any such trade to prevent a failed settlement. Purchasers of notes who wish to trade notes prior to the date that is one business day
+preceding the settlement date should consult their own advisors.
+The
+issuer has filed a registration statement (including a prospectus) with the SEC for the offering to which this communication relates.
+Before you invest, you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC
+for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC website
+at
+www.sec.gov
+. Alternatively, the issuer, any underwriter or any dealer participating
+in the offering will arrange to send you the prospectus if you request it by calling
+BofA Securities, Inc. (toll-free) at 1-800-294-1322;
+CIBC World Markets Corp. (toll-free) at 1-800-282-0822; Citigroup Global Markets Inc. (toll-free) at 1-800-831-9146; MUFG Securities Americas
+Inc. (toll-free) at 1-877-649-6848; SMBC Nikko Securities America, Inc. (toll-free) at 1-888-868-6856 or U.S. Bancorp Investments, Inc.
+(toll-free) at 1-877-558-2607
+.
+Any legends, disclaimers
+or other notices that may appear below are not applicable to this communication and should be disregarded. Such legends, disclaimers or
+other notices have been automatically generated as a result of this communication having been sent via Bloomberg or another system.
+4

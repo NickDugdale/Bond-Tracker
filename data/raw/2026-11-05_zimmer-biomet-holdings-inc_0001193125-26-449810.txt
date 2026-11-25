@@ -1,0 +1,171 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1136869/000119312526449810/d176450dfwp.htm
+ISSUER (SEC filer): ZIMMER BIOMET HOLDINGS, INC.
+FILED: 2026-11-05
+========================================
+FWP
+1
+d176450dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433 under the Securities Act of 1933, as amended
+Registration Statement No. 333-285227
+Supplementing the Preliminary Prospectus Supplement, dated November 5, 2026
+(To Prospectus dated February 25, 2025)
+Zimmer Biomet Holdings, Inc.
+Pricing Term Sheet
+€500,000,000 4.375% Notes due 2033
+November 5, 2026
+The information
+in this pricing term sheet (the “
+Pricing Term Sheet
+”) supplements the information in Zimmer Biomet Holdings, Inc.’s preliminary prospectus supplement, dated November 5, 2026, relating to the Notes (as defined below) (the
+“
+Preliminary Prospectus
+”) and supersedes the information in the Preliminary Prospectus to the extent inconsistent with the information in the Preliminary Prospectus. Otherwise, this Pricing Term Sheet is qualified in its entirety
+by reference to the Preliminary Prospectus. Capitalized terms not otherwise defined herein shall have the meanings ascribed to them in the Preliminary Prospectus.
+Issuer: | Zimmer Biomet Holdings, Inc. (the “ Company ”)
+Issuer Legal Entity Identifier: | 2P2YLDVPES3BXQ1FRB91
+Offering Format: | SEC Registered
+Title of Securities: | €500,000,000 4.375% Notes due 2033 (the “ Notes ”)
+Principal Amount: | €500,000,000
+Price to Public: | 99.994%
+Gross Proceeds: | €499,970,000
+Underwriting Discount: | 0.400%
+Net Proceeds (before expenses): | €497,970,000
+Maturity Date: | November 12, 2033
+Coupon: | 4.375%
+Yield to Maturity: | 4.376%
+Benchmark Bund: | DBR 3.300% due November 15, 2033
+Benchmark Bund Price; Yield: | 100.830 / 3.165%
+Spread to Benchmark Bund: | +121.1 basis points
+Mid-Swap: | 7-year Mid-Swap
+Mid-Swap Yield: | 3.306%
+Spread to Mid-Swap Yield: | +107 basis points
+Interest Payment Date: | Annually in arrears on November 12 of each year, commencing on November 12, 2027
+Day Count Convention: | ACTUAL/ACTUAL (ICMA)
+Stabilization: | Stabilization/FCA
+Redemption Provisions: | Prior to August 12, 2033 (the “ Par Call Date ”), the Company may redeem the Notes at its option, in whole or in part,
+at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (1) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the
+Notes matured on the Par Call Date) on an annual basis (ACTUAL/ACTUAL (ICMA)) at the Comparable Government Bond Rate, plus 20 basis points less (b) interest accrued to the date of redemption, and (2) 100% of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption date. On or after the Par Call Date, the Company may redeem the Notes, in whole or in part, at
+any time and from time to time, at a redemption price equal to 100% of the principal amount of the Notes being redeemed plus accrued and unpaid interest thereon to the redemption date. In the event that certain developments affecting United States taxation would cause the
+Company to pay additional amounts with respect to the Notes as described under the caption “Description of the Notes–Redemption for Tax Reasons” in the Preliminary Prospectus, the Company may, at any time at its option, redeem the
+Notes, in whole but not in part, at a redemption price equal to 100% of their principal amount, plus accrued and unpaid interest thereon to, but excluding, the redemption date.
+Repurchase at the Option of Holders upon a Change of Control Repurchase Event: | If a Change of Control Repurchase Event occurs with respect to the Notes, the Company will be required to offer to repurchase the Notes at a repurchase price equal to 101% of their principal amount, plus accrued and unpaid interest
+on the Notes to be repurchased to the date of repurchase, unless the Notes have been previously redeemed or called for redemption.
+CUSIP: | 98956P BE1
+ISIN: | XS3559427243
+Common Code: | 355942724
+Expected Ratings*: | Baa2 (Stable) / BBB (Stable) / BBB (Stable)
+Trade Date: | November 5, 2026
+Settlement Date**: | November 12, 2026 (T+5 clearing system business days)
+Joint Book-Running Managers: | Barclays Bank PLC Citigroup Global Markets
+Limited HSBC Bank plc Morgan Stanley & Co.
+International plc RBC Europe Limited DNB Carnegie, a part of
+DNB Bank ASA BNP PARIBAS Goldman Sachs & Co. LLC J.P. Morgan Securities plc Merrill Lynch International Mizuho International plc SMBC Bank International
+plc
+Senior Co-Managers: | UBS AG London Branch U.S. Bancorp Investments,
+Inc.
+Form of Notes: | Global notes deposited with, or on behalf of, U.S. Bank Europe DAC, or a nominee thereof, as common depositary for Clearstream and Euroclear.
+Expected Listing: | The Company will use its reasonable efforts to list the Notes on the New York Stock Exchange. The listing application will be subject to approval by the New York Stock Exchange. If the application is approved, trading of the Notes
+on the New York Stock Exchange is expected to begin within 30 days of the original issue date of the Notes. If such a listing is obtained, the Company will have no obligation to maintain such listing and may delist the Notes at any time.
+Governing Law: | New York.
+Prohibition of Sales to EEA/UK Retail Investors: | Applicable.
+Target Market (MiFID II/UK MiFIR Product Governance): | Eligible counterparties and professional clients only (all distribution channels). No EEA PRIIPs key information document (KID) or UK DISC disclosure document has been prepared as the Notes are not available to retail in EEA or the
+UK.
+Denominations: | Minimum denominations of €100,000 and integral multiples of €1,000 in excess thereof.
+Concurrent Offering: | Shortly after the commencement of this offering, the Company commenced an offering, by means of a separate prospectus supplement, of U.S. dollar-denominated notes (the “USD Notes” and such offering, the “USD Notes
+Offering”). Neither this offering nor the USD Notes Offering is contingent on the completion of the other, so it is possible that this offering is completed and the USD Notes Offering is not completed, and vice versa. The Company cannot assure
+you that the USD Notes Offering will be completed. This Pricing Term Sheet is not an offer to sell or a solicitation of an offer to buy any USD Notes.
+* | A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision
+or withdrawal by the assigning rating organization at any time. Each rating should be evaluated independently of any other rating.
+** | Under Rule 15c6-1 under the Securities Exchange Act of 1934, as
+amended, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes prior to the first business day before
+the delivery of the Notes will be required to specify alternative settlement arrangements to prevent a failed settlement. Purchasers of the Notes who wish to trade Notes prior to their date of delivery hereunder should consult their own advisors.
+This Pricing Term Sheet supplements the Preliminary Prospectus issued by the Company on November 5, 2026 relating to its
+prospectus dated February 25, 2025, Registration Statement
+No. 333-285227.
+The Company has filed
+a registration statement (including a base prospectus) and the Preliminary Prospectus with the U.S. Securities and Exchange Commission (the “
+SEC
+”) for the offering to which this communication relates. Before you invest, you should
+read the Preliminary Prospectus, the accompanying base prospectus in that registration statement, this Pricing Term Sheet and other documents the Company has filed with the SEC for more complete information about the Company and this offering. You
+may obtain these documents for free by visiting EDGAR on the SEC’s website at www.sec.gov. Alternatively, the Company, any underwriter or any dealer participating in the offering will arrange to send you the Preliminary Prospectus, the final
+prospectus supplement (when available) and the accompanying base prospectus if you request it by calling Barclays Bank PLC at +1 (888)
+603-5847,
+Citigroup Global Markets Limited at +1 (800)
+831-9146,
+HSBC Bank plc at +44
+20-7991-8888,
+Morgan Stanley & Co. International plc at +1 (866)
+718-1649
+and RBC Europe
+Limited at +44
+20-7029-7031.
+Solely for the purposes of each manufacturer’s product approval
+process, the target market assessment in respect of the Notes has led to the conclusion that: (i) the target market for the Notes is eligible counterparties and professional clients only, each as defined in Directive (EU) 2014/65 (as amended,
+“
+MiFID II
+”); and (ii) all channels for distribution of the Notes to eligible counterparties and professional clients are appropriate. Any person subsequently offering, selling or recommending the Notes (a
+“
+distributor
+”) should take into consideration the manufacturers’ target market assessment; however, a distributor subject to MiFID II is responsible for undertaking its own target market assessment in respect of the Notes
+(by either adopting or refining the manufacturers’ target market assessment) and determining appropriate distribution channels.
+Solely for
+the purposes of each manufacturer’s product approval process, the target market assessment in respect of the Notes has led to the conclusion that: (i) the target market for the Notes is only eligible counterparties, as defined in the FCA
+Handbook Conduct of Business Sourcebook (“
+COBS
+”), and professional clients, as defined in Regulation (EU) No 600/2014 as it forms part of domestic law in the United Kingdom (the “
+UK
+”) by virtue of the European
+Union (Withdrawal) Act 2018, as amended by the European Union (Withdrawal Agreement) Act 2020 (the “
+EUWA
+”) (“
+UK MiFIR
+”); and (ii) all channels for distribution
+of the Notes to eligible counterparties and professional clients are appropriate. Any person subsequently offering, selling or recommending the Notes (a “
+UK distributor
+”)
+should take into consideration the manufacturers’ target market assessment; however, a UK distributor subject to the FCA Handbook Product Intervention and Product Governance Sourcebook is responsible for undertaking its own target market
+assessment in respect of the Notes (by either adopting or refining the manufacturers’ target market assessment) and determining appropriate distribution channels.
+The Notes are not intended to be offered, sold or otherwise made available to and should not be offered, sold or otherwise made available to any retail
+investor in the European Economic Area (the “
+EEA
+”). For these purposes, a retail investor means a person who is one (or more) of: (i) a retail client as defined in point (11) of Article 4(1) of MiFID II; (ii) a
+customer within the meaning of Directive (EU) 2016/97, where that customer would not qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II; or (iii) not a qualified investor as defined in Regulation (EU)
+2017/1129. Consequently, no key information document required by Regulation (EU) No 1286/2014 (as amended, the “
+PRIIPs Regulation
+”) for offering or selling the Notes or otherwise making them available to retail investors in the
+EEA has been prepared and, therefore, offering or selling the Notes or otherwise making them available to any retail investor in the EEA may be unlawful under the PRIIPs Regulation.
+The Notes are not intended to be offered, sold, distributed or otherwise made available to and should not be offered, sold, distributed or otherwise made
+available to any retail investor in the UK. For these purposes, a retail investor means a person who is neither: (i) a professional client, as defined in point (8) of Article 2(1) of Regulation (EU) No 600/2014 as it forms part of UK
+domestic law by virtue of the EUWA; nor (ii) a qualified investor as defined in paragraph 15 of Schedule 1 to the Public Offers and Admissions to Trading Regulations 2024 (the “
+POATRs
+”). Consequently, no disclosure document
+required by the FCA Product Disclosure Sourcebook (“
+DISC
+”) for offering, selling or distributing the Notes or otherwise making them available to retail investors in the UK has been prepared and, therefore, offering, selling or
+distributing the Notes or otherwise making them available to any retail investor in the UK may be unlawful under the DISC and the Consumer Composite Investments (Designated Activities) Regulations 2024.
+In the UK, this Pricing Term Sheet is only being distributed to and is only directed at those persons in the UK who have professional experience in matters
+relating to investments and who fall within the definition of investment professionals (as defined in Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005, as amended (the “
+Financial Promotion
+Order
+”)), or who fall within Article 49(2)(a) to (d) of the Financial Promotion Order, or who are any other persons to whom it may otherwise lawfully be made under the Financial Promotion Order (all such persons together being
+referred to as “
+Relevant Persons
+”). In the UK, any investment or investment activity to which the Preliminary Prospectus relates will be engaged in only with, the Notes are only available to, and any invitation, offer or agreement
+to subscribe, purchase or otherwise acquire such Notes will be engaged in only with, Relevant Persons. Any person in the UK who is not a Relevant Person should not act or rely on this Pricing Term Sheet or any of its contents.
+Singapore Securities and Futures Act Product Classification—In connection with Section 309B of the Securities and Futures Act 2001 (2020 Revised
+Edition) of Singapore (as modified and/or amended from time to time, the “
+SFA
+”), and the Securities and Futures (Capital Markets Products) Regulations 2018 of Singapore (the “
+CMP Regulations 2018
+”), unless
+otherwise specified before an offer of the Notes, the Company has determined, and hereby notifies all relevant persons (as defined in Section 309A of the SFA) that the Notes are “prescribed capital markets products” (as defined in
+the CMP Regulations 2018) and Excluded Investment Products (as defined in MAS Notice SFA
+04-N12:
+Notice on the Sale of Investment Products and MAS Notice
+FAA-N16:
+Notice
+on Recommendations on Investment Products).
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND
+SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.

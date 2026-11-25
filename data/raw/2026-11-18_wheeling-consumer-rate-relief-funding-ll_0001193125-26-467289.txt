@@ -1,0 +1,246 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/2145887/000119312526467289/d168724dfwp.htm
+ISSUER (SEC filer): Wheeling Consumer Rate Relief Funding LLC
+FILED: 2026-11-18
+========================================
+FWP
+1
+d168724dfwp.htm
+FWP
+FWP
+Free Writing Prospectus, dated November 18, 2026
+Filed pursuant to Rule 433 under the Securities Act of 1933
+Supplementing the Preliminary Prospectus, dated October 28, 2026
+Registration Statement Nos.
+333-299105
+and
+333-299105-01
+Wheeling Consumer Rate Relief Funding LLC
+(Issuing Entity)
+PRICING TERM SHEET
+$1,073,300,000 Series 2026-A Senior Secured CRR bonds (the “WPCo bonds”)
+Issuing Entity: | Wheeling Consumer Rate Relief Funding LLC
+Sponsor, Depositor and Initial Servicer: | Wheeling Power Company (“WPCo”)
+Initial Subservicer: | Appalachian Power Company (“APCo”)
+Trustee: | U.S. Bank Trust Company, National Association
+Joint Book-Running Managers: | RBC Capital Markets, LLC Citigroup Global
+Markets Inc. Morgan Stanley & Co. LLC
+Co-Managers: | Citizens JMP Securities, LLC FNB America
+Securities LLC KeyBanc Capital Markets Inc. Regions
+Securities LLC Santander US Capital Markets LLC SMBC Nikko
+Securities America, Inc.
+Expected Ratings (Moody’s/S&P): | Aaa (sf)/AAA (sf) (1)
+Closing Date / Settlement Date: | November 30, 2026 (2)
+Interest Payment Dates: | February 1 and August 1, commencing on August 1, 2027 (3)
+Applicable Time: | 11:19 AM (Eastern time) on November 18, 2026
+Proceeds: | The total initial price to the public is $1,073,208,911. The total amount of the underwriting discounts and commissions is $4,293,200. The total amount of proceeds to the Issuing Entity before deduction of other expenses (estimated
+to be $27,838,998) is $1,068,915,711.
+Initial CRR Charge as a Percentage of Customer’s Bill: | As of November 5, 2026, the initial aggregate CRR charge relating to both the WPCo bonds and the APCo bonds would represent approximately 8.80% of the total bill for a typical 1,000 kWh/month West Virginia
+Commission-jurisdictional area customer (4) .
+(1) | A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or
+withdrawal at any time.
+(2) | The issuing entity expects to deliver the WPCo bonds against payment for the WPCo bonds on or about
+November 30, 2026, which will be the seventh business day following the date of pricing of the WPCo bonds. Since trades in the secondary market generally settle in one business day, purchasers who wish to trade WPCo bonds prior to the first
+business day before delivery of the WPCo bonds will be required, by virtue of the fact that the WPCo bonds initially will settle in T+7, to specify alternative settlement arrangements to prevent a failed settlement.
+(3) | In any case where the date on which payment is due shall not be a Business Day, then payment may be made on the
+next Business Day.
+(4) | “West Virginia Commission-jurisdictional area customer” refers to customers of APCo and customers
+of WPCo that are subject to the aggregate consumer rate relief charges.
+Tranche | Principal Amount Offered | Expected Weighted Average Life (years) | Scheduled Final Payment Date | Final Maturity Date | Interest Rate | Initial Price to Public (1) | Underwriting Discounts and Commissions | Proceeds to Issuing Entity (Before Expenses)
+A-1 | $ | 317,800,000 | 10.12 | 2/1/2044 | 2/1/2046 | 5.920 | % | 99.99532 | % | 0.40 | % | $ | 316,513,927
+A-2 | $ | 222,500,000 | 20.63 | 8/1/2050 | 8/1/2052 | 6.426 | % | 99.98903 | % | 0.40 | % | $ | 221,585,592
+A-3 | $ | 533,000,000 | 28.69 | 8/1/2059 | 8/1/2061 | 6.478 | % | 99.99028 | % | 0.40 | % | $ | 530,816,192
+(1) | Interest on the WPCo bonds will accrue from November 30, 2026, and must be paid by the purchaser if the
+WPCo bonds are delivered after that date.
+Tranche | CUSIP | ISIN
+A-1 | 963075 AA4 | US963075AA49
+A-2 | 963075 AB2 | US963075AB22
+A-3 | 963075 AC0 | US963075AC05
+Subject to the terms and conditions in the underwriting agreement among the issuing entity, Wheeling Power Company and the
+underwriters, for whom RBC Capital Markets, LLC, Citigroup Global Markets Inc. and Morgan Stanley & Co. LLC are acting as representatives, the issuing entity has agreed to sell to the underwriters, and the underwriters have severally agreed
+to purchase, the principal amount of the WPCo bonds listed opposite each underwriter’s name below:
+Underwriter | Tranche A-1 | Tranche A-2 | Tranche A-3
+RBC Capital Markets, LLC | $ | 114,408,000 | $ | 80,100,000 | $ | 191,880,000
+Citigroup Global Markets Inc. | $ | 63,560,000 | $ | 44,500,000 | $ | 106,600,000
+Morgan Stanley & Co. LLC | $ | 63,560,000 | $ | 44,500,000 | $ | 106,600,000
+Citizens JMP Securities, LLC | $ | 12,712,000 | $ | 8,900,000 | $ | 21,320,000
+FNB America Securities LLC | $ | 12,712,000 | $ | 8,900,000 | $ | 21,320,000
+KeyBanc Capital Markets Inc. | $ | 12,712,000 | $ | 8,900,000 | $ | 21,320,000
+Regions Securities LLC | $ | 12,712,000 | $ | 8,900,000 | $ | 21,320,000
+Santander US Capital Markets LLC | $ | 12,712,000 | $ | 8,900,000 | $ | 21,320,000
+SMBC Nikko Securities America, Inc. | $ | 12,712,000 | $ | 8,900,000 | $ | 21,320,000
+Total | $ | 317,800,000 | $ | 222,500,000 | $ | 533,000,000
+The underwriters may allow, and dealers may reallow, a discount not to exceed the percentage listed below:
+Tranche A-1 | Tranche A-2 | Tranche A-3
+Selling Concession | 0.24 | % | 0.24 | % | 0.24 | %
+Reallowance Discount | 0.12 | % | 0.12 | % | 0.12 | %
+After the initial public offering, the public offering prices, selling concessions and reallowance discounts may change.
+2
+EXPECTED AMORTIZATION SCHEDULE
+Semi-Annual | Tranche A-1 | Tranche A-2 | Tranche A-3
+Payment Date | Principal Balance | Principal Balance | Principal Balance
+Closing Date | $ | 317,800,000 | $ | 222,500,000 | $ | 533,000,000
+August 1, 2027 | $ | 311,150,000 | $ | 222,500,000 | $ | 533,000,000
+February 1, 2028 | $ | 305,233,899 | $ | 222,500,000 | $ | 533,000,000
+August 1, 2028 | $ | 299,151,053 | $ | 222,500,000 | $ | 533,000,000
+February 1, 2029 | $ | 292,896,762 | $ | 222,500,000 | $ | 533,000,000
+August 1, 2029 | $ | 286,466,194 | $ | 222,500,000 | $ | 533,000,000
+February 1, 2030 | $ | 279,854,380 | $ | 222,500,000 | $ | 533,000,000
+August 1, 2030 | $ | 273,056,212 | $ | 222,500,000 | $ | 533,000,000
+February 1, 2031 | $ | 266,066,438 | $ | 222,500,000 | $ | 533,000,000
+August 1, 2031 | $ | 258,879,657 | $ | 222,500,000 | $ | 533,000,000
+February 1, 2032 | $ | 251,490,317 | $ | 222,500,000 | $ | 533,000,000
+August 1, 2032 | $ | 243,892,708 | $ | 222,500,000 | $ | 533,000,000
+February 1, 2033 | $ | 236,080,961 | $ | 222,500,000 | $ | 533,000,000
+August 1, 2033 | $ | 228,049,039 | $ | 222,500,000 | $ | 533,000,000
+February 1, 2034 | $ | 219,790,738 | $ | 222,500,000 | $ | 533,000,000
+August 1, 2034 | $ | 211,299,677 | $ | 222,500,000 | $ | 533,000,000
+February 1, 2035 | $ | 202,569,295 | $ | 222,500,000 | $ | 533,000,000
+August 1, 2035 | $ | 193,592,847 | $ | 222,500,000 | $ | 533,000,000
+February 1, 2036 | $ | 184,363,398 | $ | 222,500,000 | $ | 533,000,000
+August 1, 2036 | $ | 174,873,817 | $ | 222,500,000 | $ | 533,000,000
+February 1, 2037 | $ | 165,116,772 | $ | 222,500,000 | $ | 533,000,000
+August 1, 2037 | $ | 155,084,725 | $ | 222,500,000 | $ | 533,000,000
+February 1, 2038 | $ | 144,769,925 | $ | 222,500,000 | $ | 533,000,000
+August 1, 2038 | $ | 134,164,402 | $ | 222,500,000 | $ | 533,000,000
+February 1, 2039 | $ | 123,259,962 | $ | 222,500,000 | $ | 533,000,000
+August 1, 2039 | $ | 112,048,181 | $ | 222,500,000 | $ | 533,000,000
+February 1, 2040 | $ | 100,520,396 | $ | 222,500,000 | $ | 533,000,000
+August 1, 2040 | $ | 88,667,700 | $ | 222,500,000 | $ | 533,000,000
+February 1, 2041 | $ | 76,480,936 | $ | 222,500,000 | $ | 533,000,000
+August 1, 2041 | $ | 63,950,688 | $ | 222,500,000 | $ | 533,000,000
+February 1, 2042 | $ | 51,067,275 | $ | 222,500,000 | $ | 533,000,000
+August 1, 2042 | $ | 37,820,743 | $ | 222,500,000 | $ | 533,000,000
+February 1, 2043 | $ | 24,200,857 | $ | 222,500,000 | $ | 533,000,000
+August 1, 2043 | $ | 10,197,095 | $ | 222,500,000 | $ | 533,000,000
+February 1, 2044 | $ | 0 | $ | 218,298,637 | $ | 533,000,000
+August 1, 2044 | $ | 0 | $ | 203,483,792 | $ | 533,000,000
+February 1, 2045 | $ | 0 | $ | 188,214,131 | $ | 533,000,000
+August 1, 2045 | $ | 0 | $ | 172,475,691 | $ | 533,000,000
+February 1, 2046 | $ | 0 | $ | 156,254,081 | $ | 533,000,000
+August 1, 2046 | $ | 0 | $ | 139,534,468 | $ | 533,000,000
+February 1, 2047 | $ | 0 | $ | 122,301,563 | $ | 533,000,000
+August 1, 2047 | $ | 0 | $ | 104,539,608 | $ | 533,000,000
+February 1, 2048 | $ | 0 | $ | 86,232,361 | $ | 533,000,000
+August 1, 2048 | $ | 0 | $ | 67,363,081 | $ | 533,000,000
+February 1, 2049 | $ | 0 | $ | 47,914,514 | $ | 533,000,000
+August 1, 2049 | $ | 0 | $ | 27,868,876 | $ | 533,000,000
+February 1, 2050 | $ | 0 | $ | 7,207,837 | $ | 533,000,000
+August 1, 2050 | $ | 0 | $ | 0 | $ | 518,912,504
+February 1, 2051 | $ | 0 | $ | 0 | $ | 496,958,544
+August 1, 2051 | $ | 0 | $ | 0 | $ | 474,323,024
+3
+February 1, 2052 | $ | 0 | $ | 0 | $ | 450,984,784
+August 1, 2052 | $ | 0 | $ | 0 | $ | 426,922,008
+February 1, 2053 | $ | 0 | $ | 0 | $ | 402,112,203
+August 1, 2053 | $ | 0 | $ | 0 | $ | 376,532,178
+February 1, 2054 | $ | 0 | $ | 0 | $ | 350,158,021
+August 1, 2054 | $ | 0 | $ | 0 | $ | 322,965,078
+February 1, 2055 | $ | 0 | $ | 0 | $ | 294,927,930
+August 1, 2055 | $ | 0 | $ | 0 | $ | 266,020,369
+February 1, 2056 | $ | 0 | $ | 0 | $ | 236,215,373
+August 1, 2056 | $ | 0 | $ | 0 | $ | 205,485,081
+February 1, 2057 | $ | 0 | $ | 0 | $ | 173,800,767
+August 1, 2057 | $ | 0 | $ | 0 | $ | 141,132,813
+February 1, 2058 | $ | 0 | $ | 0 | $ | 107,450,683
+August 1, 2058 | $ | 0 | $ | 0 | $ | 72,722,891
+February 1, 2059 | $ | 0 | $ | 0 | $ | 36,916,975
+August 1, 2059 | $ | 0 | $ | 0 | $ | 0
+4
+EXPECTED SINKING FUND SCHEDULE
+Semi-Annual | Tranche A-1 | Tranche A-2 | Tranche A-3
+Payment Date | Principal | Principal | Principal
+Closing Date
+August 1, 2027 | $ | 6,650,000 | $ | 0 | $ | 0
+February 1, 2028 | $ | 5,916,101 | $ | 0 | $ | 0
+August 1, 2028 | $ | 6,082,846 | $ | 0 | $ | 0
+February 1, 2029 | $ | 6,254,291 | $ | 0 | $ | 0
+August 1, 2029 | $ | 6,430,568 | $ | 0 | $ | 0
+February 1, 2030 | $ | 6,611,814 | $ | 0 | $ | 0
+August 1, 2030 | $ | 6,798,168 | $ | 0 | $ | 0
+February 1, 2031 | $ | 6,989,774 | $ | 0 | $ | 0
+August 1, 2031 | $ | 7,186,781 | $ | 0 | $ | 0
+February 1, 2032 | $ | 7,389,340 | $ | 0 | $ | 0
+August 1, 2032 | $ | 7,597,609 | $ | 0 | $ | 0
+February 1, 2033 | $ | 7,811,747 | $ | 0 | $ | 0
+August 1, 2033 | $ | 8,031,922 | $ | 0 | $ | 0
+February 1, 2034 | $ | 8,258,301 | $ | 0 | $ | 0
+August 1, 2034 | $ | 8,491,061 | $ | 0 | $ | 0
+February 1, 2035 | $ | 8,730,382 | $ | 0 | $ | 0
+August 1, 2035 | $ | 8,976,448 | $ | 0 | $ | 0
+February 1, 2036 | $ | 9,229,449 | $ | 0 | $ | 0
+August 1, 2036 | $ | 9,489,581 | $ | 0 | $ | 0
+February 1, 2037 | $ | 9,757,045 | $ | 0 | $ | 0
+August 1, 2037 | $ | 10,032,047 | $ | 0 | $ | 0
+February 1, 2038 | $ | 10,314,800 | $ | 0 | $ | 0
+August 1, 2038 | $ | 10,605,523 | $ | 0 | $ | 0
+February 1, 2039 | $ | 10,904,440 | $ | 0 | $ | 0
+August 1, 2039 | $ | 11,211,781 | $ | 0 | $ | 0
+February 1, 2040 | $ | 11,527,785 | $ | 0 | $ | 0
+August 1, 2040 | $ | 11,852,696 | $ | 0 | $ | 0
+February 1, 2041 | $ | 12,186,764 | $ | 0 | $ | 0
+August 1, 2041 | $ | 12,530,248 | $ | 0 | $ | 0
+February 1, 2042 | $ | 12,883,413 | $ | 0 | $ | 0
+August 1, 2042 | $ | 13,246,532 | $ | 0 | $ | 0
+February 1, 2043 | $ | 13,619,886 | $ | 0 | $ | 0
+August 1, 2043 | $ | 14,003,762 | $ | 0 | $ | 0
+February 1, 2044 | $ | 10,197,095 | $ | 4,201,363 | $ | 0
+August 1, 2044 | $ | 0 | $ | 14,814,845 | $ | 0
+February 1, 2045 | $ | 0 | $ | 15,269,661 | $ | 0
+August 1, 2045 | $ | 0 | $ | 15,738,440 | $ | 0
+February 1, 2046 | $ | 0 | $ | 16,221,610 | $ | 0
+August 1, 2046 | $ | 0 | $ | 16,719,613 | $ | 0
+February 1, 2047 | $ | 0 | $ | 17,232,905 | $ | 0
+August 1, 2047 | $ | 0 | $ | 17,761,955 | $ | 0
+February 1, 2048 | $ | 0 | $ | 18,307,247 | $ | 0
+August 1, 2048 | $ | 0 | $ | 18,869,280 | $ | 0
+February 1, 2049 | $ | 0 | $ | 19,448,567 | $ | 0
+August 1, 2049 | $ | 0 | $ | 20,045,638 | $ | 0
+February 1, 2050 | $ | 0 | $ | 20,661,039 | $ | 0
+August 1, 2050 | $ | 0 | $ | 7,207,837 | $ | 14,087,496
+February 1, 2051 | $ | 0 | $ | 0 | $ | 21,953,960
+August 1, 2051 | $ | 0 | $ | 0 | $ | 22,635,520
+5
+February 1, 2052 | $ | 0 | $ | 0 | $ | 23,338,240
+August 1, 2052 | $ | 0 | $ | 0 | $ | 24,062,776
+February 1, 2053 | $ | 0 | $ | 0 | $ | 24,809,805
+August 1, 2053 | $ | 0 | $ | 0 | $ | 25,580,025
+February 1, 2054 | $ | 0 | $ | 0 | $ | 26,374,157
+August 1, 2054 | $ | 0 | $ | 0 | $ | 27,192,943
+February 1, 2055 | $ | 0 | $ | 0 | $ | 28,037,148
+August 1, 2055 | $ | 0 | $ | 0 | $ | 28,907,561
+February 1, 2056 | $ | 0 | $ | 0 | $ | 29,804,996
+August 1, 2056 | $ | 0 | $ | 0 | $ | 30,730,292
+February 1, 2057 | $ | 0 | $ | 0 | $ | 31,684,314
+August 1, 2057 | $ | 0 | $ | 0 | $ | 32,667,954
+February 1, 2058 | $ | 0 | $ | 0 | $ | 33,682,130
+August 1, 2058 | $ | 0 | $ | 0 | $ | 34,727,792
+February 1, 2059 | $ | 0 | $ | 0 | $ | 35,805,916
+August 1, 2059 | $ | 0 | $ | 0 | $ | 36,916,975
+Total | $ | 317,800,000 | $ | 222,500,000 | $ | 533,000,000
+6
+WEIGHTED AVERAGE LIFE SENSITIVITY
+-5% (1.22 Standard Deviations from Mean) | -15% (3.01 Standard Deviations from Mean)
+Tranche | Expected Weighted Average Life (Years) | WAL (yrs) | Change (days) (1) | WAL (yrs) | Change (days) (1)
+A-1 | 10.12 | 10.12 | 0 | 10.12 | 1
+A-2 | 20.63 | 20.63 | 0 | 20.63 | 0
+A-3 | 28.69 | 28.69 | 0 | 28.69 | 0
+(1) | Number is rounded to whole days.
+For the purposes of preparing the above chart, the following assumptions, among others, have been made: (a) in relation to the initial
+forecast, the forecast error stays constant over the life of the WPCo bonds and is equal to an overestimate of electricity consumption of 5% (1.22 standard deviations from mean) or 15% (3.01 standard deviations from mean); (b) the servicer makes
+timely and accurate filings to make a
+true-up
+adjustment to the CRR charges at least annually; (c) customer
+write-off
+rates are held constant at 0.37%; (d)
+customers remit all CRR charges 24 days after such charges are billed; (e) ongoing financing costs are equal to projections; (f) a permanent loss of all customers has not occurred; (g) there is no acceleration of the final maturity
+date of the WPCo bonds; and (h) the issuance date of the WPCo bonds is November 30, 2026. There can be no assurance that the weighted average life of the WPCo bonds will be as shown.
+Wheeling Power Company and the Issuing Entity have filed a registration statement (including a prospectus) with the Securities and Exchange Commission
+(“SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents Wheeling Power Company and the Issuing Entity have filed with the SEC as
+exhibits to the registration statement for more complete information about the Issuing Entity and this offering. You may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, Wheeling Power Company, the
+Issuing Entity, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling RBC Capital Markets, LLC toll-free at
+866-375-6829,
+Citigroup Global Markets Inc. toll-free at
+800-831-9146
+or Morgan
+Stanley & Co. LLC toll-free at
+866-718-1649.

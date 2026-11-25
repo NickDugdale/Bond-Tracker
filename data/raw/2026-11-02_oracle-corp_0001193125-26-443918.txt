@@ -1,0 +1,216 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1341439/000119312526443918/d87441dfwp.htm
+ISSUER (SEC filer): ORACLE CORP
+FILED: 2026-11-02
+========================================
+FWP
+1
+d87441dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration No. 333-299752
+Issuer Free Writing Prospectus dated November 2, 2026
+Relating to Preliminary Prospectus Supplement dated November 2, 2026 (the “Preliminary Prospectus Supplement”)
+to Prospectus dated November 2, 2026
+ORACLE CORPORATION
+$2,000,000,000 of 7.000% Notes due 2029
+$1,750,000,000 of 7.450% Notes due 2031
+$2,250,000,000 of 7.850% Notes due 2033
+$2,500,000,000 of 8.000% Notes due 2037
+$1,500,000,000 of 8.650% Notes due 2046
+(the “Investment Grade Notes Offering”)
+The information in this pricing term sheet relates only to the Investment Grade Notes Offering and should be read together with (i) the preliminary
+prospectus supplement dated November 2, 2026 relating to the Investment Grade Notes Offering (the “Preliminary Prospectus Supplement”), including the documents incorporated by reference therein and (ii) the related base
+prospectus dated November 2, 2026, each filed pursuant to Rule 424(b) under the Securities Act of 1933, as amended, Registration No. 333-299752. Terms not defined in this pricing term sheet have the meanings given to such terms in the
+Preliminary Prospectus Supplement. All references to dollar amounts are references to U.S. dollars.
+FINAL PRICING TERM SHEET
+7.000% Notes due 2029 (“2029 Fixed Rate Notes”)
+Issuer: | Oracle Corporation
+Principal Amount: | $2,000,000,000
+Maturity: | November 4, 2029
+Coupon: | 7.000%
+Price to Public: | 99.835% of the principal amount
+Interest Payment Dates: | May 4 and November 4, commencing May 4, 2027
+Day Count Convention: | 30/360
+Benchmark Treasury: | 4.875% due October 15, 2029
+Benchmark Treasury Yield: | 4.662%
+Spread to Benchmark Treasury: | +240 basis points
+Yield to Maturity: | 7.062%
+Optional Redemption: | Prior to October 4, 2029 (one month prior to the maturity date (the “2029 Par Call Date”)), Oracle Corporation may redeem
+the 2029 Fixed Rate Notes at its option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (1) (a) the sum of the
+present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the 2029 Fixed Rate Notes matured on the 2029 Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate (as defined in the Preliminary Prospectus Supplement) plus 40 basis points, less (b) interest
+accrued to the date of redemption, and (2) 100% of the principal amount of the 2029 Fixed Rate
+Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to
+the redemption date. On or after the 2029 Par Call Date, Oracle Corporation may
+redeem the 2029 Fixed Rate Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the 2029 Fixed Rate Notes being redeemed, plus accrued and unpaid interest thereon to the date
+of redemption.
+Trade Date: | November 2, 2026
+Settlement Date: | November 4, 2026 (T+2)
+CUSIP / ISIN Numbers: | 68389X EJ0 / US68389XEJ00
+Denominations: | $2,000 and multiples of $1,000 thereafter
+Expected Ratings (Moody’s / S&P / Fitch):* | Baa2 (negative) / BBB- (stable) / BBB (stable)
+Global Coordinator and Joint Book-Running Manager: | BofA Securities, Inc.
+Joint Book-Running Managers: | Wells Fargo Securities, LLC Citigroup Global
+Markets Inc. BNP Paribas Securities Corp. Deutsche Bank
+Securities Inc. J.P. Morgan Securities LLC PNC Capital
+Markets LLC U.S. Bancorp Investments, Inc. Goldman
+Sachs & Co. LLC HSBC Securities (USA) Inc. Lloyds
+Securities Inc. SMBC Nikko Securities America, Inc.
+Co-Managers: | Intesa Sanpaolo IMI Securities Corp. Mizuho
+Securities USA LLC MUFG Securities Americas Inc. Standard
+Chartered Bank TD Securities (USA) LLC Santander US Capital
+Markets LLC BNY Mellon Capital Markets, LLC CIBC World
+Markets Corp. ING Financial Markets LLC
+7.450% Notes due 2031 (“2031 Fixed Rate Notes”)
+Issuer: | Oracle Corporation
+Principal Amount: | $1,750,000,000
+Maturity: | November 4, 2031
+Coupon: | 7.450%
+Price to Public: | 99.942% of the principal amount
+Interest Payment Dates: | May 4 and November 4, commencing May 4, 2027
+Day Count Convention: | 30/360
+Benchmark Treasury: | 4.750% due October 31, 2031
+Benchmark Treasury Yield: | 4.714%
+Spread to Benchmark Treasury: | +275 basis points
+Yield to Maturity: | 7.464%
+Optional Redemption: | Prior to October 4, 2031 (one month prior to the maturity date (the “2031 Par Call Date”)), Oracle Corporation may redeem
+the 2031 Fixed Rate Notes at its option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (1) (a) the sum of the
+present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the 2031 Fixed Rate Notes matured on the 2031 Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate (as defined in the Preliminary Prospectus Supplement) plus 45 basis points, less (b) interest
+accrued to the date of redemption, and (2) 100% of the principal amount of the 2031 Fixed Rate Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption date. On or after the 2031 Par Call Date, Oracle Corporation may redeem the 2031 Fixed Rate
+Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the 2031 Fixed Rate Notes being redeemed, plus accrued and unpaid interest thereon to the date of redemption.
+Trade Date: | November 2, 2026
+Settlement Date: | November 4, 2026 (T+2)
+CUSIP / ISIN Numbers: | 68389X ED3 / US68389XED30
+Denominations: | $2,000 and multiples of $1,000 thereafter
+Expected Ratings (Moody’s / S&P / Fitch):* | Baa2 (negative) / BBB- (stable) / BBB (stable)
+Global Coordinator and Joint Book-Running Manager: | BofA Securities, Inc.
+Joint Book-Running Managers: | Wells Fargo Securities, LLC Citigroup Global
+Markets Inc. BNP Paribas Securities Corp. Deutsche Bank
+Securities Inc. J.P. Morgan Securities LLC PNC Capital
+Markets LLC U.S. Bancorp Investments, Inc. Goldman
+Sachs & Co. LLC HSBC Securities (USA) Inc. Lloyds
+Securities Inc. SMBC Nikko Securities America, Inc.
+Co-Managers: | Intesa Sanpaolo IMI Securities Corp. Mizuho
+Securities USA LLC MUFG Securities Americas Inc. Standard
+Chartered Bank TD Securities (USA) LLC Santander US Capital
+Markets LLC BNY Mellon Capital Markets, LLC CIBC World
+Markets Corp. ING Financial Markets LLC
+7.850% Notes due 2033 (“2033 Fixed Rate Notes”)
+Issuer: | Oracle Corporation
+Principal Amount: | $2,250,000,000
+Maturity: | November 4, 2033
+Coupon: | 7.850%
+Price to Public: | 99.995% of the principal amount
+Interest Payment Dates: | May 4 and November 4, commencing May 4, 2027
+Day Count Convention: | 30/360
+Benchmark Treasury: | 4.875% due October 31, 2033
+Benchmark Treasury Yield: | 4.801%
+Spread to Benchmark Treasury: | +305 basis points
+Yield to Maturity: | 7.851%
+Optional Redemption: | Prior to September 4, 2033 (two months prior to the maturity date (the “2033 Par Call Date”)), Oracle Corporation may redeem the
+2033 Fixed Rate Notes at its option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (1) (a) the sum of the
+present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the 2033 Fixed Rate Notes matured on the 2033 Par Call Date) on a semi-annual basis (assuming a 360-day year consisting
+of twelve 30-day months) at the Treasury Rate (as defined in the Preliminary Prospectus Supplement) plus 50 basis points, less (b) interest accrued to the date of redemption, and (2) 100% of the principal
+amount of the 2033 Fixed Rate Notes to be redeemed, plus, in either case, accrued
+and unpaid interest thereon to the redemption date. On or after the 2033 Par Call
+Date, Oracle Corporation may redeem the 2033 Fixed Rate Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the 2033 Fixed Rate Notes being redeemed, plus accrued and unpaid
+interest thereon to the date of redemption.
+Trade Date: | November 2, 2026
+Settlement Date: | November 4, 2026 (T+2)
+CUSIP / ISIN Numbers: | 68389X EE1 / US68389XEE13
+Denominations: | $2,000 and multiples of $1,000 thereafter
+Expected Ratings (Moody’s / S&P / Fitch):* | Baa2 (negative) / BBB- (stable) / BBB (stable)
+Global Coordinator and Joint Book-Running Manager: | BofA Securities, Inc.
+Joint Book-Running Managers: | Wells Fargo Securities, LLC Citigroup Global
+Markets Inc. BNP Paribas Securities Corp. Deutsche Bank
+Securities Inc. J.P. Morgan Securities LLC PNC Capital
+Markets LLC U.S. Bancorp Investments, Inc. Goldman
+Sachs & Co. LLC HSBC Securities (USA) Inc. Lloyds
+Securities Inc. SMBC Nikko Securities America, Inc.
+Co-Managers: | Intesa Sanpaolo IMI Securities Corp. Mizuho
+Securities USA LLC MUFG Securities Americas Inc. Standard
+Chartered Bank TD Securities (USA) LLC Santander US Capital
+Markets LLC BNY Mellon Capital Markets, LLC CIBC World
+Markets Corp. ING Financial Markets LLC
+8.000% Notes due 2037 (“2037 Fixed Rate Notes”)
+Issuer: | Oracle Corporation
+Principal Amount: | $2,500,000,000
+Maturity: | February 4, 2037
+Coupon: | 8.000%
+Price to Public: | 99.916% of the principal amount
+Interest Payment Dates: | February 4 and August 4, commencing February 4, 2027
+Day Count Convention: | 30/360
+Benchmark Treasury: | 4.625% due August 15, 2036
+Benchmark Treasury Yield: | 4.915%
+Spread to Benchmark Treasury: | +310 basis points
+Yield to Maturity: | 8.015%
+Optional Redemption: | Prior to November 4, 2036 (three months prior to the maturity date (the “2037 Par Call Date”)), Oracle Corporation may
+redeem the 2037 Fixed Rate Notes at its option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (1) (a) the sum of the
+present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the 2037 Fixed Rate Notes matured on the 2037 Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate (as defined in the Preliminary Prospectus Supplement) plus 50 basis points, less (b) interest
+accrued to the date of redemption, and (2) 100% of the principal amount of the 2037 Fixed Rate Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption date. On or after the 2037 Par Call Date, Oracle Corporation may redeem the 2037 Fixed Rate
+Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the 2037 Fixed Rate Notes being redeemed, plus accrued and unpaid interest thereon to the date of redemption.
+Trade Date: | November 2, 2026
+Settlement Date: | November 4, 2026 (T+2)
+CUSIP / ISIN Numbers: | 68389X EF8 / US68389XEF87
+Denominations: | $2,000 and multiples of $1,000 thereafter
+Expected Ratings (Moody’s / S&P / Fitch):* | Baa2 (negative) / BBB- (stable) / BBB (stable)
+Global Coordinator and Joint Book-Running Manager: | BofA Securities, Inc.
+Joint Book-Running Managers: | Wells Fargo Securities, LLC Citigroup Global
+Markets Inc. BNP Paribas Securities Corp. Deutsche Bank
+Securities Inc. J.P. Morgan Securities LLC PNC Capital
+Markets LLC U.S. Bancorp Investments, Inc. Goldman
+Sachs & Co. LLC HSBC Securities (USA) Inc. Lloyds
+Securities Inc. SMBC Nikko Securities America, Inc.
+Co-Managers: | Intesa Sanpaolo IMI Securities Corp. Mizuho
+Securities USA LLC MUFG Securities Americas Inc. Standard
+Chartered Bank TD Securities (USA) LLC Santander US Capital
+Markets LLC BNY Mellon Capital Markets, LLC CIBC World
+Markets Corp. ING Financial Markets LLC
+8.650% Notes due 2046 (“2046 Fixed Rate Notes”)
+Issuer: | Oracle Corporation
+Principal Amount: | $1,500,000,000
+Maturity: | November 4, 2046
+Coupon: | 8.650%
+Price to Public: | 99.840% of the principal amount
+Interest Payment Dates: | May 4 and November 4, commencing May 4, 2027
+Day Count Convention: | 30/360
+Benchmark Treasury: | 5.125% due August 15, 2046
+Benchmark Treasury Yield: | 5.317%
+Spread to Benchmark Treasury: | +335 basis points
+Yield to Maturity: | 8.667%
+Optional Redemption: | Prior to May 4, 2046 (six months prior to the maturity date (the “2046 Par Call Date”)), Oracle Corporation may redeem the
+2046 Fixed Rate Notes at its option, in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (1) (a) the sum of the
+present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the 2046 Fixed Rate Notes matured on the 2046 Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate (as defined in the Preliminary Prospectus Supplement) plus 50 basis points, less (b) interest
+accrued to the date of redemption, and (2) 100% of the principal amount of the 2046 Fixed Rate Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption date. On or after the 2046 Par Call Date, Oracle Corporation may redeem the 2046 Fixed Rate
+Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the 2046 Fixed Rate Notes being redeemed, plus accrued and unpaid interest thereon to the date of redemption.
+Trade Date: | November 2, 2026
+Settlement Date: | November 4, 2026 (T+2)
+CUSIP / ISIN Numbers: | 68389X EG6 / US68389XEG60
+Denominations: | $2,000 and multiples of $1,000 thereafter
+Expected Ratings (Moody’s / S&P / Fitch):* | Baa2 (negative) / BBB- (stable) / BBB (stable)
+Global Coordinator and Joint Book-Running Manager: | BofA Securities, Inc.
+Joint Book-Running Managers: | Wells Fargo Securities, LLC Citigroup Global
+Markets Inc. BNP Paribas Securities Corp. Deutsche Bank
+Securities Inc. J.P. Morgan Securities LLC PNC Capital
+Markets LLC U.S. Bancorp Investments, Inc. Goldman
+Sachs & Co. LLC HSBC Securities (USA) Inc. Lloyds
+Securities Inc. SMBC Nikko Securities America, Inc.
+Co-Managers: | Intesa Sanpaolo IMI Securities Corp. Mizuho
+Securities USA LLC MUFG Securities Americas Inc. Standard
+Chartered Bank TD Securities (USA) LLC Santander US Capital
+Markets LLC BNY Mellon Capital Markets, LLC CIBC World
+Markets Corp. ING Financial Markets LLC
+* Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or
+withdrawal at any time.
+The issuer has filed a registration statement (including a prospectus and related preliminary prospectus supplement) with
+the Securities and Exchange Commission (“SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement, the preliminary prospectus supplement and other
+documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You may get these documents, and, when available, the final prospectus supplement related to the offering for free by visiting EDGAR on the
+SEC Web site at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus and prospectus supplement if you request it by contacting the representative of the
+underwriters: BofA Securities, Inc., Telephone:
+1-800-294-1322,
+or by emailing Oracle Corporation’s Investor Relations at
+investor_us@oracle.com.
+This communication should be read in conjunction with the preliminary prospectus supplement, the related prospectus and,
+when available, the final prospectus supplement related to the offering. The information in this communication supersedes the information in the preliminary prospectus supplement.
+Any disclaimer or other notice that may appear below is not applicable to this communication and should be disregarded. Such disclaimer or notice was
+automatically generated as a result of this communication being sent by Bloomberg or another email system.

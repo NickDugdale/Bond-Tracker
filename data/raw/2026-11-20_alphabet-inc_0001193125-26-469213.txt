@@ -1,0 +1,153 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1652044/000119312526469213/d21316dfwp.htm
+ISSUER (SEC filer): Alphabet Inc.
+FILED: 2026-11-20
+========================================
+FWP
+1
+d21316dfwp.htm
+FWP
+FWP
+Filed pursuant to Rule 433
+Registration
+No. 333-296395
+Issuer Free Writing Prospectus dated November 19, 2026
+Relating to Preliminary Prospectus Supplement dated November 19, 2026
+Alphabet Inc.
+4.100%
+Notes due 2029
+4.800% Notes due 2034
+5.325% Notes due 2038
+6.000% Notes
+due 2066
+Pricing Term Sheet
+Issuer: | Alphabet Inc. (the “ Company ”)
+Title: | 4.100% Notes due 2029 (the “ 2029 Notes ”) 4.800% Notes due 2034 (the “ 2034 Notes ”) 5.325% Notes due 2038 (the “ 2038 Notes ”) 6.000% Notes due 2066 (the “ 2066 Notes ”) (collectively, the “ Notes ”)
+Trade Date: | November 19, 2026
+Settlement Date (T+3)**: | November 24, 2026
+Denominations: | C$2,000 and multiples of C$1,000 in excess thereof
+Ratings*: | Moody’s: Aa2 (Stable); S&P: AA+ (Stable)
+Joint Book-Running Managers: | RBC Dominion Securities Inc. Scotia Capital
+Inc. TD Securities Inc.
+Co-Manager: | CIBC World Markets Inc.
+Ranking: | Senior unsecured
+Listing: | None
+Aggregate Principal Amount: | 2029 Notes: C$2,000,000,000 2034 Notes:
+C$1,250,000,000 2038 Notes: C$1,500,000,000 2066 Notes:
+C$1,250,000,000
+Maturity Date: | 2029 Notes: November 24, 2029 2034 Notes:
+November 24, 2034 2038 Notes: November 24, 2038 2066 Notes: November 24, 2066
+Coupon (Interest Rate): | 2029 Notes: 4.100% per annum 2034 Notes: 4.800%
+per annum 2038 Notes: 5.325% per annum 2066 Notes: 6.000% per
+annum
+Public Offering Price: | 2029 Notes: 99.754% of the principal amount of the 2029 Notes, plus accrued interest, if any, from November 24, 2026 2034 Notes: 99.626% of the principal amount of the 2034 Notes, plus accrued interest, if any, from November 24, 2026 2038 Notes:99.781% of the principal amount of the 2038 Notes, plus accrued interest, if any, from November 24, 2026 2066 Notes: 99.985% of the principal amount of the 2066 Notes, plus accrued interest, if any, from November 24,
+2026
+1
+Underwriting Discount: | 2029 Notes: 0.150% of the principal amount 2034
+Notes: 0.250% of the principal amount 2038 Notes: 0.300% of the principal amount 2066 Notes: 0.600% of the principal amount
+Proceeds Net of Aggregate Underwriting Discount (before expenses): | 2029 Notes: C$1,992,080,000 2034 Notes:
+C$1,242,200,000 2038 Notes: C$1,492,215,000 2066 Notes:
+C$1,242,312,500
+Yield to Maturity: | 2029 Notes: 4.188% 2034 Notes: 4.857% 2038 Notes: 5.350% 2066 Notes: 6.001%
+Benchmark Bond: | 2029 Notes: CAN 3.50% due September 1, 2029 2034 Notes: CAN 3.00% due June 1, 2034 2038 Notes: CAN 3.50%
+due December 1, 2036 2066 Notes: CAN 3.50% due December 1, 2057
+Benchmark Bond Price and Yield: | 2029 Notes: C$100.210 / 3.419% 2034 Notes:
+C$95.540 / 3.684% 2038 Notes: C$97.140 / 3.846% 2066 Notes:
+C$88.700 / 4.151%
+Re-Offer Spread: | 2029 Notes: +75 bps versus the applicable Government of Canada curve (“ GoC Curve ”); +76.9 bps versus the applicable
+Benchmark Bond, which includes a curve adjustment of +1.9 bps 2034 Notes: +115 bps versus the applicable GoC Curve; +117.3 bps versus the applicable
+Benchmark Bond, which includes a curve adjustment of +2.3 bps 2038 Notes: +145 bps versus the applicable GoC Curve; +150.4 bps versus the applicable
+Benchmark Bond, which includes a curve adjustment of +5.4 bps 2066 Notes: +185 bps versus the applicable Benchmark Bond
+GoC Curve: | 2029 Notes: CAN 3.50% due September 1, 2029 and CAN 2.75% due March 1, 2030 2034 Notes: CAN 3.00% due June 1, 2034 and CAN 3.25% due December 1, 2034 2038 Notes: CAN 3.50% due December 1, 2036 and CAN 4.00% due June 1, 2041
+Interest Payment Dates: | 2029 Notes: Semi-annually in arrears on May 24 and November 24 of each year, beginning on May 24, 2027 2034 Notes: Semi-annually in arrears on May 24 and November 24 of each year, beginning on May 24, 2027 2038 Notes: Semi-annually in arrears on May 24 and November 24 of each year, beginning on May 24, 2027 2066 Notes: Semi-annually in arrears on May 24 and November 24 of each year, beginning on May 24, 2027
+Following Business Day Convention: | If not a business day in New York or Toronto, then payment of a coupon or upon maturity or redemption will be made on the next business day with no adjustment.
+Day Count Convention: | Actual/365 (Fixed) when calculating interest accruals during any partial interest period and 30/360 when calculating amounts due on any Interest Payment Date (Actual/Actual Canadian Compound
+Method).
+2
+Use of Proceeds: | General corporate purposes, which may include the repayment of outstanding debt.
+Sinking Fund Provisions: | None
+Optional Redemption: | Each series of the Notes will be redeemable in whole or in part at the option of the Company upon not less than 10 days’ and not more
+than 60 days’ notice, and upon such conditions as may be specified in the applicable notice of redemption, at the redemption price being the greater of (i) the aggregate principal amount to be redeemed; and (ii) the Canada Yield
+Price (as defined below), together in each case with accrued and unpaid interest to but excluding the date fixed for redemption, provided that if any of the 2034 Notes, the 2038 Notes or the 2066 Notes are redeemed at any time on or after the
+applicable Par Call Date (as defined below) for such series of Notes, the redemption price will equal the aggregate principal amount to be redeemed plus accrued and unpaid interest to, but not including, the date fixed for redemption. In case of
+partial redemption of a series of Notes, the selection of the Notes of such series to be redeemed shall be in accordance with the procedures of CDS and its participants. “ Canada Yield Price ” means, with respect to the Notes to be redeemed, the price, in respect of the principal amount of such Notes,
+calculated by the Company as of the third business day prior to the redemption date of such Notes, equal to the sum of the present values of the remaining scheduled payments of interest (not including any portion of the payments of interest accrued
+as of the date of redemption) and principal on the Notes to be redeemed from the redemption date to the Maturity Date, in the case of the 2029 Notes, and the applicable Par Call Date, as if redeemed on such Par Call Date, in the case of the 2034
+Notes, the 2038 Notes and the 2066 Notes, using as a discount rate the sum of the Government of Canada Yield (as defined below) on such business day plus (i) 18.5 basis points for the 2029 Notes, (ii) 28.5 basis points for the 2034 Notes,
+(iii) 36.0 basis points for the 2038 Notes and (iv) 46.0 basis points for the 2066 Notes. “ Government of Canada Yield ” means, on any date and for purposes of the redemption of any series of Notes, the bid-side yield to maturity on such date as determined by the arithmetic average (rounded to three decimal places) of the yields quoted at 10:00 a.m. (Toronto time) by any two investment dealers in Canada selected by
+the Company, assuming semi-annual compounding and calculated in accordance with generally accepted financial practice, which a non-callable Government of Canada bond would carry if issued in Canadian dollars
+in Canada at 100% of its principal amount on such date with a term to maturity that most closely approximates the remaining term of such series of Notes to the Maturity Date, in the case of the 2029 Notes, and the applicable Par Call Date, in the
+case of the 2034 Notes, the 2038 Notes and the 2066 Notes.
+Par Call Date: | 2034 Notes: August 24, 2034 (the date that is 3 months prior to the maturity date of the 2034 Notes) 2038 Notes: August 24, 2038 (the date that is 3 months prior to the maturity date of the 2038 Notes) 2066 Notes: May 24, 2066 (the date that is 6 months prior to the maturity date of the 2066
+Notes)
+3
+Redemption for Tax Reasons: | The Company may redeem any series of the Notes, in whole, but not in part, in the event of certain changes in the tax laws of the United States that would require the Company to pay additional amounts with respect to the Notes of
+any series. The redemption price would be equal to 100% of the principal amount of the Notes of such series to be redeemed, plus accrued and unpaid interest, if any, on the Notes of such series to be redeemed to, but not including, the date of
+redemption.
+Payment of Additional Amounts: | The Company will pay additional amounts on the Notes to each holder that is not a United States person in respect of withholding or deduction for any present or future tax, assessment or other governmental charge imposed by the
+United States or a taxing authority in the United States, subject to certain exceptions and limitations.
+Form of Distribution in Canada: | The distribution of the Notes is being made on a private placement basis to purchasers in each of the provinces of Canada (the “ Offering Jurisdictions ”) under a Canadian offering memorandum dated November 19,
+2026 (the “ Canadian Offering Memorandum ”), which will include the prospectus dated June 1, 2026, as supplemented by a prospectus supplement dated November 19, 2026 that forms part of the registration statement filed with
+the U.S. Securities and Exchange Commission (the “ SEC ”). The distribution will be made in reliance on statutory exemptions from the prospectus requirements of Canadian securities laws applicable in each of the Offering
+Jurisdictions and, in particular, the Notes will only be sold in the Offering Jurisdictions pursuant to the “accredited investor exemption” (as defined in National Instrument 45-106 — Prospectus Exemptions (“ NI 45-106 ”)) to purchasers that are “accredited investors” (as such term is defined in NI 45-106 or
+Section 73.3 of the Securities Act (Ontario), as applicable), who purchase the Notes as principal (or are deemed to be purchasing as principal) and that are also “permitted clients” (as such term is defined in National
+Instrument 31-103 — Registration Requirements, Exemptions and Ongoing Registrant Obligations ).
+Form of Distribution in the United States: | The distribution of the Notes is being made pursuant to registration with the SEC under the U.S. Securities Act of 1933, as amended.
+Resale Restrictions: | Resale of the Notes must be made in accordance with an exemption from, or in a transaction not subject to, the prospectus requirements of applicable Canadian securities laws, which may vary depending on the province. The Company is
+not a reporting issuer in any province or territory of Canada. Unless permitted under applicable Canadian securities laws, holders of the Notes must not trade the Notes before the date that is four months and a day after the later of
+(i) November 24, 2026 and (ii) the date the Company becomes a reporting issuer in any province or territory of Canada. Prospective purchasers should consult their own independent legal advisors with respect to such restrictions. The
+Notes are a new issue of securities for which no established trading market exists. If an active trading market does not develop for the Notes, investors may not be able to resell them. The Company currently has no intention of becoming a reporting
+issuer in Canada in the foreseeable future.
+Settlement/Form: | CDS Clearing and Depository Services Inc. / Book Entry (Global Notes)
+4
+Trustee: | The Bank of New York Mellon Trust Company, N.A.
+Paying Agent: | Computershare Advantage Trust of Canada
+CUSIP/ISIN: | 2029 Notes: 02079WAK7 / CA02079WAK77 2034
+Notes: 02079WAM3 / CA02079WAM34 2038 Notes: 02079WAL5 / CA02079WAL50 2066 Notes: 02079WAN1 / CA02079WAN17
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time. Each securities rating should be evaluated independent of each other securities rating.
+** | Under Rule 15c6-1 under the Securities Exchange Act of 1934, as
+amended, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes on any day prior to the business day
+before delivery will be required, by virtue of the fact that the Notes initially will settle T+3, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement and should consult their own advisors.
+MIFID II AND UK MIFIR PRODUCT GOVERNANCE / PROFESSIONAL INVESTORS AND ELIGIBLE COUNTERPARTIES ONLY TARGET MARKET / NO PRIIPs KID OR
+DISC DISCLOSURE DOCUMENT —
+Manufacturer target market is eligible counterparties and professional clients only (all distribution channels). No key information document (“
+KID
+”) under Regulation (EU) No. 1286/2014 (as
+amended, the “
+PRIIPs Regulation
+”) or disclosure document required by the FCA Product Disclosure Sourcebook (“
+DISC
+”) has been prepared as the Notes are not available to retail investors in the European Economic
+Area or the United Kingdom.
+The foregoing description of some of the terms of the Notes is not complete and is subject to, and qualified in its entirety
+by, reference to the Company’s preliminary prospectus supplement dated November 19, 2026 (the “
+Preliminary Prospectus Supplement
+”) and the accompanying base prospectus dated June 1, 2026 (the “
+Base
+Prospectus
+”) and the Company’s preliminary Canadian offering memorandum dated November 19, 2026, as applicable, which includes the Preliminary Prospectus Supplement and the Base Prospectus (collectively the “
+Preliminary
+Canadian Offering Memorandum
+”), and the documents incorporated and deemed to be incorporated by reference therein. Capitalized terms used but not defined herein shall have the meanings ascribed thereto in the Preliminary Prospectus
+Supplement or the Base Prospectus or the Preliminary Canadian Offering Memorandum. Prospective purchasers should review the Preliminary Prospectus Supplement, the Base Prospectus
+and the Preliminary Canadian Offering Memorandum, as
+applicable, for a more detailed description of some of the terms of the Notes. No person has been authorized to make any representation in connection with the offering other than as contained or incorporated by reference in the Preliminary
+Prospectus Supplement and the
+Base Prospectus and the Preliminary Canadian Offering Memorandum, and the Company and the underwriters take no responsibility for, and can provide no assurance as to the reliability of, any other information that
+others may give you.
+To the extent any underwriter that is not a U.S. registered broker-dealer intends to effect sales of the Notes in the United States,
+it will do so through one or more U.S. registered broker-dealers in accordance with the applicable U.S. securities laws and regulations.
+The Company has
+filed with the SEC a registration statement (including a prospectus) and the Preliminary Prospectus Supplement for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement,
+the Preliminary Prospectus Supplement and other documents that the Company has filed with the SEC for more complete information about the Company and this offering. You may get these documents for free by visiting the SEC’s website at
+www.sec.gov
+. Alternatively, the Company, any underwriter or any dealer participating in the offering will arrange to send you the Preliminary Prospectus Supplement, the Base Prospectus, the Preliminary Canadian Offering Memorandum and, when
+available, the final prospectus supplement and the Canadian Offering Memorandum if you request it by contacting: RBC Dominion Securities Inc. at
++1-416-842-6311,
+Scotia Capital Inc. at
++1-416-863-7776
+or TD Securities Inc. at
++1-800-263-5292.
+Any disclaimers or other notices that may appear below are not applicable to this communication and should be disregarded. Such disclaimers or other notices
+were automatically generated as a result of this communication being sent via Bloomberg or another email system.
+5

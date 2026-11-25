@@ -1,0 +1,397 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1075531/000110465926124551/tm2629076d3_fwp.htm
+ISSUER (SEC filer): Booking Holdings Inc.
+FILED: 2026-11-09
+========================================
+FWP
+1
+tm2629076d3_fwp.htm
+FWP
+Filed Pursuant to Rule
+433
+Registration Statement No. 333-297975
+November 9, 2026
+PRICING TERM SHEET
+Dated November 9, 2026
+BOOKING HOLDINGS INC.
+The
+information in this pricing term sheet supplements Booking Holdings Inc.’s preliminary prospectus supplement, dated November 9,
+2026 (the “
+Preliminary Prospectus Supplement
+”), and supersedes the information in the Preliminary Prospectus Supplement
+to the extent inconsistent with the information in the Preliminary Prospectus Supplement. In all other respects, this term sheet is qualified
+in its entirety by reference to the Preliminary Prospectus Supplement. You should rely on the information contained or incorporated by
+reference in the Preliminary Prospectus Supplement, as supplemented by this final pricing term sheet, in making an investment decision
+with respect to the Notes.
+Terms used herein but not defined herein shall have the respective meanings as set forth in the
+Preliminary Prospectus Supplement.
+Issuer: | Booking
+Holdings Inc. (the “ Issuer ”).
+Legal
+Entity Identifier: | FXM8FAOHMYDIPD38UZ17.
+Trade
+Date:* | November
+9, 2026.
+Settlement
+Date: | November
+13, 2026 (T+3).
+Expected
+Ratings of Notes:** | Moody’s:
+A3; S&P: A-.
+Format: | SEC
+Registered.
+Notes: | €1,250,000,000
+3.950% Senior Unsecured Notes due 2029 (the “ 2029 Notes ”).
+€800,000,000
+4.375% Senior Unsecured Notes due 2032 (the “ 2032 Notes ”).
+€750,000,000
+4.750% Senior Unsecured Notes due 2035 (the “ 2035 Notes ”).
+€750,000,000
+5.000% Senior Unsecured Notes due 2038 (the “ 2038 Notes ” and, together with the 2029 Notes, the 2032 Notes and
+the 2035 Notes, the “ Notes ”).
+Principal
+Amount: | €1,250,000,000
+for the 2029 Notes.
+€800,000,000
+for the 2032 Notes.
+€750,000,000
+for the 2035 Notes.
+€750,000,000
+for the 2038 Notes.
+Maturity
+Date: | November
+13, 2029 for the 2029 Notes.
+November
+13, 2032 for the 2032 Notes.
+November
+13, 2035 for the 2035 Notes.
+November
+13, 2038 for the 2038 Notes.
+Reference
+EUR Midswap: | 2029
+Notes: 3-year Mid-Swaps.
+2032
+Notes: 6-year Mid-Swaps.
+2035
+Notes: 9-year Mid-Swaps.
+2038
+Notes: 12-year Mid-Swaps.
+Reference
+EUR Midswap Rate: | 2029
+Notes: 3.292%.
+2032
+Notes: 3.286%.
+2035
+Notes: 3.317%.
+2038
+Notes: 3.363%.
+Spread
+to EUR Midswap: | 2029
+Notes: 70 basis points.
+2032
+Notes: 115 basis points.
+2035
+Notes: 145 basis points.
+2038
+Notes: 170 basis points.
+Reoffer
+Yield: | 2029
+Notes: 3.992%.
+2032
+Notes: 4.436%.
+2035
+Notes: 4.767%.
+2038
+Notes: 5.063%.
+Price
+to Public (Issue Price): | 99.883%
+of principal amount for the 2029 Notes.
+99.685%
+of principal amount for the 2032 Notes.
+99.878%
+of principal amount for the 2035 Notes.
+99.444%
+of principal amount for the 2038 Notes.
+Government
+Security: | 2029
+Notes: OBL 2.500% due October 11, 2029 #190.
+2032
+Notes: DBR 1.700% due August 15, 2032.
+2035
+Notes: DBR 2.600% due August 15, 2035.
+2038
+Notes: DBR 1.000% due May 15, 2038.
+Government
+Security Price and Yield: | 2029
+Notes: 98.410% / 3.078%.
+2032
+Notes: 92.600% / 3.123%.
+2035
+Notes: 95.200% / 3.237%.
+2038
+Notes: 77.310% / 3.418%.
+Spread
+to Government Security: | 2029
+Notes: 91.4 basis points.
+2032
+Notes: 131.3 basis points.
+2035
+Notes: 153.0 basis points.
+2038
+Notes: 164.5 basis points.
+Gross
+Proceeds: | 2029
+Notes: €1,248,537,500.
+2032
+Notes: €797,480,000.
+2035
+Notes: €749,085,000.
+2038
+Notes: €745,830,000.
+Net
+Proceeds to Issuer (before expenses): | 2029
+Notes: €1,246,037,500.
+2032
+Notes: €794,920,000.
+2035
+Notes: €746,460,000.
+2038
+Notes: €742,830,000.
+Coupon: | 2029
+Notes: 3.950% per annum.
+2032
+Notes: 4.375% per annum.
+2035
+Notes: 4.750% per annum.
+2038
+Notes: 5.000% per annum.
+Interest
+Payment Date: | 2029
+Notes: Annually on November 13, commencing on November 13, 2027.
+2032
+Notes: Annually on November 13, commencing on November 13, 2027.
+2035
+Notes: Annually on November 13, commencing on November 13, 2027.
+2038
+Notes: Annually on November 13, commencing on November 13, 2027.
+Clearing: | Global
+Notes will be deposited with a common depository for Euroclear or Clearstream.
+Listing
+Bond: | The
+Issuer intends to apply to list the Notes on the Nasdaq Exchange.
+Optional
+Redemption: | 2029
+Notes: Prior to October 13, 2029, the date that is one month prior to the maturity date of the 2029 Notes (the “ 2029 Notes
+Par Call Date ”), callable in whole or in part at the greater of: (1) 100% of the principal amount of the 2029 Notes to
+be redeemed; and (2) an amount equal to the sum of the present values of the remaining scheduled payments of principal and interest
+on the 2029 Notes to be redeemed that would be due if such 2029 Notes matured on the 2029 Notes Par Call Date, not including any
+portion of the payments of interest accrued to the date of redemption, discounted to such redemption date on an annual basis at the
+Comparable Government Bond Rate, plus 15 basis points; plus, in the case of each of (1) and (2), accrued and unpaid interest,
+if any, to, but excluding, such redemption date.
+2032
+Notes: Prior to September 13, 2032, the date that is two months prior to the maturity date of the 2032 Notes (the “ 2032
+Notes Par Call Date ”), callable in whole or in part at the greater of: (1) 100% of the principal amount of the 2032 Notes
+to be redeemed; and (2) an amount equal to the sum of the present values of the remaining scheduled payments of principal and interest
+on the 2032 Notes to be redeemed that would be due if such 2032 Notes matured on the 2032 Notes Par Call Date, not including any
+portion of the payments of interest accrued to the date of redemption, discounted to such redemption date on an annual basis at the
+Comparable Government Bond Rate, plus 20 basis points; plus, in the case of each of (1) and (2), accrued and unpaid interest,
+if any, to, but excluding, such redemption date.
+2035
+Notes: Prior to August 13, 2035, the date that is three months prior to the maturity date of the 2035 Notes (the “ 2035 Notes
+Par Call Date ”), callable in whole or in part at the greater of: (1) 100% of the principal amount of the 2035 Notes to
+be redeemed; and (2) an amount equal to the sum of the present values of the remaining scheduled payments of principal and interest
+on the 2035 Notes to be redeemed that would be due if such 2035 Notes matured on the 2035 Notes Par Call Date, not including any
+portion of the payments of interest accrued to the date of redemption, discounted to such redemption date on an annual basis at the
+Comparable Government Bond Rate, plus 25 basis points; plus, in the case of each of (1) and (2), accrued and unpaid interest,
+if any, to, but excluding, such redemption date.
+2038
+Notes: Prior to August 13, 2038, the date that is three months prior to the maturity date of the 2038 Notes (the “ 2038 Notes
+Par Call Date ”), callable in whole or in part at the greater of: (1) 100% of the principal amount of the 2038 Notes to
+be redeemed; and (2) an amount equal to the sum of the present values of the remaining scheduled payments of principal and interest
+on the 2038 Notes to be redeemed that would be due if such 2038 Notes matured on the 2038 Notes Par Call Date, not including any
+portion of the payments of interest accrued to the date of redemption, discounted to such redemption date on an annual basis at the
+Comparable Government Bond Rate, plus 25 basis points; plus, in the case of each of (1) and (2), accrued and unpaid interest,
+if any, to, but excluding, such redemption date.
+Par
+Call: | 2029
+Notes: On or after the 2029 Notes Par Call Date, callable at 100% of the principal amount of the 2029 Notes to be redeemed, plus
+accrued and unpaid interest thereon, if any, to, but excluding, the date of redemption.
+2032
+Notes: On or after the 2032 Notes Par Call Date, callable at 100% of the principal amount of the 2032 Notes to be redeemed, plus
+accrued and unpaid interest thereon, if any, to, but excluding, the date of redemption.
+2035
+Notes: On or after the 2035 Notes Par Call Date, callable at 100% of the principal amount of the 2035 Notes to be redeemed, plus
+accrued and unpaid interest thereon, if any, to, but excluding, the date of redemption.
+2038
+Notes: On or after the 2038 Notes Par Call Date, callable at 100% of the principal amount of the 2038 Notes to be redeemed, plus
+accrued and unpaid interest thereon, if any, to, but excluding, the date of redemption.
+Day
+Count Fraction: | ACTUAL/ACTUAL
+(ICMA), following, unadjusted.
+Denominations: | €100,000
+and any integral multiple of €1,000 in excess thereof.
+Stabilization: | FCA/ICMA.
+Common
+Code: | 2029
+Notes: 356775139.
+2032
+Notes: 356775155.
+2035
+Notes: 356775198.
+2038
+Notes: 356775228.
+CUSIP
+Number: | 2029
+Notes: 09857L BS6.
+2032
+Notes: 09857L BT4.
+2035
+Notes: 09857L BU1.
+2038
+Notes: 09857L BV9.
+ISIN
+Number: | 2029
+Notes: XS3567751394.
+2032
+Notes: XS3567751550.
+2035
+Notes: XS3567751980.
+2038
+Notes: XS3567752285.
+Joint
+Book-Running Managers: | Banco
+Santander, S.A.
+BNP
+PARIBAS
+Deutsche
+Bank AG, London Branch
+Goldman
+Sachs & Co. LLC
+HSBC
+Bank plc
+Citigroup
+Global Markets Limited
+J.P.
+Morgan Securities plc
+Merrill
+Lynch International
+TD
+Global Finance unlimited company
+U.S.
+Bancorp Investments, Inc.
+Standard
+Chartered Bank
+Co-Manager: | ICBC
+Standard Bank Plc
+Prohibition
+of Sales to EEA/UK Retail Investors: | Applicable.
+MiFID
+II/UK MiFIR Target Market: | Eligible
+counterparties and professional clients only (all distribution channels).
+* We expect that the
+Notes will be delivered against payment therefor on or about November 13, 2026, which will be the third business day following the date
+of pricing of the Notes (this settlement cycle being referred to as “T+3”). Under Rule 15c6-1 of the Exchange Act, trades
+in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise.
+Accordingly, purchasers who wish to trade the Notes prior to the first business day before delivery of the Notes hereunder will be required,
+by virtue of the fact that the Notes will initially settle in T+3, to specify an alternate settlement cycle at the time of any such trade
+to prevent a failed settlement. Purchasers of the Notes who wish to trade the Notes prior to the first business day before the date of
+delivery should consult their own advisors.
+** A securities rating
+is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time. Credit ratings are subject
+to change depending on financial and other factors.
+******
+The Issuer has filed a registration statement
+(including a prospectus) with the Securities and Exchange Commission (the “
+SEC
+”) for the offering to which this communication
+relates. Before you invest, you should read the prospectus in that registration statement and the other documents the Issuer has filed
+with the SEC for more complete information about the Issuer and this offering. You may get these documents for free by visiting EDGAR
+on the SEC website at www.sec.gov. A copy of the Preliminary Prospectus Supplement for the offering can be obtained by calling Banco Santander,
+S.A. at +34-91-257-2029, BNP PARIBAS at 1 (800) 854-5674, Deutsche Bank AG, London Branch at 1 (800) 503-4611, Goldman Sachs & Co.
+LLC, toll-free at 1 (866) 471-2526 and HSBC Bank plc, toll-free at 1 (866) 811-8049.
+You should rely on the information contained
+or incorporated by reference in the Preliminary Prospectus Supplement, as supplemented by this final pricing term sheet, in making an
+investment decision with respect to the Notes.
+This communication shall not constitute an offer
+to sell or the solicitation of an offer to buy securities nor shall there be any sale of these securities in any state in which such solicitation
+or sale would be unlawful prior to registration or qualification of these securities under the laws of any such state.
+Solely for the purposes of each manufacturer’s product
+approval process, the target market assessment in respect of the Notes has led to the conclusion that: (i) the target market for the Notes
+is eligible counterparties and professional clients only, each as defined in Directive (EU) 2014/65 (as amended, “
+MiFID II
+”);
+and (ii) all channels for distribution of the Notes to eligible counterparties and professional clients are appropriate. Any person subsequently
+offering, selling or recommending the Notes (a “
+distributor
+”) should take into consideration the manufacturers’
+target market assessment; however, a distributor subject to MiFID II is responsible for undertaking its own target market assessment in
+respect of the Notes (by either adopting or refining the manufacturers’ target market assessment) and determining appropriate distribution
+channels.
+Solely for the purposes of each manufacturer’s product
+approval process, the target market assessment in respect of the Notes has led to the conclusion that: (i) the target market for the Notes
+is eligible counterparties, as defined in the FCA Handbook Conduct of Business Sourcebook (“
+COBS
+”), and professional
+clients, as defined in Regulation (EU) No 600/2014 as it forms part of domestic law of the United Kingdom (the “
+UK
+”)
+by virtue of the European Union (Withdrawal) Act 2018 (the “
+EUWA
+”) (“
+UK MiFIR
+”); and
+(ii) all channels for distribution of the Notes to eligible counterparties and professional clients are appropriate. Any person subsequently
+offering, selling or recommending the Notes (a “
+distributor
+”) should take into consideration the manufacturers’
+target market assessment; however, a distributor subject to the FCA Handbook Product Intervention and Product Governance Sourcebook is
+responsible for undertaking its own target market assessment in respect of the Notes (by either adopting or refining the manufacturers’
+target market assessment) and determining appropriate distribution channels.
+The
+Notes are not intended to be offered, sold or otherwise made available to and should not be offered, sold or otherwise made available
+to any retail investor in the European Economic Area (the “
+EEA
+”). For these purposes, a retail investor means
+a person who is one (or more) of: (i) a retail client as defined in point (11) of Article 4(1) of MiFID II; or (ii) a customer within
+the meaning of Directive (EU) 2016/97,
+as amended, where that customer would not qualify as a professional client as defined in
+point (10) of Article 4(1) of MiFID II. Consequently, no key information document required by Regulation (EU) No 1286/2014 (as amended,
+the “
+PRIIPs Regulation
+”) for offering or selling the Notes or otherwise making them available to retail investors
+in the EEA has been prepared and, therefore, offering or selling the Notes or otherwise making them available to any retail investor in
+the EEA may be unlawful under the PRIIPs Regulation.
+The
+Notes are not intended to be offered, sold
+, distributed or otherwise made available to and should not be offered, sold, distributed
+or otherwise made available to any retail investor in the UK. For these purposes, a retail investor means a person who is not a professional
+client, as defined in point (8) of Article 2(1) of UK MiFIR. Consequently, no disclosure document required by the FCA Product Disclosure
+Sourcebook (“
+DISC
+”) for offering, selling or distributing the Notes or otherwise making them available to retail
+investors in the UK has been prepared and, therefore, offering, selling or distributing the Notes or otherwise making them available to
+any retail investor in the UK may be unlawful under the DISC and the Consumer Composite Investments (Designated Activities) Regulations
+2024, as applicable.
+In the UK, this final pricing term sheet is only being distributed
+to and is only directed at (1) investment professionals falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial
+Promotion) Order 2005 (as amended, the “
+Order
+”), (2) high net worth entities, and other persons to whom it may
+lawfully be communicated, falling within Article 49(2)(a) to (d) of the Order, or (3) other persons to whom an invitation or inducement
+to engage in investment activity (within the meaning of Section 21 of the Financial Services and Markets Act 2000, as amended) in connection
+with the issue or sale of any securities of the Issuer may otherwise lawfully be communicated or be caused to be communicated (all such
+persons together being referred to as “
+Relevant Persons
+”). In the UK, any investment or investment activity
+to which the Preliminary Prospectus Supplement relates is only available to, and the Notes are only available to, and any invitation,
+offer or agreement to subscribe, purchase or otherwise acquire such Notes will be engaged in only with, Relevant Persons. Any person in
+the UK who is not a Relevant Person should not act or rely on this final pricing term sheet or any of its contents.
+Singapore Securities and Futures Act Product Classification—Solely
+for the purposes of its obligations pursuant to sections 309B(1)(a) and 309B(1)(c) of the Securities and Futures Act 2001 of Singapore
+(the “
+SFA
+”), the Issuer has determined, and hereby notifies all relevant persons (as defined in Section 309A
+of the SFA) that the Notes are “prescribed capital markets products” (as defined in the Securities and Futures (Capital Markets
+Products) Regulations 2018).
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE
+NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT
+OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.

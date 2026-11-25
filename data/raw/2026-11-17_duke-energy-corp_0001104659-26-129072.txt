@@ -1,0 +1,77 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1326160/000110465926129072/tm2629411d2_fwp.htm
+ISSUER (SEC filer): Duke Energy CORP
+FILED: 2026-11-17
+========================================
+FWP
+1
+tm2629411d2_fwp.htm
+FWP
+Filed pursuant to Rule
+433
+November 17, 2026
+Relating to
+Preliminary Prospectus Supplement dated November
+17, 2026
+to
+Prospectus dated September 23, 2025
+Registration Statement No. 333-290475
+Duke Energy Corporation
+$875,000,000 6.05% Senior Notes due 2036
+Pricing Term Sheet
+Issuer: | Duke Energy Corporation (the “ Issuer ”)
+Trade Date: | November 17, 2026
+Settlement Date: | November 19, 2026 (T+2)
+Expected Ratings (Moody’s/S&P)*: | Baa2 (stable) / BBB (stable)
+Security Description: | 6.05% Senior Notes due 2036 (the “ Notes ”)
+Principal Amount: | $875,000,000
+Interest Payment Dates: | Payable semi-annually in arrears on June 1 and December 1 of each year, beginning on June 1, 2027.
+Maturity Date: | December 1, 2036
+Benchmark Treasury: | 5.000% due November 15, 2036
+Benchmark Treasury Yield: | 5.095%
+Spread to Benchmark Treasury: | +100 bps
+Yield to Maturity: | 6.095%
+Coupon: | 6.05%
+Price to the Public: | 99.663% per Note (plus accrued interest, if any, from November 19, 2026)
+Redemption Provisions: | Prior to September 1, 2036 (the date that is three months
+prior to the maturity date of the Notes (the “ Par Call Date ”)), the Issuer may redeem the Notes at its option, in whole
+or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three
+decimal places) equal to the greater of: · (a)
+the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date
+(assuming the Notes matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months)
+at the Treasury Rate applicable to the Notes plus 15 basis points less (b) interest accrued to the redemption date; and · 100%
+of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest
+thereon to, but excluding, the redemption date. On or after the Par Call Date, the Issuer may redeem
+the Notes at its option, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal
+amount of the Notes to be redeemed plus accrued and unpaid interest thereon to, but excluding, the redemption date.
+Tax Credit Event Redemption: | At the Issuer’s option, in whole but not in part at 101% of the principal amount plus accrued and unpaid interest to, but excluding, the redemption date (any notice of redemption may be issued by the later of (a) December 31, 2026 and (b) six months from the date of issuance).
+Denominations: | $2,000 or any integral multiple of $1,000 in excess thereof
+CUSIP / ISIN: | 26441C CQ6 / US26441CCQ69
+Joint Book-Running Managers: | MUFG Securities Americas Inc. PNC Capital Markets LLC Santander US Capital Markets LLC SMBC Nikko Securities America, Inc. U.S. Bancorp Investments, Inc. Wells Fargo Securities, LLC
+Co-Managers: | BNY Mellon Capital Markets, LLC Fifth Third Securities, Inc. FNB America Securities LLC PNFP Capital Markets, Inc. Regions Securities LLC Blaylock Van, LLC CastleOak Securities, L.P. Loop Capital Markets LLC R. Seelaus & Co., LLC Stern Brothers & Co.
+* Note: A securities rating is not a recommendation to buy, sell or
+hold securities and may be subject to revision, suspension or withdrawal at any time. Each credit rating should be evaluated independently
+of any other credit rating.
+The Issuer expects to deliver Notes against
+payment for the Notes on the Settlement Date, which will be the second business day following the date of the pricing of the Notes. Under
+Rule 15c6-1 of the Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required to settle in one
+business day, unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade Notes prior to the first
+business day before the Settlement Date will be required, by virtue of the fact that the Notes initially will settle in T+2, to specify
+alternative settlement arrangements to prevent a failed settlement.
+The Issuer has filed a shelf-registration statement
+(including a Preliminary Prospectus Supplement dated November 17, 2026 and an accompanying prospectus dated September 23, 2025) with the
+Securities and Exchange Commission (the “SEC”) for the offering to which this communication relates. Before you invest, you
+should read the Preliminary Prospectus Supplement, the accompanying prospectus and the other documents the Issuer has filed with the SEC
+for more complete information about the Issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC website
+at
+www.sec.gov
+. Alternatively, the Issuer, any underwriter or any dealer participating in the offering will arrange to send you
+the prospectus if you request it by calling MUFG Securities Americas Inc. toll-free at (877) 649-6848; PNC Capital Markets LLC toll-free
+at (855) 881-0697; Santander US Capital Markets LLC toll-free at (855) 403-3636; SMBC Nikko Securities America, Inc. toll-free at (888)
+868-6856; U.S. Bancorp Investments, Inc. toll-free at (877) 558-2607; or Wells Fargo Securities, LLC toll-free at (800) 645-3751.
+This communication should be read in conjunction
+with the Preliminary Prospectus Supplement and the accompanying prospectus. The information in this communication supersedes the information
+in the Preliminary Prospectus Supplement and the accompanying prospectus to the extent inconsistent with the information in such Preliminary
+Prospectus Supplement and the accompanying prospectus.
+ANY DISCLAIMER OR OTHER NOTICE THAT MAY APPEAR
+BELOW IS NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMER OR NOTICE WAS AUTOMATICALLY GENERATED AS A RESULT
+OF THIS COMMUNICATION BEING SENT BY BLOOMBERG OR ANOTHER EMAIL SYSTEM.

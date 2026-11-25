@@ -1,0 +1,40 @@
+{
+  "source_file": "2026-11-13_american-honda-finance-corp_0001104659-26-126974.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:12:48",
+  "usage": {
+    "input_tokens": 3664,
+    "output_tokens": 385
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "American Honda Finance Corporation",
+    "sector": "Financials",
+    "trade_date": "2026-11-13",
+    "settlement_date": "2026-11-17",
+    "rating_moodys": "A3",
+    "rating_sp": "BBB+",
+    "rating_fitch": "A-",
+    "bookrunners": [
+      "SMBC Nikko Securities America, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 600000000,
+        "coupon_pct": null,
+        "coupon_type": "floating",
+        "maturity_date": "2028-11-17",
+        "first_call_date": null,
+        "benchmark": "Compounded SOFR",
+        "spread_bps": 75,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread: +75 bps"
+      }
+    ]
+  }
+}

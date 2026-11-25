@@ -1,0 +1,51 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/277135/000110465926126234/tm2629256d3_fwp.htm
+ISSUER (SEC filer): W.W. GRAINGER, INC.
+FILED: 2026-11-12
+========================================
+FWP
+1
+tm2629256d3_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Registration No. 333-
+295653
+Pricing Term Sheet
+November 12, 2026
+5.400% Senior Notes due November 19, 2031
+Issuer: | W.W. Grainger, Inc.
+Principal Amount: | $400,000,000
+Ratings (Moody’s / S&P):* | A1 (Stable) / A+ (Stable)
+Maturity Date: | November 19, 2031
+Coupon
+(Interest Rate): | 5.400% per annum
+Price to Public: | 99.766% of Principal Amount
+Yield to Maturity: | 5.454%
+Benchmark Treasury: | 4.750% due October 31, 2031
+Spread to Benchmark Treasury: | +50 basis points
+Benchmark Treasury Price / Yield: | 99-03+ / 4.954%
+Interest Payment Dates: | May 19 and November 19, commencing May 19, 2027
+Make-whole Call: | Prior to October 19, 2031, make-whole call at Treasury rate plus 10 basis points
+Par Call: | On or after October 19, 2031
+Trade Date: | November 12, 2026
+Settlement Date: | November 19, 2026 (T+5)
+CUSIP / ISIN: | 384802AG9 / US384802AG91
+Joint Book-Running Managers: | J.P. Morgan Securities LLC U.S. Bancorp Investments, Inc. Wells Fargo Securities, LLC BofA Securities, Inc. RBC Capital Markets, LLC
+Co-Managers: | ING Financial Markets LLC Lloyds Securities Inc. PNC Capital Markets LLC Academy Securities, Inc. BBVA Securities Inc. Loop Capital Markets LLC
+*Note: An explanation of the significance of ratings may be obtained
+from the ratings agencies. Generally, ratings agencies base their ratings on such material and information, and such of their own investigations,
+studies and assumptions, as they deem appropriate. The security ratings above are not a recommendation to buy, sell or hold the securities
+offered hereby. The ratings may be subject to review, revision, suspension, reduction or withdrawal at any time by the rating agencies.
+Each of the security ratings above should be evaluated independently of any other security rating.
+Under Rule 15c6-1 of the Securities Exchange Act of 1934, as amended,
+trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree
+otherwise. Accordingly, purchasers who wish to trade the notes prior to the business day before the date of delivery will be required,
+by virtue of the fact that the notes initially settle in T+5, to specify an alternate settlement arrangement at the time of any such trade
+to prevent a failed settlement. Purchasers of the notes who wish to trade the notes prior to the business day before the date of delivery
+should consult their advisors.
+The issuer has filed a registration statement (including a prospectus)
+with the Securities and Exchange Commission (“SEC”) for the offering to which this communication relates. Before you invest,
+you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete
+information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC web site at www.sec.gov.
+Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus and supplement(s)
+thereto, if you request it by calling J.P. Morgan Securities LLC collect at 1-212-834-4533, U.S. Bancorp Investments, Inc. toll-free at
+1-877-558-2607 and Wells Fargo Securities, LLC toll-free at 1-800-645-3751.

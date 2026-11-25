@@ -1,0 +1,63 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/202058/000110465926121272/tm2628504d3_fwp.htm
+ISSUER (SEC filer): L3HARRIS TECHNOLOGIES, INC. /DE/
+FILED: 2026-11-02
+========================================
+FWP
+1
+tm2628504d3_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+November
+2, 2026
+Issuer Free Writing Prospectus supplementing the
+Preliminary Prospectus Supplement dated November
+2, 2026
+and the Prospectus dated February 12, 2026
+Registration No. 333-293429
+L3Harris Technologies, Inc.
+$500,000,000 5.200% Notes due 2029
+$500,000,000 5.400% Notes due 2032
+Pricing Term Sheet
+5.200% Notes due 2029 | 5.400% Notes due 2032
+Issuer: | L3Harris Technologies, Inc. | L3Harris Technologies, Inc.
+Expected Ratings (Moody’s / S&P / Fitch): (1) | Baa2 (Positive) / BBB (Stable) / BBB+ (Stable) | Baa2 (Positive) / BBB (Stable) / BBB+ (Stable)
+Security Type: | Senior unsecured notes (the “2029 Notes”) | Senior unsecured notes (the “2032 Notes”)
+Principal Amount: | $500,000,000 | $500,000,000
+Trade Date: | November 2, 2026 | November 2, 2026
+Settlement Date (T+3): (2) | November 5, 2026 | November 5, 2026
+Maturity Date: | November 5, 2029 | April 15, 2032
+Interest Payment Dates: | May 5 and November 5 of each year, commencing on May 5, 2027 | April 15 and October 15 of each year, commencing on April 15, 2027
+Public Offering Price: | 99.951% of the principal amount, plus accrued and unpaid interest, if any, from November 5, 2026 | 99.813% of the principal amount, plus accrued and unpaid interest, if any, from November 5, 2026
+Yield to Maturity: | 5.218% | 5.441%
+Benchmark Treasury: | 4.875% due October 15, 2029 | 4.750% due October 31, 2031
+Spread to Benchmark Treasury: | T+57 basis points | T+75 basis points
+Benchmark Treasury Price / Yield: | 100-19 ¾ / 4.648% | 100-08 ¼ / 4.691%
+Interest Rate: | 5.200% per annum | 5.400% per annum
+Optional Redemption: | Make-Whole Call : At any time prior to October 5, 2029 (the date that is one month prior to the maturity date), at a make-whole redemption price equal to the greater of (1) the make-whole amount at a discount rate equal to the Treasury Rate (as defined in the preliminary prospectus supplement) plus 10 basis points and (2) 100% of the principal amount, in each case, plus accrued and unpaid interest to the date of redemption. | Make-Whole Call : At any time prior to March 15, 2032 (the date that is one month prior to the maturity date), at a make-whole redemption price equal to the greater of (1) the make-whole amount at a discount rate equal to the Treasury Rate (as defined in the preliminary prospectus supplement) plus 15 basis points and (2) 100% of the principal amount, in each case, plus accrued and unpaid interest to the date of redemption.
+Par Call : At any time on or after October 5, 2029 (the date that is one month prior to the maturity date), at 100% of the principal amount, plus accrued and unpaid interest to the date of redemption. | Par Call : At any time on or after March 15, 2032 (the date that is one month prior to the maturity date), at 100% of the principal amount, plus accrued and unpaid interest to the date of redemption.
+Minimum Denomination: | $2,000 x $1,000 | $2,000 x $1,000
+CUSIP / ISIN: | 502431 AW9 / US502431AW97 | 502431 AX7 / US502431AX70
+Joint Book-Running Managers: | Citigroup Global Markets Inc. Scotia Capital (USA) Inc. U.S. Bancorp Investments, Inc. Wells Fargo Securities, LLC BofA Securities, Inc. J.P. Morgan Securities LLC Morgan Stanley & Co. LLC Barclays Capital Inc. Mizuho Securities USA LLC SMBC Nikko Securities America, Inc. TD Securities (USA) LLC | Citigroup Global Markets Inc. Scotia Capital (USA) Inc. U.S. Bancorp Investments, Inc. Wells Fargo Securities, LLC BofA Securities, Inc. J.P. Morgan Securities LLC Morgan Stanley & Co. LLC Barclays Capital Inc. Mizuho Securities USA LLC SMBC Nikko Securities America, Inc. TD Securities (USA) LLC
+Investing in the 2029 Notes or the 2032 Notes involves a number of
+risks. See “
+Risk Factors
+” beginning on page S-5 of the preliminary prospectus supplement.
+(1)
+A securities rating is not a recommendation to buy,
+sell, or hold securities and may be subject to revision or withdrawal at any time.
+(2)
+We expect that delivery of the 2029 Notes and the 2032
+Notes (together, the “Notes”) will be made against payment therefor on or about the settlement date specified in this pricing
+term sheet, which will be the third business day following the date of pricing of the Notes (this settlement cycle being referred to as
+“T+3”). Pursuant to Rule 15c6-1 under the Securities Exchange Act of 1934, trades in the secondary market generally are required
+to settle in one business day, unless the parties to that trade expressly agree otherwise. Accordingly, purchasers who wish to trade the
+Notes prior to the first business day before settlement will be required, by virtue of the fact that the Notes initially will settle in
+T+3, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement and should consult their own
+advisor.
+The issuer has filed a registration statement (including a prospectus)
+and a preliminary prospectus supplement with the SEC for the offering to which this communication relates. Before you invest, you should
+read the prospectus in that registration statement, the preliminary prospectus supplement and other documents the issuer has filed with
+the SEC for more complete information about the issuer and this offering. You may get these documents for free by visiting the SEC website
+at www.sec.gov. Alternatively, copies of the prospectus and the prospectus supplement may be obtained by contacting Citigroup Global Markets
+Inc. toll-free at 1-800-831-9146, Scotia Capital (USA) Inc. toll-free at 1-800-372-3930, U.S. Bancorp Investments, Inc. toll-free at 1-877-558-2607
+or Wells Fargo Securities, LLC toll-free at 1-800-645-3751.

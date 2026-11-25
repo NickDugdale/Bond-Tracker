@@ -1,0 +1,55 @@
+{
+  "source_file": "2026-11-17_nevada-power-co_0001104659-26-129136.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:14:09",
+  "usage": {
+    "input_tokens": 4031,
+    "output_tokens": 570
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Nevada Power Company d/b/a NV Energy",
+    "sector": "Utilities",
+    "trade_date": "2026-11-17",
+    "settlement_date": "2026-11-19",
+    "rating_moodys": "A2",
+    "rating_sp": "A",
+    "rating_fitch": null,
+    "bookrunners": [
+      "BofA Securities, Inc.",
+      "CIBC World Markets Corp.",
+      "Citigroup Global Markets Inc.",
+      "MUFG Securities Americas Inc.",
+      "SMBC Nikko Securities America, Inc.",
+      "U.S. Bancorp Investments, Inc.",
+      "BMO Capital Markets Corp.",
+      "BNY Mellon Capital Markets, LLC",
+      "Huntington Securities, Inc.",
+      "KeyBanc Capital Markets Inc.",
+      "nabSecurities LLC",
+      "Regions Securities LLC",
+      "RBC Capital Markets, LLC",
+      "Scotia Capital (USA) Inc.",
+      "TD Securities (USA) LLC",
+      "Truist Securities, LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 350000000,
+        "coupon_pct": 5.95,
+        "coupon_type": "fixed",
+        "maturity_date": "2037-02-15",
+        "first_call_date": "2036-11-15",
+        "benchmark": "UST 5.000% due November 15, 2036",
+        "spread_bps": 88,
+        "yield_pct": 5.987,
+        "issue_price_pct": 99.731,
+        "seniority": "senior secured",
+        "pricing_quote": "Spread to Benchmark Treasury: +88 basis points, Re-offer Yield: 5.987%"
+      }
+    ]
+  }
+}

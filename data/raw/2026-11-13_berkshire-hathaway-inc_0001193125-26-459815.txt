@@ -1,0 +1,110 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1067983/000119312526459815/d127427dfwp.htm
+ISSUER (SEC filer): BERKSHIRE HATHAWAY INC
+FILED: 2026-11-13
+========================================
+FWP
+1
+d127427dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration Statement No. 333-284622
+Pricing Term Sheet
+¥182,300,000,000
+BERKSHIRE HATHAWAY INC.
+Pricing Term Sheet
+¥92,000,000,000 2.624% Senior Notes due 2029
+¥57,300,000,000 3.007% Senior Notes due 2031
+¥16,100,000,000 3.313% Senior Notes due 2033
+¥2,700,000,000 3.661% Senior Notes due 2036
+¥14,200,000,000 4.571% Senior Notes due 2056
+Issuer: | Berkshire Hathaway Inc.
+Offering Format: | SEC Registered
+Trade Date: | November 13, 2026
+Settlement Date: | November 19, 2026 (T+4 Tokyo business days)
+Expected Ratings*: | Aa2/AA (Stable/Stable)
+Title of Securities: | 2.624% Senior Notes due 2029 (the “2029 Notes”)
+3.007% Senior Notes due 2031 (the “2031 Notes”)
+3.313% Senior Notes due 2033 (the “2033 Notes”)
+3.661% Senior Notes due 2036 (the “2036 Notes”)
+4.571% Senior Notes due 2056 (the “2056 Notes”)
+Aggregate Principal Amount: | ¥92,000,000,000 (2029 Notes)
+¥57,300,000,000 (2031 Notes)
+¥16,100,000,000 (2033 Notes)
+¥2,700,000,000 (2036 Notes)
+¥14,200,000,000 (2056 Notes)
+Maturity Date: | November 29, 2029 (2029 Notes)
+December 8, 2031 (2031 Notes)
+November 29, 2033 (2033 Notes)
+December 8, 2036 (2036 Notes)
+November 29, 2056 (2056 Notes)
+Issue Price (Price to Public): | 100% of face amount (2029 Notes)
+100% of face amount (2031 Notes)
+100% of face amount (2033 Notes)
+100% of face amount (2036 Notes)
+100% of face amount (2056 Notes)
+Gross Spread: | 10 bps (2029 Notes)
+15 bps (2031 Notes)
+20 bps (2033 Notes)
+25 bps (2036 Notes) 55 bps (2056 Notes)
+Proceeds to Issuer: | ¥182,005,000,000
+Interest Rate: | 2.624% per annum (2029 Notes) 3.007% per annum
+(2031 Notes)
+3.313% per annum (2033 Notes) 3.661% per annum
+(2036 Notes) 4.571% per annum (2056 Notes)
+Reference Rate: | 2.024% (2029 Notes)
+2.257% (2031 Notes) 2.463% (2033 Notes) 2.761% (2036 Notes) 3.521% (2056 Notes)
+Spread to Reference Rate: | 60 bps (2029 Notes) 75 bps (2031
+Notes)
+85 bps (2033 Notes) 90 bps (2036 Notes) 105 bps (2056 Notes)
+Yield: | 2.624% (2029 Notes)
+3.007% (2031 Notes) 3.313% (2033 Notes) 3.661% (2036 Notes) 4.571% (2056 Notes)
+Day Count Convention: | 30/360
+Interest Payment Dates: | Semi-annually on May 29 and November 29 of each year commencing May 29, 2027 (and the Maturity Date)
+2.624% (2029 Notes)+ 3.007% (2031 Notes)+- 3.313% (2033 Notes)+ 3.661% (2036 Notes)+- 4.571% (2056 Notes)+
++ Long first coupon
+- Long last coupon
+2
+Par Call: | No Par Call (2029 Notes) No Par Call (2031
+Notes)
+No Par Call (2033 Notes)
+On or after September 8, 2036 (2036 Notes) No Par Call (2056 Notes)
+Minimum Denomination: | ¥100,000,000 and integral multiples of ¥10,000,000 in excess thereof
+CUSIP: | 084670 FJ2 (2029 Notes)
+084670 FK9 (2031 Notes) 084670 FL7
+(2033 Notes) 084670 FM5 (2036 Notes) 084670 FN3 (2056
+Notes)
+Common Code: | 356922751 (2029 Notes)
+356922808 (2031 Notes) 356922816
+(2033 Notes) 356922905 (2036 Notes) 356922956 (2056
+Notes)
+ISIN: | XS3569227518 (2029 Notes) XS3569228086 (2031
+Notes)
+XS3569228169 (2033 Notes)
+XS3569229050 (2036 Notes)
+XS3569229563 (2056 Notes)
+Paying Agent: | The Bank of New York Mellon, London Branch
+Listing: | None
+Joint Book-Running Managers: | Mizuho Securities USA LLC
+Merrill Lynch International
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+UK MiFIR professionals/ECPs-only/No EEA PRIIPs KID or UK PRIIPs KID/CCI product summary:
+Manufacturer target market (UK MiFIR product governance) is eligible counterparties and professional clients only (all distribution channels). No PRIIPs key information document (KID) and no UK PRIIPs KID/CCI product summary has been prepared as not
+available to retail investors in EEA or UK.
+Settlement Period: The closing will occur on November 19, 2026, which will be more than one Tokyo
+business day after the date of this pricing term sheet. Rule
+15c6-1
+under the Securities Exchange Act of 1934 generally requires that securities trades in the secondary market settle in one business day,
+unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade the notes prior to the business day before the delivery of the notes will be required, by virtue of the fact that the Securities initially will settle
+in T+4, to specify an alternative settlement cycle at the time of any such trade to prevent failed settlement. Purchasers of the notes who wish to trade the notes prior to the business day before the delivery of the notes should consult their own
+advisors.
+3
+The Issuer has filed a registration statement (including a prospectus) with the SEC for the offering to
+which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents the Issuer has filed with the SEC for more complete information about the Issuer and this offering. You may get
+these documents for free by visiting EDGAR on the SEC web site at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling Mizuho
+Securities USA LLC toll-free at (866)
+271-7403
+or Merrill Lynch International toll-free at
++1-800-294-1322.
+4

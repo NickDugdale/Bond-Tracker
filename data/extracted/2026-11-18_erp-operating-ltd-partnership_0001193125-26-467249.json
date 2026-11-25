@@ -1,0 +1,62 @@
+{
+  "source_file": "2026-11-18_erp-operating-ltd-partnership_0001193125-26-467249.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:14:43",
+  "usage": {
+    "input_tokens": 4561,
+    "output_tokens": 693
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "ERP Operating Limited Partnership",
+    "sector": "Industrials",
+    "trade_date": "2026-11-18",
+    "settlement_date": "2026-11-24",
+    "rating_moodys": "A3",
+    "rating_sp": "A",
+    "rating_fitch": null,
+    "bookrunners": [
+      "Morgan Stanley & Co. LLC",
+      "Wells Fargo Securities, LLC",
+      "BofA Securities, Inc.",
+      "Goldman Sachs & Co. LLC",
+      "J.P. Morgan Securities LLC",
+      "Barclays Capital Inc.",
+      "Deutsche Bank Securities Inc.",
+      "RBC Capital Markets, LLC",
+      "U.S. Bancorp Investments, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 400000000,
+        "coupon_pct": 5.6,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-12-01",
+        "first_call_date": null,
+        "benchmark": "UST 4.750% due October 31, 2031",
+        "spread_bps": 75,
+        "yield_pct": 5.631,
+        "issue_price_pct": 99.865,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +75 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 400000000,
+        "coupon_pct": 5.95,
+        "coupon_type": "fixed",
+        "maturity_date": "2036-12-01",
+        "first_call_date": null,
+        "benchmark": "UST 5.000% due November 15, 2036",
+        "spread_bps": 90,
+        "yield_pct": 5.962,
+        "issue_price_pct": 99.909,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +90 basis points"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1037868/000110465926128550/tm2629569d8_fwp.htm
+ISSUER (SEC filer): AMETEK INC/
+FILED: 2026-11-16
+========================================
+FWP
+1
+tm2629569d8_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Registration Statement File No. 333-299964
+Issuer Free Writing Prospectus dated November
+16, 2026
+Relating to Preliminary Prospectus Supplement
+dated November 12, 2026
+AMETEK, INC.
+C$600,000,000 4.500% Senior Notes due 2032
+Pricing Term Sheet
+Issuer: | AMETEK, Inc.
+Title of Securities: | 4.500% Senior Notes due 2032 (the “Notes”)
+Principal Amount: | C$600,000,000
+Maturity: | November 20, 2032
+Coupon (Interest Rate): | 4.500%
+Issue Price (Price to Public): | 99.943% of principal amount
+Benchmark Bond: | CAN 2.50% due December 1, 2032
+Spread to Benchmark Bond: | +89.8 basis points versus the applicable Benchmark Bond, which includes a curve adjustment of -0.2 basis points
+Benchmark Bond Price and Yield: | C$94.01; 3.613%
+Yield to Maturity: | 4.511%
+Government of Canada Curve: (“GoC Curve”) | CAN 2.00% due June 1, 2032 and CAN 2.50% due December 1, 2032
+Spread to GoC Curve: | +90 basis points
+Interest Payment Dates: | May 20 and November 20, commencing May 20, 2027
+Optional Redemption Provisions: | Prior to September 20, 2032 (the date that is two months prior to the scheduled maturity date of the Notes), greater of par and Canada Yield Price (as defined in the Issuer’s preliminary prospectus supplement dated November 12, 2026), using an applicable Canada Yield Spread of 22.5 basis points.
+At any time on or after September 20, 2032 (the date that is two months
+prior to the scheduled maturity date of the Notes), we may redeem the Notes at par. Accrued and unpaid interest, if any, will be paid up to, but excluding,
+the optional redemption date.
+Redemption for Tax Reasons: | As described in the Preliminary Prospectus Supplement dated November 12, 2026.
+Change of Control Offer: | As described in the Preliminary Prospectus Supplement dated November 12, 2026.
+Legal Format: | SEC-registered
+Trade Date: | November 16, 2026
+Settlement Date: | T+4; November 20, 2026
+Joint Book-Running Managers: | Merrill Lynch Canada Inc. J.P. Morgan Securities LLC Scotia Capital Inc. PNC Capital Markets LLC Truist Securities, Inc. Wells Fargo Securities Canada, Ltd.
+Co-Managers: | BNP Paribas Securities Corp. NatWest Markets Securities Inc. U.S. Bancorp Investments, Inc.
+CUSIP: | 031100AD2
+ISIN: | CA031100AD27
+Business Day Convention: | “Business Day” means any day that is not a Saturday or Sunday and that is neither a legal holiday nor a day on which banking institutions are authorized or required by law, regulation or executive order to close in New York, New York, United States or in Toronto, Ontario, Canada.
+Following Business Day Convention: | If a date for payment of principal or interest on the Notes or the maturity date of the Notes falls on a day that is not a Business Day, the related payment of principal or interest will be made on the next succeeding Business Day as if made on the date the payment was due. In that case, no interest will accrue on or be payable for the period from and after the original payment date to such next succeeding Business Day.
+Day Count Convention: | 30/360 for full semi-annual interest periods; Actual/365 (Fixed) for any interest period that is not a full semi-annual interest period (Actual/Actual Canadian Compound Method).
+Denominations: | C$2,000 and integral multiples of C$1,000 in excess thereof.
+Form of Distribution in the United States: | The distribution of the Notes is being made pursuant to registration with the SEC under the Securities Act of 1933, as amended.
+Form of Distribution in Canada: | The distribution of the Notes is being made on a private placement basis to purchasers in each of the provinces of Canada (the “Offering Jurisdictions”) under a Canadian offering memorandum dated November 16, 2026 (the “Canadian Offering Memorandum”), which will include the prospectus dated November 10, 2026, as supplemented by the final prospectus supplement of the Issuer to be dated November 16, 2026, that forms part of the registration statement filed with the U.S. Securities and Exchange Commission (the “SEC”). The distribution will be made in reliance on statutory exemptions from the prospectus requirements of Canadian securities laws applicable in each of the Offering Jurisdictions and, in particular, the Notes will only be sold in the Offering Jurisdictions pursuant to the “accredited investor exemption” (as defined in National Instrument 45-106 - Prospectus Exemptions (“NI 45-106”)) to purchasers that are “accredited investors” (as such term is defined in NI 45-106 or Section 73.3 of the Securities Act (Ontario), as applicable), who purchase the Notes as principal (or are deemed to be purchasing as principal) and that are also “permitted clients” (as such term is defined in National Instrument 31-103 - Registration Requirements, Exemptions and Ongoing Registrant Obligations).
+Resale Restrictions in Canada: | Resale of the Notes in Canada must be made in accordance with, or in
+a transaction not subject to, applicable Canadian securities laws which may require resales to be made in accordance with prospectus and
+dealer registration requirements or exemptions from the prospectus and dealer registration requirements. Canadian purchasers are advised
+to seek legal advice prior to any resale of the Notes, both within and outside of Canada. Except in the Province of Manitoba, unless permitted under Canadian
+securities legislation, a holder of the Notes must not trade the Notes before the date that is four months and one day after the later
+of (i) the date of distribution, and (ii) the date the issuer becomes a reporting issuer in any province or territory of Canada. In the
+Province of Manitoba, unless otherwise permitted under applicable Canadian securities legislation or with the prior written consent of
+the applicable regulator, a holder of the Notes must not trade the security before the date that is twelve months and a day after the
+date the holder acquired the security. The Issuer is not presently, and does not intend to become, a “reporting
+issuer”, as such term is defined under applicable Canadian securities laws, in any province or territory of Canada. The Issuer’s
+securities are not listed on any stock exchange or automated dealer quotation system in Canada and the Issuer does not intend to apply
+to list the Notes on any stock exchange or automated dealer quotation system in Canada.
+Governing Law: | New York
+Settlement / Form: | CDS Clearing and Depository Services Inc. / Book Entry (Global Note). Investors may hold their notes outside Canada through Clearstream Banking, S.A. (“Clearstream”) and Euroclear Bank S.A./N.V. (“Euroclear”) if they are participants in those systems, or indirectly through organizations that are participants in those systems. Notes sold to U.S. persons will be delivered only through Clearstream or Euroclear.
+Trustee: | U.S. Bank Trust Company, National Association
+Paying Agent: | Computershare Trust Company of Canada
+Issuer Ratings (Moody’s / S&P): | A3 (Stable outlook) / BBB+ (Positive outlook)
+Expected Ratings (Moody’s / S&P)*: | A3 / BBB+
+* | A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+The underwriters expect to deliver the securities to purchasers
+on or about November 20, 2026, which will be the fourth business day following the date of pricing of the securities (such settlement
+cycle being herein referred to as “T+4”). Under Rule 15c6-1 of the Securities Exchange Act of 1934, as amended, trades in
+the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise.
+Accordingly, purchasers who wish to trade the securities prior to the business day before the delivery of the securities will be required,
+by virtue of the fact that the securities initially will settle in T+4, to specify an alternate settlement cycle at the time of any such
+trade to prevent a failed settlement. Purchasers of the securities who wish to trade the securities prior to the business day before the
+delivery of the securities should consult their own advisor.
+No key information document (“KID”) under Regulation
+(EU) No. 1286/2014 (as amended, the “PRIIPs Regulation”) or disclosure document required by the FCA Product Disclosure Sourcebook
+(“DISC”) has been prepared as the Notes are not available to retail investors in the European Economic Area (the “EEA”)
+or the United Kingdom (“UK”).
+To the extent any underwriter that is not a U.S. registered broker-dealer
+intends to effect sales of the Notes in the United States, it will do so through one or more U.S. registered broker dealers in accordance
+with the applicable U.S. securities laws and regulations.
+The foregoing description of some of the terms of the Notes is not
+complete and is subject to, and qualified in its entirety by, reference to the Issuer’s preliminary prospectus supplement dated
+November 12, 2026 (the “Preliminary Prospectus Supplement”) and the accompanying base prospectus dated November 10, 2026 (the
+“Base Prospectus”) and the Issuer’s preliminary Canadian offering memorandum dated November 12, 2026, as applicable,
+which includes the Preliminary Prospectus Supplement and the Base Prospectus (collectively the “Preliminary Canadian Offering Memorandum”),
+and the documents incorporated and deemed to be incorporated by reference therein. Capitalized terms used but not defined herein shall
+have the meanings ascribed thereto in the Preliminary Prospectus Supplement, the Base Prospectus or the Preliminary Canadian Offering
+Memorandum. Prospective purchasers should review the Preliminary Prospectus Supplement, the Base Prospectus and the Preliminary Canadian
+Offering Memorandum, as applicable, for a more detailed description of some of the terms of the Notes. No person has been authorized to
+make any representation in connection with the offering other than as contained or incorporated by reference in the preliminary prospectus
+supplement, the Base Prospectus and the Preliminary Canadian Offering Memorandum, and the Issuer and the underwriters take no responsibility
+for, and can provide no assurance as to the reliability of, any other information that others may give you.
+The issuer has filed a registration statement (including a prospectus)
+with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration
+statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You
+may get these documents for free by visiting EDGAR on the SEC’s website at www.sec.gov.
+Alternatively, the issuer, any underwriter or any dealer participating
+in the offering will arrange to send you the prospectus if you request it by calling Merrill Lynch Canada Inc. toll-free at +1-800-294-1322,
+J.P. Morgan Securities LLC toll-free at +1-212-834-4533 or Scotia Capital Inc. toll-free at +1-416-863-7776.
+Any disclaimers or other notices that may appear below are not applicable
+to this communication and should be disregarded. Such disclaimers or other notices were automatically generated as a result of this communication
+being sent via Bloomberg or another email system.

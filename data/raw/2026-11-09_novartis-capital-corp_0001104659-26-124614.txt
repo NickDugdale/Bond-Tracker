@@ -1,0 +1,203 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1443411/000110465926124614/tm2629242d5_fwp.htm
+ISSUER (SEC filer): Novartis Capital CORP
+FILED: 2026-11-09
+========================================
+FWP
+1
+tm2629242d5_fwp.htm
+FWP
+Filed Pursuant
+to Rule 433
+Registration Nos. 333-282133 and 333-282133-01
+November 9,
+2026
+PRICING TERM SHEET
+Novartis Capital Corporation
+4.900% Notes due 2029
+5.200% Notes due 2032
+5.300% Notes due 2034
+5.500
+%
+Notes due 2037
+Fully and unconditionally guaranteed by
+Novartis AG
+4.900% Notes due 2029 (the “2029 Notes”) :
+Issuer : | Novartis Capital Corporation
+Guarantor : | Novartis AG
+Size : | $500,000,000
+Maturity Date : | November 12, 2029
+Coupon : | 4.900%
+Interest Payment Dates : | May 12 and November 12, commencing May 12, 2027
+Price to Public : | 99.846%
+Benchmark Treasury : | 4.875% due October 15, 2029
+Benchmark Treasury Price and Yield : | 100-23 ¼ / 4.606%
+Spread to Benchmark Treasury : | 35 bps
+1
+Yield : | 4.956%
+Optional Redemption : | Prior to October 12, 2029 (the date that is one month prior to
+the scheduled maturity date of the 2029 Notes) (the “2029 Par Call Date”), the Issuer may redeem the 2029 Notes, in whole
+or in part, at our option, at any time and from time to time at a redemption price (expressed as a percentage of principal amount and
+rounded to three decimal places) equal to the greater of: (1) (a) the
+sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming
+the 2029 Notes matured on the 2029 Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months)
+at the Treasury Rate (as defined in the prospectus supplement) plus 10 bps, less (b) interest accrued to the date of redemption,
+and (2) 100%
+of the principal amount of the 2029 Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption
+date. On or after the 2029 Par Call Date the Issuer may redeem the 2029 Notes,
+in whole or in part, at any time and from time to time at a redemption price equal to 100% of the principal amount of the 2029 Notes to
+be redeemed on the applicable redemption date plus accrued and unpaid interest thereon to the redemption date.
+2
+Optional Redemption for Tax Reasons : | In the event of changes in withholding taxes applicable to payments under or with respect to the 2029 Notes or certain intercompany loans in Switzerland or another Relevant Taxing Jurisdiction (as defined and provided for in the prospectus supplement), the Issuer may redeem the 2029 Notes in whole (but not in part) at any time, at a price equal to 100% of their principal amount plus accrued and unpaid interest to, but excluding, the redemption date.
+Payment of Additional Amounts : | In the event that the Issuer is required to withhold or deduct from payments on the Notes (as defined herein) taxes imposed by Switzerland or another Relevant Taxing Jurisdiction, the Issuer will, subject to certain exceptions, pay such additional amounts as will result, after withholding or deduction of such taxes, in the receipt by the holders of the amounts that would have been received had no withholding or deduction been required. Notwithstanding the foregoing, the Issuer shall not be required to pay any additional amounts with respect to any withholding taxes imposed by the United States or by any political subdivision, territory or possession thereof.
+CUSIP : | 66989H BP2
+ISIN : | US66989HBP29
+Trade Date : | November 9, 2026
+Expected Settlement Date :* | November 12, 2026 (T+2)
+Listing : | None
+Anticipated Ratings :** | Aa3 by Moody’s Ratings AA- by S&P Global Ratings
+Joint Book-Running Managers : | Barclays Capital Inc. BofA Securities, Inc. Goldman Sachs & Co. LLC SG Americas Securities, LLC Citigroup Global Markets Inc. HSBC Securities (USA) Inc. Mizuho Securities USA LLC J.P. Morgan Securities LLC
+Co-Managers: | BNP Paribas Securities Corp. Deutsche Bank Securities Inc.
+3
+5.200% Notes due 2032 (the “2032 Notes”) :
+Issuer : | Novartis Capital Corporation
+Guarantor : | Novartis AG
+Size : | $1,500,000,000
+Maturity Date : | February 12, 2032
+Coupon : | 5.200%
+Interest Payment Dates : | February 12 and August 12, commencing February 12, 2027
+Price to Public : | 99.945%
+Benchmark Treasury : | 4.750% due October 31, 2031
+Benchmark Treasury Price and Yield : | 100-12 / 4.664%
+Spread to Benchmark Treasury : | 55 bps
+Yield : | 5.214%
+Optional Redemption : | Prior to January 12, 2032 (the date that is one month prior to
+the scheduled maturity date of the 2032 Notes) (the “2032 Par Call Date”), the Issuer may redeem the 2032 Notes, in whole
+or in part, at our option, at any time and from time to time at a redemption price (expressed as a percentage of principal amount and
+rounded to three decimal places) equal to the greater of: (1) (a) the
+sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming
+the 2032 Notes matured on the 2032 Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months)
+at the Treasury Rate plus 10 bps, less (b) interest accrued to the date of redemption, and
+4
+(2) 100%
+of the principal amount of the 2032 Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption
+date. On or after the 2032 Par Call Date the Issuer may redeem the 2032 Notes,
+in whole or in part, at any time and from time to time at a redemption price equal to 100% of the principal amount of the 2032 Notes to
+be redeemed on the applicable redemption date plus accrued and unpaid interest thereon to the redemption date.
+Optional Redemption for Tax Reasons : | In the event of changes in withholding taxes applicable to payments under or with respect to the 2032 Notes or certain intercompany loans in Switzerland or another Relevant Taxing Jurisdiction (as defined and provided for in the prospectus supplement), the Issuer may redeem the 2032 Notes in whole (but not in part) at any time, at a price equal to 100% of their principal amount plus accrued and unpaid interest to, but excluding, the redemption date.
+Payment of Additional Amounts : | In the event that the Issuer is required to withhold or deduct from payments on the Notes (as defined herein) taxes imposed by Switzerland or another Relevant Taxing Jurisdiction, the Issuer will, subject to certain exceptions, pay such additional amounts as will result, after withholding or deduction of such taxes, in the receipt by the holders of the amounts that would have been received had no withholding or deduction been required. Notwithstanding the foregoing, the Issuer shall not be required to pay any additional amounts with respect to any withholding taxes imposed by the United States or by any political subdivision, territory or possession thereof.
+CUSIP : | 66989H BQ0
+5
+ISIN : | US66989HBQ02
+Trade Date : | November 9, 2026
+Expected Settlement Date :* | November 12, 2026 (T+2)
+Listing : | None
+Anticipated Ratings :** | Aa3 by Moody’s Ratings AA- by S&P Global Ratings
+Joint Book-Running Managers : | Barclays Capital Inc. BofA Securities, Inc. Goldman Sachs & Co. LLC SG Americas Securities, LLC Citigroup Global Markets Inc. HSBC Securities (USA) Inc. Mizuho Securities USA LLC J.P. Morgan Securities LLC
+Co-Managers: | BNP Paribas Securities Corp. Deutsche Bank Securities Inc.
+6
+5.300% Notes due 2034 (the “2034 Notes”) :
+Issuer : | Novartis Capital Corporation
+Guarantor : | Novartis AG
+Size : | $1,750,000,000
+Maturity Date : | February 12, 2034
+Coupon : | 5.300%
+Interest Payment Dates : | February 12 and August 12, commencing February 12, 2027
+Price to Public : | 99.433%
+Benchmark Treasury : | 4.875% due October 31, 2033
+Benchmark Treasury Price and Yield : | 100-24 / 4.747%
+Spread to Benchmark Treasury : | 65 bps
+Yield : | 5.397%
+Optional Redemption : | Prior to December 12, 2033 (the date that is two months prior
+to the scheduled maturity date of the 2034 Notes) (the “2034 Par Call Date”), the Issuer may redeem the 2034 Notes, in whole
+or in part, at our option, at any time and from time to time at a redemption price (expressed as a percentage of principal amount and
+rounded to three decimal places) equal to the greater of: (1) (a) the
+sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming
+the 2034 Notes matured on the 2034 Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months)
+at the Treasury Rate plus 10 bps, less (b) interest accrued to the date of redemption, and
+7
+(2) 100%
+of the principal amount of the 2034 Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption
+date. On or after the 2034 Par Call Date the Issuer may redeem the 2034 Notes,
+in whole or in part, at any time and from time to time at a redemption price equal to 100% of the principal amount of the 2034 Notes to
+be redeemed on the applicable redemption date plus accrued and unpaid interest thereon to the redemption date.
+Optional Redemption for Tax Reasons : | In the event of changes in withholding taxes applicable to payments under or with respect to the 2034 Notes or certain intercompany loans in Switzerland or another Relevant Taxing Jurisdiction (as defined and provided for in the prospectus supplement), the Issuer may redeem the 2034 Notes in whole (but not in part) at any time, at a price equal to 100% of their principal amount plus accrued and unpaid interest to, but excluding, the redemption date.
+Payment of Additional Amounts : | In the event that the Issuer is required to withhold or deduct from payments on the Notes (as defined herein) taxes imposed by Switzerland or another Relevant Taxing Jurisdiction, the Issuer will, subject to certain exceptions, pay such additional amounts as will result, after withholding or deduction of such taxes, in the receipt by the holders of the amounts that would have been received had no withholding or deduction been required. Notwithstanding the foregoing, the Issuer shall not be required to pay any additional amounts with respect to any withholding taxes imposed by the United States or by any political subdivision, territory or possession thereof.
+CUSIP : | 66989H BR8
+8
+ISIN : | US66989HBR84
+Trade Date : | November 9, 2026
+Expected Settlement Date :* | November 12, 2026 (T+2)
+Listing : | None
+Anticipated Ratings :** | Aa3 by Moody’s Ratings AA- by S&P Global Ratings
+Joint Book-Running Managers : | Barclays Capital Inc. BofA Securities, Inc. Goldman Sachs & Co. LLC SG Americas Securities, LLC Citigroup Global Markets Inc. HSBC Securities (USA) Inc. Mizuho Securities USA LLC J.P. Morgan Securities LLC
+Co-Managers: | BNP Paribas Securities Corp. Deutsche Bank Securities Inc.
+9
+5.500% Notes due 2037 (the “2037 Notes”) :
+Issuer : | Novartis Capital Corporation
+Guarantor : | Novartis AG
+Size : | $1,750,000,000
+Maturity Date : | February 12, 2037
+Coupon : | 5.500%
+Interest Payment Dates : | February 12 and August 12, commencing February 12, 2027
+Price to Public : | 99.576%
+Benchmark Treasury : | 4.625% due August 15, 2036
+Benchmark Treasury Price and Yield : | 98-6 ¾ / 4.856%
+Spread to Benchmark Treasury : | 70 bps
+Yield : | 5.556%
+Optional Redemption : | Prior to November 12, 2036 (the date that is three months prior
+to the scheduled maturity date of the 2037 Notes) (the “2037 Par Call Date”), the Issuer may redeem the 2037 Notes, in whole
+or in part, at our option, at any time and from time to time at a redemption price (expressed as a percentage of principal amount and
+rounded to three decimal places) equal to the greater of: (1) (a) the
+sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming
+the 2037 Notes matured on the 2037 Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months)
+at the Treasury Rate plus 15 bps, less (b) interest accrued to the date of redemption, and
+10
+(2) 100%
+of the principal amount of the 2037 Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption
+date. On or after the 2037 Par Call Date the Issuer may redeem the 2037 Notes,
+in whole or in part, at any time and from time to time at a redemption price equal to 100% of the principal amount of the 2037 Notes to
+be redeemed on the applicable redemption date plus accrued and unpaid interest thereon to the redemption date.
+Optional Redemption for Tax Reasons : | In the event of changes in withholding taxes applicable to payments under or with respect to the 2037 Notes or certain intercompany loans in Switzerland or another Relevant Taxing Jurisdiction (as defined and provided for in the prospectus supplement), the Issuer may redeem the 2037 Notes in whole (but not in part) at any time, at a price equal to 100% of their principal amount plus accrued and unpaid interest to, but excluding, the redemption date.
+Payment of Additional Amounts : | In the event that the Issuer is required to withhold or deduct from payments on the Notes (as defined herein) taxes imposed by Switzerland or another Relevant Taxing Jurisdiction, the Issuer will, subject to certain exceptions, pay such additional amounts as will result, after withholding or deduction of such taxes, in the receipt by the holders of the amounts that would have been received had no withholding or deduction been required. Notwithstanding the foregoing, the Issuer shall not be required to pay any additional amounts with respect to any withholding taxes imposed by the United States or by any political subdivision, territory or possession thereof.
+CUSIP : | 66989H BS6
+11
+ISIN : | US66989HBS67
+Trade Date : | November 9, 2026
+Expected Settlement Date :* | November 12, 2026 (T+2)
+Listing : | None
+Anticipated Ratings :** | Aa3 by Moody’s Ratings AA- by S&P Global Ratings
+Joint Book-Running Managers : | Barclays Capital Inc. BofA Securities, Inc. Goldman Sachs & Co. LLC SG Americas Securities, LLC Citigroup Global Markets Inc. HSBC Securities (USA) Inc. Mizuho Securities USA LLC J.P. Morgan Securities LLC
+Co-Managers: | BNP Paribas Securities Corp. Deutsche Bank Securities Inc.
+12
+* Note: Under Rule 15c6-1 under the Securities Exchange Act of
+1934, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly
+agree otherwise. Accordingly, purchasers who wish to trade the 2029 Notes, the 2032 Notes, the 2034 Notes or the 2037 Notes (collectively,
+the “Notes”) on the date hereof will be required, by virtue of the fact that the Notes initially will not settle in T+1, to
+specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to
+trade such Notes on the date of pricing of the Notes sold in this offering should consult their own advisor.
+** Note: A securities rating is not a recommendation to buy, sell or
+hold securities and may be subject to revision or withdrawal at any time.
+The
+issuer and the guarantor have filed a registration statement
+(
+including a prospectus and a prospectus supplement
+)
+with
+the Securities and Exchange Commission (the “SEC”) for the offering to which this communication relates. Before you invest
+,
+you should read the prospectus supplement and the accompanying prospectus in that registration statement and other documents the issuer
+and the guarantor have filed with the SEC for more complete information about the issuer
+,
+the guarantor and this offering. You
+may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively
+,
+the issuer
+,
+any underwriter
+or any dealer participating in the offering will arrange to send you the prospectus supplement and the accompanying prospectus if you
+request it by calling Barclays Capital Inc. at +1-888-603-5847, BofA Securities, Inc. at +1-800-294-1322, Goldman Sachs &
+Co. LLC at +1-866-471-2526 or SG Americas Securities, LLC at +1-855-881-2108.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE
+NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT
+OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER E-MAIL SYSTEM.
+13

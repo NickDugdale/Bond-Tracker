@@ -1,0 +1,70 @@
+{
+  "source_file": "2026-11-13_international-business-machines-corp_0001104659-26-127130.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:13:01",
+  "usage": {
+    "input_tokens": 5008,
+    "output_tokens": 823
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "International Business Machines Corporation",
+    "sector": "Technology",
+    "trade_date": "2026-11-13",
+    "settlement_date": "2026-11-19",
+    "rating_moodys": "A3",
+    "rating_sp": "A-",
+    "rating_fitch": "A-",
+    "bookrunners": [
+      "Mizuho Securities USA LLC",
+      "MUFG Securities EMEA plc",
+      "SMBC Nikko Securities America, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "JPY",
+        "principal_amount": 66300000000,
+        "coupon_pct": 2.869,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-11-19",
+        "first_call_date": null,
+        "benchmark": "TONA-based Yen Mid Swaps",
+        "spread_bps": 85,
+        "yield_pct": 2.869,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "2029 Notes: +85 bps"
+      },
+      {
+        "currency": "JPY",
+        "principal_amount": 28700000000,
+        "coupon_pct": 3.25,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-11-19",
+        "first_call_date": "2031-10-19",
+        "benchmark": "TONA-based Yen Mid Swaps",
+        "spread_bps": 100,
+        "yield_pct": 3.25,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "2031 Notes: +100 bps"
+      },
+      {
+        "currency": "JPY",
+        "principal_amount": 13800000000,
+        "coupon_pct": 3.61,
+        "coupon_type": "fixed",
+        "maturity_date": "2033-11-18",
+        "first_call_date": "2033-09-18",
+        "benchmark": "TONA-based Yen Mid Swaps",
+        "spread_bps": 115,
+        "yield_pct": 3.61,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "2033 Notes: +115 bps"
+      }
+    ]
+  }
+}

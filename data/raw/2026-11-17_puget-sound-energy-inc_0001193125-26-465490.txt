@@ -1,0 +1,68 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/81100/000119312526465490/d117384dfwp.htm
+ISSUER (SEC filer): PUGET SOUND ENERGY INC
+FILED: 2026-11-17
+========================================
+FWP
+1
+d117384dfwp.htm
+FWP
+FWP
+Filed pursuant to Rule 433
+Registration Statement
+No. 333-289101
+November 17, 2026
+Puget Sound Energy, Inc.
+$400,000,000 5.949% Senior Notes due 2036
+PRICING TERM SHEET
+Issuer: | Puget Sound Energy, Inc. (the “Issuer”)
+Anticipated Ratings*: | A2 (stable)/ A- (stable)/ A (stable) (Moody’s/S&P/Fitch)
+Trade Date: | November 17, 2026
+Settlement Date**: | November 20, 2026 (T+3)
+Issue: | 5.949% Senior Notes due 2036 (the “Notes”)
+Security: | So long as the Notes remain outstanding, the Notes will be secured by first mortgage bonds issued under our electric utility mortgage.
+Principal Amount: | $400,000,000
+Maturity Date: | November 15, 2036
+Benchmark Treasury: | 5.000% due November 15, 2036
+Treasury Price: | 99-07+
+Treasury Yield: | 5.099%
+Spread to Benchmark: | T+85 basis points
+Reoffer Yield: | 5.949%
+Issue Price: | 100.000% of the principal amount of the Notes
+Coupon: | 5.949%
+Interest Payment Dates: | Semi-annually on May 15 and November 15, commencing on May 15, 2027
+Optional Redemption: | Prior to August 15, 2036 (three months prior to the maturity date of the Notes) (the “Par Call Date”) the Issuer may redeem the Notes at its option, in whole or in part, at any time and from time to time, at a
+redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (1)(a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to
+the redemption date (assuming the Notes matured on the Par Call Date) on a semi-annual basis
+(assuming a 360-day year consisting of twelve 30-day months)
+at the Treasury Rate +15 bps less (b) interest accrued to the redemption date; and (2) 100% of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to, but excluding, the redemption
+date. At any time on or after the Par Call Date, the Issuer may redeem the Notes at
+its option, in whole or in part, at any time and from time to time, at par, plus accrued and unpaid interest thereon to, but excluding, the redemption date.
+Tax Credit Event Redemption: | If a Tax Credit Event occurs, the Issuer may redeem, at its option, the Notes in whole but not in part, at a redemption price equal to 101% of the principal amount of the Notes being redeemed, plus accrued and unpaid interest to but
+excluding the redemption date (any notice of redemption may be sent only by the later of (a) the end of the calendar year in which the Notes were issued and (b) six months from the date of issuance).
+Joint Book-Running Managers: | BofA Securities, Inc. Scotia Capital (USA)
+Inc. U.S. Bancorp Investments, Inc. MUFG Securities Americas
+Inc. TD Securities (USA) LLC
+Co-Manager: | M&T Securities, Inc.
+CUSIP/ISIN: | 745332 CQ7 / US745332CQ72
+* | Note : A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+** | We expect to deliver the Notes against payment for the Notes on or about November 20, 2026, which will be
+the third business day following the date of the pricing of the Notes. Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required to settle
+in one business day, unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade Notes prior to the first business day before delivery of the Notes will be required, by virtue of the fact that the Notes
+initially will settle in T+3, to specify alternative settlement arrangements to prevent a failed settlement. Purchasers of the Notes who wish to trade the Notes prior to the first business day before delivery of the Notes should consult their own
+advisors.
+2
+The issuer has filed a registration statement (including a prospectus) with the U.S. Securities and Exchange
+Commission (SEC) for this offering. Before you invest, you should read the prospectus for this offering in that registration statement, and other documents the issuer has filed with the SEC for more complete information about the issuer and this
+offering. You may get these documents for free by searching the SEC online database (EDGAR
+®
+) at
+www.sec.gov.
+Alternatively, you may obtain a copy of the prospectus and prospectus
+supplement if you request it by calling BofA Securities, Inc. toll-free at (800)
+294-1322
+or by email at dg.prospectus_requests@bofa.com, Scotia Capital (USA) Inc. toll-free at (800)
+372-3930
+or U.S. Bancorp Investments, Inc. toll-free at (877)
+558-2607.
+3

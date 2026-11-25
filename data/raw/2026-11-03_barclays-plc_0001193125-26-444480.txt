@@ -1,0 +1,189 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/312069/000119312526444480/d176244dfwp.htm
+ISSUER (SEC filer): BARCLAYS PLC
+FILED: 2026-11-03
+========================================
+FWP
+1
+d176244dfwp.htm
+FWP
+FWP
+Free Writing Prospectus Filed pursuant to Rule 433 Registration Statement No. 333-277578
+£750,000,000 8.625% Fixed Rate Resetting Perpetual Subordinated Contingent
+Convertible Securities
+Barclays PLC
+Pricing Term Sheet
+Issuer | Barclays PLC (the “Issuer”).
+Securities | £750,000,000 8.625% Fixed Rate Resetting Perpetual Subordinated Contingent Convertible Securities (the
+“Securities”).
+Expected Issue Ratings 1 | Ba1 (Moody’s) / BB+ (S&P) / BBB- (Fitch).
+Status | Perpetual Subordinated Contingent Convertible Securities.
+Legal Format | SEC registered.
+Principal Amount | £750,000,000.
+Trade Date | November 2, 2026.
+Settlement Date | November 9, 2026 (T+5) (the “Issue Date”).
+Maturity Date | Perpetual, with no fixed maturity or fixed redemption date.
+Optional Call Dates | On any day falling in the period commencing on (and including) September 15, 2033 and ending on (and including) the
+first Reset Date (as defined below) or on any day falling in the period commencing on (and including) the date that is six months before any subsequent Reset Date and ending on (and including) such Reset Date.
+Preliminary Prospectus Supplement | Preliminary prospectus supplement dated November 2, 2026 (the “Preliminary Prospectus Supplement”)
+incorporating the Prospectus dated March 1, 2024 relating to the Securities (the “Base Prospectus”). If there is any discrepancy or contradiction between this Pricing Term Sheet and the Preliminary Prospectus Supplement, this
+Pricing Term Sheet shall prevail.
+U.K. Bail-in Power Acknowledgment | Yes. See the section entitled “ Description of Contingent Capital Securities—Agreement with Respect to the
+Exercise of U.K. Bail-in Power ” in the Base Prospectus and the section entitled “ Description of Fixed Rate Resetting Perpetual Subordinated Contingent Convertible Securities—Agreement
+with Respect to the Exercise of U.K. Bail-in Power ” in the Preliminary Prospectus Supplement.
+Initial Interest Period
+Initial Fixed Rate | 8.625% per annum, from and including November 9, 2026 to, but excluding, March 15, 2034.
+Initial Interest Payment Dates | Quarterly in arrear on March 15, June 15, September 15 and December 15 of each year up to and including
+March 15, 2034, commencing on March 15, 2027 (long first interest period).
+Mid-Market Swap Rate | 7yr: 4.686% 8yr: 4.713%
+Interpolated Mid-Market Swap Rate | 4.696%
+1
+Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+Interest Periods Following Any Reset Date
+Interest Rate Following Any Reset Date | The applicable Mid-Market Swap Rate (such term subject to the provisions described
+under “ Description of Fixed Rate Resetting Perpetual Subordinated Contingent Convertible Securities — Determination of Subsequent Interest Rate — Mid-Market Swap Rate and
+fallbacks ” in the Preliminary Prospectus Supplement) on the relevant Reset Determination Date (as defined below) plus the Margin (as defined below), converted to a quarterly rate in accordance with market convention as instructed by the
+Issuer (rounded to three decimal places, with 0.0005 rounded down) (the “Subsequent Interest Rate”), from and including the relevant Reset Date to (but excluding) the next following Reset Date (each such period, a “Reset
+Period”).
+Reset Date | March 15, 2034 and each fifth anniversary thereafter (each a “Reset Date”).
+Interest Payment Dates Following Any Reset Date | Quarterly in arrear on March 15, June 15, September 15 and December 15 of each year commencing on
+June 15, 2034.
+Spread to Mid-Market Swap Rate | 421.0 bps (the “Margin”).
+Reset Determination Date | The second Payment Business Day immediately preceding each Reset Date (each a “Reset Determination
+Date”).
+Mid-Market Swap Rate and fallbacks | “Mid-Market Swap Rate” means, in relation to a Reset Date and the related
+Reset Determination Date: (i) the annual sterling mid-market swap rate with a term
+of five years where the floating leg pays daily compounded Sterling Overnight Index Average (“SONIA”) annually, which is calculated and published by ICE Benchmark Administration Limited (or any other person which takes over the
+administration of that rate) and appearing on the Bloomberg screen page BPISDS05 (or such other page as may replace such page on Bloomberg, or such other information service as may be nominated or authorized by the person providing or sponsoring the
+information appearing on such page for purposes of displaying comparable rates) (the “Relevant Screen Page”) at approximately 11.00 a.m. (London time) on the relevant Reset Determination Date, as determined by the Calculation Agent;
+and (ii) if the Relevant Screen Page is not available or such swap rate does not appear on
+the Relevant Screen Page at such time on such Reset Determination Date (in circumstances other than those in which the Issuer has determined that a Benchmark Event has occurred or that there is a Successor Rate, as set out in the provisions
+described under “ Description of Fixed Rate Resetting Perpetual Subordinated Contingent Convertible Securities—Determination of Subsequent Interest Rate— Benchmark Replacement Event ” in the Preliminary Prospectus
+Supplement), then the Mid-Market Swap Rate shall be the Reset Reference Bank Rate on such Reset Determination Date.
+-2-
+Reset Reference Bank Rate | “Reset Reference Bank Rate” means, in relation to a Reset Date and the related Reset Determination Date, the
+percentage rate determined by the Calculation Agent on the basis of the Five-year Mid-Market Swap Rate Quotations provided by each of the Reference Banks at approximately 11:00 a.m. (London time) on the
+relevant Reset Determination Date (or thereafter on such date), rounded, if necessary, to the nearest 0.001% (with 0.0005% being rounded upwards). If at least three Five-year Mid-Market Swap Rate Quotations
+are provided, the Reset Reference Bank Rate will be the arithmetic mean of such Five-year Mid-Market Swap Rate Quotations, eliminating the highest quotation (or, in the event of equality, one of the highest)
+and the lowest quotation (or, in the event of equality, one of the lowest). If only two Five-year Mid-Market Swap Rate Quotations are provided, the Reset Reference Bank Rate will be the arithmetic mean of such
+Five-year Mid-Market Swap Rate Quotations. If only one Five-year Mid-Market Swap Rate Quotation is provided, the Reset Reference Bank Rate will be the quotation
+provided. If no Five-year Mid-Market Swap Rate Quotations are provided, the Reset Reference Bank Rate will be (i) in respect of the Reset Reference Bank Rate determined in respect of the Reset Date
+falling on March 15, 2034, 4.656% per annum or (ii) in respect of the Reset Reference Bank Rate determined in respect of any Reset Date other than March 15, 2034, the Mid-Market Swap Rate in
+respect of the immediately preceding Reset Date.
+Five-year Mid-Market Swap Rate Quotations | “Five-year Mid-Market Swap Rate Quotations” means, for any Reset Period,
+the arithmetic mean of the bid and offered rates for the annual fixed leg (calculated on an Actual/365 (Fixed) day count basis) of a fixed-for-floating sterling interest
+rate swap transaction which: (i) has a term of five years commencing on the applicable Reset Date; (ii) is
+in an amount that is representative of a single transaction in the relevant market at the relevant time with an acknowledged dealer of good credit in the swap market; and (iii) has a floating leg based on the overnight SONIA rate compounded for 12-months (calculated on an Actual/365 (Fixed) day count basis).
+Reference Banks | “Reference Banks” means four major banks in the sterling swap, money, securities or other market most closely
+connected with the relevant Mid-Market Swap Rate, as selected by the Issuer on the advice of an investment bank of international repute.
+Certain Other Terms and Information
+Currency of Payments | Initial holders of the Securities will be required to pay for the Securities in sterling and principal and interest
+payments in respect of the Securities will be payable in sterling. If, on any date on which a payment in respect of the Securities is contemplated, sterling is unavailable to us due to the imposition of exchange controls or other circumstances
+beyond our control or is no longer used for the settlement of transactions by public institutions within the international banking community, then all payments in respect of the Securities will be made in U.S. dollars until sterling is again
+available to us or so used, in accordance with the provisions described under “ Description of Fixed Rate Resetting Perpetual Subordinated Contingent Convertible Securities — Currency of Payments ” of the Preliminary
+Prospectus Supplement.
+Day Count Fraction | Actual/Actual (ICMA).
+Business Days | Any weekday, other than one on which banking institutions are authorized or obligated by law, regulation or executive order
+to close in London, U.K.
+Interest Payments Discretionary | Interest on the Securities will be due and payable only at the sole discretion of the Issuer, as described under
+“ Description of Fixed Rate Resetting Perpetual Subordinated Contingent Convertible Securities—Interest Cancellation—Interest Payments Discretionary ” in the Preliminary Prospectus Supplement.
+Restriction on Interest Payments | As described in the Preliminary Prospectus Supplement, the Issuer shall not make an interest payment on the Securities on any
+interest payment date (and such interest payment shall therefore be deemed to have been cancelled and thus shall not be due and payable on such interest payment date) if: (1) the Issuer has an amount of Distributable Items on such interest payment date
+that is less than a certain level; or (2) the Solvency Condition is not satisfied in respect of such interest payment,
+as further described under “ Description of Fixed Rate Resetting Perpetual Subordinated Contingent Convertible Securities—Interest Cancellation—Restriction on Interest Payments ” in the Preliminary Prospectus
+Supplement.
+-3-
+Agreement to Interest Cancellation | By subscribing for, purchasing or otherwise acquiring the Securities, holders of the Securities acknowledge and agree to
+the provisions described under “ Description of Fixed Rate Resetting Perpetual Subordinated Contingent Convertible Securities—Interest Cancellation—Agreement to Interest Cancellation ” in the Preliminary Prospectus
+Supplement.
+Ranking | Subordinated to the claims of Senior Creditors (as defined below), as described in further detail in the Preliminary
+Prospectus Supplement. “Senior Creditors”
+means creditors of the Issuer (i) who are unsubordinated creditors; (ii) whose claims are, or are expressed to be, subordinated (whether only in the event of the winding-up or administration of the
+Issuer or otherwise) to the claims of unsubordinated creditors of the Issuer but not further or otherwise; (iii) who are creditors in respect of any secondary non-preferential debts; or (iv) whose
+claims are, or are expressed to be, junior to the claims of other creditors of the Issuer, whether subordinated or unsubordinated, other than those whose claims rank, or are expressed to rank, pari passu with, or junior to, the claims of the holders
+of the Securities.
+Capital Adequacy Trigger Event | A “Capital Adequacy Trigger Event” shall occur if at any time the fully loaded CET1 Ratio is less than 7.00%. Whether a Capital Adequacy Trigger Event has occurred at
+any time shall be determined by the Issuer and such determination shall be binding on the trustee and holders of the Securities.
+Automatic Conversion Upon Capital Adequacy Trigger Event | An Automatic Conversion will occur without delay upon the occurrence of a Capital Adequacy Trigger Event. “Automatic Conversion” means the irrevocable
+and automatic release of all of the Issuer’s obligations under the Securities (other than the CSO Obligations, if any) in consideration of the Issuer’s issuance of the Conversion Shares at the Conversion Price to the Conversion Shares
+Depository (on behalf of the holders of the Securities) or to the relevant recipient, in accordance with the terms of the Securities and as described in the Preliminary Prospectus Supplement.
+Conversion Price | £1.65 per Conversion Share, subject to certain anti-dilution adjustments, as described under “ Description of
+Fixed Rate Resetting Perpetual Subordinated Contingent Convertible Securities—Anti-Dilution ” in the Preliminary Prospectus Supplement and the provisions described under “Description of Fixed Rate Resetting Perpetual
+Subordinated Contingent Convertible Securities—Automatic Conversion Upon Capital Adequacy Trigger Event—Conversion Shares Offer” in the Preliminary Prospectus Supplement.
+Conversion Shares Offer | No later than ten (10) Business Days following the Conversion Date, the Issuer may, in its sole and absolute
+discretion, elect that the Conversion Shares Depository make an offer of all or some of the Conversion Shares to all or some of the Issuer’s ordinary shareholders at such time at a cash price per Conversion Share equal to the Conversion Price,
+as further described in the Preliminary Prospectus Supplement.
+Optional Redemption | The Securities are redeemable at the option of the Issuer, in whole but not in part, on (i) any day falling in the
+period commencing on (and including) September 15, 2033 and ending on (and including) the first Reset Date or (ii) any day falling in the period commencing on (and including) the date that is six months before any subsequent Reset Date and
+ending on (and including) such Reset Date, as described under “ Description of Fixed Rate Resetting Perpetual Subordinated Contingent Convertible Securities—Redemption—Optional Redemption ” in the Preliminary Prospectus
+Supplement.
+-4-
+Regulatory Event Redemption | The Securities are also redeemable, in whole but not in part, at any time at the option of the Issuer in the event of a
+change in the regulatory classification of the Securities, as described under “ Description of Fixed Rate Resetting Perpetual Subordinated Contingent Convertible Securities—Redemption—Regulatory Event Redemption ” in the
+Preliminary Prospectus Supplement.
+Tax Redemption | The Securities are also redeemable, in whole but not in part, at any time at the option of the Issuer upon the occurrence
+of certain tax events, as described under “ Description of Fixed Rate Resetting Perpetual Subordinated Contingent Convertible Securities—Redemption—Tax Redemption ” in the Preliminary Prospectus Supplement.
+Substitution or Variation | Following the occurrence of certain tax events or a change in the regulatory classification of the Securities, the Issuer
+may, at its option, either substitute all (but not some only) of the Securities for, or vary the terms of the Securities so that they remain or, as appropriate, become, Compliant Securities subject to the conditions and procedures set forth under
+“ Description of Fixed Rate Resetting Perpetual Subordinated Contingent Convertible Securities — Substitution or Variation” in the Preliminary Prospectus Supplement.
+Clean-up Call | If, at any time from the fifth anniversary of the Issue Date (unless otherwise permitted by the PRA), the outstanding
+aggregate principal amount of the Securities is 25% or less of the aggregate principal amount of the Securities originally issued, the Issuer may redeem all (but not some only) of the outstanding Securities at a redemption price equal to 100% of
+their principal amount, together with any accrued but unpaid interest (which excludes any interest cancelled or deemed cancelled as described under “ Description of Fixed Rate Resetting Perpetual Subordinated Contingent Convertible
+Securities—Interest Cancellation—Interest Payments Discretionary ” or “ Description of Fixed Rate Resetting Perpetual Subordinated Contingent Convertible Securities—Interest Cancellation—Restriction on
+Interest Payments ” in the Preliminary Prospectus Supplement) to (but excluding) the date fixed for redemption.
+U.S. Federal Income Taxation of Interest Payments with respect to the Securities (QDI eligibility) | As more fully described in the Preliminary Prospectus Supplement, interest payments by the Issuer with respect to the
+Securities are generally expected to be taxable to certain non-corporate U.S. holders as qualified dividend income, provided that the non-corporate U.S. holder meets
+certain holding period requirements and the Issuer is not a “passive foreign investment company” in either the taxable year of the Issuer in which such interest payment is made or in the preceding taxable year.
+Denominations | £200,000 and integral multiples of £1,000 in excess thereof.
+ISIN / FISN / CFI Code / Common Code | XS3555712119/ as referenced on the Association of National Numbering Agencies (“ANNA”) website / as referenced
+on the ANNA website / 355571211.
+Legal Entity Identifier (“LEI”) Code | 213800LBQA1Y9L22JB70.
+Reoffer Yield | 8.906% (annual).
+Issue Price | 100.000%.
+Estimated Underwriter Compensation | 1.000% of the principal amount of the Securities.
+Estimated Net Proceeds | £742,500,000.
+Sole Structuring Adviser and Sole Bookrunner | Barclays Bank PLC.
+Joint Lead Managers (no books) | Banco Bilbao Vizcaya Argentaria, S.A., Banco Santander, S.A., Bank of Montreal, London Branch, Canadian Imperial Bank of
+Commerce, London Branch, Intesa Sanpaolo IMI Securities Corp., J.P. Morgan Securities plc, Lloyds Bank Corporate Markets plc, MUFG Securities EMEA plc, Natixis, Nordea Bank Abp, SMBC Bank International plc, Société
+Générale, Standard Chartered Bank, UBS AG London Branch, UniCredit Bank GmbH.
+-5-
+Senior Co-Managers | Citigroup Global Markets Limited, Crédit Agricole Corporate and Investment Bank, Deutsche Bank AG, London Branch,
+Erste Group Bank AG, ING Bank N.V., Mediobanca - Banca di Credito Finanziario S.p.A., Mizuho International plc, Morgan Stanley & Co. International plc, Nomura International plc, RBC Europe Limited, Skandinaviska Enskilda Banken AB (publ),
+Swedbank AB (publ), The Bank of Nova Scotia, London Branch, The Toronto-Dominion Bank, Unicaja Banco S.A., Wells Fargo Securities International Limited.
+Co-Managers | Australia and New Zealand Banking Group Limited (ABN 11 005 357 522), CaixaBank, S.A., National Australia Bank Limited (ABN
+12 004 044 937).
+Documentation | To be documented under the Issuer’s shelf registration statement on Form F-3 (No. 333-277578) and to be issued pursuant to the Contingent Capital Securities Indenture dated August 14, 2018, among the Issuer, The Bank of New York Mellon SA/NV, Luxembourg Branch, as contingent
+capital registrar (the “Registrar”) and The Bank of New York Mellon, London Branch, as trustee (the “Trustee”), as heretofore amended and supplemented and as further supplemented by the Thirteenth Supplemental Indenture, to
+be entered into on or about the Issue Date, among the Issuer, the Registrar and the Trustee.
+Risk Factors | An investment in the Securities involves risks. See the “Risk Factors” section beginning on page S-28 of the Preliminary Prospectus Supplement.
+Settlement | Clearstream, Luxembourg / Euroclear; Book-entry; Transferable.
+Listing | International Securities Market of the London Stock Exchange.
+Calculation Agent | The Bank of New York Mellon, London Branch, or its successor appointed by the Issuer.
+Governing Law | New York law, except for subordination provisions and waiver of set-off provisions
+which will be governed by English law.
+Definitions | Unless otherwise defined herein, all capitalized terms have the meaning set forth in the Preliminary Prospectus
+Supplement.
+The Issuer has filed a registration statement (including the Base Prospectus and the Preliminary Prospectus
+Supplement) with the U.S. Securities and Exchange Commission (the “SEC”) for this offering. Before you invest, you should read each of the Base Prospectus and the Preliminary Prospectus Supplement for this offering in that registration
+statement, and the other documents the Issuer has filed with the SEC for more complete information about the Issuer and this offering. You may get these documents for free by searching the SEC online database (EDGAR) at www.sec.gov. Alternatively,
+you may obtain a copy of the Base Prospectus and the Preliminary Prospectus Supplement from Barclays Capital Inc. by calling
++1-866-603-5847.
+U.K. FCA CoCo restriction. UK MiFIR professional investors and ECPs only/No EEA PRIIPs or U.K. DISC disclosure document – Manufacturer
+target market (UK MiFIR product governance) is eligible counterparties and professional clients only (all distribution channels). No EEA PRIIPs key information document (KID) has been prepared as the Securities are not available to retail in the
+EEA. No disclosure document required by the FCA Product Disclosure Sourcebook has been prepared as the Securities are not available to retail in the U.K. No sales to retail clients (as defined in COBS 3.4) in the U.K.
+It is expected that delivery of the Securities will be made for value on or about November 9, 2026, which will be the fifth (5th) business
+day in the United States following the date of pricing of the Securities. Under Rule
+15c6-1
+under the Securities Exchange Act of 1934, purchases or sales of Securities in the secondary market generally are
+required to settle within one (1) business day (T+1), unless the parties to any such transaction expressly agree otherwise. Accordingly, purchasers who wish to trade the Securities on any day prior to the business day before delivery will be
+required, by virtue of the fact that the Securities initially will not settle on T+1, to specify any alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the Securities who wish to make such trades
+should consult their own advisors.
+-6-
+This communication is being distributed to, and is directed only at, persons in the
+United Kingdom in circumstances where section 21(1) of the Financial Services and Markets Act 2000, as amended, does not apply (such persons being referred to as “relevant persons”). Any person who is not a relevant person should not act
+or rely on this communication or any of its contents. Any investment activity (including, but not limited to, any invitation, offer or agreement to subscribe, purchase or otherwise acquire securities) to which this communication relates will only be
+available to, and will only be engaged with, relevant persons who fall within the manufacturer target market described above.
+To
+the extent any dealer that is not a U.S. registered broker-dealer intends to effect any offers or sales of any Securities in the United States, it will do so through one or more U.S. registered broker-dealers in accordance with the applicable U.S.
+securities laws and regulations.
+-7-

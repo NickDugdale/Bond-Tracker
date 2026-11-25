@@ -1,0 +1,77 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/27904/000119312526447475/d915461dfwp.htm
+ISSUER (SEC filer): DELTA AIR LINES, INC.
+FILED: 2026-11-04
+========================================
+FWP
+1
+d915461dfwp.htm
+FWP
+FWP
+Issuer Free Writing Prospectus filed pursuant to Rule 433
+Registration Statement
+No. 333-297387
+Pricing Term Sheet
+Dated November 4, 2026
+DELTA AIR LINES, INC
+.
+5.500% Notes Due 2029
+Issuer: | Delta Air Lines, Inc.
+Principal Amount: | $500,000,000
+Maturity Date: | November 6, 2029
+Coupon: | 5.500%
+Public Offering Price: | 99.855% of the principal amount
+Yield to Maturity: | 5.553%
+Spread to Benchmark to Treasury: | 92 basis points
+Benchmark Treasury: | 4.875% UST due October 15, 2029
+Benchmark Treasury Price and Yield: | 100-21 / 4.633%
+Interest Payment Dates: | May 6 and November 6, commencing May 6, 2027
+Optional Redemption: | At any time prior to October 6, 2029 (one month prior to the maturity date), the Notes will be redeemable at the Issuer’s option,
+in whole or in part, at any time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (1) (a) the sum of the present values of the remaining
+scheduled payments of principal and interest thereon discounted to the redemption date (assuming the Notes matured on October 6, 2029) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate, plus 15 basis points less (b) interest accrued to, but not including, the date of redemption and (2) 100% of the principal amount of the Notes to be redeemed, plus, in
+either case, accrued and unpaid interest thereon, if any, up to, but not including, the redemption date. At any time on or after October 6, 2029, the Notes will be redeemable, in whole or in part, at any time and from time to time, at a redemption price equal
+to 100% of the principal amount of the Notes being redeemed plus accrued and unpaid interest thereon to, but not including, the redemption date.
+Settlement Date: | T+2; November 6, 2026
+CUSIP: | 247361 A40
+ISIN: | US247361A402
+Ratings (Moody’s / S&P / Fitch)*: | Baa2 / BBB- / BBB
+Minimum Denomination: | $2,000 and integral multiples of $1,000 in excess thereof
+Joint Book-Running Managers: | BofA Securities, Inc. Citigroup Global Markets
+Inc. Deutsche Bank Securities Inc. Goldman Sachs &
+Co. LLC Standard Chartered Bank
+Passive Book-Runners: | BNP Paribas Securities Corp. Credit Agricole
+Securities (USA) Inc. Fifth Third Securities, Inc. J.P.
+Morgan Securities LLC Morgan Stanley & Co. LLC MUFG
+Securities Americas Inc. Natixis Securities Americas LLC Natwest Markets Securities Inc. PNC Capital Markets LLC Regions Securities LLC
+The information herein supplements the preliminary prospectus supplement and supersedes the information in the preliminary
+prospectus supplement to the extent inconsistent with the information in the preliminary prospectus supplement.
+Unless otherwise indicated, terms used
+but not defined herein have the meanings assigned to such terms in the preliminary prospectus supplement.
+It is expected that delivery of the Notes will
+be made against payment on the Notes on or about November 6, 2026, which will be two business days (as such term is used for purposes of Rule
+15c6-1
+of the Securities Exchange Act of 1934, as amended (the
+“Exchange Act”)) following the date of pricing of the Notes (this settlement cycle is referred to as “T+2”). Under Rule
+15c6-1
+of the Exchange Act, trades in the secondary market
+generally are required to settle in one business day unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes on the date of pricing or after such date but before settlement occurs may be
+required, by virtue of the fact that the Notes will settle in T+2, to specify an alternative settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to make such trades should consult their own
+advisors.
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be revised or
+withdrawn at any time.
+The Issuer has filed a registration statement (including a base prospectus and preliminary prospectus
+supplement) with the SEC for the offering to which this communication relates. Before you invest, you should read the base prospectus and preliminary prospectus supplement in that registration statement and other documents the Issuer has filed with
+the SEC for more complete information about the Issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating in the
+offering will arrange to send you the prospectus if you request it by calling BofA Securities, Inc. toll-free at
+1-800-294-1322,
+Citigroup Global Markets Inc. toll-free at
+1-800-831-9146,
+Deutsche Bank Securities Inc. toll-free at 1 (800)
+503-4611
+,
+Goldman Sachs
+& Co. LLC toll-free at
+1-866-471-2526,
+and Standard Chartered Bank at
++44-207-885-8888
+.
+- 2 -

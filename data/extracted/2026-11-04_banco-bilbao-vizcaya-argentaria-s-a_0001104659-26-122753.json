@@ -1,0 +1,73 @@
+{
+  "source_file": "2026-11-04_banco-bilbao-vizcaya-argentaria-s-a_0001104659-26-122753.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:10:00",
+  "usage": {
+    "input_tokens": 8304,
+    "output_tokens": 837
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Banco Bilbao Vizcaya Argentaria, S.A.",
+    "sector": "Financials",
+    "trade_date": "2026-11-04",
+    "settlement_date": "2026-11-13",
+    "rating_moodys": "Baa1",
+    "rating_sp": "A-",
+    "rating_fitch": "A-",
+    "bookrunners": [
+      "BBVA Securities Inc.",
+      "Credit Agricole Securities (USA) Inc.",
+      "HSBC Securities (USA) Inc.",
+      "J.P. Morgan Securities LLC",
+      "Mizuho Securities USA LLC",
+      "UBS Securities LLC"
+    ],
+    "use_of_proceeds": "General corporate purposes",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 750000000,
+        "coupon_pct": 5.609,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-11-13",
+        "first_call_date": null,
+        "benchmark": "UST 4.875% due October 15, 2029",
+        "spread_bps": 98,
+        "yield_pct": 5.609,
+        "issue_price_pct": 100.0,
+        "seniority": "senior non-preferred",
+        "pricing_quote": "UST+ 98 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1000000000,
+        "coupon_pct": 6.213,
+        "coupon_type": "fixed",
+        "maturity_date": "2036-11-13",
+        "first_call_date": null,
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 133,
+        "yield_pct": 6.213,
+        "issue_price_pct": 100.0,
+        "seniority": "senior non-preferred",
+        "pricing_quote": "UST+ 133 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 300000000,
+        "coupon_pct": null,
+        "coupon_type": "floating",
+        "maturity_date": "2029-11-13",
+        "first_call_date": null,
+        "benchmark": "Compounded SOFR",
+        "spread_bps": 114,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": "senior non-preferred",
+        "pricing_quote": "Compounded SOFR plus a margin of 114 basis points"
+      }
+    ]
+  }
+}

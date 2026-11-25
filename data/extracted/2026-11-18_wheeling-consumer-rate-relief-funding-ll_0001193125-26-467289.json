@@ -1,0 +1,70 @@
+{
+  "source_file": "2026-11-18_wheeling-consumer-rate-relief-funding-ll_0001193125-26-467289.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:14:54",
+  "usage": {
+    "input_tokens": 9220,
+    "output_tokens": 759
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Wheeling Consumer Rate Relief Funding LLC",
+    "sector": "Utilities",
+    "trade_date": "2026-11-18",
+    "settlement_date": "2026-11-30",
+    "rating_moodys": "Aaa",
+    "rating_sp": "AAA",
+    "rating_fitch": null,
+    "bookrunners": [
+      "RBC Capital Markets, LLC",
+      "Citigroup Global Markets Inc.",
+      "Morgan Stanley & Co. LLC"
+    ],
+    "use_of_proceeds": "Consumer rate relief funding related to Wheeling Power Company and Appalachian Power Company operations.",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 317800000,
+        "coupon_pct": 5.92,
+        "coupon_type": "fixed",
+        "maturity_date": "2046-02-01",
+        "first_call_date": null,
+        "benchmark": null,
+        "spread_bps": null,
+        "yield_pct": null,
+        "issue_price_pct": 99.99532,
+        "seniority": "senior secured",
+        "pricing_quote": "Interest Rate 5.920%"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 222500000,
+        "coupon_pct": 6.426,
+        "coupon_type": "fixed",
+        "maturity_date": "2052-08-01",
+        "first_call_date": null,
+        "benchmark": null,
+        "spread_bps": null,
+        "yield_pct": null,
+        "issue_price_pct": 99.98903,
+        "seniority": "senior secured",
+        "pricing_quote": "Interest Rate 6.426%"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 533000000,
+        "coupon_pct": 6.478,
+        "coupon_type": "fixed",
+        "maturity_date": "2061-08-01",
+        "first_call_date": null,
+        "benchmark": null,
+        "spread_bps": null,
+        "yield_pct": null,
+        "issue_price_pct": 99.99028,
+        "seniority": "senior secured",
+        "pricing_quote": "Interest Rate 6.478%"
+      }
+    ]
+  }
+}

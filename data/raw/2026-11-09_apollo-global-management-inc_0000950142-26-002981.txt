@@ -1,0 +1,113 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1858681/000095014226002981/eh260853424_fwp.htm
+ISSUER (SEC filer): Apollo Global Management, Inc.
+FILED: 2026-11-09
+========================================
+FWP
+1
+eh260853424_fwp.htm
+FWP
+Pricing Term Sheet | Free Writing Prospectus
+dated as of November 9, 2026 | Filed pursuant to Rule 433
+Supplementing the
+Preliminary Prospectus Supplement dated November 9, 2026 to the
+Prospectus dated April 10, 2026
+Registration No. 333-294981
+$600,000,000
+Apollo Global Management, Inc.
+7.550% Fixed-Rate Resettable Junior Subordinated Notes
+due 2056
+Final Pricing Term Sheet
+November 9, 2026
+The information in this pricing term sheet relates
+to Apollo Global Management, Inc.’s offering of its 7.550% Fixed-Rate Resettable Junior Subordinated Notes due 2056 (the “Offering”)
+and should be read together with the preliminary prospectus supplement dated November 9, 2026 relating to the Offering (the “Preliminary
+Prospectus Supplement”), including the documents incorporated by reference therein, and the related base prospectus dated April
+10, 2026, each filed pursuant to Rule 424(b) under the Securities Act of 1933, as amended, with Registration Statement No. 333-294981.
+The information in this pricing term sheet supersedes the information in the Preliminary Prospectus Supplement and the accompanying prospectus
+to the extent it is inconsistent with the information in the Preliminary Prospectus Supplement or the accompanying prospectus.
+Terms not defined in this pricing term sheet have the meanings given to such terms in the Preliminary Prospectus Supplement. All references
+to dollar amounts are references to U.S. dollars.
+Issuer: | Apollo Global Management, Inc.
+Guarantors: | Apollo Asset Management, Inc., Apollo Principal Holdings A, L.P., Apollo Principal Holdings B,
+L.P., Apollo Principal Holdings C, L.P., AMH Holdings (Delaware), L.P. and Apollo Management Holdings, L.P. (“AMH”)
+Securities: | 7.550% Fixed-Rate Resettable Junior Subordinated Notes due 2056 (the “Notes”)
+Ranking: | Junior subordinated unsecured notes
+Principal Amount Offered: | $600,000,000
+Trade Date: | November 9, 2026
+Settlement Date (1) : | November 13, 2026 (T+3)
+Maturity Date: | December 15, 2056
+Coupon: | 7.550%
+Price to Public: | 100.000% of the principal amount plus accrued interest, if any, from November 13, 2026 to the date
+of delivery.
+First Reset Date: | December 15, 2036
+Interest: | The initial interest rate for the Notes from and including the issue date to, but excluding, December
+15, 2036 (the “First Reset Date”) will be 7.550% per annum. On and after the First Reset Date, the interest rate on the
+Notes for each Reset Period will be equal to the Five-Year U.S. Treasury Rate as of the most recent Reset Interest Determination
+Date plus a spread of 2.672%.
+Interest Payment Dates: | June 15 and December 15, commencing June 15, 2027, subject to the Issuer’s right to defer
+the payment of interest as described under “Optional Interest Deferral” below.
+Record Dates: | June 1 and December 1 of each year.
+Optional Interest Deferral: | The Issuer has the right, on one or more occasions, to defer the payment of interest on the Notes
+for up to five consecutive years (each such period, an “Optional Deferral Period”). During an Optional Deferral Period,
+interest will continue to accrue on the Notes, and deferred interest payments will accrue additional interest at the then applicable
+interest rate on the Notes, compounded semi-annually as of each interest payment date to the extent permitted by applicable law.
+Payment Restrictions During Interest Deferral Period: | If the Issuer has exercised its right to defer interest payments on the Notes, neither the Issuer
+nor any Guarantor may generally make payments on or redeem or purchase any of its equity interests or any of its debt securities
+or guarantees that rank pari passu or junior to the Notes, subject to exceptions for (1) pro rata cash distributions in respect of
+income tax liabilities pursuant to the organizational documents of the Issuer and the Guarantors existing as of the closing of the
+offering of the Notes, (2) dividends or distributions of equity interests, (3) dividends in connection with a stockholder’s
+rights plan, (4) reclassification, exchange or conversion of equity interests, (5) purchases of fractional equity interests, (6)
+certain purchases of equity from employees and other insiders, (7) any exchange, redemption or conversion of any series or class
+of equity interests for or into another class or series of equity interests, (8) purchases, redemptions or acquisitions of securities
+under any agreement entered into prior to and not entered into in anticipation of the commencement of the Optional Deferral Period
+and (9) payment of interest on pari passu debt (a) on a pro rata basis with the Notes or (b) if a default would occur under such
+pari passu debt, on a non-pro rata basis.
+2
+Optional Redemption: | During the three-month period prior to, and including, the First Reset Date, and during the three-month
+period prior to, and including, any subsequent Reset Date, the Issuer may, at its option, redeem the Notes, in whole or in part,
+at a redemption price equal to 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest to, but
+excluding, the redemption date.
+Tax Redemption: | If a Tax Redemption Event occurs prior to the maturity date of the Notes, the Issuer may, at its
+option, redeem the Notes, in whole but not in part, within 120 days of the occurrence of a Tax Redemption Event, at a redemption
+price equal to 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest to, but excluding, the
+redemption date.
+Rating Agency Event Redemption: | If a Rating Agency Event occurs prior to the maturity date of the Notes, the Issuer may, at its
+option, redeem the Notes, in whole but not in part, within 120 days of the occurrence of a Rating Agency Event, at a redemption price
+equal to 102% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest to, but excluding, the redemption
+date.
+Day Count Convention: | 30/360
+Use of Proceeds: | The Issuer intends to use the net proceeds from the Offering for general corporate purposes, including
+to fund the previously announced investment in Mubadala Capital Asset Management.
+Denominations: | $2,000 and integral multiples of $1,000 in excess thereof
+Expected Ratings (2) : | Moody’s: A3 / S&P: BBB+ / Fitch: BBB+
+CUSIP / ISIN: | 03769MAH9 / US03769MAH97
+Joint Book-Running Managers: | J.P. Morgan Securities LLC BofA Securities, Inc. Morgan Stanley & Co. LLC Wells Fargo Securities, LLC
+3
+Co-Managers: | Apollo Global Securities, LLC† Academy Securities, Inc. Barclays Capital Inc. BNP Paribas Securities Corp. Deutsche Bank Securities Inc. RBC Capital Markets, LLC Siebert Williams Shank & Co., LLC U.S. Bancorp Investments, Inc.
+(1)
+We expect delivery
+of the Notes will be made against payment therefor on or about November 13, 2026, which is the third business day following the date hereof.
+Under Rule 15c6-1 of the Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required to settle
+in one business day unless the parties to that trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes on
+any date prior to the first business day before delivery will be required, by virtue of the fact that the Notes initially will settle
+in T+3, to specify an alternative settlement cycle at the time of any such trade to prevent failed settlement. Purchasers of the Notes
+who wish to trade the Notes prior to their date of delivery hereunder should consult their own advisors.
+(2)
+Note: A security
+rating is not a recommendation to buy, sell or hold securities and should be evaluated independently of any other rating. Each rating
+is subject to revision or withdrawal at any time by the assigning rating organization.
+† Apollo Global Securities, LLC is an affiliate of the Issuer
+and will receive a portion of the gross spread as an underwriter in the sale of the Notes.
+The Issuer has filed a registration statement (including
+a prospectus and a prospectus supplement) with the Securities and Exchange Commission (“SEC”) for the Offering to which this
+communication relates. Before you invest, you should read the prospectus and prospectus supplement in that registration statement and
+other documents the issuer has filed with the SEC for more complete information about the issuer and this Offering. You may get these
+documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating
+in the Offering will arrange to send you the prospectus and prospectus supplement if you request it by contacting: J.P. Morgan Securities
+LLC, telephone: 1-212-834-4533; BofA Securities, Inc., telephone: 1-800-294-1322; Morgan Stanley & Co. LLC, telephone: 1-866-718-1649;
+or Wells Fargo Securities, LLC, telephone: 1-800-645-3751.
+Any disclaimers or notices that may appear on this
+Final Pricing Term Sheet below the text of this legend are not applicable to this Final Pricing Term Sheet and should be disregarded.
+Such disclaimers may have been electronically generated as a result of this Final Pricing Term Sheet being sent via, or posted on, Bloomberg
+or another electronic mail system.
+4

@@ -1,0 +1,130 @@
+{
+  "source_file": "2026-11-06_apple-inc_0001140361-26-042173.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:11:34",
+  "usage": {
+    "input_tokens": 9595,
+    "output_tokens": 1533
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Apple Inc.",
+    "sector": "Technology",
+    "trade_date": "2026-11-05",
+    "settlement_date": "2026-11-09",
+    "rating_moodys": "Aaa",
+    "rating_sp": "AA+",
+    "rating_fitch": null,
+    "bookrunners": [
+      "Goldman Sachs & Co. LLC",
+      "BofA Securities, Inc.",
+      "Deutsche Bank Securities Inc.",
+      "J.P. Morgan Securities LLC",
+      "Barclays Capital Inc.",
+      "HSBC Securities (USA) Inc.",
+      "Morgan Stanley & Co. LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": null,
+        "coupon_type": "floating",
+        "maturity_date": "2028-11-09",
+        "first_call_date": null,
+        "benchmark": "Compounded SOFR",
+        "spread_bps": 33,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Compounded SOFR plus 0.33%"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 750000000,
+        "coupon_pct": null,
+        "coupon_type": "floating",
+        "maturity_date": "2029-11-09",
+        "first_call_date": null,
+        "benchmark": "Compounded SOFR",
+        "spread_bps": 45,
+        "yield_pct": null,
+        "issue_price_pct": 100.0,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Compounded SOFR plus 0.45%"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1000000000,
+        "coupon_pct": 4.65,
+        "coupon_type": "fixed",
+        "maturity_date": "2028-11-09",
+        "first_call_date": null,
+        "benchmark": "UST 4.625% due October 31, 2028",
+        "spread_bps": 22,
+        "yield_pct": 4.676,
+        "issue_price_pct": 99.951,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: 22 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1000000000,
+        "coupon_pct": 4.75,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-11-09",
+        "first_call_date": "2029-10-09",
+        "benchmark": "UST 4.875% due October 15, 2029",
+        "spread_bps": 27,
+        "yield_pct": 4.79,
+        "issue_price_pct": 99.889,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: 27 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1000000000,
+        "coupon_pct": 4.9,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-11-09",
+        "first_call_date": "2031-10-09",
+        "benchmark": "UST 4.750% due October 31, 2031",
+        "spread_bps": 35,
+        "yield_pct": 4.939,
+        "issue_price_pct": 99.829,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: 35 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1250000000,
+        "coupon_pct": 5.1,
+        "coupon_type": "fixed",
+        "maturity_date": "2033-11-09",
+        "first_call_date": "2033-09-09",
+        "benchmark": "UST 4.875% due October 31, 2033",
+        "spread_bps": 45,
+        "yield_pct": 5.139,
+        "issue_price_pct": 99.773,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: 45 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 2000000000,
+        "coupon_pct": 5.35,
+        "coupon_type": "fixed",
+        "maturity_date": "2036-11-09",
+        "first_call_date": "2036-08-09",
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 55,
+        "yield_pct": 5.374,
+        "issue_price_pct": 99.816,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: 55 basis points"
+      }
+    ]
+  }
+}

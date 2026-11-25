@@ -1,0 +1,209 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/28385/000119312526446111/d161377dfwp.htm
+ISSUER (SEC filer): DTE Electric Co
+FILED: 2026-11-04
+========================================
+FWP
+1
+d161377dfwp.htm
+FWP
+FWP
+Free Writing Prospectus, dated November 3, 2026
+Filed pursuant to Rule 433 under the Securities Act of 1933
+Supplementing the Preliminary Prospectus, dated October 9, 2026
+Registration Statement Nos.
+333-298489
+and
+333-298489-01
+DTE Electric Securitization Funding III LLC
+(the “Issuing Entity”)
+PRICING TERM SHEET
+$600,461,000 Senior Secured Securitization Bonds, Series 2026A (the “Bonds”)
+November 3, 2026
+Issuing Entity: | DTE Electric Securitization Funding III LLC
+Sponsor, Depositor and Initial Servicer: | DTE Electric Company
+Trustee: | U.S. Bank Trust Company, National Association
+Sole Bookrunner: | Citigroup Global Markets Inc.
+Co-Managers: | Huntington Securities, Inc.
+Independence Point Securities LLC
+Siebert Williams Shank & Co., LLC
+Expected Ratings (Moody’s/S&P): | Aaa (sf)/AAA (sf) (1)
+Closing Date / Settlement Date: | November 12, 2026 (2)
+Interest Payment Dates (3) : | February 1 and August 1, commencing August 1, 2027
+Applicable Time: | 1:04 PM (Eastern time) on November 3, 2026
+Annual Report Commencement Date: | March 31, 2027
+Structuring Agent Fee: | $150,000
+Proceeds: | The total price to the public is $600,455,505. The total amount of the underwriting discounts and commissions is $2,401,844. The total amount of proceeds to the Issuing Entity before deduction of expenses (estimated to be
+$5,092,661) is $598,053,661. The net proceeds of this offering are expected to be approximately $592,961,000, after deducting underwriting discounts and commissions and initial costs of the transaction.
+Initial Securitization Charges as a Percentage of Customers’ total Electricity Bill: | The initial Power Supply Securitization Charge is expected to represent approximately 0.77% of the Power Supply portion of the total DTE
+Electric bill, as of August 2026, received by a 650 kWh residential Power Supply Customer of DTE Electric. The initial Distribution Securitization Charge is expected to represent approximately 2.76% of the Distribution portion of the total DTE Electric bill, as of
+August 2026, received by a 650 kWh residential Distribution Customer of DTE Electric. For DTE Electric’s retail electric distribution customers subject to both the Power Supply Securitization Charge and the Distribution Securitization
+Charge, the combined initial Securitization Charges are expected to represent approximately 1.82% of the total DTE Electric bill, as of August 2026, received by a 650 kWh residential Customer of DTE
+Electric.
+1
+For DTE Electric’s retail electric distribution customers subject to both the Power Supply Securitization Charge and the Distribution Securitization Charge, the estimated aggregate amount of (1) the initial
+Securitization Charge for the Bonds, (2) the securitization charge for the Series 2022A Securitization Bonds and (3) the securitization charge for the Series 2023A Securitization Bonds is expected to represent approximately 3.54% of the
+total DTE Electric bill, as of August 2026, received by a 650 kWh residential Customer of DTE Electric.
+Tranche | Expected Weighted Average Life (Years) | Principal Amount Offered | Scheduled Final Payment Date | Final Maturity Date | Interest Rate | Initial Price to Public (4) | Underwriting Discounts and Commissions | Proceeds to Issuing Entity (Before Expenses)
+A-1 | 2.72 | $ | 412,333,000 | 8/1/2031 | 8/1/2032 | 5.195 | % | 99.99937 | % | 0.40000 | % | $ | 410,681,070
+A-2 | 9.86 | $ | 188,128,000 | 8/1/2040 | 8/1/2041 | 5.607 | % | 99.99846 | % | 0.40000 | % | $ | 187,372,591
+Tranche A-1 | Tranche A-2
+CUSIP | 26254QAA8 | 26254QAB6
+ISIN | US26254QAA85 | US26254QAB68
+(1) | A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or
+withdrawal at any time.
+(2) | The Issuing Entity expects to deliver the Bonds against payment for the Bonds on or about November 12,
+2026, which will be the sixth business day following the date of pricing of the Bonds. Since trades in the secondary market generally settle in one business day, purchasers who wish to trade Bonds prior to the business day prior to settlement will
+be required, by virtue of the fact that the Bonds initially will settle in T+6, to specify alternative settlement arrangements to prevent a failed settlement.
+(3) | In any case where the date on which payment is due shall not be a Business Day, then payment may be made on the
+next Business Day.
+(4) | Interest on the Bonds will accrue from November 12, 2026. If the Bonds are delivered after that date, the
+purchaser will pay accrued interest.
+2
+EXPECTED SINKING FUND SCHEDULE
+Semi- Annual Payment Date | Tranche A-1 | Tranche A-2
+Closing Date | $0.00 | $0.00
+August 1, 2027 | $56,072,585.57 | $0.00
+February 1, 2028 | $40,487,529.75 | $0.00
+August 1, 2028 | $41,583,729.60 | $0.00
+February 1, 2029 | $42,709,609.10 | $0.00
+August 1, 2029 | $43,865,971.75 | $0.00
+February 1, 2030 | $45,053,642.94 | $0.00
+August 1, 2030 | $46,273,470.33 | $0.00
+February 1, 2031 | $47,526,324.52 | $0.00
+August 1, 2031 | $48,760,136.44 | $52,963.34
+February 1, 2032 | $0.00 | $8,052,023.52
+August 1, 2032 | $0.00 | $8,291,410.19
+February 1, 2033 | $0.00 | $8,537,913.81
+August 1, 2033 | $0.00 | $8,791,745.99
+February 1, 2034 | $0.00 | $9,053,124.60
+August 1, 2034 | $0.00 | $9,322,273.99
+February 1, 2035 | $0.00 | $9,599,425.20
+August 1, 2035 | $0.00 | $9,884,816.11
+February 1, 2036 | $0.00 | $10,178,691.69
+August 1, 2036 | $0.00 | $10,481,304.19
+February 1, 2037 | $0.00 | $10,792,913.37
+August 1, 2037 | $0.00 | $11,113,786.69
+February 1, 2038 | $0.00 | $11,444,199.56
+August 1, 2038 | $0.00 | $11,784,435.61
+February 1, 2039 | $0.00 | $12,134,786.89
+August 1, 2039 | $0.00 | $12,495,554.10
+February 1, 2040 | $0.00 | $12,867,046.92
+August 1, 2040 | $0.00 | $13,249,584.23
+Total Payments | $412,333,000.00 | $188,128,000.00
+3
+EXPECTED AMORTIZATION SCHEDULE
+OUTSTANDING PRINCIPAL BALANCE PER TRANCHE
+Semi- Annual Payment Date | Tranche A-1 (1) | Tranche A-2 (2)
+Closing Date | $412,333,000.00 | $188,128,000.00
+August 1, 2027 | $356,260,414.43 | $188,128,000.00
+February 1, 2028 | $315,772,884.68 | $188,128,000.00
+August 1, 2028 | $274,189,155.08 | $188,128,000.00
+February 1, 2029 | $231,479,545.98 | $188,128,000.00
+August 1, 2029 | $187,613,574.23 | $188,128,000.00
+February 1, 2030 | $142,559,931.29 | $188,128,000.00
+August 1, 2030 | $96,286,460.96 | $188,128,000.00
+February 1, 2031 | $48,760,136.44 | $188,128,000.00
+August 1, 2031 | $0.00 | $188,075,036.66
+February 1, 2032 | $0.00 | $180,023,013.14
+August 1, 2032 | $0.00 | $171,731,602.95
+February 1, 2033 | $0.00 | $163,193,689.14
+August 1, 2033 | $0.00 | $154,401,943.15
+February 1, 2034 | $0.00 | $145,348,818.55
+August 1, 2034 | $0.00 | $136,026,544.56
+February 1, 2035 | $0.00 | $126,427,119.36
+August 1, 2035 | $0.00 | $116,542,303.25
+February 1, 2036 | $0.00 | $106,363,611.56
+August 1, 2036 | $0.00 | $95,882,307.37
+February 1, 2037 | $0.00 | $85,089,394.00
+August 1, 2037 | $0.00 | $73,975,607.31
+February 1, 2038 | $0.00 | $62,531,407.75
+August 1, 2038 | $0.00 | $50,746,972.14
+February 1, 2039 | $0.00 | $38,612,185.25
+August 1, 2039 | $0.00 | $26,116,631.15
+February 1, 2040 | $0.00 | $13,249,584.23
+August 1, 2040 | $0.00 | $0.00
+(1) | To be paid from Distribution Securitization Charges and Power Supply Securitization Charges.
+(2) | To be paid from Power Supply Securitization Charges only.
+4
+Scheduled Principal Contribution Obligation Balance Schedule
+Tranche A-1 | Tranche A-2
+Semi-Annual Payment Date | Distribution | Power Supply | Total | Power Supply
+Closing Date | $0.00 | $0.00 | $0.00 | $0.00
+August 1, 2027 | $46,842,462.31 | $9,230,123.26 | $56,072,585.57 | $0.00
+February 1, 2028 | $33,822,866.69 | $6,664,663.06 | $40,487,529.75 | $0.00
+August 1, 2028 | $34,738,620.79 | $6,845,108.81 | $41,583,729.60 | $0.00
+February 1, 2029 | $35,679,168.96 | $7,030,440.14 | $42,709,609.10 | $0.00
+August 1, 2029 | $36,645,182.45 | $7,220,789.30 | $43,865,971.75 | $0.00
+February 1, 2030 | $37,637,350.77 | $7,416,292.17 | $45,053,642.94 | $0.00
+August 1, 2030 | $38,656,382.04 | $7,617,088.29 | $46,273,470.33 | $0.00
+February 1, 2031 | $39,703,003.58 | $7,823,320.94 | $47,526,324.52 | $0.00
+August 1, 2031 | $40,777,962.41 | $7,982,174.03 | $48,760,136.44 | $52,963.34
+February 1, 2032 | $0.00 | $0.00 | $0.00 | $8,052,023.52
+August 1, 2032 | $0.00 | $0.00 | $0.00 | $8,291,410.19
+February 1, 2033 | $0.00 | $0.00 | $0.00 | $8,537,913.81
+August 1, 2033 | $0.00 | $0.00 | $0.00 | $8,791,745.99
+February 1, 2034 | $0.00 | $0.00 | $0.00 | $9,053,124.60
+August 1, 2034 | $0.00 | $0.00 | $0.00 | $9,322,273.99
+February 1, 2035 | $0.00 | $0.00 | $0.00 | $9,599,425.20
+August 1, 2035 | $0.00 | $0.00 | $0.00 | $9,884,816.11
+February 1, 2036 | $0.00 | $0.00 | $0.00 | $10,178,691.69
+August 1, 2036 | $0.00 | $0.00 | $0.00 | $10,481,304.19
+February 1, 2037 | $0.00 | $0.00 | $0.00 | $10,792,913.37
+August 1, 2037 | $0.00 | $0.00 | $0.00 | $11,113,786.69
+February 1, 2038 | $0.00 | $0.00 | $0.00 | $11,444,199.56
+August 1, 2038 | $0.00 | $0.00 | $0.00 | $11,784,435.61
+February 1, 2039 | $0.00 | $0.00 | $0.00 | $12,134,786.89
+August 1, 2039 | $0.00 | $0.00 | $0.00 | $12,495,554.10
+February 1, 2040 | $0.00 | $0.00 | $0.00 | $12,867,046.92
+August 1, 2040 | $0.00 | $0.00 | $0.00 | $13,249,584.23
+Total Payments | $344,503,000.00 | $67,830,000.00 | $412,333,000.00 | $188,128,000.00
+5
+Subject to the terms and conditions in the underwriting agreement among the Issuing Entity,
+DTE Electric Company and the underwriters, for whom Citigroup Global Markets Inc. is acting as representative, the Issuing Entity has agreed to sell to the underwriters, and the underwriters have severally agreed to purchase, the principal amount of
+the Bonds listed opposite each underwriter’s name below:
+Underwriter | Tranche A-1 | Tranche A-2
+Citigroup Global Markets Inc. | $ | 309,249,000 | $ | 141,097,000
+Huntington Securities, Inc. | $ | 61,850,000 | $ | 28,219,000
+Independence Point Securities LLC | $ | 20,617,000 | $ | 9,406,000
+Siebert Williams Shank & Co., LLC | $ | 20,617,000 | $ | 9,406,000
+Total | $ | 412,333,000 | $ | 188,128,000
+The underwriters may allow, and dealers may reallow, a discount not to exceed the percentage listed below for
+each tranche:
+Selling Concession | Reallowance Discount
+Tranche A-1 | 0.24 | % | 0.16 | %
+Tranche A-2 | 0.24 | % | 0.16 | %
+After the initial public offering, the public offering prices, selling concessions and reallowance discounts
+may change.
+WEIGHTED AVERAGE LIFE SENSITIVITY
+-5% (1.65 Standard Deviations from Mean) | -15% (4.70 Standard Deviations from Mean)
+Tranche | Expected Weighted Average Life (Years) | WAL (yrs) | Change (days)* | WAL (yrs) | Change (days)*
+A-1 | 2.72 | 2.72 | 0 | 2.75 | 8
+A-2 | 9.86 | 9.86 | 0 | 9.87 | 2
+* | Number is rounded to whole days
+Assumptions
+For the purposes of
+preparing the above chart, the following assumptions, among others, have been made: (i) in relation to the initial forecast, the forecast error stays constant over the life of the Bonds and is equal to an overestimate of electricity consumption
+of 5% (1.65 standard deviations from mean) or 15% (4.70 standard deviations from mean); (ii) the Servicer makes timely and accurate filings to make
+True-Up
+Adjustments to the Securitization Charges
+semi-annually; (iii) customer net
+charge-off
+rates are held constant at 0.90% for all classes of Customers; (iv) all Securitization Charges are remitted 34 days after such charges are billed;
+(v) operating expenses are equal to projections; (vi) there is no acceleration of the applicable Final Maturity Date of the Bonds; (vii) a permanent loss of all Power Supply Customers and Distribution Customers required to pay each
+Securitization Charge, as the case may be, has not occurred; and (viii) the issuance date of the Bonds is November 12, 2026. There can be no assurance that the weighted average lives of the Bonds will be as shown.
+RECENT DEVELOPMENTS
+The
+Issuing Entity has amended and restated its LLC Agreement on November 2, 2026. The definition of “LLC Agreement” on page 155 of the prospectus will be updated accordingly.
+6
+DTE Electric Company and the Issuing Entity have filed a registration statement
+(including a prospectus) with the Securities and Exchange Commission (“SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents DTE
+Electric Company and the Issuing Entity have filed with the SEC as exhibits to the registration statement for more complete information about the Issuing Entity and this offering. You may get these documents for free by visiting EDGAR on the SEC
+website at www.sec.gov. Alternatively, DTE Electric Company, the Issuing Entity, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling Citigroup Global Markets Inc. toll-free
+at
+1-800-831-9146
+or emailing
+prospectus@citi.com
+.
+Any disclaimers or other notices that may appear below are not applicable to this communication and should be disregarded. Such disclaimers
+were automatically generated as a result of this communication being sent via email or another communication system.
+7

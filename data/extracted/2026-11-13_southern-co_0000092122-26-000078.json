@@ -1,0 +1,40 @@
+{
+  "source_file": "2026-11-13_southern-co_0000092122-26-000078.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:13:06",
+  "usage": {
+    "input_tokens": 6286,
+    "output_tokens": 452
+  },
+  "data": {
+    "is_bond_pricing": false,
+    "not_bond_reason": "This is a pricing term sheet for equity units (structured product), not a traditional bond issuance.",
+    "issuer": "The Southern Company",
+    "sector": "Utilities",
+    "trade_date": "2026-11-12",
+    "settlement_date": "2026-11-17",
+    "rating_moodys": null,
+    "rating_sp": "BBB",
+    "rating_fitch": null,
+    "bookrunners": [
+      "BofA Securities, Inc.",
+      "Barclays Capital Inc.",
+      "BMO Capital Markets Corp.",
+      "BTIG, LLC",
+      "Citigroup Global Markets Inc.",
+      "Goldman Sachs & Co. LLC",
+      "J.P. Morgan Securities LLC",
+      "Jefferies LLC",
+      "Mizuho Securities USA LLC",
+      "Morgan Stanley & Co. LLC",
+      "MUFG Securities Americas Inc.",
+      "RBC Capital Markets, LLC",
+      "Santander US Capital Markets LLC",
+      "Scotia Capital (USA) Inc.",
+      "Truist Securities, Inc.",
+      "Wells Fargo Securities, LLC"
+    ],
+    "use_of_proceeds": "Repurchase approximately $125.8 million aggregate principal amount of Series 2024A Convertible Senior Notes; repay short-term indebtedness; and general corporate purposes.",
+    "tranches": []
+  }
+}

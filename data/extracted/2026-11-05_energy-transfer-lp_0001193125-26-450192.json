@@ -1,0 +1,90 @@
+{
+  "source_file": "2026-11-05_energy-transfer-lp_0001193125-26-450192.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:10:48",
+  "usage": {
+    "input_tokens": 4162,
+    "output_tokens": 974
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Energy Transfer LP",
+    "sector": "Energy",
+    "trade_date": "2026-11-05",
+    "settlement_date": "2026-11-20",
+    "rating_moodys": "Baa2",
+    "rating_sp": "BBB",
+    "rating_fitch": "BBB",
+    "bookrunners": [
+      "Barclays Capital Inc.",
+      "Deutsche Bank Securities Inc.",
+      "Morgan Stanley & Co. LLC",
+      "RBC Capital Markets, LLC",
+      "Wells Fargo Securities, LLC",
+      "BBVA Securities Inc.",
+      "BMO Capital Markets Corp.",
+      "BofA Securities, Inc.",
+      "CIBC World Markets Corp.",
+      "Citigroup Global Markets Inc.",
+      "Credit Agricole Securities (USA) Inc.",
+      "Fifth Third Securities, Inc.",
+      "J.P. Morgan Securities LLC",
+      "Mizuho Securities USA LLC",
+      "MUFG Securities Americas Inc.",
+      "PNC Capital Markets LLC",
+      "Regions Securities LLC",
+      "Scotia Capital (USA) Inc.",
+      "SG Americas Securities, LLC",
+      "SMBC Nikko Securities America, Inc.",
+      "TD Securities (USA) LLC",
+      "Truist Securities, Inc.",
+      "U.S. Bancorp Investments, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 900000000,
+        "coupon_pct": 5.45,
+        "coupon_type": "fixed",
+        "maturity_date": "2032-01-15",
+        "first_call_date": "2031-12-15",
+        "benchmark": "UST 4.750% due October 31, 2031",
+        "spread_bps": 85,
+        "yield_pct": 5.453,
+        "issue_price_pct": 99.972,
+        "seniority": "senior unsecured",
+        "pricing_quote": "+85 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 900000000,
+        "coupon_pct": 5.9,
+        "coupon_type": "fixed",
+        "maturity_date": "2037-01-15",
+        "first_call_date": "2036-10-15",
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 110,
+        "yield_pct": 5.935,
+        "issue_price_pct": 99.719,
+        "seniority": "senior unsecured",
+        "pricing_quote": "+110 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 900000000,
+        "coupon_pct": 6.55,
+        "coupon_type": "fixed",
+        "maturity_date": "2057-01-15",
+        "first_call_date": "2056-07-15",
+        "benchmark": "UST 5.000% due May 15, 2056",
+        "spread_bps": 130,
+        "yield_pct": 6.559,
+        "issue_price_pct": 99.862,
+        "seniority": "senior unsecured",
+        "pricing_quote": "+130 bps"
+      }
+    ]
+  }
+}

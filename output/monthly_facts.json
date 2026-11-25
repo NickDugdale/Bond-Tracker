@@ -69,8 +69,8 @@
   },
   "prior_period": {
     "from": "20 Aug 2026",
-    "months": 1,
-    "avg_monthly_volume_usd_bn": 89.0
+    "months": 1.4,
+    "avg_monthly_volume_usd_bn": 64.4
   },
   "chart_window_from": "20 Aug 2026",
   "notable_deals": [
@@ -87,7 +87,7 @@
       "sector": "Technology"
     },
     {
-      "issuer": "JPMorgan Chase &",
+      "issuer": "JPMorgan Chase",
       "trade_date": "13 Oct",
       "rating": "NR",
       "currency": "USD",
@@ -111,7 +111,7 @@
       "sector": "Financials"
     },
     {
-      "issuer": "The Procter & Gamble",
+      "issuer": "Procter & Gamble",
       "trade_date": "26 Oct",
       "rating": "AA-",
       "currency": "USD",
@@ -123,7 +123,7 @@
       "sector": "Consumer"
     },
     {
-      "issuer": "Barclays PLC",
+      "issuer": "Barclays",
       "trade_date": "29 Oct",
       "rating": "BBB+",
       "currency": "USD",
@@ -135,7 +135,7 @@
       "sector": "Financials"
     },
     {
-      "issuer": "The Procter & Gamble",
+      "issuer": "Procter & Gamble",
       "trade_date": "27 Oct",
       "rating": "AA-",
       "currency": "EUR",
@@ -146,5 +146,11 @@
       "hybrid_or_sub": false,
       "sector": "Consumer"
     }
-  ]
+  ],
+  "notable_deals_count": 6,
+  "notable_deals_count_by_sector": {
+    "Financials": 3,
+    "Consumer": 2,
+    "Technology": 1
+  }
 }

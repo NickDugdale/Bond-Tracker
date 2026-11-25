@@ -1,0 +1,28 @@
+{
+  "source_file": "2026-11-04_live-oak-bancshares-inc_0001193125-26-447659.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:10:13",
+  "usage": {
+    "input_tokens": 4099,
+    "output_tokens": 360
+  },
+  "data": {
+    "is_bond_pricing": false,
+    "not_bond_reason": "This is a preferred stock offering (depositary shares representing perpetual preferred stock), not a bond with a fixed maturity date.",
+    "issuer": "Live Oak Bancshares, Inc.",
+    "sector": "Financials",
+    "trade_date": "2026-11-04",
+    "settlement_date": "2026-11-12",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "Morgan Stanley & Co. LLC",
+      "Keefe, Bruyette & Woods, Inc.",
+      "RBC Capital Markets, LLC",
+      "UBS Securities LLC"
+    ],
+    "use_of_proceeds": "Net proceeds from the offering are expected to be used for general corporate purposes, including to support balance sheet growth at Live Oak Banking Company and to enhance the Company's capital position.",
+    "tranches": []
+  }
+}

@@ -1,0 +1,94 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1783180/000121390026114995/ea0310479-fwp_carrier.htm
+ISSUER (SEC filer): CARRIER GLOBAL Corp
+FILED: 2026-11-02
+========================================
+FWP
+1
+ea0310479-fwp_carrier.htm
+FREE WRITING PROSPECTUS
+Filed Pursuant to Rule 433
+Registration Statement No. 333-299753
+Relating to Preliminary Prospectus Supplement
+dated November 2, 2026
+CARRIER GLOBAL CORPORATION
+PRICING TERM SHEET
+November 2, 2026
+$1,500,000,000
+$750,000,000 5.000% Notes due 2029
+$750,000,000 5.350% Notes due 2033
+The information in this pricing term sheet supplements
+Carrier Global Corporation’s preliminary prospectus supplement, dated November 2, 2026 (the “Preliminary Prospectus Supplement”),
+and supersedes the information in the Preliminary Prospectus Supplement to the extent inconsistent with the information in the Preliminary
+Prospectus Supplement. In all other respects, this pricing term sheet is qualified in its entirety by reference to the Preliminary Prospectus
+Supplement. You should rely on the information contained or incorporated by reference in the Preliminary Prospectus Supplement, as supplemented
+by this pricing term sheet, in making an investment decision with respect to the Notes. Terms used but not defined herein shall have
+the respective meanings as set forth in the Preliminary Prospectus Supplement.
+Issuer: | Carrier Global Corporation
+Expected Ratings (Moody’s/S&P)*: | [Intentionally Omitted]
+Securities: | 5.000% Notes due 2029 (the “2029 Notes”) 5.350% Notes due 2033 (the “2033 Notes” and, together with the
+2029 Notes, the “Notes”)
+Trade Date: | November 2, 2026
+Settlement Date: | November 4, 2026 (T+2)
+Size: | 2029 Notes: $750,000,000 2033 Notes: $750,000,000
+Maturity Date: | 2029 Notes: November 4, 2029 2033 Notes: November 4, 2033
+Coupon (Interest Rate): | 2029 Notes: 5.000% 2033 Notes: 5.350%
+Yield to Maturity: | 2029 Notes: 5.242% 2033 Notes: 5.623%
+Price to Public: | 2029 Notes: 99.336% 2033 Notes: 98.438%
+Gross Proceeds: | 2029 Notes: $745,020,000 2033 Notes: $738,285,000
+Spread to Benchmark Treasury: | 2029 Notes: +60 basis points 2033 Notes: +85 basis points
+Benchmark Treasury: | 2029 Notes: 4.875% UST due October 15, 2029 2033 Notes: 4.875% UST due October 31, 2033
+Benchmark Treasury Price/Yield: | 2029 Notes: 100-20¼ / 4.642% 2033 Notes: 100-19¼ / 4.773%
+Interest Payment Dates: | 2029 Notes: May 4 and November 4 of each year, commencing on May 4,
+2027 2033 Notes: May 4 and November 4 of each year, commencing on May 4,
+2027
+Optional Redemption: | Prior to October 4, 2029 (the date that is one month prior to the maturity
+date of the 2029 Notes) (the “2029 Par Call Date”), the Issuer may redeem the 2029 Notes, in whole or in part, at any time
+and from time to time, at a redemption price equal to the greater of: (i)(a) the sum of the present values of the remaining scheduled
+payments of principal and interest thereon discounted to the redemption date (assuming the 2029 Notes matured on the 2029 Par Call Date)
+on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 10 basis points, less (b)
+interest accrued to, but excluding, the date of redemption, and (ii) 100% of the principal amount of the 2029 Notes to be redeemed, plus ,
+in either case, accrued and unpaid interest thereon to, but excluding, the redemption date. On or after the 2029 Par Call Date, the Issuer may redeem the 2029
+Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the 2029
+Notes being redeemed, plus accrued and unpaid interest, if any, thereon to, but excluding, the redemption date. Prior to September 4, 2033 (the date that is two months prior to the
+maturity date of the 2033 Notes) (the “2033 Par Call Date”), the Issuer may redeem the 2033 Notes, in whole or in part, at
+any time and from time to time, at a redemption price equal to the greater of: (i)(a) the sum of the present values of the remaining scheduled
+payments of principal and interest thereon discounted to the redemption date (assuming the 2033 Notes matured on the 2033 Par Call Date)
+on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 15 basis points, less (b)
+interest accrued to, but excluding, the date of redemption, and (ii) 100% of the principal amount of the 2033 Notes to be redeemed, plus ,
+in either case, accrued and unpaid interest thereon to, but excluding, the redemption date. On or after the 2033 Par Call Date, the Issuer may redeem the 2033
+Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the 2033
+Notes being redeemed, plus accrued and unpaid interest, if any, thereon to, but excluding, the redemption date.
+2
+Par Call Date: | 2029 Notes: On or after October 4, 2029 2033 Notes: On or after September 4, 2033
+Offer to Purchase Upon Change of Control Triggering Event: | Upon the occurrence of a Change of Control Triggering Event with respect to a series of Notes, subject to certain exceptions, each holder will have the right to require the Issuer to purchase all or a portion of such holder’s Notes of the applicable series at a purchase price equal to 101% of the principal amount thereof, plus accrued and unpaid interest, if any, thereon to, but excluding, the Change of Control Payment Date.
+Use of Proceeds: | The Issuer intends to use the net proceeds from the Notes to refinance certain existing indebtedness, including to repay at maturity its 2027 Notes, with any remaining net proceeds to be used for general corporate and working capital purposes, which may include repayment of borrowings under its commercial paper program. Pending such use, the Issuer may use some or all of the net proceeds for general corporate and working capital purposes. The Issuer has broad discretion in the use of such proceeds.
+CUSIP Number: | 2029 Notes: 14448CBJ2 2033 Notes: 14448CBK9
+ISIN: | 2029 Notes: US14448CBJ27 2033 Notes: US14448CBK99
+Denominations: | $2,000 and integral multiples of $1,000 in excess thereof
+Day Count Convention: | 30/360
+Joint Book-Running Managers: | Morgan Stanley & Co. LLC J.P. Morgan Securities LLC BofA Securities, Inc. Goldman Sachs & Co. LLC Barclays Capital Inc. Citigroup Global Markets Inc. HSBC Securities (USA) Inc. Wells Fargo Securities, LLC
+Co-Managers: | BMO Capital Markets Corp. BNP Paribas Securities Corp. Commerz Markets LLC Deutsche Bank Securities Inc. ICBC Standard Bank Plc Intesa Sanpaolo IMI Securities Corp. Loop Capital Markets LLC MUFG Securities Americas Inc. Siebert Williams Shank & Co., LLC SG Americas Securities, LLC SMBC Nikko Securities America, Inc. Standard Chartered Bank UniCredit Capital Markets LLC
+*Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time. Each securities rating should be evaluated independently of any other rating.
+3
+It is expected that delivery of the Notes will
+be made against payment therefor on or about November 4, 2026, which will be the second business day following the date of pricing of
+the Notes (this settlement cycle being referred to as “T+2”). Under Rule 15c6-1 of the Exchange Act, trades in the secondary
+market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly,
+purchasers who wish to trade the Notes on any day prior to the business day before delivery of the Notes will be required, by virtue
+of the fact that the Notes initially will settle in T+2, to specify an alternate settlement cycle at the time of any such trade to prevent
+a failed settlement, and should consult their advisors.
+The Issuer has filed a registration statement
+(including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus
+in that registration statement and other documents the Issuer has filed with the SEC for more complete information about the Issuer and
+this offering. You may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, Morgan Stanley
+& Co. LLC, J.P. Morgan Securities LLC, BofA Securities, Inc. or Goldman Sachs & Co. LLC will arrange to send you the prospectus
+if you request it by calling Morgan Stanley & Co. LLC toll-free at (866) 718-1649, J.P. Morgan Securities LLC toll-free at (866) 535-9248,
+BofA Securities, Inc. toll-free at (888) 292-0070 or Goldman Sachs & Co. LLC toll-free at (866) 471-2526.
+This communication should be read in conjunction
+with the preliminary prospectus supplement and the accompanying base prospectus. The information in this communication supersedes the
+information in the preliminary prospectus supplement and the accompanying base prospectus to the extent inconsistent with the information
+in the preliminary prospectus supplement and the accompanying base prospectus.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR
+BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY GENERATED
+AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.
+4

@@ -1,0 +1,103 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1561894/000110465926124529/tm2629186d3_fwp.htm
+ISSUER (SEC filer): HA Sustainable Infrastructure Capital, Inc.
+FILED: 2026-11-09
+========================================
+FWP
+1
+tm2629186d3_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Registration Statement No. 333-285461
+Issuer Free Writing Prospectus dated
+November 9, 2026
+Relating to Preliminary Prospectus Supplement
+dated November 9, 2026
+(to the Prospectus dated February 28,
+2025)
+PRICING SUPPLEMENT
+HA Sustainable Infrastructure Capital, Inc.
+$500,000,000 7.850% Green Junior Subordinated
+Notes due 2057
+November 9, 2026
+This pricing supplement (this
+“Pricing Supplement”) is qualified in its entirety by reference to the preliminary prospectus supplement dated November 9,
+2026 (the “Preliminary Prospectus Supplement”). The information in this Pricing Supplement supplements the Preliminary Prospectus
+Supplement and supersedes the information in the Preliminary Prospectus Supplement to the extent inconsistent with the information in
+the Preliminary Prospectus Supplement. This Pricing Supplement is otherwise qualified in its entirety by reference to the Preliminary
+Prospectus Supplement and should be read together with the Preliminary Prospectus Supplement. Capitalized terms used in this Pricing Supplement
+but not defined have the meanings given to them in the Preliminary Prospectus Supplement.
+Issuer: | HA Sustainable Infrastructure Capital, Inc., a Delaware corporation
+(the “Issuer”)
+Guarantors: | HAT Holdings I LLC HAT Holdings II LLC HAC Holdings I LLC HAC Holdings II LLC Hannon Armstrong Sustainable Infrastructure, L.P. Hannon Armstrong Capital, LLC
+Expected Ratings*: | Moody’s: Ba1 (positive) S&P: BB (stable) Fitch: BB (stable)
+Trade Date: | November 9, 2026
+Settlement Date**: | November 24, 2026 (T+10)
+Title of Securities: | 7.850% Green Junior Subordinated Notes due 2057 (the “Notes”)
+Security Description: | Green Junior Subordinated Notes
+Maturity Date: | June 1, 2057
+Interest Payment Dates: | June 1 and December 1
+First Interest Payment Date: | June 1, 2027
+Record Dates: | May
+15 and November 15
+Aggregate Principal Amount Offered: | $500,000,000
+Issue Price: | 100% of principal amount
+Interest Rate: | The Notes
+will bear interest (i) from and including November 24, 2026 (the expected original issuance date) to, but excluding June 1, 2032 (the
+“First Reset Date”) at the rate of 7.850% per year and (ii) from and including the First Reset Date, during each Reset Period,
+at a rate per year equal to the Five-year U.S. Treasury Rate as of the most recent Reset Interest Determination Date plus a spread of
+3.164%, to be reset on each Reset Date; provided, that the interest rate during any Reset Period will not reset below 7.850% (which equals
+the initial interest rate on the Notes).
+Optional Deferral of Interest: | Up to 10 consecutive years per deferral
+Optional Redemption: | The Issuer may redeem the Notes in whole or in part on one or more
+occasions at a price equal to 100% of the principal amount being redeemed, plus accrued and unpaid interest to, but excluding, the redemption
+date (i) on any day in the period commencing on the date falling 90 days prior to the First Reset Date and ending on and including the
+First Reset Date and (ii) after the First Reset Date, on any interest payment date.
+Tax Event Redemption: | In whole, but not in part, at 100% of the principal amount of the Notes
+being redeemed, plus accrued and unpaid interest to, but excluding, the redemption date, at any time following the occurrence and during
+the continuance of a Tax Event.
+Tax Credit Event Redemption: | In whole, but not in part, at 101% of the principal amount of the Notes
+being redeemed, plus accrued and unpaid interest to, but excluding, the redemption date, at any time following the occurrence and during
+the continuance of a Tax Credit Event.
+Rating Agency Event Redemption: | In whole, but not in part, at 102% of the principal amount of the Notes
+being redeemed, plus accrued and unpaid interest to, but excluding, the redemption date, at any time following the occurrence and during
+the continuance of a Rating Agency Event.
+Change of Control Event Redemption: | If a Change of Control Event occurs, the Issuer may redeem the Notes,
+in whole but not in part, at the Issuer’s option at a redemption price equal to 101% of their principal amount plus any accrued
+and unpaid interest thereon to but excluding the date of redemption. If the Issuer does not redeem the Notes following a Change of Control
+Event and has not given a redemption notice for any other specified reason, the interest rate on the Notes will increase by 5% per annum
+from and including the date on which the applicable notice of a Change of Control Event is sent to holders.
+2
+Joint Book-Running Managers: | Mizuho Securities USA LLC BofA Securities, Inc. Goldman Sachs & Co. LLC Truist Securities, Inc. Barclays Capital Inc. BMO Capital Markets Corp. Credit Agricole Securities (USA) Inc. ING Financial Markets LLC KeyBanc Capital Markets Inc. M&T Securities, Inc. Natixis Securities Americas LLC Rabo Securities USA, Inc. Scotia Capital (USA) Inc. SMBC Nikko Securities America, Inc.
+Security Identifiers: | CUSIP: 40409A AD2 ISIN: US40409AAD28
+__________________________
+The terms “Reset Period,” “Five-year
+U.S. Treasury Rate,” “Reset Interest Determination Date,” “Reset Date,” “Tax Event,” “Rating
+Agency Event” and “Change of Control Event” have the meanings given in the issuer’s Preliminary Prospectus Supplement
+dated November 9, 2026.
+Note: *A securities rating is not a recommendation to buy, sell
+or hold securities and may be subject to revision or withdrawal at any time.
+Note: ** HA Sustainable Infrastructure Capital, Inc. expects that
+delivery of the Notes will be made to investors on or about November 24, 2026, which will be the tenth business day following the date
+hereof. Under Rule 15c6-1 under the Exchange Act, trades in the secondary market are required to settle in one business day, unless the
+parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade notes prior to the business day before
+the delivery of the Notes will be required, by virtue of the fact that the Notes initially settle in T+10, to specify an alternative arrangement
+at the time of any such trade to prevent a failed settlement and should consult their own advisors.
+HA Sustainable Infrastructure Capital, Inc. has filed an automatic
+shelf registration statement (including a prospectus) with the SEC for the offering to which this communication relates. The Preliminary
+Prospectus Supplement contains this and other information about HA Sustainable Infrastructure Capital, Inc. and should be read carefully
+before investing.
+This communication does not constitute an offer to sell or the solicitation
+of an offer to buy any securities in any jurisdiction to any person to whom it is unlawful to make such offer or solicitation in such
+jurisdiction.
+The information in the Preliminary Prospectus Supplement is not
+complete and may be changed. The Preliminary Prospectus Supplement and this pricing term sheet are not offers to sell any securities of
+HA Sustainable Infrastructure Capital, Inc. and are not soliciting an offer to buy such securities in any state or jurisdiction where
+such offer and sale is not permitted. You may obtain these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively,
+HA Sustainable Infrastructure Capital, Inc., any underwriter or any dealer participating in the offering will arrange to send you the
+Preliminary Prospectus Supplement if you request it from Mizuho Securities USA LLC toll free at +1 (866) 271-7403; BofA Securities, Inc.
+at +1 (800) 294-1322, or by email at dg.prospectus_requests@bofa.com; Goldman Sachs & Co. LLC toll free at +1 (866) 471-2526; Truist
+Securities, Inc. at +1 (800) 685-4786.
+Any disclaimers or notices that may appear on this term sheet below
+the text of this legend are not applicable to this term sheet and should be disregarded. Such disclaimers may have been electronically
+generated as a result of this term sheet having been sent via, or posted on, Bloomberg or another electronic mail system.
+3

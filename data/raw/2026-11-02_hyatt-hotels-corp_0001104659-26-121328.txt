@@ -1,0 +1,76 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1468174/000110465926121328/tm2628589d3_fwp.htm
+ISSUER (SEC filer): Hyatt Hotels Corp
+FILED: 2026-11-02
+========================================
+FWP
+1
+tm2628589d3_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Registration Statement No. 333-298633
+HYATT HOTELS CORPORATION
+5.950% SENIOR NOTES DUE 2033
+PRICING TERM SHEET
+DATED NOVEMBER 2, 2026
+This term sheet to the preliminary prospectus
+supplement dated November 2, 2026 should be read together with the preliminary prospectus supplement before making a decision in
+connection with an investment in the Notes (as defined herein). The information in this term sheet supersedes the information contained
+in the preliminary prospectus supplement to the extent that it is inconsistent therewith. Terms used but not defined herein have the meaning
+ascribed to them in the preliminary prospectus supplement.
+Issuer: | Hyatt Hotels Corporation
+Format: | SEC Registered
+Trade Date: | November 2, 2026
+Settlement Date: | November 12, 2026 (T+7)
+Security Ratings: | Baa3 (stable) by Moody’s / BBB- (stable) by S&P Global / BBB- (stable) by Fitch *
+Securities Offered: | 5.950% Senior
+Notes due 2033 (the “Notes”)
+Principal Amount: | $400,000,000
+Maturity Date: | November 15, 2033
+Interest Rate: | 5.950% per year
+Benchmark Treasury: | 4.875% due October 31, 2033
+Benchmark Treasury Price / Yield: | 100-18 ¾ / 4.775%
+Spread to Benchmark Treasury: | T + 123 basis points
+Reoffer Yield: | 6.005%
+* | The securities ratings above are not a recommendation
+to buy, sell or hold the securities offered hereby and may be subject to revision or withdrawal at any time by Moody’s, S&P
+Global and Fitch. Each of the security ratings above should be evaluated independently of any other security rating.
+Interest Payment Dates: | May 15 and November 15, commencing May 15, 2027
+Price to Public: | 99.688% of the principal amount, plus accrued interest, if any
+Underwriting Discounts and Commissions: | 0.625%
+CUSIP/ISIN: | 448579 AX0 / US448579AX03
+Optional Redemption: | Prior to September 15, 2033 (the date that is two months prior
+to their maturity date) (the “Par Call Date”), we may redeem the Notes at our option, in whole or in part, at any time and
+from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to
+the greater of: (1) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon
+discounted to the redemption date (assuming the Notes matured on the Par Call Date) on a semiannual basis (assuming a 360-day year consisting
+of twelve 30-day months) at the Treasury Rate plus 20 basis points less (b) interest accrued to the date of redemption, and (2) 100%
+of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption date. On or after the Par Call Date, we may redeem
+the Notes, in whole or in part, at any time and from time to time, at our option, at a redemption price equal to 100% of the principal
+amount of the Notes being redeemed plus accrued and unpaid interest thereon to the redemption date.
+Change of Control Offer: | If a Change of Control Triggering Event occurs, as defined in
+the preliminary prospectus supplement, the Issuer will be required to offer to purchase the notes at a price equal to 101% of their principal
+amount, together with any accrued and unpaid interest to, but excluding, the date of purchase.
+Joint Book-Running Managers: | J.P. Morgan Securities LLC U.S. Bancorp Investments, Inc. Wells Fargo Securities, LLC BofA Securities, Inc. Deutsche Bank Securities Inc. Goldman Sachs & Co. LLC PNC Capital Markets LLC Scotia Capital (USA) Inc. Truist Securities, Inc.
+Senior Co-Managers: | Fifth Third Securities, Inc. Credit Agricole Securities (USA) Inc. SMBC Nikko Securities America, Inc.
+Co-Managers: | Loop Capital Markets LLC Samuel A. Ramirez & Company, Inc. Siebert Williams Shank & Co., LLC
+* * *
+Where
+similar language or information to that set forth above appears in other sections of the preliminary prospectus supplement dated November
+2,
+2026
+, that language or information is deemed modified accordingly as set forth above.
+We expect that delivery of the Notes will be
+made to investors on or about the Settlement Date indicated above, which will be the seventh business day following the Trade Date indicated
+above (such settlement being referred to as “T+7”). Under Rule 15c6-1 of the Exchange Act, trades in the secondary market
+generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers
+who wish to trade the Notes on any day prior to the first business day before the delivery of the Notes hereunder will be required, by
+virtue of the fact that the Notes initially will settle in T+7, to specify an alternative settlement cycle at the time of any such trade
+to prevent failed settlement. Such purchasers should consult their own advisors in this regard.
+* * *
+The issuer has filed a registration statement (including a prospectus)
+with the Securities and Exchange Commission (the “SEC”) for the offering to which this communication relates. Before you invest,
+you should read the prospectus in that registration statement and the other documents the issuer has filed with the SEC for more complete
+information about the issuer and the offering. You may get these documents for free by visiting EDGAR on the SEC’s website at www.sec.gov.
+Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you
+request it by contacting: J.P. Morgan Securities LLC collect at 1-212-834-4533, U.S. Bancorp Investments, Inc. at 1-877-558-2607
+or Wells Fargo Securities, LLC at 1-800-645-3751.

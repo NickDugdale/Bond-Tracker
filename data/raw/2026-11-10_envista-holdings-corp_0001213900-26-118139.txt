@@ -1,0 +1,71 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1757073/000121390026118139/ea0311547-fwp_envista.htm
+ISSUER (SEC filer): Envista Holdings Corp
+FILED: 2026-11-10
+========================================
+FWP
+1
+ea0311547-fwp_envista.htm
+FREE WRITING PROSPECTUS
+Free Writing Prospectus
+Filed Pursuant to Rule 433
+Registration Statement No. 333-299917
+Dated November 10, 2026
+Envista
+Holdings Corporation
+$430,000,000 Aggregate Principal Amount of 6.250% Senior Notes due 2033
+The
+information in this pricing term sheet supplements Envista Holdings Corporation’s preliminary prospectus supplement, dated November
+10, 2026 (the “Preliminary Prospectus Supplement”), and supersedes the information in the Preliminary Prospectus Supplement
+to the extent inconsistent with the information in the Preliminary Prospectus Supplement. Terms used, but not defined, in this pricing
+term sheet have the respective meanings set forth in the Preliminary Prospectus Supplement. As used in this pricing term sheet, “we,”
+“our” and “us” refer to Envista Holdings Corporation and not to its subsidiaries.
+Issuer | Envista Holdings Corporation.
+Trade Date | November 10, 2026.
+Settlement Date (T+9)* | November 24, 2026.
+Notes | 6.250% senior notes due 2033 (the “Notes”).
+Principal Amount | $430,000,000.
+Offering Price | 99.482% of the principal amount of the Notes, plus accrued interest, if any, from the Settlement Date.
+Ratings (Moody’s / S&P)** | Baa3 (stable) / BBB- (stable).
+Distribution | SEC-registered.
+Coupon | 6.250% per annum.
+Maturity | December 15, 2033.
+Yield to Maturity | 6.341%.
+Interest Payment Dates | June 15 and December 15 of each year, beginning on June 15, 2027.
+Record Dates | June 1 and December 1.
+Benchmark Treasury | UST 4.875% due October 31, 2033.
+Spread to Benchmark Treasury | T + 145 basis points.
+Benchmark Treasury Price | 99-29.
+Benchmark Treasury Yield | 4.891%.
+Optional Redemption | Make-Whole Call: At any time prior to October 15, 2033 at a discount rate of T + 25 basis points.
+Par Call: On or after October 15, 2033 at 100%.
+Change of Control | Upon the occurrence of a change of control triggering event, the Company will be required to make an offer to repurchase all of the notes at a price equal to 101% of principal, plus accrued and unpaid interest to, but excluding, the purchase date.
+Use of Proceeds | The Company intends to use the net proceeds of this offering, together with cash on hand, (i) to repay its 2028 Term Loan and (ii) for general corporate purposes.
+Joint Book-Running Managers | J.P. Morgan Securities LLC
+BofA Securities, Inc.
+Wells Fargo Securities, LLC
+BNP Paribas Securities Corp.
+Goldman Sachs & Co. LLC
+HSBC Securities (USA) Inc.
+PNC Capital Markets LLC
+Scotia Capital (USA) Inc.
+Deutsche Bank Securities Inc.
+CUSIP / ISIN Numbers | 29415F AE4 / US29415FAE43.
+* | It is expected that delivery of the Notes will be made to investors on or about November 24, 2026, which will be the ninth business day following the date hereof (such settlement cycle being referred to as “T+9”). Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended, trades in the secondary market are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes on any date prior to the business day before delivery of the Notes will be required, by virtue of the fact that the Notes initially will settle in T+9, to specify an alternative settlement arrangement at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to trade the Notes prior to the delivery of the Notes should consult their advisors.
+** | A securities rating is not a recommendation to buy, sell,
+or hold securities and should be evaluated independently of any other rating. Each rating is subject to revision or withdrawal at any
+time by the assigning rating organization.
+This pricing term sheet is not an offer to
+sell the securities and it is not a solicitation of an offer to buy the securities in any jurisdiction to any person to whom it is unlawful
+to make such offer or solicitation in such jurisdiction.
+The Company has filed a registration statement
+(including a prospectus and a preliminary prospectus supplement) with the Securities and Exchange Commission (the “SEC”) for
+the offering to which this communication relates. Before you invest, you should read the prospectus in such registration statement, the
+prospectus, the preliminary prospectus supplement and the other documents that the Company has filed with the SEC that are incorporated
+by reference herein for more complete information about the Company and this offering. You may get these documents for free by visiting
+EDGAR on the SEC website at www.sec.gov. Alternatively, the Company, any underwriter or any dealer participating in the offering will
+arrange to send you the prospectus and the preliminary prospectus supplement if you request it by contacting (i) J.P. Morgan Securities
+LLC (collect) at 1-212-834-4533, (ii) BofA Securities, Inc. (toll-free) at 1-800-294-1322 or (iii) Wells Fargo Securities, LLC (toll-free)
+at 1-800-645-3751.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY
+APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY
+GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.

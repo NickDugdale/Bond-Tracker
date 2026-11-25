@@ -1,0 +1,71 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/54476/000119312526463581/d186777dfwp.htm
+ISSUER (SEC filer): EVERGY METRO, INC.
+FILED: 2026-11-16
+========================================
+FWP
+1
+d186777dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration Statement No. 333-281614-01
+Dated November 16, 2026
+Pricing Term Sheet
+Evergy Metro, Inc.
+6.000%
+Mortgage Bonds, Series 2026 due 2036 (the “mortgage bonds”)
+This pricing term sheet relates to an offering of the mortgage bonds by Evergy
+Metro, Inc. (the “Issuer”) and should be read together with the preliminary prospectus supplement, dated November 16, 2026, relating to such offering (the “Preliminary Prospectus Supplement”), including the accompanying
+base prospectus, dated August 16, 2024, and the documents incorporated by reference therein. Terms used but not defined herein have the meanings ascribed to them in the Preliminary Prospectus Supplement.
+Issuer: | Evergy Metro, Inc.
+Trade Date: | November 16, 2026
+Settlement Date * : | November 20, 2026 (T+4)
+Expected Ratings ** : | Moody’s Investors Service, Inc.: A2 (stable) S&P Global Ratings: A (stable)
+Title of Securities: | 6.000% Mortgage Bonds, Series 2026 due 2036
+Principal Amount: | $300,000,000
+Maturity Date: | December 1, 2036
+Interest Payment Dates: | Semi-annually on June 1 and December 1, beginning on June 1, 2027
+Coupon (Interest Rate): | 6.000%
+Benchmark Treasury: | 5.000% due November 15, 2036
+Benchmark Treasury Price/Yield: | 99-01+ / 5.123%
+Spread to Benchmark Treasury: | +90 basis points
+Yield to Maturity: | 6.023%
+Price to Public: | 99.826% of the principal amount, plus accrued interest from November 20, 2026, if settlement occurs after that date
+Optional Redemption:
+Make-Whole Call: | Prior to September 1, 2036 (the date that is three months prior to the maturity date of the mortgage bonds (the “Par Call Date”)), the Issuer may redeem the mortgage bonds at any time in whole, or from time to time
+in part, at its option, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (i)(a) the sum of the present values of the remaining
+scheduled
+payments of principal and interest thereon discounted to the redemption date (assuming the mortgage bonds matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year
+consisting of twelve 30-day months) at the Treasury Rate plus 15 basis points less (b) interest accrued to the redemption date; and (ii) 100% of the principal amount of the mortgage bonds to be redeemed,
+plus, in either case, accrued and unpaid interest thereon to, but excluding, the redemption date.
+Par Call: | On or after the Par Call Date, the Issuer may redeem the mortgage bonds at any time in whole, or from time to time in part, at its option, at a redemption price equal to 100% of the principal amount of the mortgage bonds to be
+redeemed, plus accrued and unpaid interest thereon to, but excluding, the redemption date.
+Tax Credit Event Call: | Upon the occurrence of a Tax Credit Event, the Issuer may redeem the mortgage bonds, in whole but not in part, at its option, at a redemption price equal to 101% of the principal amount of the mortgage bonds to be redeemed, plus
+accrued and unpaid interest thereon to, but excluding, the redemption date (provided that the notice of such redemption may be issued no later than May 20, 2027).
+CUSIP/ISIN: | 30037D AF2 / US30037DAF24
+Joint Book-Running Managers: | Citigroup Global Markets Inc. TD Securities
+(USA) LLC Truist Securities, Inc. Wells Fargo Securities,
+LLC
+Co-Managers: | Commerce Brokerage Services, Inc. Loop Capital
+Markets LLC
+The Issuer has filed a registration statement (including a base prospectus) and the Preliminary Prospectus Supplement
+(including such base prospectus) with the SEC for the offering of the mortgage bonds to which this communication relates (File
+No. 333-281614-01).
+Before you
+invest, you should read the Preliminary Prospectus Supplement (including such base prospectus) and any other documents the Issuer has filed with the SEC for more complete information about the Issuer and this offering. You may get these documents
+for free by visiting EDGAR on the SEC’s website at www.sec.gov. Alternatively, Citigroup Global Markets Inc., TD Securities (USA) LLC, Truist Securities, Inc. or Wells Fargo Securities, LLC can arrange to send you the prospectus if you request
+it by calling Citigroup Global Markets Inc. toll-free at
+1-800-831-9146,
+TD Securities (USA) LLC toll-free at
+1-855-495-9846,
+Truist Securities, Inc. toll-free at
+1-800-685-4786
+or by email at truistsecurities.prospectus@truist.com or Wells Fargo Securities, LLC toll-free at
+1-800-645-3751.
+* | It is expected that delivery of the mortgage bonds will be made against payment therefor on or about
+November 20, 2026, which will be the fourth business day (T+4) following the date hereof. Under Rule 15c6-1 under the Securities Exchange Act of 1934, trades in the secondary market generally are required
+to settle in one business day, unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade the mortgage bonds on any date prior to the first business day before delivery of the mortgage bonds will be required,
+by virtue of the fact that the mortgage bonds initially will settle in T+4, to specify alternative settlement arrangements to prevent a failed settlement and should consult their own advisors.
+** | A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or
+withdrawal at any time.
+2

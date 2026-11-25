@@ -1,0 +1,44 @@
+{
+  "source_file": "2026-11-04_delta-air-lines-inc_0001193125-26-447475.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:10:05",
+  "usage": {
+    "input_tokens": 3672,
+    "output_tokens": 460
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Delta Air Lines, Inc.",
+    "sector": "Industrials",
+    "trade_date": "2026-11-04",
+    "settlement_date": "2026-11-06",
+    "rating_moodys": "Baa2",
+    "rating_sp": "BBB-",
+    "rating_fitch": "BBB",
+    "bookrunners": [
+      "BofA Securities, Inc.",
+      "Citigroup Global Markets Inc.",
+      "Deutsche Bank Securities Inc.",
+      "Goldman Sachs & Co. LLC",
+      "Standard Chartered Bank"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 5.5,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-11-06",
+        "first_call_date": "2029-10-06",
+        "benchmark": "UST 4.875% due October 15, 2029",
+        "spread_bps": 92,
+        "yield_pct": 5.553,
+        "issue_price_pct": 99.855,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark to Treasury: 92 basis points"
+      }
+    ]
+  }
+}

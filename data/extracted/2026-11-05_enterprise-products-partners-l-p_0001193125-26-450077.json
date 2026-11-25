@@ -1,0 +1,63 @@
+{
+  "source_file": "2026-11-05_enterprise-products-partners-l-p_0001193125-26-450077.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:10:54",
+  "usage": {
+    "input_tokens": 3707,
+    "output_tokens": 714
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Enterprise Products Operating LLC",
+    "sector": "Energy",
+    "trade_date": "2026-11-05",
+    "settlement_date": "2026-11-12",
+    "rating_moodys": "A3",
+    "rating_sp": "A-",
+    "rating_fitch": "A-",
+    "bookrunners": [
+      "MUFG Securities Americas Inc.",
+      "Citigroup Global Markets Inc.",
+      "PNC Capital Markets LLC",
+      "SG Americas Securities, LLC",
+      "U.S. Bancorp Investments, Inc.",
+      "BBVA Securities Inc.",
+      "Credit Agricole Securities (USA) Inc.",
+      "Deutsche Bank Securities Inc.",
+      "Scotia Capital (USA) Inc.",
+      "TD Securities (USA) LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 750000000,
+        "coupon_pct": 5.2,
+        "coupon_type": "fixed",
+        "maturity_date": "2032-02-15",
+        "first_call_date": "2032-01-15",
+        "benchmark": "UST 4.750% due October 31, 2031",
+        "spread_bps": 65,
+        "yield_pct": 5.237,
+        "issue_price_pct": 99.84,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +65 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 750000000,
+        "coupon_pct": 5.65,
+        "coupon_type": "fixed",
+        "maturity_date": "2037-02-15",
+        "first_call_date": "2036-11-15",
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 87.5,
+        "yield_pct": 5.697,
+        "issue_price_pct": 99.648,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +87.5 bps"
+      }
+    ]
+  }
+}

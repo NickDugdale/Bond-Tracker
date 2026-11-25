@@ -1,0 +1,54 @@
+{
+  "source_file": "2026-11-04_dte-electric-co_0001193125-26-446111.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:10:10",
+  "usage": {
+    "input_tokens": 7430,
+    "output_tokens": 629
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "DTE Electric Securitization Funding III LLC",
+    "sector": "Utilities",
+    "trade_date": "2026-11-03",
+    "settlement_date": "2026-11-12",
+    "rating_moodys": "Aaa (sf)",
+    "rating_sp": "AAA (sf)",
+    "rating_fitch": null,
+    "bookrunners": [
+      "Citigroup Global Markets Inc."
+    ],
+    "use_of_proceeds": "Senior Secured Securitization Bonds backed by Distribution and Power Supply Securitization Charges from DTE Electric customers.",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 412333000,
+        "coupon_pct": 5.195,
+        "coupon_type": "fixed",
+        "maturity_date": "2032-08-01",
+        "first_call_date": null,
+        "benchmark": null,
+        "spread_bps": null,
+        "yield_pct": null,
+        "issue_price_pct": 99.99937,
+        "seniority": "senior secured",
+        "pricing_quote": "Interest Rate 5.195%, Initial Price to Public 99.99937%"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 188128000,
+        "coupon_pct": 5.607,
+        "coupon_type": "fixed",
+        "maturity_date": "2041-08-01",
+        "first_call_date": null,
+        "benchmark": null,
+        "spread_bps": null,
+        "yield_pct": null,
+        "issue_price_pct": 99.99846,
+        "seniority": "senior secured",
+        "pricing_quote": "Interest Rate 5.607%, Initial Price to Public 99.99846%"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "source_file": "2026-11-09_ha-sustainable-infrastructure-capital-in_0001104659-26-124529.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:11:54",
+  "usage": {
+    "input_tokens": 4387,
+    "output_tokens": 628
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "HA Sustainable Infrastructure Capital, Inc.",
+    "sector": "Utilities",
+    "trade_date": "2026-11-09",
+    "settlement_date": "2026-11-24",
+    "rating_moodys": "Ba1",
+    "rating_sp": "BB",
+    "rating_fitch": "BB",
+    "bookrunners": [
+      "Mizuho Securities USA LLC",
+      "BofA Securities, Inc.",
+      "Goldman Sachs & Co. LLC",
+      "Truist Securities, Inc.",
+      "Barclays Capital Inc.",
+      "BMO Capital Markets Corp.",
+      "Credit Agricole Securities (USA) Inc.",
+      "ING Financial Markets LLC",
+      "KeyBanc Capital Markets Inc.",
+      "M&T Securities, Inc.",
+      "Natixis Securities Americas LLC",
+      "Rabo Securities USA, Inc.",
+      "Scotia Capital (USA) Inc.",
+      "SMBC Nikko Securities America, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 7.85,
+        "coupon_type": "fixed-to-floating",
+        "maturity_date": "2057-06-01",
+        "first_call_date": "2032-06-01",
+        "benchmark": "Five-year U.S. Treasury Rate",
+        "spread_bps": 316.4,
+        "yield_pct": null,
+        "issue_price_pct": 100,
+        "seniority": "junior subordinated",
+        "pricing_quote": "Interest Rate: (i) from November 24, 2026 to June 1, 2032 at 7.850% per year and (ii) from June 1, 2032, during each Reset Period, at Five-year U.S. Treasury Rate plus a spread of 3.164%, with a floor of 7.850%"
+      }
+    ]
+  }
+}

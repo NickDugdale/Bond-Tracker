@@ -1,0 +1,84 @@
+{
+  "source_file": "2026-11-20_alphabet-inc_0001193125-26-469213.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:15:21",
+  "usage": {
+    "input_tokens": 6773,
+    "output_tokens": 1020
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Alphabet Inc.",
+    "sector": "Technology",
+    "trade_date": "2026-11-19",
+    "settlement_date": "2026-11-24",
+    "rating_moodys": "Aa2",
+    "rating_sp": "AA+",
+    "rating_fitch": null,
+    "bookrunners": [
+      "RBC Dominion Securities Inc.",
+      "Scotia Capital Inc.",
+      "TD Securities Inc."
+    ],
+    "use_of_proceeds": "General corporate purposes, which may include the repayment of outstanding debt.",
+    "tranches": [
+      {
+        "currency": "CAD",
+        "principal_amount": 2000000000,
+        "coupon_pct": 4.1,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-11-24",
+        "first_call_date": null,
+        "benchmark": "CAN 3.50% due September 1, 2029",
+        "spread_bps": 76.9,
+        "yield_pct": 4.188,
+        "issue_price_pct": 99.754,
+        "seniority": "senior unsecured",
+        "pricing_quote": "+76.9 bps versus the applicable Benchmark Bond"
+      },
+      {
+        "currency": "CAD",
+        "principal_amount": 1250000000,
+        "coupon_pct": 4.8,
+        "coupon_type": "fixed",
+        "maturity_date": "2034-11-24",
+        "first_call_date": "2034-08-24",
+        "benchmark": "CAN 3.00% due June 1, 2034",
+        "spread_bps": 117.3,
+        "yield_pct": 4.857,
+        "issue_price_pct": 99.626,
+        "seniority": "senior unsecured",
+        "pricing_quote": "+117.3 bps versus the applicable Benchmark Bond"
+      },
+      {
+        "currency": "CAD",
+        "principal_amount": 1500000000,
+        "coupon_pct": 5.325,
+        "coupon_type": "fixed",
+        "maturity_date": "2038-11-24",
+        "first_call_date": "2038-08-24",
+        "benchmark": "CAN 3.50% due December 1, 2036",
+        "spread_bps": 150.4,
+        "yield_pct": 5.35,
+        "issue_price_pct": 99.781,
+        "seniority": "senior unsecured",
+        "pricing_quote": "+150.4 bps versus the applicable Benchmark Bond"
+      },
+      {
+        "currency": "CAD",
+        "principal_amount": 1250000000,
+        "coupon_pct": 6.0,
+        "coupon_type": "fixed",
+        "maturity_date": "2066-11-24",
+        "first_call_date": "2066-05-24",
+        "benchmark": "CAN 3.50% due December 1, 2057",
+        "spread_bps": 185,
+        "yield_pct": 6.001,
+        "issue_price_pct": 99.985,
+        "seniority": "senior unsecured",
+        "pricing_quote": "+185 bps versus the applicable Benchmark Bond"
+      }
+    ]
+  }
+}

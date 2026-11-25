@@ -1,0 +1,43 @@
+{
+  "source_file": "2026-11-16_connecticut-light-power-co_0001104659-26-128563.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:13:23",
+  "usage": {
+    "input_tokens": 3370,
+    "output_tokens": 455
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "The Connecticut Light and Power Company doing business as Eversource Energy",
+    "sector": "Utilities",
+    "trade_date": "2026-11-16",
+    "settlement_date": "2026-11-23",
+    "rating_moodys": "A2",
+    "rating_sp": "A",
+    "rating_fitch": "A+",
+    "bookrunners": [
+      "BNY Mellon Capital Markets, LLC",
+      "Goldman Sachs & Co. LLC",
+      "Mizuho Securities USA LLC",
+      "RBC Capital Markets, LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 5.85,
+        "coupon_type": "fixed",
+        "maturity_date": "2036-11-15",
+        "first_call_date": null,
+        "benchmark": "UST 5.000% due November 15, 2036",
+        "spread_bps": 78,
+        "yield_pct": 5.895,
+        "issue_price_pct": 99.666,
+        "seniority": "senior secured",
+        "pricing_quote": "Spread to Benchmark Treasury: 78 basis points"
+      }
+    ]
+  }
+}

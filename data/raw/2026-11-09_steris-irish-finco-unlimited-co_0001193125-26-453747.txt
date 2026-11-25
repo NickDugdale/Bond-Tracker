@@ -1,0 +1,89 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1850236/000119312526453747/d192605dfwp.htm
+ISSUER (SEC filer): STERIS Irish FinCo Unlimited Co
+FILED: 2026-11-09
+========================================
+FWP
+1
+d192605dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration Statement Nos.
+333-299875,
+333-299875-01,
+333-299875-02
+and
+333-299875-03
+Pricing Term Sheet
+STERIS IRISH FINCO UNLIMITED COMPANY
+Pricing Term Sheet
+The information in
+this pricing term sheet should be read together with (i) the preliminary prospectus supplement, dated November 6, 2026, as filed with the Securities and Exchange Commission (the “SEC”) pursuant to Rule 424(b) under the
+Securities Act of 1933, as amended (the “Preliminary Prospectus Supplement”), and (ii) the related base prospectus dated November 6, 2026, included in the Registration Statement (File Nos.
+333-299875,
+333-299875-01,
+333-299875-02
+and
+333-299875-03),
+in each case, including the documents incorporated by reference therein. Terms used but not defined herein have the meanings assigned in the Preliminary
+Prospectus Supplement.
+Issuer: | STERIS Irish FinCo Unlimited Company (the “Issuer”)
+Guarantors: | STERIS plc, STERIS Corporation and STERIS Limited
+Title of Securities: | 5.650% senior notes due 2033 (the “2033 notes”) 5.875% senior notes due 2036 (the “2036 notes” and, together with the 2033 notes, the “notes”)
+Size: | 2033 notes: $750,000,000 2036 notes:
+$750,000,000
+Maturity Date: | 2033 notes: December 15, 2033 2036 notes:
+December 15, 2036
+Coupon: | 2033 notes: 5.650% 2036 notes:
+5.875%
+Price: | 2033 notes: 99.782% of face amount 2036 notes:
+99.852% of face amount
+Yield to Maturity: | 2033 notes: 5.687% 2036 notes:
+5.894%
+Spread to Benchmark Treasury: | 2033 notes: 92 basis points 2036 notes: 102
+basis points
+Benchmark Treasury: | 2033 notes: 4.875% due October 31, 2033 2036 notes: 4.625% due August 15, 2036
+Benchmark Treasury Price and Yield: | 2033 notes: 100-20 1 ⁄ 4 /4.767% 2036 notes: 98-02+/4.874%
+Interest Payment Dates: | June 15 and December 15, commencing June 15, 2027
+Optional Redemption: | 2033 Notes: Following issuance and prior to October 15, 2033, make-whole +15 bps. At any time on or after October 15, 2033, par call
+2036 Notes: Following issuance and prior to September 15, 2036, make-whole +20 bps. At any time on or after September 15, 2036, par call
+Special Mandatory Redemption: | The notes will be subject to special mandatory redemption as described in the Preliminary Prospectus Supplement.
+Tax Redemption: | The notes of each series are redeemable at the option of the Issuer, in whole but not in part, upon the occurrence of a Change in Tax Law at 100% of principal of the notes plus accrued and unpaid interest, if any, to, but not
+including, the redemption date, and all Additional Amounts (if any).
+Change of Control Triggering Event: | Putable upon a Change of Control Triggering Event at 101% of principal of the notes plus accrued and unpaid interest, if any, to, but not including, the repurchase date.
+Trade Date: | November 9, 2026
+Settlement Date: | T+10; November 24, 2026
+It is expected that delivery of the notes will be made against payment therefor on or about November 24, 2026, which will be the tenth business day following the date of pricing of the notes (such settlement cycle being
+referred to herein as “T+10”). Under Rule 15c6-1 under the Exchange Act, trades in the secondary market generally are required to settle in one business day unless the parties to any such trade
+expressly agree otherwise. Accordingly, purchasers of the notes who wish to trade the notes on the date of pricing and prior to the date that is more than one business day preceding the settlement date will be required, by virtue of the fact that
+the notes initially will settle T+10, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the notes who wish to trade the notes prior to the date that is more than one business day
+preceding the settlement date should consult their own advisors.
+CUSIP: | 2033 notes: 85917PAC1 2036 notes:
+85917PAD9
+ISIN: | 2033 notes: US85917PAC14 2036 notes:
+US85917PAD96
+Ratings*: | Baa1 (stable) / BBB (stable) / BBB (stable) (Moody’s / S&P / Fitch)
+Expecting Listing: | The Issuer intends to list the notes on The New York Stock Exchange.
+Minimum Denomination: | $150,000 and integral multiples of $1,000 in excess thereof
+Joint Book-Running Managers: | J.P. Morgan Securities LLC Goldman
+Sachs & Co. LLC Citigroup Global Markets Inc. BofA
+Securities, Inc. PNC Capital Markets LLC Wells Fargo
+Securities, LLC
+Co-Managers: | DNB Carnegie, Inc. HSBC Securities (USA)
+Inc. BBVA Securities Inc. Siebert Williams Shank &
+Co., LLC
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be revised or
+withdrawn at any time.
+The Issuer has filed a registration statement (including a prospectus and the related Preliminary
+Prospectus Supplement) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement, the Preliminary Prospectus Supplement and other documents the Issuer has
+filed with the SEC for more complete information about the Issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at
+www.sec.gov
+. Alternatively, the Issuer, any underwriter or any dealer
+participating in the offering will arrange to send you the Preliminary Prospectus Supplement and the accompanying prospectus if you request it by calling J.P. Morgan Securities LLC collect at (212)
+834-4533,
+Goldman Sachs & Co. LLC toll-free at (866)
+471-2526
+or Citigroup Global Markets Inc. toll-free at (800)
+831-9146.
+Any disclaimer or other notice that may appear below is not applicable to this communication and should be disregarded. Such disclaimer or notice was
+automatically generated as a result of this communication being sent by Bloomberg or another email system.

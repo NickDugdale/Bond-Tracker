@@ -1,0 +1,58 @@
+{
+  "source_file": "2026-11-05_northern-trust-corp_0001193125-26-450068.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:11:04",
+  "usage": {
+    "input_tokens": 3746,
+    "output_tokens": 662
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Northern Trust Corporation",
+    "sector": "Financials",
+    "trade_date": "2026-11-05",
+    "settlement_date": "2026-11-10",
+    "rating_moodys": "A2",
+    "rating_sp": "A+",
+    "rating_fitch": "A+",
+    "bookrunners": [
+      "BofA Securities, Inc.",
+      "Citigroup Global Markets Inc.",
+      "Goldman Sachs & Co. LLC",
+      "Morgan Stanley & Co. LLC",
+      "Siebert Williams Shank & Co., LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 1000000000,
+        "coupon_pct": 5.3,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-11-10",
+        "first_call_date": null,
+        "benchmark": "4.750% US Treasury due October 31, 2031",
+        "spread_bps": 70,
+        "yield_pct": 5.31,
+        "issue_price_pct": 99.957,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury | +70 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1000000000,
+        "coupon_pct": 5.7,
+        "coupon_type": "fixed",
+        "maturity_date": "2036-11-10",
+        "first_call_date": null,
+        "benchmark": "4.625% US Treasury due August 15, 2036",
+        "spread_bps": 90,
+        "yield_pct": 5.731,
+        "issue_price_pct": 99.767,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury | +90 bps"
+      }
+    ]
+  }
+}

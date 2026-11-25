@@ -1,0 +1,43 @@
+{
+  "source_file": "2026-11-02_aep-transmission-company-llc_0001702494-26-000023.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:08:07",
+  "usage": {
+    "input_tokens": 3215,
+    "output_tokens": 456
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "AEP Transmission Company, LLC",
+    "sector": "Utilities",
+    "trade_date": "2026-11-02",
+    "settlement_date": "2026-11-04",
+    "rating_moodys": "A2",
+    "rating_sp": "BBB+",
+    "rating_fitch": "A",
+    "bookrunners": [
+      "BMO Capital Markets Corp.",
+      "BNY Mellon Capital Markets, LLC",
+      "Santander US Capital Markets LLC",
+      "Truist Securities, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 550000000,
+        "coupon_pct": 6.2,
+        "coupon_type": "fixed",
+        "maturity_date": "2056-11-15",
+        "first_call_date": "2056-05-15",
+        "benchmark": "UST 5.000% due 2056-05-15",
+        "spread_bps": 95,
+        "yield_pct": 6.213,
+        "issue_price_pct": 99.821,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Reoffer Spread: 95 basis points"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1702494/000170249426000023/a11-2026aeptcofwp.htm
+ISSUER (SEC filer): AEP Transmission Company, LLC
+FILED: 2026-11-02
+========================================
+FWP
+1
+a11-2026aeptcofwp.htm
+FWP
+Document
+Filed pursuant to Rule 433
+Registration No. 333-277662
+November 2, 2026
+PRICING TERM SHEET
+Issuer: | AEP Transmission Company, LLC
+Expected Ratings*: | A2 (stable) by Moody’s Investors Service, Inc. BBB+ (stable) by S&P Global Ratings, a division of S&P Global Inc. A (stable) by Fitch Ratings, Inc.
+Designation: | Senior Notes, Series T, due 2056
+Principal Amount: | $550,000,000
+Maturity Date: | November 15, 2056
+Coupon: | 6.20%
+Interest Payment Dates: | May 15 and November 15
+First Interest Payment Date: | May 15, 2027
+Treasury Benchmark: | 5.000% due May 15, 2056
+Treasury Yield: | 5.263%
+Reoffer Spread: | 95 basis points
+Yield to Maturity: | 6.213%
+Price to Public: | 99.821% of the principal amount thereof
+Transaction Date: | November 2, 2026
+Settlement Date: | November 4, 2026 (T+2)
+Redemption Terms: Make-whole call: Par call: | Prior to May 15, 2056 at a discount rate of the Treasury Rate plus 15 basis points On or after May 15, 2056 at par
+Tax Credit Event Redemption: | In whole but not in part at a redemption price equal to 101% of the principal amount of the Senior Notes being redeemed, plus unpaid interest accrued to, but excluding, the redemption date (notice of redemption may be issued six months from the date of issuance of the Senior Notes)
+Minimum Denomination: | $2,000 and integral multiples of $1,000 in excess thereof
+CUSIP/ISIN: | 00115A AU3 / US00115AAU34
+Joint Book-Running Managers: | BMO Capital Markets Corp. BNY Mellon Capital Markets, LLC Santander US Capital Markets LLC Truist Securities, Inc.
+Co-Managers: | Fifth Third Securities, Inc. Huntington Securities, Inc. Regions Securities LLC
+*Note:
+A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+Under Rule 15c6-1 under the 1934 Act, trades in the secondary market generally are required to settle in one business day, unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Senior Notes prior to the first business day before delivery of the Senior Notes will be required, by virtue of the fact that the Senior Notes initially settle in T+2, on November 4, 2026, to specify alternative settlement arrangements to prevent a failed settlement.
+The issuer has filed a registration statement (including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by contacting BMO Capital Markets Corp
+.
+toll-free at (888) 200-0266, BNY Mellon Capital Markets, LLC toll-free at (800) 269-6864, Santander US Capital Markets LLC toll-free at (855) 403-3636 or Truist Securities, Inc. toll-free at (800) 685-4786.

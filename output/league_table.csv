@@ -1,53 +1,66 @@
 ﻿bank,rank,deals,credited_usd_m
-J.P. Morgan,1,42,19150.0
-HSBC,2,13,12973.0
-Citigroup,3,33,12212.0
-Barclays,4,21,11818.0
-BofA Securities,5,40,11558.0
-Morgan Stanley,6,30,11384.0
-Wells Fargo,7,30,9875.0
-Goldman Sachs,8,27,9820.0
-BNP Paribas,9,16,6232.0
-Mizuho,10,21,4938.0
-RBC,11,15,4552.0
-Deutsche Bank,12,11,3554.0
-BMO,13,8,3254.0
-U.S. Bancorp,14,16,3126.0
-UBS,15,5,2923.0
-TD Securities,16,11,2700.0
-Scotiabank,17,13,2555.0
-ING,18,7,2397.0
-MUFG,19,16,2184.0
-SMBC Nikko,20,11,1927.0
-Truist,21,11,1843.0
-Santander,22,5,1566.0
-BNY Mellon Capital Markets,23,2,1394.0
-Societe Generale,24,5,1239.0
-PNC,25,11,1155.0
-NatWest,26,3,1147.0
-Natixis,27,3,852.0
-CIBC,28,5,688.0
-Standard Chartered Bank,29,2,655.0
-Jefferies,30,4,633.0
-BBVA,31,3,492.0
-Keefe,32,4,488.0
-ANZ Securities,33,1,375.0
-Fifth Third Securities,34,2,228.0
-Lloyds,35,1,208.0
-Piper Sandler & Co,36,2,188.0
-Leerink Partners LLC,37,3,166.0
-Allen & Company LLC,38,1,143.0
-Capital One Securities,39,1,136.0
-Evercore Group L,40,2,121.0
-Huntington Securities,41,2,98.0
-Guggenheim Securities,42,1,71.0
-Commerce Brokerage Services,43,1,70.0
-Regions,44,1,70.0
-Credit Agricole,45,1,68.0
-KeyBanc,46,1,68.0
-Raymond James & Associates,47,1,50.0
-William Blair & Company L,48,1,45.0
-Brookfield Securities LLC,49,1,21.0
-Lucid Capital Markets,50,2,21.0
-Oppenheimer & Co,51,2,21.0
-B,52,1,11.0
+Citigroup,1,68,34163.0
+Morgan Stanley,2,57,32070.0
+J.P. Morgan,3,77,29557.0
+BofA Securities,4,81,20845.0
+HSBC,5,28,19505.0
+Goldman Sachs,6,48,17424.0
+Barclays,7,38,16996.0
+Wells Fargo,8,54,14269.0
+BNP Paribas,9,29,9951.0
+Deutsche Bank,10,27,9652.0
+Mizuho,11,40,9523.0
+RBC,12,30,8403.0
+TD Securities,13,32,7146.0
+U.S. Bancorp,14,35,6501.0
+Scotiabank,15,28,5367.0
+SMBC Nikko,16,27,5330.0
+PNC,17,28,4446.0
+BMO,18,16,4060.0
+UBS,19,9,3725.0
+MUFG,20,29,3569.0
+Truist,21,23,3249.0
+ING,22,10,2779.0
+Santander,23,10,2580.0
+Societe Generale,24,10,2424.0
+Credit Agricole,25,11,2084.0
+BNY Mellon Capital Markets,26,8,1850.0
+NatWest,27,6,1787.0
+Standard Chartered Bank,28,6,1697.0
+Lloyds,29,4,1636.0
+BBVA,30,8,1465.0
+CIBC,31,10,1238.0
+Natixis,32,4,887.0
+Fifth Third Securities,33,4,770.0
+Jefferies,34,4,633.0
+Capital One Securities,35,2,561.0
+KeyBanc,36,7,478.0
+Piper Sandler & Co,37,2,412.0
+Keefe,38,3,400.0
+Siebert Williams Shank & Co,39,1,400.0
+ANZ Securities,40,1,375.0
+DBS Bank Ltd,41,1,362.0
+Commerzbank Aktiengesellschaft,42,1,294.0
+Loop Capital Markets LLC,43,1,286.0
+Coöperatieve Rabobank U,44,1,229.0
+Regions,45,4,228.0
+Bank of China Limited,46,1,210.0
+Danske Markets Inc,47,1,210.0
+UniCredit Capital Markets LLC,48,1,210.0
+Rabo Securities USA,49,2,172.0
+Leerink Partners LLC,50,3,166.0
+Allen & Company LLC,51,1,143.0
+Huntington Securities,52,4,139.0
+SEB Securities,53,1,136.0
+Evercore Group L,54,2,121.0
+Guggenheim Securities,55,1,71.0
+Commerce Brokerage Services,56,1,70.0
+Raymond James & Associates,57,1,50.0
+William Blair & Company L,58,1,45.0
+FNB America Securities LLC,59,1,42.0
+nabSecurities LLC,60,2,41.0
+M&T Securities,61,1,36.0
+Brookfield Securities LLC,62,1,21.0
+Lucid Capital Markets,63,2,21.0
+Oppenheimer & Co,64,2,21.0
+B,65,1,11.0

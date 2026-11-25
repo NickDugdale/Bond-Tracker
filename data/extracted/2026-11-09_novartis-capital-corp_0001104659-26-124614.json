@@ -1,0 +1,89 @@
+{
+  "source_file": "2026-11-09_novartis-capital-corp_0001104659-26-124614.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:12:13",
+  "usage": {
+    "input_tokens": 6940,
+    "output_tokens": 1058
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Novartis Capital Corporation",
+    "sector": "Healthcare",
+    "trade_date": "2026-11-09",
+    "settlement_date": "2026-11-12",
+    "rating_moodys": "Aa3",
+    "rating_sp": "AA-",
+    "rating_fitch": null,
+    "bookrunners": [
+      "Barclays Capital Inc.",
+      "BofA Securities, Inc.",
+      "Goldman Sachs & Co. LLC",
+      "SG Americas Securities, LLC",
+      "Citigroup Global Markets Inc.",
+      "HSBC Securities (USA) Inc.",
+      "Mizuho Securities USA LLC",
+      "J.P. Morgan Securities LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 4.9,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-11-12",
+        "first_call_date": "2029-10-12",
+        "benchmark": "UST 4.875% due October 15, 2029",
+        "spread_bps": 35,
+        "yield_pct": 4.956,
+        "issue_price_pct": 99.846,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: 35 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1500000000,
+        "coupon_pct": 5.2,
+        "coupon_type": "fixed",
+        "maturity_date": "2032-02-12",
+        "first_call_date": "2032-01-12",
+        "benchmark": "UST 4.750% due October 31, 2031",
+        "spread_bps": 55,
+        "yield_pct": 5.214,
+        "issue_price_pct": 99.945,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: 55 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1750000000,
+        "coupon_pct": 5.3,
+        "coupon_type": "fixed",
+        "maturity_date": "2034-02-12",
+        "first_call_date": "2033-12-12",
+        "benchmark": "UST 4.875% due October 31, 2033",
+        "spread_bps": 65,
+        "yield_pct": 5.397,
+        "issue_price_pct": 99.433,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: 65 bps"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1750000000,
+        "coupon_pct": 5.5,
+        "coupon_type": "fixed",
+        "maturity_date": "2037-02-12",
+        "first_call_date": "2036-11-12",
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 70,
+        "yield_pct": 5.556,
+        "issue_price_pct": 99.576,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: 70 bps"
+      }
+    ]
+  }
+}

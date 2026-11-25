@@ -1,0 +1,119 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/102385/000119312526468721/d100927dfwp.htm
+ISSUER (SEC filer): URUGUAY REPUBLIC OF
+FILED: 2026-11-19
+========================================
+FWP
+1
+d100927dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration
+No. 333-299490
+Pricing Term Sheet
+República Oriental del Uruguay
+€1,250,000,000 4.750% Euro-Denominated Bonds due 2034 (the “Securities”)
+Final Terms and Conditions
+As of
+November 19, 2026
+Issuer | República Oriental del Uruguay.
+Title | 4.750% Euro-Denominated Bonds due 2034.
+Expected Notes Ratings 1 | Baa1 / BBB+ / BBB (Moody’s / S&P / Fitch)
+Issuer Ratings 1 | Baa1 / BBB+ / BBB (Moody’s / S&P / Fitch)
+Currency | Euro (€)
+Principal Amount | €1,250,000,000
+Maturity Date | November 30, 2034
+Pricing Date | November 19, 2026
+Expected Settlement Date | November 30, 2026 (T+6).
+Mid-Swaps Yield | 3.454%
+Spread to Mid-Swaps | +130 basis points
+Benchmark Bund | DBR 2.600% due August 15, 2034
+Benchmark Bund Price/Yield | 94.94 / 3.353%
+Spread to Benchmark Bund | +140.1 basis points
+Yield to Maturity | 4.754%
+Public Offering Price | 99.974% of the principal amount, plus accrued interest, if any, from (and including) November 30, 2026 to (but excluding) the settlement date.
+Interest | 4.750% per annum, payable annually in arrears.
+Payment of Interest | Amounts due in respect of interest will be paid annually in arrears on November 30 of each year, commencing on November 30, 2027, with a final interest payment on the maturity date, which is scheduled for November 30,
+2034. Interest on the Securities will be calculated on the basis of the actual number of days in a 365 (or 366) day year, as applicable.
+Interest Payment Dates | November 30 of each year, commencing on November 30, 2027.
+Payments of Principal | Principal will be repaid in full at maturity.
+Optional Redemption | Uruguay will have the right at its option, upon giving not less than 10 days’ nor more than 60 days’ notice, to redeem the
+Securities, in whole or in part, at any time or from time to time prior to their maturity, at a redemption price equal to: • if redeemed prior to August 30, 2034 (three months prior to the maturity date of the Securities), the principal amount thereof, plus the
+Make-Whole Amount (as defined below), plus interest accrued but not paid on the principal amount of the Securities to the date of redemption, or • if redeemed on or after August 30, 2034 (three months prior to the maturity date of the Securities), the principal amount thereof, plus interest
+accrued but not paid on the principal amount of such Securities to the date of redemption. See “Description of the Notes—Optional Redemption” in the preliminary prospectus supplement. “Make-Whole Amount” means the excess of (i) the sum of the present
+values of each remaining scheduled payment of principal and interest on the Securities to be redeemed (exclusive of interest accrued but not paid to the date of redemption), discounted to the redemption date on an annual basis (assuming the actual
+number of days in a 365- or 366-day year) at the Benchmark Rate (as defined in the preliminary prospectus supplement) plus 25 basis points over (ii) the principal
+amount of such Securities.
+Denominations | €1,000 and integral multiples of €1.00 in excess thereof.
+Day Count | Actual/Actual (ICMA)
+Distribution | SEC Registered.
+ISIN/Common Code | XS3577568986 / 357756898
+Governing Law | State of New York.
+Listing | Application will be made to admit the Securities to the Luxembourg Stock Exchange and the London Stock Exchange, and to have the Securities admitted to trading on the Euro MTF Market of the Luxembourg Stock Exchange and on the
+International Securities Market of the London Stock Exchange.
+Joint Bookrunners | BNP PARIBAS HSBC Securities (USA) Inc. J.P. Morgan Securities plc
+The security ratings above are not a recommendation to buy, sell or hold the notes offered hereby. The ratings may be subject
+to revision or withdrawal at any time by Moody’s Investors Service, Inc., Standard & Poor’s Ratings Service and Fitch Ratings Limited. Each of the security ratings above should be evaluated independently of any other security
+rating.
+The following additional information of Uruguay and regarding the securities is available from the SEC’s website and also accompanies this
+free-writing
+prospectus:
+https://www.sec.gov/Archives/edgar/data/102385/000119312526423615/d188739dsb.htm
+https://www.sec.gov/Archives/edgar/data/102385/000119312526450380/d141641dsba.htm
+https://www.sec.gov/Archives/edgar/data/102385/000119312526463930/d187369dsba.htm
+https://www.sec.gov/Archives/edgar/data/102385/000119312526316955/d68061d18k.htm
+https://www.sec.gov/Archives/edgar/data/102385/000119312526462508/d174569d18ka.htm
+https://www.sec.gov/Archives/edgar/data/102385/000119312526466128/d129703d424b3.htm
+The issuer has filed a registration statement (including a prospectus and a preliminary prospectus supplement) with the SEC for the offering to
+which this communication relates. Before you invest, you should read the prospectus and the preliminary prospectus supplement in that registration statement and other documents the issuer has filed with the SEC for more complete information about
+the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus or
+any prospectus supplement for this offering if you request it by calling BNP PARIBAS at +1 (800)
+854-5674
+(toll free), HSBC Securities (USA) Inc. at
++1-866-811-8049,
+and J.P. Morgan Securities plc at
++44-207-134-2468.
+Delivery of the
+Securities is expected on or about November 30, 2026, which will be the sixth business day following the date of pricing of the Securities. Under Rule
+15c6-1
+of the Securities Exchange Act of 1934, as
+amended, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade Securities prior to one business day before the
+Settlement Date will be required, by virtue of the fact that the Securities initially will settle in T+6, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the Securities who wish to
+trade Securities prior to one business day before the Settlement Date should consult their own advisor.
+This pricing term sheet has been prepared on the basis that any offer of Securities in any Member State of
+the European Economic Area (“EEA”) will be made pursuant to an exemption under the Prospectus Regulation from the requirement to publish a prospectus for offers of Securities. Accordingly, any person making or intending to make an offer
+in the EEA of Securities which are the subject of the offers contemplated in the Prospectus Supplement may only do so to legal entities which are qualified investors as defined in the Prospectus Regulation, provided that no such offer of Securities
+shall require the Republic or any of the underwriters to publish a prospectus pursuant to Article 3 of the Prospectus Regulation or supplement a prospectus pursuant to Article 23 of the Prospectus Regulation, in each case in relation to such offer.
+Neither the Republic nor the underwriters have authorized, nor do they authorize, the making of any offer of Securities to any legal entity which is not a “qualified investor” as defined in the Prospectus Regulation. Neither the Republic
+nor the underwriters have authorized, nor do they authorize, the making of any offer of Securities through any financial intermediary, other than offers made by the underwriters, which constitute the final placement of the Securities contemplated in
+the prospectus supplement. The expression “Prospectus Regulation” means Regulation (EU) 2017/1129 (as amended or superseded).
+The Securities
+are not intended to be offered, sold or otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in any Member State of the EEA. For these purposes, a retail investor means a person who is one
+(or more) of: (i) a retail client as defined in point (11) of Article 4(1) of Directive 2014/65/EU (as amended, “MiFID II”); (ii) a customer within the meaning of Directive (EU) 2016/97 (as amended, the “Insurance
+Distribution Directive”), where that customer would not qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II; or (iii) not a qualified investor as defined in Article 2 of the Prospectus Regulation.
+Consequently, no key information document required by Regulation (EU) No 1286/2014 (as amended, the “PRIIPs Regulation”) for offering or selling the Securities or otherwise making them available to retail investors in the EEA has been
+prepared and therefore offering or selling the Securities or otherwise making them available to any retail investor in the EEA may be unlawful under the PRIIPs Regulation.
+Each person in the EEA who receives any communication in respect of, or who acquires any Securities under, the offers to the public contemplated in the
+Prospectus Supplement, or to whom the Securities are otherwise made available, will be deemed to have represented, warranted, acknowledged and agreed to and with each underwriter and the Republic that it and any person on whose behalf it acquires
+Securities is: (1) a “qualified investor” within the meaning of Article 2(e) of the Prospectus Regulation; and (2) not a “retail investor” (as defined above).
+Any distributor subject to MiFID II (for the purposes of this paragraph, a “distributor”) subsequently offering, selling or recommending the
+Securities is responsible for undertaking its own target market assessment in respect of the Securities and determining the appropriate distribution channels for the purposes of the MiFID II product governance rules under Commission Delegated
+Directive (EU) 2017/593 (the “Delegated Directive”). Neither the Republic nor any of the underwriters make any representations or warranties as to a distributor’s compliance with the Delegated Directive.
+As
+non-equity
+securities issued by the Republic, the Securities are
+excluded securities under regulation 6(1)(b)(i) of the Public Offers and Admissions to Trading Regulations 2024 (the “POATRs”). Accordingly, the prohibition on offers of relevant securities to the public in the United Kingdom
+(“UK”) under regulation 12 of the POATRs does not apply to the Securities. The restrictions on distribution and financial promotions set out below continue to apply.
+The Securities are excluded from the definition of a consumer composite investment under regulation 4(2)(c)(i) of the Consumer Composite Investments
+(Designated Activities) Regulations 2024. Accordingly, no product summary or other disclosure document under the Product Disclosure sourcebook (“DISC”) of the Financial Conduct Authority (“FCA”) Handbook has been prepared for
+the Securities.
+Any distributor subject to the FCA Handbook Product Intervention and Product Governance Sourcebook (the “UK MiFIR Product
+Governance Rules”), subsequently offering, selling or recommending the Securities is responsible for undertaking its own target market assessment in respect of the Securities and determining the appropriate distribution channels for the
+purposes of the UK MiFIR Product Governance Rules. Neither Uruguay nor any of the underwriters make any representations or warranties as to a distributor’s compliance with these UK MiFIR Product Governance Rules.
+This pricing term sheet is for distribution only to persons who: (i) have professional experience in matters relating to investments falling within
+Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (as amended, the “Order”); (ii) are persons falling within Article 49(2)(a) to (d) of the Order (“high net worth companies,
+unincorporated associations etc.”); (iii) are outside the United Kingdom; or (iv) are persons to whom an invitation or inducement to engage in investment activity (within the meaning of section 21 of the Financial Services and Markets Act
+2000) in connection with the issue or sale of any securities may otherwise lawfully be communicated or caused to be communicated (all such persons together being referred to as “Relevant Persons”). In the UK, the Securities are only
+available to, and any invitation, offer or agreement to subscribe, purchase or otherwise acquire the Securities will be engaged in only with, Relevant Persons.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR AFTER THIS MESSAGE ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR
+OTHER NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.

@@ -1,0 +1,123 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/2060630/000110465926130243/tm2629851d3_fwp.htm
+ISSUER (SEC filer): Smurfit Kappa Treasury Unlimited Co
+FILED: 2026-11-19
+========================================
+FWP
+1
+tm2629851d3_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Free Writing Prospectus dated November 19, 2026
+Relating to Preliminary Prospectus Supplement dated
+November 19, 2026
+Registration Statement No. 333-291446
+Smurfit Westrock Financing DAC
+6.134% Senior Notes due 2037 (the “2037
+Notes”)
+6.567% Senior Notes due 2056
+(the “2056 Notes”)
+Pricing Term Sheet dated November 19, 2026
+to the Preliminary Prospectus Supplement dated November 19, 2026 of Smurfit Westrock Financing DAC (the “Preliminary Prospectus
+Supplement”)
+This Pricing
+Term Sheet is qualified in its entirety by reference to the Preliminary Prospectus Supplement. The information in this Pricing Term Sheet
+supplements and supersedes the Preliminary Prospectus Supplement to the extent inconsistent with the information in the Preliminary Prospectus
+Supplement. Unless otherwise indicated, capitalized terms used but not defined herein have the meanings given to them in the Preliminary
+Prospectus Supplement.
+Issuer: | Smurfit Westrock Financing DAC
+Guarantors: | Smurfit Westrock plc and certain of its subsidiaries
+Offering Format: | SEC Registered
+Expected Ratings*: | Baa2 (Moody’s) / BBB (S&P) / BBB+ (Fitch)
+Trade Date: | November 19, 2026
+Settlement Date**: | November 24, 2026 (T+3)
+Notes Offered: | 2037 Notes: 6.134% Senior Notes due 2037 2056 Notes: 6.567% Senior Notes due 2056
+Principal Amount: | 2037 Notes: $600,000,000 2056 Notes: $900,000,000
+Coupon: | 2037 Notes: 6.134% 2056 Notes: 6.567%
+Interest Payment Dates: | 2037 Notes: January 15 and July 15 of each year,
+commencing July 15, 2027 (long first coupon) 2056 Notes: May 24 and November 24 of each year,
+commencing May 24, 2027
+Interest Record Dates: | 2037 Notes: January 1 and July 1 2056 Notes: May 9 and November 9
+Maturity Date: | 2037 Notes: January 15, 2037 2056 Notes: November 24, 2056
+1
+Spread to Benchmark Treasury: | 2037 Notes: +107 basis points 2056 Notes: +115 basis points
+Benchmark Treasury: | 2037 Notes: UST 5.000% due November 15, 2036 2056 Notes: UST 5.125% due August 15, 2056
+Benchmark Treasury Price and Yield: | 2037 Notes: 99-16; 5.064% 2056 Notes: 95-22+; 5.417%
+Yield to Maturity: | 2037 Notes: 6.134% 2056 Notes: 6.567%
+Price to Public: | 2037 Notes: 99.984% of principal amount 2056 Notes: 100.000% of principal amount
+Gross Proceeds: | 2037 Notes: $599,904,000 2056 Notes: $900,000,000
+Underwriting Discount: | 2037 Notes: 0.550% 2056 Notes: 0.875%
+Optional Redemption:
+Make-Whole Call: | 2037 Notes: T+20 basis points 2056 Notes: T+20 basis points
+Par Call: | 2037 Notes: On or after October 15, 2036 2056 Notes: On or after May 24, 2056
+Tax Redemption: | Par call upon the occurrence of specified tax events described under “ Description of the Notes — Redemption for Taxation Reasons ” in the prospectus supplement
+CUSIP / ISIN: | 2037 Notes: 83272Y AD4 / US83272YAD40 2056 Notes: 83272Y AE2 / US83272YAE23
+Change of Control Repurchase Event: | Put at 101% of principal plus accrued and unpaid interest and Additional Amounts, if any, to, but excluding, the date of purchase, subject to occurrence of a Change of Control Repurchase Event
+Denominations: | Minimum denominations of $200,000 and integral multiples of $1,000 in excess thereof
+Governing Law: | State of New York
+2
+Expected Listing: | Application will be made for the Notes to be admitted to the Official List of the Irish Stock Exchange plc trading as Euronext Dublin and to trading on the Global Exchange Market and added to the Euronext ESG Bonds platform in accordance with the rules of that exchange.
+Joint Book-Running Managers: | Citigroup Global Markets Inc. Deutsche Bank Securities Inc. J.P. Morgan Securities LLC NatWest Markets Securities Inc. PNC Capital Markets LLC ING Financial Markets LLC Lloyds Securities Inc. Rabo Securities USA, Inc. RBC Capital Markets, LLC SEB Securities, Inc. TD Securities (USA) LLC
+Senior Co-Managers: | Barclays Capital Inc. BNP Paribas Securities Corp. Credit Agricole Securities (USA) Inc. Commerz Markets LLC Danske Markets Inc. Goodbody Stockbrokers UC Mizuho Securities USA LLC Santander US Capital Markets LLC Scotia Capital (USA) Inc. SMBC Nikko Securities America, Inc. Wells Fargo Securities, LLC
+Co-Managers: | Bank of China (Europe) S.A. J&E Davy Unlimited Company Regions Securities LLC Siebert Williams Shank & Co., LLC
+***
+* A securities rating is not a recommendation
+to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+***
+AMENDMENTS TO THE PRELIMINARY PROSPECTUS SUPPLEMENT
+In addition to the foregoing pricing information,
+which is deemed to be reflected and conformed throughout the Preliminary Prospectus Supplement, as applicable, the Preliminary Prospectus
+Supplement is hereby revised to reflect the following.
+3
+The first paragraph in the section titled “Use
+of Proceeds” is replaced with the following two paragraphs:
+We intend to (a) use the net
+proceeds from this Offering (i) to redeem the outstanding $600.0 million in aggregate principal amount of 4.000% Senior Notes due 2028
+issued by WRKCo (the “
+4.000% 2028 Notes
+”) in full at the applicable redemption price set forth in the indenture governing
+the 4.000% 2028 Notes and the outstanding $500.0 million in aggregate principal amount of 3.900% Senior Notes due 2028 issued by WRKCo
+(the “
+3.900% 2028 Notes
+”) in full at the applicable redemption price set forth in the indenture governing the 3.900%
+2028 Notes and (ii) for general corporate purposes, including the repayment of other indebtedness; and (b) use an amount equivalent to
+the proceeds of the Offering to finance or refinance a portfolio of Eligible Green Projects in accordance with our Green Finance Framework,
+which we may, in the future, update in line with developments in the market. WRKCo intends to issue redemption notices for the 4.000%
+2028 Notes and the 3.900% 2028 Notes prior to the closing of this Offering. See “
+Capitalization
+.” This prospectus supplement
+does not constitute a notice of redemption under the indentures governing the 4.000% 2028 Notes or the 3.900% 2028 Notes.
+Certain of the underwriters
+and/or their respective affiliates may be holders of the 4.000% 2028 Notes and/or the 3.900% 2028 Notes and may therefore receive a portion
+of the net proceeds from this Offering. See “
+Underwriting
+.”
+Other than as disclosed above, the information
+in the section titled “Use of Proceeds” remains unchanged.
+***
+OTHER CHANGES
+Other information presented in the Preliminary
+Prospectus Supplement is deemed to have changed to the extent affected by the changes described herein.
+***
+** Delivery of the Notes will be made to investors
+on or about November 24, 2026, which will be the third business day in New York following the date of pricing of the Notes (such settlement
+being referred to as “T+3”). Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended, trades in the secondary
+market are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers
+who wish to trade the Notes prior to the first business day before the date of their delivery will be required, by virtue of the fact
+that the Notes initially settle in T+3, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement.
+Purchasers of the Notes who wish to trade the Notes on a date that is prior to the first business day prior to delivery of the Notes should
+consult their own advisor.
+Smurfit Westrock has filed a registration statement
+(including a base prospectus) and the Preliminary Prospectus Supplement with the U.S. Securities and Exchange Commission (the “SEC”)
+for the offering to which this communication relates. Before you invest, you should read the Preliminary Prospectus Supplement, the accompanying
+base prospectus in that registration statement, this Pricing Term Sheet and other documents Smurfit Westrock has filed with the SEC for
+more complete information about Smurfit Westrock and this Offering. You may obtain these documents for free by visiting EDGAR on the SEC’s
+website at www.sec.gov. Alternatively, Smurfit Westrock, any underwriter or any dealer participating in this Offering will arrange to
+send you the Preliminary Prospectus Supplement, the final prospectus supplement (when available) and the accompanying base prospectus
+if you request it by calling Citigroup Global Markets Inc. at +1-800-831-9146 (toll free), Deutsche Bank Securities Inc. at +1-800-503-4611
+(toll free), J.P. Morgan Securities LLC at +1-212-834-4533 (collect), NatWest Markets Securities Inc. at +1-800-231-5380 (toll free) and
+PNC Capital Markets LLC at +1-855-881-0697 (toll free).
+4
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR
+BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY GENERATED
+AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.
+5

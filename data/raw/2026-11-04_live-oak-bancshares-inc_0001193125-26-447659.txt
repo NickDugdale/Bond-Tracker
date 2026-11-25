@@ -1,0 +1,77 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1462120/000119312526447659/d177913dfwp.htm
+ISSUER (SEC filer): Live Oak Bancshares, Inc.
+FILED: 2026-11-04
+========================================
+FWP
+1
+d177913dfwp.htm
+FWP
+FWP
+Free Writing Prospectus
+Filed pursuant to Rule 433
+Registration
+No. 333-294092
+November 4, 2026
+4,000,000 Depositary Shares, Each Representing a 1/40th Interest in a Share of
+8.750% Fixed Rate Series B
+Non-Cumulative
+Perpetual Preferred Stock
+Term Sheet
+Issuer: | Live Oak Bancshares, Inc. (the “Company”)
+Security 1 : | Depositary shares (“Depositary Shares”), each representing a 1/40th interest in a share of the Company’s 8.750% Fixed Rate Series B Non-Cumulative Perpetual Preferred Stock,
+without par value (“Series B preferred stock”)
+Aggregate Liquidation Amount: | $100,000,000 (4,000,000 Depositary Shares)
+Overallotment Option: | The Company has granted the underwriters an option to purchase up to an additional 600,000 depositary shares, at the public offering price less the underwriting discount. They may exercise the option for 30 days.
+Liquidation Preference: | $1,000 per share of Series B preferred stock (equivalent to $25 per depositary share)
+Dividend Rate (Non-cumulative): | If declared, dividends will accrue and be payable, quarterly in arrears at a rate of 8.750% per annum, on March 15, June 15, September 15, and December 15 of each year, commencing on December 15, 2026,
+except in each case where such day is not a business day.
+Day Count Convention | 360-day year of twelve 30-day months.
+Term: | Perpetual
+Trade Date: | November 4, 2026
+Settlement Date: | November 12, 2026 (T + 5)
+Optional Redemption: | The Company may redeem the Series B preferred stock at its option, subject to regulatory approval (if then required), at a redemption price equal to $1,000 per share (equivalent to $25 per depositary share), plus any declared
+and unpaid dividends (without accumulation of any undeclared dividends) to, but excluding, the redemption date, (i) in whole or in part, from time to time, on any dividend payment date on or after December 15, 2031 or (ii) in whole
+but not in part, at any time within 90 days following a regulatory capital treatment event (as defined in the Preliminary Prospectus Supplement). If the Company redeems the Series B preferred stock, the depositary is expected to redeem a
+proportionate number of depositary shares.
+1 | Neither the Depositary Shares nor the Series B preferred stock is a savings account, deposit or other
+obligation of any of the Company’s bank or non-bank subsidiaries, and neither is insured by the Federal Deposit Insurance Corporation or any other governmental agency or instrumentality.
+1
+Public Offering Price: | $25 per Depositary Share (equivalent to $1,000 per share of Series B preferred stock)
+Underwriting Discount and Commission: | $0.7875 per Depositary Share
+Net Proceeds (after underwriting discounts and commissions, before expenses) to the Issuer: | $96,850,000 (or $111,377,500 if the underwriters exercise in full their over-allotment option)
+Use of Proceeds: | Net proceeds from the offering are expected to be used for general corporate purposes, including to support balance sheet growth at Live Oak Banking Company and to enhance the Company’s capital position.
+Joint Book-Running Managers: | Morgan Stanley & Co. LLC Keefe,
+Bruyette & Woods, Inc. RBC Capital Markets, LLC UBS
+Securities LLC
+Depositary: | Broadridge Corporate Issuer Solutions, Inc. will be the transfer agent, registrar and depositary for the Series B preferred stock and the depositary shares.
+Listing: | The Company intends to file an application to list the depositary shares on the New York Stock Exchange (“NYSE”) under the symbol “LOB/PB”. If the application is approved, trading of the depositary shares on
+NYSE is expected to begin within 30 days after the date of initial issuance of the depositary shares.
+CUSIP/ISIN for the Depositary Shares: | 53803X 501 / US53803X5014
+The Depositary Shares are not deposits or other obligations of a bank and are not insured or guaranteed by the Federal
+Deposit Insurance Corporation or any other governmental agency.
+We expect that delivery of the Depositary Shares will be made against payment for
+the Depositary Shares on or about the Settlement Date indicated above, which will be the fifth business day following the Trade Date indicated above (such settlement being referred to as “T+5”). Under Rule
+15c6-1
+of the Securities Exchange Act of 1934, as amended, trades in the secondary market generally are required to settle in one business day following the date of any contract for sale (such settlement cycle
+being referred to as “T+1”), unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Depositary Shares on any date prior to one business day before the Settlement Date will be required, by
+virtue of the fact that the Depositary Shares will settle in T+5, to specify alternative settlement cycle at the time of the trade to prevent a failed settlement and should consult their own advisors in connection with that election.
+The Company has filed a “shelf” registration statement (File No. 333-294092) (including a base prospectus (the “Base
+Prospectus”) on March 6, 2026 and the related Preliminary Prospectus Supplement on November 4, 2026 with the Securities and Exchange Commission (“SEC”) for the offering to which this communication relates. Before you
+invest, you should read the Base Prospectus, the Preliminary Prospectus Supplement and other documents the Company has filed with the SEC for more complete information about the Company and this offering. You may obtain these documents for free by
+visiting EDGAR on the SEC’s website at www.sec.gov. Alternatively, the Company, any underwriter or any dealer participating in the offering will arrange to send you the Base Prospectus and the related Preliminary Prospectus Supplement if you
+request it by calling Morgan Stanley & Co. LLC toll-free at
+1-866-718-1649,
+Keefe, Bruyette & Woods, Inc. at
+1-800-966-1559,
+RBC Capital Markets, LLC toll-free at
+1-866-375-6829
+or UBS Securities LLC toll-free at
+1-833-481-0269.
+2
+This pricing term sheet is qualified in its entirety by reference to the Preliminary Prospectus
+Supplement. The information in this pricing term sheet supplements the Preliminary Prospectus Supplement and supersedes the information in the Preliminary Prospectus Supplement to the extent it is inconsistent with the information in the Preliminary
+Prospectus Supplement. Other information (including other financial information) presented in the Preliminary Prospectus Supplement is deemed to have changed to the extent affected by the information contained herein. Capitalized terms used in this
+pricing term sheet but not defined have the meanings given in the Preliminary Prospectus Supplement.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY
+APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.
+3

@@ -1,0 +1,58 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1781335/000114036126041598/ny20084392x2_fwp.htm
+ISSUER (SEC filer): Otis Worldwide Corp
+FILED: 2026-11-02
+========================================
+FWP
+1
+ny20084392x2_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Registration Statement No. 333-293482
+Final Term Sheet
+Otis Worldwide Corporation
+$500,000,000 5.825% Notes due 2036
+Issuer: | Otis Worldwide Corporation
+Offering Format: | SEC Registered
+Title of Securities: | 5.825% Notes due 2036 (the “Notes”)
+Trade Date: | November 2, 2026
+Settlement Date*: | November 5, 2026 (T+3)
+Expected Ratings (Moody’s / S&P)**: | Baa1 / BBB
+Principal Amount: | $500,000,000
+Maturity Date: | November 5, 2036
+Interest Payment Dates: | May 5 and November 5 of each year, beginning on
+May 5, 2027
+Benchmark Treasury: | 4.625% UST due August 15, 2036
+Benchmark Treasury Price/Yield: | 98-02 / 4.875 %
+Spread to Benchmark Treasury: | +95 basis points
+Yield to Maturity: | 5.825%
+Price to Public: | 100.000% of the principal amount
+Coupon: | 5.825%
+Day Count Convention: | 30/360
+Underwriting Discount: | 0.650%
+Make-Whole Call: | At any time and from time to time, prior to August 5, 2036, Treasury Rate plus 15 basis points
+Par Call: | On or after August 5, 2036 (three months prior to the maturity date of the Notes)
+Change of Control Offer: | 101%
+Minimum Denominations: | $2,000 x $1,000
+Net Proceeds (before expenses): | $496,750,000
+Use of Proceeds | The Issuer intends to use the net proceeds from this offering, together with cash on hand, to fund the repayment at maturity of its 2.293% Notes due
+April 5, 2027, of which $500 million principal amount was outstanding as of September 30, 2026.
+Joint Book-Running Managers: | Citigroup Global Markets Inc. Goldman Sachs & Co. LLC HSBC Securities (USA) Inc. BofA Securities, Inc. J.P. Morgan Securities LLC Morgan Stanley & Co. LLC SMBC Nikko Securities America, Inc.
+Senior Co-Managers: | Barclays Capital Inc. BNP Paribas Securities Corp. Commerz Markets LLC Deutsche Bank Securities Inc. Intesa Sanpaolo IMI Securities Corp. Loop Capital Markets LLC Santander US Capital Markets LLC SG Americas Securities, LLC UniCredit Capital Markets LLC
+Co-Managers: | Academy Securities, Inc. ICBC Standard Bank Plc Westpac Capital Markets LLC
+CUSIP / ISIN: | 68902V AU1 / US68902VAU17
+*
+Settlement Period: The closing will occur on November 5, 2026,
+which will be more than one business day after the date of this pricing term sheet. Rule 15c6-1 under the Securities Exchange Act of 1934 generally requires that securities trades in the secondary market settle in one business day, unless the
+parties to a trade expressly agree otherwise.
+** Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+The Issuer has filed a Registration Statement (File No. 333-293482), including a prospectus dated February 13, 2026 and a preliminary prospectus supplement dated
+November
+2, 2026, with the U.S. Securities and Exchange Commission (the “SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that
+Registration Statement, the preliminary prospectus supplement for the offering to which this communication relates and other documents the Issuer has filed with the SEC for more complete information about the Issuer and this offering. You may get
+these documents for free by visiting the SEC’s website at www.sec.gov. Alternatively, any underwriter or any dealer participating in the offering will arrange to send you the prospectus and the prospectus supplement if you request them by
+contacting:
+Citigroup Global Markets Inc., telephone: 1-800-831-9146; Goldman Sachs & Co. LLC, telephone: 1-866-471-2526 or email: prospectus-ny@ny.email.gs.com or HSBC Securities (USA) Inc. at 1-866-811-8049.
+You are advised to obtain a copy of the prospectus and related prospectus supplement for the offering to which this communication relates and to carefully review the information
+contained or incorporated by reference therein before making any investment decision.
+Any disclaimer or other notice that may appear below is not applicable to this communication and should be disregarded. Such disclaimer or notice was
+automatically generated as a result of this communication being sent by Bloomberg or another email system.

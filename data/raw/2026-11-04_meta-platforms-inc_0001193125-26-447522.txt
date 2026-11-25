@@ -1,0 +1,117 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1326801/000119312526447522/d154804dfwp.htm
+ISSUER (SEC filer): Meta Platforms, Inc.
+FILED: 2026-11-04
+========================================
+FWP
+1
+d154804dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration
+No. 333-295425
+Issuer Free Writing Prospectus dated November 4, 2026
+Relating to Preliminary Prospectus Supplement dated November 4, 2026
+PRICING TERM SHEET
+META
+PLATFORMS, INC.
+November 4, 2026
+€1,750,000,000 4.300% Senior Notes due 2031
+€1,250,000,000 4.650% Senior Notes due 2033
+€1,000,000,000 4.900% Senior Notes due 2035
+€1,750,000,000 5.400% Senior Notes due 2038
+€1,750,000,000 6.050% Senior Notes due 2044
+€1,500,000,000 6.400% Senior Notes due 2065
+Summary of Terms
+Issuer: | Meta Platforms, Inc.
+Format: | SEC Registered
+Issue: | Senior Notes
+Trade Date: | November 4, 2026
+Settlement Date (T+5):* | November 12, 2026
+Stabilization: | Relevant stabilization regulations apply (including FCA/ICMA)
+Denominations: | €100,000 and integral multiples of €1,000 in excess thereof.
+Ratings:** | Aa3/Stable (Moody’s Investors Service, Inc.) AA-/Negative (Standard & Poor’s Ratings Services)
+Maturity: | 2031 Notes: February 15, 2031 2033 Notes: February 15, 2033 2035 Notes: February 15, 2035 2038 Notes: November 15, 2038 2044 Notes: November 15, 2044 2065 Notes: February 15, 2065
+Principal Amount: | 2031 Notes: €1,750,000,000 2033
+Notes: €1,250,000,000 2035 Notes: €1,000,000,000 2038 Notes: €1,750,000,000 2044 Notes: €1,750,000,000 2065 Notes: €1,500,000,000
+Public Offering Price: | 2031 Notes: 99.914% 2033 Notes: 99.977% 2035 Notes: 99.803% 2038 Notes: 99.774% 2044 Notes: 99.988% 2065 Notes: 99.446%
+Coupon (Interest Rate): | 2031 Notes: 4.300% 2033 Notes: 4.650% 2035 Notes: 4.900% 2038 Notes: 5.400% 2044 Notes: 6.050% 2065 Notes: 6.400%
+Yield to Maturity: | 2031 Notes: 4.327% 2033 Notes: 4.658% 2035 Notes: 4.933% 2038 Notes: 5.426% 2044 Notes: 6.051% 2065 Notes: 6.442%
+Benchmark Security: | 2031 Notes: DBR 0.0% due February 15, 2031 2033 Notes: DBR 2.3% due February 15, 2033 2035
+Notes: DBR 2.5% due February 15, 2035 2038 Notes: DBR 1.0% due May 15, 2038 2044 Notes: DBR 2.5% due July 4, 2044 2065 Notes: DBR 2.9% due August 15, 2056
+Benchmark Security Price/Yield: | 2031 Notes: 87.99 and 3.037% 2033
+Notes: 95.32 and 3.132% 2035 Notes: 94.88 and 3.213% 2038 Notes: 77.35 and 3.410% 2044 Notes: 85.38 and
+3.636% 2065 Notes: 85.93 and 3.686%
+Spread to Benchmark Security: | 2031 Notes: 129.0 basis points 2033
+Notes: 152.6 basis points 2035 Notes: 172.0 basis points 2038 Notes: 201.6 basis points 2044 Notes: 241.5
+basis points 2065 Notes: 275.6 basis points
+Mid-Swap Yield: | 2031 Notes: 3.297% 2033 Notes: 3.308% 2035 Notes: 3.333% 2038 Notes: 3.396% 2044 Notes: 3.421% 2065 Notes: 3.112%
+Spread to Mid-Swap Yield: | 2031 Notes: +103 basis points 2033
+Notes: +135 basis points 2035 Notes: +160 basis points 2038 Notes: +203 basis points 2044 Notes: +263
+basis points 2065 Notes: +333 basis points
+2
+Interest Payment Dates: | 2031 Notes, 2033 Notes, 2035 Notes and 2065 Notes: Annually in arrears on February 15 of each year, commencing on February 15,
+2027 2038 Notes and 2044 Notes: Annually in arrears on November 15 of each
+year, commencing on November 15, 2027
+Interest Payment Record Dates: | Close of the calendar day (whether or not a business day) immediately preceding the Interest Payment Date.
+Day Count Convention: | ACTUAL/ACTUAL (ICMA)
+Optional Redemption: | 2031 Notes: At any time prior to January 15, 2031, make-whole call at DBR plus 20 basis points; par call at any time on or after
+January 15, 2031. 2033 Notes: At any time prior to December 15,
+2032, make-whole call at DBR plus 25 basis points; par call at any time on or after December 15, 2032. 2035 Notes: At any time prior to November 15, 2034, make-whole call at DBR plus 30 basis points; par call at any time on or after November 15,
+2034. 2038 Notes: At any time prior to August 15, 2038, make-whole call
+at DBR plus 35 basis points; par call at any time on or after August 15, 2038. 2044 Notes: At any time prior to May 15, 2044, make-whole call at DBR plus 40 basis points; par call at any time on or after May 15, 2044. 2065 Notes: At any time prior to August 15, 2064, make-whole call at DBR
+plus 45 basis points; par call at any time on or after August 15, 2064.
+Redemption for Tax Reasons: | The Company may redeem any series of the notes, in whole, but not in part, in the event of certain changes in the tax laws (or any regulations or rulings promulgated under the tax laws) of the United States (or any taxing authority
+in the United States), or the official position regarding the application or interpretation thereof, that would require the Company to pay additional amounts with respect to the notes of any series. The redemption price will be equal to 100% of the
+principal amount of the notes of such series to be redeemed, plus accrued and unpaid interest, if any (including, for the avoidance of doubt, any additional amounts), on the notes of such series to be redeemed to, but not including, the date of
+redemption.
+Joint Book-Running Managers: | Citigroup Global Markets Limited Morgan Stanley & Co. International plc
+3
+Passive Joint Bookrunners: | Goldman Sachs & Co. LLC Merrill Lynch International J.P. Morgan Securities plc
+Co-Manager: | Société Générale
+ISIN / Common Code: | 2031 Notes : XS3552752217 / 355275221 2033 Notes : XS3552752480 / 355275248 2035 Notes : XS3552752563 / 355275256 2038 Notes : XS3552800800 / 355280080 2044 Notes : XS3552801014 / 355280101 2065 Notes : XS3552801287 / 355280128
+Listing: | Meta Platforms, Inc. intends to apply to list the 2031 Notes, 2033 Notes, 2035 Notes, 2038 Notes, 2044 Notes and 2065 Notes on the NASDAQ Bond Exchange.
+Form: | Clearstream Banking S.A. / Euroclear Bank SA/NV, Book-Entry
+4
+* | It is expected that the delivery of the notes will be made against payment therefor on or about
+November 12, 2026, which will be the fifth business day after the date of the prospectus supplement. Under Rule 15c6-1 of the Securities Exchange Act of 1934, as amended, trades in the secondary market
+generally are required to settle in one business day, unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade the notes prior to the business day preceding the Settlement Date will be required, by virtue of
+the fact that the notes will settle in five business days, to specify an alternative settlement cycle at the time of any such trade to prevent a failed settlement. Such purchasers should consult their own advisors in this regard.
+** | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+The Issuer has filed a registration statement, including a prospectus and a preliminary
+prospectus supplement, with the Securities and Exchange Commission (the “SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus and the related preliminary prospectus supplement and
+other documents the Issuer has filed with the SEC for more complete information about the Issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC’s website at
+www.sec.gov
+. Alternatively, the
+representatives of the underwriters can arrange to send you the prospectus and the related preliminary prospectus supplement if you request it by calling Citigroup Global Markets Limited at
+1-800-831-9146
+or Morgan Stanley & Co. International plc at
+1-866-718-1649.
+This
+information does not purport to be a complete description of these securities or the offering. Please refer to the preliminary prospectus supplement for a complete description of the securities. This communication does not constitute an offer to
+sell or the solicitation of an offer to buy any securities in any jurisdiction to any person to whom it is unlawful to make such offer or solicitation in such jurisdiction.
+UK MiFIR professionals/ECPs-only / no EEA PRIIPs KID or UK CCI product summary– Manufacturer target market (UK MiFIR product governance) is eligible
+counterparties and professional clients only (all distribution channels). No EEA PRIIPs key information document (KID) or UK CCI product summary has been prepared as not available to retail in the EEA or the UK.
+PROHIBITION OF SALES TO EEA RETAIL INVESTORS – The notes are not intended to be offered, sold, or otherwise made available to and should not be
+offered, sold, or otherwise made available to any retail investor in the European Economic Area (“EEA”). For these purposes, a retail investor means a person who is one (or more) of: (i) a retail client as defined in point
+(11) of Article 4(1) of Directive 2014/65/EU (as amended, “MiFID II”); (ii) a customer within the meaning of Directive (EU) 2016/97 (as amended, the “Insurance Distribution Directive”), where that customer would not
+qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II; or (iii) not a qualified investor as defined in Regulation (EU) 2017/1129 (as amended, the “Prospectus Regulation”). Consequently, no key
+information document required by Regulation (EU) No 1286/2014 (as amended, the “PRIIPs Regulation”) for offering or selling packaged retail and insurance based investment products or otherwise making them available to retail investors in
+the EEA has been prepared, and therefore offering or selling the notes or otherwise making them available to any retail investor in the EEA may be unlawful under the PRIIPs Regulation.
+PROHIBITION OF SALES TO UK RETAIL INVESTORS – The notes are not intended to be offered, sold, or otherwise made available to and should not be
+offered, sold, or otherwise made available to any retail investor in the United Kingdom (“UK”). For these purposes, a retail investor means a person who is neither: (i) a “professional client” as defined in point
+(8) of Article 2(1) of Regulation (EU) No 600/2014 as it forms part of domestic law in the UK by virtue of the European Union (Withdrawal) Act 2018; nor (ii) a “qualified investor” as defined in paragraph 15 of Schedule 1 to
+The Public Offers and Admissions to Trading Regulations 2024 (the “UK POATRs”). Consequently, no disclosure document required by the FCA Product Disclosure Sourcebook (“DISC”) for offering, selling or distributing the notes
+or otherwise making them available to retail investors in the UK has been prepared and therefore offering, selling or distributing the notes or otherwise making them available to any retail investor in the UK may be unlawful under DISC and the
+Consumer Composite Investments (Designated Activities) Regulations 2024.
+5
+This document has not been approved by any authorized person for the purposes of section 21 of the
+Financial Services and Markets Act 2000 (as amended, the “FSMA”). In the UK, this document is for distribution only to, and is only directed at, persons who (i) are investment professionals falling within Article 19(5) of the
+Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (as amended, the “Financial Promotion Order”), (ii) are high net worth entities or other persons falling within Article 49(2)(a) to (d) of the Financial
+Promotion Order, or (iii) are persons to whom an invitation or inducement to engage in investment activity (within the meaning of section 21 of the FSMA) in connection with the issue or sale of any notes may otherwise lawfully be communicated
+or caused to be communicated (all such persons being referred to as “relevant persons”). This document is directed only at relevant persons and must not be acted on or relied on by persons who are not relevant persons. Any investment or
+investment activity to which this document relates is available only to relevant persons and will be engaged in only with relevant persons. Any person who is not a relevant person should not act or rely on this document or any of its contents.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR
+OTHER NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.
+6

@@ -1,0 +1,115 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/64040/000110465926128364/tm2629623d4_fwp.htm
+ISSUER (SEC filer): S&P Global Inc.
+FILED: 2026-11-16
+========================================
+FWP
+1
+tm2629623d4_fwp.htm
+FWP
+Issuer Free Writing Prospectus, dated November
+16, 2026
+Filed Pursuant to Rule 433
+Registration Statement No.
+333-299594 & 333-299594-01
+S&P Global Inc.
+Pricing Term Sheet
+$750,000,000 5.600% Senior Notes due 2031
+(the “2031 Notes”)
+$600,000,000 5.800% Senior Notes due 2034 (the “2034 Notes”)
+$650,000,000 6.000% Senior Notes due 2036
+(the “2036 Notes”)
+(collectively, the “Notes”)
+This pricing term sheet is qualified in its entirety by reference to
+the base prospectus, dated October 23, 2026 and the preliminary prospectus supplement, dated November 16, 2026 (together, the “Preliminary
+Prospectus”). The information in this pricing term sheet relates to the Preliminary Prospectus and updates and supersedes the information
+in the Preliminary Prospectus to the extent it is inconsistent with the information in the Preliminary Prospectus. Terms used and not
+defined herein have the meanings assigned in the Preliminary Prospectus.
+Issuer: | S&P Global Inc.
+Security Description: | Senior Unsecured
+Guarantee: | The Notes will be fully and unconditionally guaranteed on a senior unsecured basis by the Issuer’s subsidiary, Standard & Poor’s Financial Services LLC.
+Distribution: | SEC-registered
+Ratings*: | A3 (Moody’s) / A- (Fitch)
+Use of Proceeds: | The Issuer intends to use the net proceeds from this offering for general corporate purposes, which may include, without limitation, funding of possible acquisitions, repayment, redemption or refinancing of indebtedness, capital expenditures, working capital, satisfaction of other obligations or repurchase of its outstanding common stock. It may temporarily invest the net proceeds of this offering in short-term, liquid investments until the proceeds are used for their stated purpose.
+The 2031 Notes
+Security Title: | 5.600% Senior Notes due 2031
+Aggregate Principal Amount: | $750,000,000
+Maturity Date: | December 15, 2031
+Interest Payment Dates: | June 15 and December 15 of each year, commencing June 15, 2027
+Coupon (Interest Rate): | 5.600%
+Benchmark Treasury: | UST 4.750% due October 31, 2031
+Benchmark Treasury Price and Yield: | 99-06 1/4; 4.935%
+Spread to Benchmark Treasury: | T+70 basis points
+Yield to Maturity: | 5.635%
+Issue Price: | 99.841%
+Gross Proceeds: | $748,807,500
+Par Call Date: | On or after November 15, 2031
+Make-Whole Call: | UST + 15 bps (prior to November 15, 2031)
+CUSIP: | 78409V BV5
+ISIN: | US78409VBV53
+The 2034 Notes
+Security Title: | 5.800% Senior Notes due 2034
+Aggregate Principal Amount: | $600,000,000
+Maturity Date: | March 15, 2034
+Interest Payment Dates: | March 15 and September 15 of each year, commencing March 15, 2027
+Coupon (Interest Rate): | 5.800%
+Benchmark Treasury: | UST 4.875% due October 31, 2033
+2
+Benchmark Treasury Price and Yield: | 99-06; 5.014%
+Spread to Benchmark Treasury: | T+80 basis points
+Yield to Maturity: | 5.814%
+Issue Price: | 99.927%
+Gross Proceeds: | $599,562,000
+Par Call Date: | On or after January 15, 2034
+Make-Whole Call: | UST + 15 bps (prior to January 15, 2034)
+CUSIP: | 78409V BW3
+ISIN: | US78409VBW37
+The 2036 Notes
+Security Title: | 6.000% Senior Notes due 2036
+Aggregate Principal Amount: | $650,000,000
+Maturity Date: | December 15, 2036
+Interest Payment Dates: | June 15 and December 15 of each year, commencing June 15, 2027
+Coupon (Interest Rate): | 6.000%
+Benchmark Treasury: | UST 5.000% due November 15, 2036
+Benchmark Treasury Price and Yield: | 99-02; 5.121%
+Spread to Benchmark Treasury: | T+88 basis points
+Yield to Maturity: | 6.001%
+Issue Price: | 99.985%
+Gross Proceeds: | $649,902,500
+Par Call Date: | On or after September 15, 2036
+Make-Whole Call: | UST + 15 bps (prior to September 15, 2036)
+CUSIP: | 78409V BX1
+ISIN: | US78409VBX10
+3
+Other Terms Applicable to Each Series of
+Notes
+Change of Control Triggering Event: | If a Change of Control Triggering Event occurs, unless the Issuer has exercised its right to redeem all of the Notes of a series, holders will have the right to require the Issuer to repurchase all or any part of a series of Notes in cash at 101% of their aggregate principal amount plus accrued and unpaid interest, if any, to the date of purchase.
+Denominations/Multiple: | $2,000 x $1,000
+Trade Date: | November 16, 2026
+Settlement Date: | T+2; November 18, 2026**
+Joint Book-Running Managers: | BofA Securities, Inc. Goldman Sachs & Co. LLC Citigroup Global Markets Inc. Deutsche Bank Securities Inc. J.P. Morgan Securities LLC Mizuho Securities USA LLC Morgan Stanley & Co. LLC UBS Securities LLC Wells Fargo Securities, LLC
+Co-Managers: | Barclays Capital Inc. HSBC Securities (USA) Inc. PNC Capital Markets LLC RBC Capital Markets, LLC SMBC Nikko Securities America, Inc. TD Securities (USA) LLC Truist Securities, Inc. U.S. Bancorp Investments, Inc.
+*A securities rating is not a recommendation to buy, sell or hold securities
+and may be subject to revision or withdrawal at any time.
+**It is expected that delivery of the Notes will be made against payment
+therefor on or about November 18, 2026, which is the second business day following the date of pricing (such settlement being referred
+to as “T+2”). Pursuant to Rule 15c6-1 under the Exchange Act, trades in the secondary market generally are required to settle
+in one business day, unless the parties to any such trade expressly agree otherwise.
+4
+Accordingly, purchasers who wish to trade the Notes prior to the business
+day preceding the scheduled settlement date will be required, by virtue of the fact that the Notes will initially settle in T+2, to specify
+an alternate settlement arrangement at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to
+trade the Notes prior to the business day preceding the scheduled settlement date should consult their advisors.
+The Issuer has filed a registration statement (including a preliminary
+prospectus supplement and prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should
+read the preliminary prospectus supplement and prospectus in that registration statement, and other documents the Issuer has filed with
+the SEC for more complete information about the Issuer and this offering. You may obtain these documents for free by visiting EDGAR on
+the SEC website at www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating in the offering will arrange to
+send you the prospectus if you request it by calling BofA Securities, Inc. at 1-800-294-1322 or by emailing dg.prospectus_requests@bofa.com,
+Goldman Sachs & Co. LLC at 1-866-471-2526 or by emailing prospectus-ny@ny.email.gs.com, Citigroup Global Markets Inc. at 1-800-831-9146,
+Deutsche Bank Securities Inc. at 800-503-4611 or by emailing prospectus.cpdg@db.com, J.P. Morgan Securities LLC at 212-834-4533, Mizuho
+Securities USA LLC at 866-271-7403, Morgan Stanley & Co. LLC by emailing prospectus@morganstanley.com, UBS Securities LLC at (833)
+481-0269 or Wells Fargo Securities, LLC at 1-800-645-3751 or by emailing wfscustomerservice@wellsfargo.com.
+Any disclaimer or other notice that may appear below is not applicable
+to this communication and should be disregarded. Such disclaimer or notice was automatically generated as a result of this communication
+being sent by Bloomberg or another email system.
+5

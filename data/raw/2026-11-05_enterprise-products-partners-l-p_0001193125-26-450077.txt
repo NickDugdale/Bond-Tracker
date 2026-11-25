@@ -1,0 +1,77 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1061219/000119312526450077/d132755dfwp.htm
+ISSUER (SEC filer): ENTERPRISE PRODUCTS PARTNERS L.P.
+FILED: 2026-11-05
+========================================
+FWP
+1
+d132755dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Issuer Free Writing Prospectus dated November 5, 2026
+Registration Statement
+No. 333-283172
+Registration Statement
+No. 333-283172-01
+Enterprise Products Operating LLC
+Enterprise Products Partners L.P.
+PRICING TERM SHEET
+The information in
+this pricing supplement supplements the preliminary prospectus supplement, dated November 5, 2026 (the “Preliminary Prospectus Supplement”) and supersedes the information in the Preliminary Prospectus Supplement to the extent it is
+inconsistent with the information in the Preliminary Prospectus Supplement.
+Issuer: | Enterprise Products Operating LLC
+Guarantee: | Unconditionally guaranteed by Enterprise Products Partners L.P.
+Ratings*: | A3 by Moody’s Investors Service, Inc. A- by S&P Global Ratings A- by Fitch Ratings Inc.
+Note Type: | Senior Unsecured Notes
+Legal Format: | SEC Registered
+Trade Date: | November 5, 2026
+Expected Settlement Date**: | November 12, 2026 (T+4)
+Net Proceeds (after underwriting discounts and $4.1 million of other offering expenses): | $1,482,685,000
+$750,000,000 5.20% Senior Notes Due 2032 (the “2032 Notes”) | $750,000,000 5.65% Senior Notes Due 2037 (the “2037 Notes”)
+Principal Amount: | $750,000,000 | $750,000,000
+Maturity Date: | February 15, 2032 | February 15, 2037
+Benchmark Treasury: | 4.750% due October 31, 2031 | 4.625% due August 15, 2036
+Benchmark Treasury Yield: | 4.587% | 4.822%
+1
+Spread to Benchmark Treasury: | +65 bps | +87.5 bps
+Yield to Maturity: | 5.237% | 5.697%
+Coupon: | 5.20% | 5.65%
+Price to Public: | 99.840% of the principal amount | 99.648% of the principal amount
+Make-Whole Call: | T + 10 bps | T + 15 bps
+Call at Par: | On or after January 15, 2032 | On or after November 15, 2036
+Interest Payment Dates: | February 15 and August 15, beginning February 15, 2027 | February 15 and August 15, beginning February 15, 2027
+CUSIP: | 29379V CM3 | 29379V CN1
+ISIN: | US29379VCM37 | US29379VCN10
+Joint Book-Running Managers: | MUFG Securities Americas Inc. Citigroup Global Markets Inc. PNC Capital Markets LLC SG Americas Securities, LLC U.S. Bancorp Investments, Inc. BBVA Securities Inc. Credit Agricole Securities (USA) Inc. Deutsche Bank Securities Inc. Scotia Capital (USA) Inc. TD Securities (USA) LLC
+Co-Managers: | Barclays Capital Inc. BMO Capital
+Markets Corp. BofA Securities, Inc. J.P. Morgan Securities
+LLC Mizuho Securities USA LLC Morgan Stanley & Co.
+LLC RBC Capital Markets, LLC SMBC Nikko Securities America,
+Inc. Truist Securities, Inc. Wells Fargo Securities,
+LLC
+************************
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and is subject to revision or
+withdrawal at any time.
+** | We expect delivery of the 2032 Notes and the 2037 Notes will be made against payment therefor on or about
+November 12, 2026, which is the fourth business day following the date of pricing of such notes (such settlement being referred to as “T+4”). Under Rule 15c6-1 of the Securities Exchange Act
+of 1934, as amended, trades in the secondary market generally are required to settle in one business day unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the 2032 Notes and/or the 2037 Notes
+prior to the first trading day prior to the closing of this offering will be required, by virtue of the fact that such notes initially will settle in T+4, to specify an alternate settlement cycle at the time of any such trade to prevent failed
+settlement and should consult their own advisers.
+2
+The Issuer has filed a registration statement (including a prospectus) with the Securities and Exchange
+Commission (the “SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and any other documents the Issuer has filed with the SEC for more complete
+information about the Issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC’s website at http://www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating in the offering will
+arrange to send you the prospectus if you request it by contacting MUFG Securities Americas Inc. at (877)
+649-6848,
+Citigroup Global Markets Inc. at (800)
+831-9146,
+PNC
+Capital Markets LLC at (855)
+881-0697,
+SG Americas Securities, LLC at (855)
+881-2108
+and U.S. Bancorp Investments, Inc. at (877)
+558-2607.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND
+SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.
+3

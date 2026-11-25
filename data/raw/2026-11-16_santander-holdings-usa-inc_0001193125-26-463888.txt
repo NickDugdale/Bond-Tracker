@@ -1,0 +1,81 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/811830/000119312526463888/d167683dfwp.htm
+ISSUER (SEC filer): Santander Holdings USA, Inc.
+FILED: 2026-11-16
+========================================
+FWP
+1
+d167683dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+under the Securities Act
+Registration Statement
+No. 333-276089
+Santander Holdings USA, Inc.
+$750,000,000 6.161%
+Fixed-to-Floating
+Rate Senior Notes
+due 2032
+Pricing Term Sheet
+Issuer: | Santander Holdings USA, Inc. (the “Issuer”)
+Securities: | Fixed-to-Floating Rate Senior Notes due 2032 (the “Notes”)
+Expected Ratings 1 : | Baa2 (Stable) / BBB+ (Stable) / A- (Stable) (M/S/F)
+Security Type: | Fixed-to-Floating Rate Senior Unsecured Notes
+Trade Date: | November 16, 2026
+Settlement Date: | November 24, 2026 (T+6). Under Rule 15c6-1 of the Exchange Act, trades in secondary markets generally are required to settle in one business day, unless the parties to any such trade
+expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes prior to the first business day before delivery of the Notes will be required, by virtue of the fact that the Notes will initially settle in T+6, to specify an alternate
+settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to trade the Notes before their delivery should consult their own advisors.
+Maturity Date: | November 24, 2032
+Principal Amount: | $750,000,000
+Benchmark Treasury: | UST 4.750% due October 31, 2031
+Benchmark Treasury Yield: | 4.931%
+Spread to Benchmark Treasury: | +123 basis points
+Fixed Rate Period: | The period from and including the issue date to but excluding November 24, 2031.
+Floating Rate Period: | The period from and including November 24, 2031, to but excluding the Maturity Date.
+1 | An explanation of the significance of ratings may be obtained from the rating agencies. Generally, rating
+agencies base their ratings on such material and information, and such of their own investigations, studies and assumptions, as they deem appropriate. The rating of the notes should be evaluated independently from similar ratings of other
+securities. A credit rating of a security is not a recommendation to buy, sell or hold securities and may be subject to review, revision, suspension, reduction or withdrawal at any time by the assigning rating agency.
+Interest: | During the Fixed Rate Period, interest on the Notes will be payable at a rate of 6.161% per annum. During the Floating Rate Period, the interest rate on the Notes will be equal to the
+Benchmark (as defined below) plus the Floating Rate Margin (as defined below).
+Benchmark: | The “Benchmark” means, initially, the Secured Overnight Financing Rate (“SOFR”) (compounded daily over a quarterly Floating Rate Period in accordance with the specific formula described in the prospectus
+supplement). As further described in the prospectus supplement, (i) in determining the base rate for a U.S. Government Securities Business Day (as defined in the prospectus supplement), the base rate generally will be the rate in respect of
+such day that is provided on the following U.S. Government Securities Business Day and (ii) in determining the base rate for any other day, such as a Saturday, Sunday or holiday, the base rate generally will be the rate in respect of the
+immediately preceding U.S. Government Securities Business Day that is provided on the following U.S. Government Securities Business Day.
+Floating Rate Margin: | +146.5 basis points (the “Floating Rate Margin”)
+Interest Payment Dates: | Fixed Rate Period During the Fixed Rate Period, interest will be payable on the Notes semi-annually each May 24 and November 24, commencing on May 24, 2027 (each,
+a “Fixed Rate Period Interest Payment Date”). Floating Rate
+Period During the Floating Rate Period, interest will be payable on the Notes
+quarterly on February 24, 2032, May 24, 2032, August 24, 2032 and on the Maturity Date (each a “Floating Rate Period Interest Payment Date” and, together with the Fixed Rate Period Interest Payment Dates, the
+“Interest Payment Dates”).
+Public Offering Price: | 100.000%
+Net Proceeds: | $747,375,000 (before expenses)
+Optional Redemption: | On or after May 23, 2027 (180 days after the issue date) (or, if additional notes are issued, beginning 180 days after the issue date of
+such additional notes), and prior to November 24, 2031 (which is the date that is one year prior to the Maturity Date) (the “First Par Call Date”), we may redeem the Notes at our option, in whole or in part, at any time and from
+time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (1) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption
+date (assuming the Notes matured on the First Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate (as
+defined in the prospectus supplement) plus 20 basis points less (b) interest accrued to the date of redemption, and (2) 100% of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption date.
+On the First Par Call Date, we may redeem the Notes, in whole but not in part, or on or after October 24, 2032 (which is the date that is one month prior to the Maturity Date), in whole or in part, at any time and from time to
+time, in each case at a redemption price equal to 100% of the principal amount of the Notes being redeemed plus accrued and unpaid interest thereon to the redemption date.
+Listing: | The Notes will not be listed on any national securities exchange or included in any automated quotation system. Currently there is no market for the Notes.
+CUSIP: | 80282K CC8
+ISIN: | US80282KCC80
+Joint Book-Running Managers: | Santander US Capital Markets LLC BofA
+Securities Inc. Morgan Stanley & Co. LLC MUFG
+Securities America Inc. TD Securities (USA) LLC
+Co-Managers: | R. Seelaus & Co., LLC
+The Issuer has filed a registration statement (File
+No. 333-276089)
+including a
+prospectus and a prospectus supplement with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus and prospectus supplement in that registration statement and other documents the Issuer has
+filed with the SEC for more complete information about the Issuer and this offering. You may obtain these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating
+in the offering will arrange to send you the prospectus and the prospectus supplement if you request them by calling (i) Santander US Capital Markets LLC toll-free at
+1-855-403-3636;
+(ii) BofA Securities, Inc. toll-free at
+1-800-294-1322;
+(iii)
+Morgan Stanley & Co. LLC toll-free at
+1-866-718-1649;
+(iv) MUFG Securities America Inc. toll-free at
+1-877-649-6848;
+and (v) TD Securities (USA) LLC toll-free at
+1-855-495-9846.

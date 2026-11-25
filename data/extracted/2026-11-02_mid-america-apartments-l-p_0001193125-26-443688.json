@@ -1,0 +1,45 @@
+{
+  "source_file": "2026-11-02_mid-america-apartments-l-p_0001193125-26-443688.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:08:47",
+  "usage": {
+    "input_tokens": 3322,
+    "output_tokens": 465
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Mid-America Apartments, L.P.",
+    "sector": "Real Estate",
+    "trade_date": "2026-11-02",
+    "settlement_date": "2026-11-12",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "J.P. Morgan Securities LLC",
+      "Mizuho Securities USA LLC",
+      "Truist Securities, Inc.",
+      "U.S. Bancorp Investments, Inc.",
+      "Wells Fargo Securities, LLC",
+      "KeyBanc Capital Markets Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 350000000,
+        "coupon_pct": 5.35,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-12-15",
+        "first_call_date": "2031-11-15",
+        "benchmark": "UST 4.750% due October 31, 2031",
+        "spread_bps": 75,
+        "yield_pct": 5.443,
+        "issue_price_pct": 99.584,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +75 basis points; Yield to Maturity: 5.443%"
+      }
+    ]
+  }
+}

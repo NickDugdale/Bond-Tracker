@@ -1,0 +1,42 @@
+{
+  "source_file": "2026-11-19_uruguay-republic-of_0001193125-26-468721.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:15:13",
+  "usage": {
+    "input_tokens": 5523,
+    "output_tokens": 493
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Rep\u00fablica Oriental del Uruguay",
+    "sector": "Government & Agency",
+    "trade_date": "2026-11-19",
+    "settlement_date": "2026-11-30",
+    "rating_moodys": "Baa1",
+    "rating_sp": "BBB+",
+    "rating_fitch": "BBB",
+    "bookrunners": [
+      "BNP PARIBAS",
+      "HSBC Securities (USA) Inc.",
+      "J.P. Morgan Securities plc"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "EUR",
+        "principal_amount": 1250000000,
+        "coupon_pct": 4.75,
+        "coupon_type": "fixed",
+        "maturity_date": "2034-11-30",
+        "first_call_date": "2034-08-30",
+        "benchmark": "Mid-swaps",
+        "spread_bps": 130,
+        "yield_pct": 4.754,
+        "issue_price_pct": 99.974,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Mid-Swaps: +130 basis points; Mid-Swaps Yield: 3.454%; Yield to Maturity: 4.754%"
+      }
+    ]
+  }
+}

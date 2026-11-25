@@ -1,0 +1,102 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1678261/000119312526448827/d188654dfwp.htm
+ISSUER (SEC filer): CRH America Finance, Inc.
+FILED: 2026-11-05
+========================================
+FWP
+1
+d188654dfwp.htm
+FWP
+FWP
+PRICING TERM SHEET
+Filed Pursuant to Rule 433
+Registration
+No. 333-279349
+November 4, 2026
+CRH
+AMERICA FINANCE, INC.
+Pricing Term Sheet
+$1,350,000,000 5.375% Guaranteed Notes due 2032
+$1,000,000,000 5.625% Guaranteed Notes due 2034
+$1,350,000,000 5.750% Guaranteed Notes due 2037
+$500,000,000 6.250% Guaranteed Notes due 2057
+Fully and unconditionally guaranteed by
+CRH plc
+Issuer: | CRH America Finance, Inc.
+Guarantor: | CRH plc
+Guarantor Ratings and Outlooks (Moody’s / S&P / Fitch)*: | Baa1 (Stable) / BBB+ (Stable) / BBB+ (Stable)
+Expected Issue Ratings (Moody’s / S&P)*: | Baa1 / BBB+
+Security Type: | Senior Unsecured Guaranteed Notes
+Pricing Date: | November 4, 2026
+Expected Settlement Date**: | November 9, 2026 (T+3)
+Tranche: | 2032 Notes | 2034 Notes | 2037 Notes | 2057 Notes
+Maturity Date: | February 9, 2032 | February 9, 2034 | February 9, 2037 | February 9, 2057
+Interest Payment Dates: | February 9 and August 9, beginning February 9, 2027 (short first coupon)
+Interest Record Dates: | January 25 and July 25
+Principal Amount: | $1,350,000,000 | $1,000,000,000 | $1,350,000,000 | $500,000,000
+Benchmark: | UST 4.750% due October 31, 2031 | UST 4.875% due October 31, 2033 | UST 4.625% due August 15, 2036 | UST 5.000% due May 15, 2056
+Benchmark Price / Yield: | 100-10/4.679% | 100-20/4.769% | 98-00/4.884% | 95-26+/5.280%
+Spread to Benchmark: | +78 bps | +88 bps | +98 bps | +98 bps
+Yield to Maturity: | 5.459% | 5.649% | 5.864% | 6.260%
+Coupon: | 5.375% | 5.625% | 5.750% | 6.250%
+Public Offering Price: | 99.630% | 99.868% | 99.141% | 99.877%
+Optional Redemption: | Make-whole call at T+15 bps; par call 1 month prior to maturity | Make-whole call at T+15 bps; par call 2 months prior to maturity | Make-whole call at T+15 bps; par call 3 months prior to maturity | Make-whole call at T+15 bps; par call 6 months prior to maturity
+Change of Control: | 101%
+CUSIP / ISIN: | 12636YAN2 / US12636YAN22 | 12636YAP7 / US12636YAP79 | 12636YAQ5 / US12636YAQ52 | 12636YAR3 / US12636YAR36
+Anticipated Listing: | New York Stock Exchange
+Joint Global Coordinators: | Barclays Capital Inc., J.P. Morgan Securities LLC, Morgan Stanley & Co. LLC
+Joint Book-running Managers: | BNP Paribas Securities Corp., Mizuho Securities USA LLC, Wells Fargo Securities, LLC
+Bookrunners: | Bank of China Limited, London Branch, BofA Securities, Inc., Danske Markets Inc., HSBC Securities (USA) Inc., ING Financial Markets LLC, NatWest Markets Securities Inc., PNC Capital Markets LLC, Santander US Capital
+Markets LLC, SG Americas Securities, LLC, SMBC Nikko Securities America, Inc., Standard Chartered Bank, TD Securities (USA) LLC, UBS Securities LLC, UniCredit Capital Markets LLC
+The gross proceeds before underwriting commissions and expenses from this offering across all series will be $4,181,473,500.
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+** | Under Rule 15c6-1 of the Exchange Act, trades in the secondary market
+generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the securities prior to the business day prior to settlement may be required, by virtue
+of the fact that the securities initially will settle in T+3, to specify any alternate settlement cycle at the time of any such trade to prevent a failed settlement.
+Bank of China Limited, London Branch and Standard Chartered Bank will not effect any offers or sales of any
+Notes in the United States unless it is through one or more U.S. registered broker-dealers as permitted by the Financial Industry Regulatory Authority.
+The issuer has filed a registration statement (including a preliminary prospectus supplement and a prospectus) and a prospectus supplement with the U.S.
+Securities and Exchange Commission (SEC) for the offering to which this communication relates. Before you invest, you should read the prospectus supplement for this offering, the issuer’s prospectus in that registration statement and any other
+documents the issuer and the guarantor have filed with the SEC for more complete information about the issuer and this offering. You may get these documents for free by searching the SEC online data base (EDGAR) on the SEC web site at
+http://www.sec.gov. Alternatively, CRH America Finance Inc., any underwriter or any dealer participating in the offering will arrange to send you the prospectus supplement and prospectus if you request it by calling Barclays Capital Inc. toll-free
+at
++1-888-603-5847,
+BNP Paribas Securities Corp. toll-free at
++1-800-854-5674,
+J.P. Morgan Securities LLC by calling collect
++1-212-834-4533,
+Mizuho Securities USA LLC toll-free at
++1-866-271-7403,
+Morgan Stanley & Co. LLC toll-free at
++1-866-718-1649,
+Wells Fargo Securities, LLC toll-free at
++1-800-326-5897,
+BofA Securities, Inc. toll-free at
++1-800-294-1322,
+HSBC
+Securities (USA) Inc. toll-free at
++1-866-811-8049,
+ING Financial Markets LLC toll-free at
++1-877-446-4930,
+NatWest Markets Securities Inc. toll-free at
++1-800-231-5830,
+PNC Capital Markets LLC toll-free at
++1-855-881-0697,
+Santander US Capital Markets LLC toll-free at
++1-855-403-3636,
+SG Americas Securities, LLC toll-free at
++1-855-881-2108,
+SMBC Nikko Securities America, Inc. toll-free at
++1-888-868-6856,
+TD Securities (USA) LLC toll-free at
++1-855-495-9846
+and UBS Securities LLC toll-free at
++1-833-481-0269.
+With respect to the United Kingdom, this announcement is only directed at (i) persons who are outside the United Kingdom, (ii) to investment
+professionals falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the “Order”), (iii) high net worth entities falling within Article 49(2)(a) to (d) of the Order, or
+(iv) other persons to whom it may lawfully be communicated, (all such persons together being referred to as “relevant persons”). Any investment will only be available to, and any invitation, offer or agreement to subscribe, purchase
+or otherwise acquire such investment will be engaged in only with, relevant persons. Any person who is not a relevant person should not act or rely on this announcement or any of its contents.
+No PRIIPs key information document (KID) or UK disclosure document have been prepared as not available to retail
+investors in EEA or
+the UK.
+2

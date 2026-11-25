@@ -1,0 +1,61 @@
+{
+  "source_file": "2026-11-02_carrier-global-corp_0001213900-26-114995.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:08:24",
+  "usage": {
+    "input_tokens": 4906,
+    "output_tokens": 759
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Carrier Global Corporation",
+    "sector": "Industrials",
+    "trade_date": "2026-11-02",
+    "settlement_date": "2026-11-04",
+    "rating_moodys": null,
+    "rating_sp": null,
+    "rating_fitch": null,
+    "bookrunners": [
+      "Morgan Stanley & Co. LLC",
+      "J.P. Morgan Securities LLC",
+      "BofA Securities, Inc.",
+      "Goldman Sachs & Co. LLC",
+      "Barclays Capital Inc.",
+      "Citigroup Global Markets Inc.",
+      "HSBC Securities (USA) Inc.",
+      "Wells Fargo Securities, LLC"
+    ],
+    "use_of_proceeds": "The Issuer intends to use the net proceeds from the Notes to refinance certain existing indebtedness, including to repay at maturity its 2027 Notes, with any remaining net proceeds to be used for general corporate and working capital purposes, which may include repayment of borrowings under its commercial paper program.",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 750000000,
+        "coupon_pct": 5.0,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-11-04",
+        "first_call_date": "2029-10-04",
+        "benchmark": "4.875% UST due October 15, 2029",
+        "spread_bps": 60,
+        "yield_pct": 5.242,
+        "issue_price_pct": 99.336,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +60 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 750000000,
+        "coupon_pct": 5.35,
+        "coupon_type": "fixed",
+        "maturity_date": "2033-11-04",
+        "first_call_date": "2033-09-04",
+        "benchmark": "4.875% UST due October 31, 2033",
+        "spread_bps": 85,
+        "yield_pct": 5.623,
+        "issue_price_pct": 98.438,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +85 basis points"
+      }
+    ]
+  }
+}

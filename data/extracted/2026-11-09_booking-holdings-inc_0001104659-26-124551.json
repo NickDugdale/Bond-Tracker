@@ -1,0 +1,92 @@
+{
+  "source_file": "2026-11-09_booking-holdings-inc_0001104659-26-124551.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:11:48",
+  "usage": {
+    "input_tokens": 7457,
+    "output_tokens": 1112
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Booking Holdings Inc.",
+    "sector": "Technology",
+    "trade_date": "2026-11-09",
+    "settlement_date": "2026-11-13",
+    "rating_moodys": "A3",
+    "rating_sp": "A-",
+    "rating_fitch": null,
+    "bookrunners": [
+      "Banco Santander, S.A.",
+      "BNP PARIBAS",
+      "Deutsche Bank AG, London Branch",
+      "Goldman Sachs & Co. LLC",
+      "HSBC Bank plc",
+      "Citigroup Global Markets Limited",
+      "J.P. Morgan Securities plc",
+      "Merrill Lynch International",
+      "TD Global Finance unlimited company",
+      "U.S. Bancorp Investments, Inc.",
+      "Standard Chartered Bank"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "EUR",
+        "principal_amount": 1250000000,
+        "coupon_pct": 3.95,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-11-13",
+        "first_call_date": "2029-10-13",
+        "benchmark": "3-year Mid-Swaps",
+        "spread_bps": 70,
+        "yield_pct": 3.992,
+        "issue_price_pct": 99.883,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to EUR Midswap: 70 basis points; Reoffer Yield: 3.992%"
+      },
+      {
+        "currency": "EUR",
+        "principal_amount": 800000000,
+        "coupon_pct": 4.375,
+        "coupon_type": "fixed",
+        "maturity_date": "2032-11-13",
+        "first_call_date": "2032-09-13",
+        "benchmark": "6-year Mid-Swaps",
+        "spread_bps": 115,
+        "yield_pct": 4.436,
+        "issue_price_pct": 99.685,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to EUR Midswap: 115 basis points; Reoffer Yield: 4.436%"
+      },
+      {
+        "currency": "EUR",
+        "principal_amount": 750000000,
+        "coupon_pct": 4.75,
+        "coupon_type": "fixed",
+        "maturity_date": "2035-11-13",
+        "first_call_date": "2035-08-13",
+        "benchmark": "9-year Mid-Swaps",
+        "spread_bps": 145,
+        "yield_pct": 4.767,
+        "issue_price_pct": 99.878,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to EUR Midswap: 145 basis points; Reoffer Yield: 4.767%"
+      },
+      {
+        "currency": "EUR",
+        "principal_amount": 750000000,
+        "coupon_pct": 5.0,
+        "coupon_type": "fixed",
+        "maturity_date": "2038-11-13",
+        "first_call_date": "2038-08-13",
+        "benchmark": "12-year Mid-Swaps",
+        "spread_bps": 170,
+        "yield_pct": 5.063,
+        "issue_price_pct": 99.444,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to EUR Midswap: 170 basis points; Reoffer Yield: 5.063%"
+      }
+    ]
+  }
+}

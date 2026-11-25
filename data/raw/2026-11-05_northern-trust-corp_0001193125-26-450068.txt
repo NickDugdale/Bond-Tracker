@@ -1,0 +1,95 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/73124/000119312526450068/d169018dfwp.htm
+ISSUER (SEC filer): NORTHERN TRUST CORP
+FILED: 2026-11-05
+========================================
+FWP
+1
+d169018dfwp.htm
+FWP
+FWP
+Issuer Free Writing Prospectus
+Filed Pursuant to Rule 433
+Registration No. 333-297829
+Northern Trust Corporation
+Pricing Term Sheet
+November 5, 2026
+5.300%
+Senior Notes due 2031
+5.700% Senior Notes due 2036
+Terms Applicable to the 2031 Notes
+Issuer | Northern Trust Corporation
+Security | 5.300% Senior Notes due 2031
+Expected Ratings* | A2 (Stable) / A+ (Stable) / A+ (Stable) (Moody’s / S&P / Fitch)
+Currency | USD
+Principal Amount | $1,000,000,000
+Maturity Date | November 10, 2031
+Coupon | 5.300%
+Payment Frequency | Semi-Annually
+Day Count Convention | 30/360
+Redemption | None
+Benchmark Treasury | 4.750% US Treasury due October 31, 2031
+Spread to Benchmark Treasury | +70 bps
+Benchmark Treasury Price / Yield | 100-19 3/4 / 4.610%
+Yield to Maturity | 5.310%
+Price to Public | 99.957% of principal amount
+Proceeds (Before Expenses) to Issuer | $996,070,000 (99.607%)
+Interest Payment Dates | May 10 and November 10 of each year, commencing May 10, 2027
+Trade Date | November 5, 2026
+Settlement Date | November 10, 2026 (T+3)
+Denominations | $2,000 x $1,000
+CUSIP / ISIN | 665859BA1 / US665859BA17
+Terms Applicable to the 2036 Notes
+Issuer | Northern Trust Corporation
+Security | 5.700% Senior Notes due 2036
+Expected Ratings* | A2 (Stable) / A+ (Stable) / A+ (Stable) (Moody’s / S&P / Fitch)
+Currency | USD
+Principal Amount | $1,000,000,000
+Maturity Date | November 10, 2036
+Coupon | 5.700%
+Payment Frequency | Semi-Annually
+Day Count Convention | 30/360
+Redemption | None
+Benchmark Treasury | 4.625% US Treasury due August 15, 2036
+Spread to Benchmark Treasury | +90 bps
+Benchmark Treasury Price / Yield | 98-13 / 4.831%
+Yield to Maturity | 5.731%
+Price to Public | 99.767% of principal amount
+Proceeds (Before Expenses) to Issuer | $993,170,000 (99.317%)
+Interest Payment Dates | May 10 and November 10 of each year, commencing May 10, 2027
+Trade Date | November 5, 2026
+Settlement Date | November 10, 2026 (T+3)
+Denominations | $2,000 x $1,000
+CUSIP / ISIN | 665859BB9 / US665859BB99
+Joint Book-Running Managers | BofA Securities, Inc. Citigroup Global Markets
+Inc. Goldman Sachs & Co. LLC Morgan
+Stanley & Co. LLC Siebert Williams Shank & Co., LLC
+Co-Managers | Academy Securities, Inc. Barclays Capital
+Inc. J.P. Morgan Securities LLC Loop Capital Markets LLC RBC Capital Markets, LLC TD Securities (USA) LLC Wells Fargo Securities, LLC
+* | Note: A security rating is not a recommendation to buy, sell or hold securities, and may be subject to
+revision or withdrawal at any time by the assigning rating organization. Each rating should be evaluated independently of any other rating.
+The Issuer has filed a registration statement (including a preliminary prospectus supplement and the
+accompanying prospectus) with the U.S. Securities and Exchange Commission (the “SEC”) for the offering to which this communication relates. Before you invest, you should read the preliminary prospectus supplement and the accompanying
+prospectus and other documents the Issuer has filed with the SEC for more complete information about the Issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, the Issuer,
+any underwriter or any dealer participating in the offering will arrange to send you the preliminary prospectus supplement and the accompanying prospectus if you request it by calling BofA Securities, Inc. at
+1-800-294-1322,
+Citigroup Global Markets Inc. at
+1-800-831-9146,
+Goldman Sachs & Co. LLC at
+1-866-471-2526,
+Morgan Stanley & Co. LLC at
+1-866-718-1649,
+or Siebert
+Williams Shank & Co., LLC at
+1-800-924-1311.
+NOTE THAT DOCUMENTS TRANSMITTED BY
+E-MAIL
+MAY BE ALTERED OR CHANGED DURING THE PROCESS OF TRANSMISSION AND NONE OF
+NORTHERN TRUST CORPORATION, BOFA SECURITIES, INC., CITIGROUP GLOBAL MARKETS INC., GOLDMAN SACHS & CO. LLC, MORGAN STANLEY & CO. LLC, OR SIEBERT WILLIAMS SHANK & CO., LLC, OR ANY OF THEIR AFFILIATES, ACCEPT LIABILITY OR
+RESPONSIBILITY FOR ANY ALTERATION OR CHANGE. USE OF
+E-MAIL
+IS AT YOUR OWN RISK AND IT IS IMPORTANT FOR YOU TO PROTECT AGAINST VIRUSES.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED (OTHER THAN ANY STATEMENT
+RELATING TO THE IDENTITY OF THE LEGAL ENTITY AUTHORIZING OR SENDING THIS COMMUNICATION IN A
+NON-US
+JURISDICTION). SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS
+COMMUNICATION HAVING BEEN SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.

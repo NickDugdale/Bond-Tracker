@@ -1,0 +1,48 @@
+{
+  "source_file": "2026-11-10_envista-holdings-corp_0001213900-26-118139.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:12:29",
+  "usage": {
+    "input_tokens": 3717,
+    "output_tokens": 506
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Envista Holdings Corporation",
+    "sector": "Healthcare",
+    "trade_date": "2026-11-10",
+    "settlement_date": "2026-11-24",
+    "rating_moodys": "Baa3",
+    "rating_sp": "BBB-",
+    "rating_fitch": null,
+    "bookrunners": [
+      "J.P. Morgan Securities LLC",
+      "BofA Securities, Inc.",
+      "Wells Fargo Securities, LLC",
+      "BNP Paribas Securities Corp.",
+      "Goldman Sachs & Co. LLC",
+      "HSBC Securities (USA) Inc.",
+      "PNC Capital Markets LLC",
+      "Scotia Capital (USA) Inc.",
+      "Deutsche Bank Securities Inc."
+    ],
+    "use_of_proceeds": "To repay its 2028 Term Loan and for general corporate purposes.",
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 430000000,
+        "coupon_pct": 6.25,
+        "coupon_type": "fixed",
+        "maturity_date": "2033-12-15",
+        "first_call_date": "2033-10-15",
+        "benchmark": "UST 4.875% due October 31, 2033",
+        "spread_bps": 145,
+        "yield_pct": 6.341,
+        "issue_price_pct": 99.482,
+        "seniority": "senior unsecured",
+        "pricing_quote": "T + 145 basis points"
+      }
+    ]
+  }
+}

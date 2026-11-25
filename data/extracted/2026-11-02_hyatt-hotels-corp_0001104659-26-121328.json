@@ -1,0 +1,48 @@
+{
+  "source_file": "2026-11-02_hyatt-hotels-corp_0001104659-26-121328.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:08:37",
+  "usage": {
+    "input_tokens": 3829,
+    "output_tokens": 493
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Hyatt Hotels Corporation",
+    "sector": "Consumer",
+    "trade_date": "2026-11-02",
+    "settlement_date": "2026-11-12",
+    "rating_moodys": "Baa3",
+    "rating_sp": "BBB-",
+    "rating_fitch": "BBB-",
+    "bookrunners": [
+      "J.P. Morgan Securities LLC",
+      "U.S. Bancorp Investments, Inc.",
+      "Wells Fargo Securities, LLC",
+      "BofA Securities, Inc.",
+      "Deutsche Bank Securities Inc.",
+      "Goldman Sachs & Co. LLC",
+      "PNC Capital Markets LLC",
+      "Scotia Capital (USA) Inc.",
+      "Truist Securities, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 400000000,
+        "coupon_pct": 5.95,
+        "coupon_type": "fixed",
+        "maturity_date": "2033-11-15",
+        "first_call_date": "2033-09-15",
+        "benchmark": "UST 4.875% due October 31, 2033",
+        "spread_bps": 123,
+        "yield_pct": 6.005,
+        "issue_price_pct": 99.688,
+        "seniority": "senior unsecured",
+        "pricing_quote": "T + 123 basis points"
+      }
+    ]
+  }
+}

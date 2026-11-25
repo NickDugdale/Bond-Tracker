@@ -1,0 +1,56 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/23632/000119312526458513/d104451dfwp.htm
+ISSUER (SEC filer): CONSOLIDATED EDISON CO OF NEW YORK INC
+FILED: 2026-11-12
+========================================
+FWP
+1
+d104451dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration Statement No. 333-281192
+November 12, 2026
+PRICING TERM SHEET
+6.40% DEBENTURES, SERIES 2026 C
+Issuer: | Consolidated Edison Company of New York, Inc. (the “Issuer”)
+Anticipated Ratings (Moody’s; S&P; Fitch)*: | A3 (Negative); A- (Stable); A- (Stable)
+Issue of Securities: | 6.40% Debentures, Series 2026 C due 2056 (the “Debentures”)
+Principal Amount: | $700,000,000
+Interest Rate: | 6.40% per annum
+Interest Payment Dates: | June 1 and December 1, commencing on June 1, 2027
+Maturity Date: | December 1, 2056
+Benchmark Treasury: | 5.000% due May 15, 2056
+Benchmark Treasury Price / Yield: | 93-15/5.447%
+Spread to Benchmark Treasury: | +100 basis points
+Yield to Maturity: | 6.447%
+Public Offering Price: | 99.375% of the principal amount
+Optional Redemption Provisions:
+Make-Whole Call: | Prior to June 1, 2056 (six months prior to the maturity date of the Debentures) (the “Par Call Date”), the Issuer may redeem the Debentures at its option, in whole or in part, at any time and from time to time, at a
+redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (l)(a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to
+the redemption date (assuming the Debentures matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate
+(as defined in the Preliminary Prospectus Supplement related to the Debentures) plus 15 basis points, less (b) interest accrued to the date of redemption; and (2) 100% of the principal amount of the Debentures to be redeemed,
+plus, in either case, accrued and unpaid interest thereon to, but not including, the redemption date.
+Par Call: | On or after the Par Call Date, the Issuer may redeem the Debentures, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the Debentures being redeemed plus accrued
+and unpaid interest thereon to, but not including, the redemption date.
+Pricing Date: | November 12, 2026
+Settlement Date: | November 16, 2026 (T+2)
+CUSIP / ISIN: | 209111GS6 / US209111GS62
+Joint Book-Running Managers: | Barclays Capital Inc.
+BofA Securities, Inc.
+CIBC World Markets Corp.
+TD Securities (USA) LLC
+Co-Managers: | Academy Securities, Inc.
+Samuel A. Ramirez & Company, Inc.
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+The Issuer has filed a registration statement (including a prospectus) with the SEC for the
+offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents the Issuer has filed with the SEC for more complete information about the Issuer and this offering.
+You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling
+Barclays Capital Inc. toll-free at (888) 603-5847, BofA Securities, Inc. toll-free at (800)
+294-1322
+or by email at dg.prospectus_requests@bofa.com, CIBC World Markets Corp.
+toll-free
+at (800)
+282-0822
+or TD Securities (USA) LLC toll-free at (855)
+495-9846.

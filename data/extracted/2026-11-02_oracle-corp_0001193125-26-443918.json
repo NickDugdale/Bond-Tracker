@@ -1,0 +1,107 @@
+{
+  "source_file": "2026-11-02_oracle-corp_0001193125-26-443918.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:09:00",
+  "usage": {
+    "input_tokens": 7244,
+    "output_tokens": 1280
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Oracle Corporation",
+    "sector": "Technology",
+    "trade_date": "2026-11-02",
+    "settlement_date": "2026-11-04",
+    "rating_moodys": "Baa2",
+    "rating_sp": "BBB-",
+    "rating_fitch": "BBB",
+    "bookrunners": [
+      "BofA Securities, Inc.",
+      "Wells Fargo Securities, LLC",
+      "Citigroup Global Markets Inc.",
+      "BNP Paribas Securities Corp.",
+      "Deutsche Bank Securities Inc.",
+      "J.P. Morgan Securities LLC",
+      "PNC Capital Markets LLC",
+      "U.S. Bancorp Investments, Inc.",
+      "Goldman Sachs & Co. LLC",
+      "HSBC Securities (USA) Inc.",
+      "Lloyds Securities Inc.",
+      "SMBC Nikko Securities America, Inc."
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 2000000000,
+        "coupon_pct": 7.0,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-11-04",
+        "first_call_date": "2029-10-04",
+        "benchmark": "UST 4.875% due October 15, 2029",
+        "spread_bps": 240,
+        "yield_pct": 7.062,
+        "issue_price_pct": 99.835,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +240 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1750000000,
+        "coupon_pct": 7.45,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-11-04",
+        "first_call_date": "2031-10-04",
+        "benchmark": "UST 4.750% due October 31, 2031",
+        "spread_bps": 275,
+        "yield_pct": 7.464,
+        "issue_price_pct": 99.942,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +275 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 2250000000,
+        "coupon_pct": 7.85,
+        "coupon_type": "fixed",
+        "maturity_date": "2033-11-04",
+        "first_call_date": "2033-09-04",
+        "benchmark": "UST 4.875% due October 31, 2033",
+        "spread_bps": 305,
+        "yield_pct": 7.851,
+        "issue_price_pct": 99.995,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +305 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 2500000000,
+        "coupon_pct": 8.0,
+        "coupon_type": "fixed",
+        "maturity_date": "2037-02-04",
+        "first_call_date": "2036-11-04",
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 310,
+        "yield_pct": 8.015,
+        "issue_price_pct": 99.916,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +310 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1500000000,
+        "coupon_pct": 8.65,
+        "coupon_type": "fixed",
+        "maturity_date": "2046-11-04",
+        "first_call_date": "2046-05-04",
+        "benchmark": "UST 5.125% due August 15, 2046",
+        "spread_bps": 335,
+        "yield_pct": 8.667,
+        "issue_price_pct": 99.84,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Treasury: +335 basis points"
+      }
+    ]
+  }
+}

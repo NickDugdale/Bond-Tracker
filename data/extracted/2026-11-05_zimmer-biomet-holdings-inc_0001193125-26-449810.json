@@ -1,0 +1,44 @@
+{
+  "source_file": "2026-11-05_zimmer-biomet-holdings-inc_0001193125-26-449810.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:11:19",
+  "usage": {
+    "input_tokens": 6078,
+    "output_tokens": 496
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Zimmer Biomet Holdings, Inc.",
+    "sector": "Healthcare",
+    "trade_date": "2026-11-05",
+    "settlement_date": "2026-11-12",
+    "rating_moodys": "Baa2",
+    "rating_sp": "BBB",
+    "rating_fitch": "BBB",
+    "bookrunners": [
+      "Barclays Bank PLC",
+      "Citigroup Global Markets Limited",
+      "HSBC Bank plc",
+      "Morgan Stanley & Co. International plc",
+      "RBC Europe Limited"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "EUR",
+        "principal_amount": 500000000,
+        "coupon_pct": 4.375,
+        "coupon_type": "fixed",
+        "maturity_date": "2033-11-12",
+        "first_call_date": "2033-08-12",
+        "benchmark": "DBR 3.300% due November 15, 2033",
+        "spread_bps": 121.1,
+        "yield_pct": 4.376,
+        "issue_price_pct": 99.994,
+        "seniority": "senior unsecured",
+        "pricing_quote": "Spread to Benchmark Bund: +121.1 basis points"
+      }
+    ]
+  }
+}

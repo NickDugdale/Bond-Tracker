@@ -1,0 +1,44 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/217346/000110465926121285/tm2628414d3_fwp.htm
+ISSUER (SEC filer): TEXTRON INC
+FILED: 2026-11-02
+========================================
+FWP
+1
+tm2628414d3_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Registration No. 333-293711
+November 2, 2026
+Textron Inc.
+$350,000,000 5.500% Notes due 2032
+Pricing Term Sheet
+Issuer: | Textron Inc.
+Security: | 5.500% Notes due 2032
+Principal Amount: | $350,000,000
+Maturity Date: | March 15, 2032
+Coupon: | 5.500%
+Interest Payment Dates: | March 15 and September 15, commencing March 15, 2027
+Price to Public: | 99.801% of the principal amount
+Benchmark Treasury: | UST 4.750% due October 31, 2031
+Benchmark Treasury Price / Yield: | 100-07 3/4 / 4.695%
+Spread to Benchmark Treasury: | +85 bps
+Yield to Maturity: | 5.545%
+Make-Whole Call: | T+15 bps (prior to February 15, 2032)
+Par Call: | On or after February 15, 2032
+Expected Settlement Date: | November 4, 2026 (T+2)
+CUSIP / ISIN: | 883203 CG4 / US883203CG46
+Expected Ratings (Moody’s/S&P):* | Baa1 (stable) / BBB (stable)
+Joint Book-Running Managers: | BofA Securities, Inc. Citigroup Global Markets Inc.
+MUFG Securities Americas Inc. SMBC Nikko Securities America, Inc. U.S. Bancorp Investments, Inc. Wells Fargo Securities, LLC
+Senior Co-Manager: | PNC Capital Markets LLC
+Co-Managers: | BNY Mellon Capital Markets, LLC Loop Capital Markets LLC
+* Note: A securities rating is not a recommendation
+to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+The issuer has filed a registration statement
+(including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus
+in that registration statement and other documents the issuer has filed with the SEC for more complete information about the issuer and
+this offering.
+You may get these documents for free by visiting
+EDGAR on the SEC website at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange
+to send you the prospectus if you request it by calling BofA Securities, Inc. at 1-800-294-1322 (toll-free) or Citigroup Global Markets
+Inc. at 1-800-831-9146 (toll-free).

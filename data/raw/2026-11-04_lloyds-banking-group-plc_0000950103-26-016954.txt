@@ -1,0 +1,119 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1160106/000095010326016954/dp256343_fwp-usd4nc3fxd.htm
+ISSUER (SEC filer): Lloyds Banking Group plc
+FILED: 2026-11-04
+========================================
+FWP
+1
+dp256343_fwp-usd4nc3fxd.htm
+FORM FWP
+Filed
+pursuant to Rule 433 Dated November 4, 2026 Registration No. 333-287829
+Lloyds Banking Group plc USD 1,250,000,000 5.511% Senior
+Callable Fixed-to-Fixed Rate Notes due 2030
+Pricing Term Sheet:
+Issuer (LEI number) | Lloyds Banking Group plc (549300PPXHEU2JF0AM85)
+Status | Senior, Unsecured
+Format | SEC Registered Global Notes – Fixed-to-Fixed Rate
+Expected Issue Ratings* | A3 (Moody’s) / A- (S&P) / A+ (Fitch)
+Principal Amount | USD 1,250,000,000
+Denomination | USD 200,000 and integral multiples of USD 1,000 in excess thereof
+Pricing Date | November 4, 2026
+Expected Settlement / Issue Date** | November 12, 2026 (T+5)
+Maturity Date | November 12, 2030
+Optional Redemption | The Issuer may redeem the Senior Notes in whole (but not in part) in its sole discretion on November 12, 2029
+Initial Interest | 5.511% per annum, payable semi-annually in arrears
+Interest Payment Dates | From, and including, November 12, 2026 to, but excluding,
+November 12, 2029 (the “Initial Fixed Rate Period”), interest will be payable on the Senior Notes semi-annually in arrears
+on May 12 and November 12 of each year, beginning on May 12, 2027 From, and including, November 12, 2029 to, but excluding,
+November 12, 2030 (the “Reset Fixed Rate Period”), interest will be payable on the Senior Notes semi-annually in arrears on
+May 12, 2030 and November 12, 2030
+Reference Benchmark Treasury | 4.875% due October 15, 2029
+Reference Benchmark Treasury Price / Yield | 100-21 1/8 / 4.631%
+Reoffer Spread to Benchmark Treasury | 88 bps
+Fixed Rate Reoffer Yield | 5.511%
+Issue Price / Re-Offer Price | 100.000%
+Redemption Price | 100.000%
+Underwriting Commission | 0.15%
+All-in Price | 99.850%
+Net Proceeds to the Issuer before expenses | USD 1,248,125,000
+Fixed Rate Period Day Count Fraction | 30/360
+Filed pursuant to Rule 433 Dated November 4, 2026 Registration No. 333-287829
+Initial Fixed Rate Period Business Day Convention | Following, Unadjusted
+Change of Fixed Rate of Interest after Optional Redemption Date
+Reset Fixed Rate Period Interest | 1-yr U.S. Treasury Rate (as defined in the Preliminary Prospectus Supplement dated November 4, 2026) +88 bps during the Reset Fixed Rate Period
+Reset Determination Date | The second business day immediately preceding the Reset Date
+Reset Date | November 12, 2029
+Reset Fixed Rate Period Day Count Fraction | 30/360
+Reset Fixed Rate Period Business Day Convention | Following, Unadjusted
+Optional Redemption Notice Period | At least five business days but no more than thirty business days prior to the Optional Redemption Date
+Business Days | Means any day, other than Saturday or Sunday, that is neither a legal holiday nor a day on which banking institutions are authorized or required by law or regulation to close in the City of New York or in the City of London
+Joint Bookrunners | Lloyds Securities Inc. (B&D), Barclays Capital Inc., BMO Capital Markets Corp., Mizuho Securities USA LLC, Morgan Stanley & Co. LLC and Scotia Capital (USA) Inc.
+Co-Managers | Academy Securities and Blaylock Van, LLC
+Expected Listing | New York Stock Exchange
+Governing Law | The Indenture and the Senior Notes are governed by, and construed in accordance with, the laws of the State of New York, except that the provisions relating to the waiver of set-off are governed by and construed in accordance with Scots law.
+MREL Eligibility | Intended to qualify as MREL and all applicable eligibility conditions to be met
+Waiver of Set-Off | Yes – set-off rights waived, as further described in the Preliminary Prospectus Supplement
+Events of Default | Restricted
+Senior Notes Restricted Events of Default | Applicable
+Capital Disqualification Event Call | Not Applicable
+Loss Absorption Disqualification Event Redemption | The Issuer may, at its option (but subject to, if and to the extent then required by the Relevant Regulator (as defined in the Prospectus) or the Loss Absorption Regulations (as defined in the Prospectus), its giving notice to the Relevant Regulator and the Relevant Regulator granting it permission having given not less than 15 nor more than 30 days’ notice to holders, redeem all but not some) only of a series of Senior Notes outstanding at any time at 100% of their principal amount together with accrued but unpaid interest thereon, if any, to the date of redemption, if immediately prior to the giving of the notice referred to above, it notifies the Trustee that a Loss Absorption Disqualification Event (as defined in the Prospectus) has occurred (as further described under “Description of the Senior Notes — Loss Absorption Disqualification Event Redemption” in the Prospectus).
+Filed pursuant to Rule 433 Dated November 4, 2026 Registration No. 333-287829
+Agreement with Respect to the Exercise of U.K. Bail-in Power | Notwithstanding any other agreements,
+arrangements, or understandings between us and any holder or beneficial owner of the Senior Notes, by purchasing or acquiring the Senior
+Notes, each holder (including each beneficial owner) of the Senior Notes acknowledges, accepts, agrees to be bound by and consents
+to the exercise of any U.K. bail-in power (as defined below) by the relevant U.K. resolution authority that may result in (i) the reduction
+or cancellation of all, or a portion, of the principal amount of, or interest on, the Senior Notes; (ii) the conversion of all, or a portion,
+of the principal amount of, or interest on, the Senior Notes into shares or other securities or other obligations of Lloyds Banking Group
+plc or another person (and the issue to or conferral on the holder of such shares, securities or obligations, including by means of amendment,
+modification or variation of the terms of the Senior Notes); and/or (iii) the amendment or alteration of the maturity of the Senior Notes,
+or amendment of the amount of interest due on the Senior Notes, or the dates on which interest becomes payable, including by suspending
+payment for a temporary period; any U.K. bail-in power may be exercised by means of variation of the terms of the Senior Notes solely
+to give effect to the exercise by the relevant U.K. resolution authority of such U.K. bail-in power. With respect to (i), (ii) and (iii)
+above, references to principal and interest shall include payments of principal and interest that have become due and payable (including
+principal that has become due and payable at the relevant maturity date), but which have not been paid, prior to the exercise of any U.K.
+bail-in power. Each holder and each beneficial owner of the Senior Notes further acknowledges and agrees that the rights of the holders
+and/or beneficial owners under the Senior Notes are subject to, and will be varied, if necessary, solely to give effect to, the exercise
+of any U.K. bail-in power by the relevant U.K. resolution authority. For these purposes, a “U.K.
+bail-in power” is any write-down, conversion, transfer, modification, moratorium and/or suspension power existing from time to time
+under any laws, regulations, rules or requirements relating to the resolution of financial holding companies, mixed financial holding
+companies, banks, banking group companies, credit institutions and/or investment firms incorporated in the United Kingdom in effect and
+applicable in the United Kingdom to Lloyds Banking Group plc or other members of the Group, including but not limited to any such laws,
+regulations, rules or requirements which are implemented, adopted or enacted in the United Kingdom within the context of the U.K.
+resolution regime under the Banking Act 2009 as the same has been or may be amended from time to time (whether pursuant to the U.K. Financial
+Services (Banking Reform) Act 2013, secondary legislation or otherwise) and/or the Loss Absorption Regulations, pursuant to which obligations
+of a bank, banking group company, credit institution or investment firm or any of its affiliates can be reduced, canceled, modified, transferred
+and/or converted into shares or other securities or obligations of the obligor or any other person (or suspended for a temporary period)
+or pursuant to which any right in a contract governing such obligations may be deemed to have been exercised. A reference to the “relevant
+U.K. resolution authority” is to any authority with the ability to exercise a U.K. bail-in power.
+Repayment of Principal and Payment of Interest After Exercise of U.K. Bail-in Power | No repayment of the principal amount of the Senior Notes or payment of interest on the Senior Notes shall become due and payable after the exercise of any U.K. bail-in power by the relevant U.K. resolution authority unless, at the time that such repayment or payment, respectively, is scheduled to become due, such repayment or payment would be permitted to be made by Lloyds Banking Group plc under the laws and regulations of the United Kingdom applicable to Lloyds Banking Group plc or other members of the Group.
+ISIN | US53944YBP79
+CUSIP | 53944YBP7
+Singapore SFA Product Classification | Solely for the purposes of its obligations pursuant to Section 309B(1)(a) and 309B(1)(c) of the Securities and Futures Act 2001 of Singapore, as modified or amended from time to time (the “SFA”), we have determined, and hereby notify all relevant persons (as defined in Section 309A(1) of the SFA) that the Senior Notes are “prescribed capital markets products” (as defined in the Securities and Futures (Capital Markets Products) Regulations 2018 of Singapore) and “Excluded Investment Products” (as defined in MAS Notice SFA 04-N12: Notice on the Sale of Investment Products and MAS Notice FAA-N16: Notice on Recommendations on Investment Products).
+Target Market | UK MIFIR professionals/ECPs-only/ Manufacturer target market (UK MIFIR
+product governance) is eligible counterparties and professional clients only (all distribution channels). No key disclosure document as
+required by the FCA Product Disclosure Sourcebook has been prepared as not available to retail in UK MiFID II professionals/ECPs-only/ No EU PRIIPs KID– Manufacturer
+target market (MIFID II product governance) is eligible counterparties and professional clients only (all distribution channels). No EU
+PRIIPs key information document (KID) has been prepared as not available to retail in EEA
+Filed pursuant to Rule 433 Dated November 4, 2026 Registration No. 333-287829
+*Note: A securities rating is not a recommendation to buy, sell
+or hold securities. Ratings may be subject to revision or withdrawal at any time, and each rating should be evaluated independently
+of any other rating.
+Lloyds Banking Group plc has filed a registration statement (including
+a Preliminary Prospectus Supplement) with the SEC for the offering to which this communication relates. Before you invest, you should
+read the Preliminary Prospectus Supplement in that registration statement and other documents Lloyds Banking Group plc has filed with
+the SEC for more complete information about Lloyds Banking Group plc and this offering. You may get these documents for free by visiting
+EDGAR on the SEC Web site at www.sec.gov. Alternatively, Lloyds Banking Group plc and any underwriter or any dealer participating in the
+offering will arrange to send you the Preliminary Prospectus Supplement if you request it by calling Barclays Capital Inc. at 1-888-603-5847,
+BMO Capital Markets Corp. at 1-888-200-0266, Lloyds Securities Inc. at 1-212-930-5039, Mizuho Securities USA LLC at 1-866-271-7403, Morgan
+Stanley & Co. LLC at 1-888-454-3965 or Scotia Capital (USA) Inc at 1-800-372-3930.
+**We currently expect delivery of the Senior Notes to occur on or
+about November 12, 2026, which will be the fifth business day following the pricing of the Senior Notes (such settlement cycle being referred
+to as “T+5”). Under Rule 15c6-1 of the U.S. Securities Exchange Act of 1934, as amended, trades in the secondary market generally
+are required to settle in one Business Day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who
+wish to trade Senior Notes on the date of pricing or the next three succeeding Business Days will be required, by virtue of the fact that
+the Senior Notes initially will settle in T+5, to specify an alternate settlement cycle at the time of any such trade to prevent a failed
+settlement. Purchasers of Senior Notes who wish to trade Senior Notes on the date of pricing or the next three succeeding Business Days
+should consult their own advisors.
+Any legends, disclaimers or other notices that may appear below are
+not applicable to this communication and should be disregarded. Such legends, disclaimers or other notices have been automatically generated
+as a result of this communication having been sent via Bloomberg or another email system.

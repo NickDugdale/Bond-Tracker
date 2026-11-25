@@ -1,0 +1,110 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/51143/000110465926127130/tm2628653d3_fwp.htm
+ISSUER (SEC filer): INTERNATIONAL BUSINESS MACHINES CORP
+FILED: 2026-11-13
+========================================
+FWP
+1
+tm2628653d3_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Registration Number 333-276739
+International Business Machines Corporation
+November 13, 2026
+Pricing Term Sheet
+¥66,300,000,000 2.869% Notes due 2029
+¥28,700,000,000 3.250% Notes due 2031
+¥13,800,000,000 3.610% Notes due 2033
+(together, the “Notes”)
+This pricing term sheet (this “Pricing Term
+Sheet”) supplements the prospectus supplement issued by International Business Machines Corporation on November 9, 2026 (the
+“Preliminary Prospectus Supplement”) and the accompanying prospectus dated January 29, 2024 (the “Prospectus”)
+and supersedes the information in the Preliminary Prospectus Supplement and Prospectus. Other information presented in the Preliminary
+Prospectus Supplement is deemed to have changed to the extent affected by the changes described herein. Otherwise, this Pricing Term Sheet
+is qualified in its entirety by reference to the Preliminary Prospectus Supplement and the Prospectus and should be read together with
+the Preliminary Prospectus Supplement, the Prospectus and the documents incorporated or deemed to be incorporated by reference therein
+before a decision is made to invest in the Notes.
+Terms Applicable to the Notes
+Issuer: | International Business Machines Corporation
+Issuer Legal Entity Identifier: | VGRQXHF3J8VDLUA7XE92
+Expected Ratings*: | A3 / A- / A- (Moody’s/S&P/Fitch)
+Format: | SEC Registered (Global Yen)
+Ranking: | Senior Unsecured
+Trade Date: | November 13, 2026 (Tokyo time)
+Settlement Date**: | November 19, 2026 (T+4 Tokyo business days)
+Joint Bookrunning Managers: | Mizuho Securities USA LLC MUFG Securities EMEA plc SMBC Nikko Securities America, Inc.
+Stabilization Manager: | Mizuho Securities USA LLC
+Listing: | None
+Day Count Convention: | 30/360
+Business Day Convention: | Following, unadjusted
+Business Days: | New York, London and Tokyo
+Minimum Denominations: | ¥100,000,000 and integral multiples of ¥10,000,000 in excess thereof
+Clearing: | Euroclear / Clearstream
+Japanese Selling Restrictions: | Qualified Institutional Investors only (Tekikaku Kikan Toshika Gentei)
+Governing Law: | New York
+Terms Applicable to Each Series of Notes
+Size: | 2029 Notes: ¥66,300,000,000 2031 Notes: ¥28,700,000,000 2033 Notes: ¥13,800,000,000
+Maturity: | 2029 Notes: November 19, 2029 2031 Notes: November 19, 2031 2033 Notes: November 18, 2033
+Coupon (payable semi-annually): | 2029 Notes: 2.869% 2031 Notes: 3.250% 2033 Notes: 3.610%
+Interest Payment Dates: | 2029 Notes: May 19 and November 19 of each year 2031 Notes: May 19 and November 19 of each year 2033 Notes: May 19 and November 19 of each year (short last coupon)
+First Interest Payment Date: | 2029 Notes: May 19, 2027 2031 Notes: May 19, 2027 2033 Notes: May 19, 2027
+Benchmark: | TONA-based Yen Mid Swaps, quoted on Bloomberg screen “GDCO44051” on the Trade Date, rounded up to the third decimal place
+Mid Swaps Yield: | 2029 Notes: 2.019% 2031 Notes: 2.250% 2033 Notes: 2.460%
+Spread to Mid Swaps: | 2029 Notes: +85 bps 2031 Notes: +100 bps 2033 Notes: +115 bps
+Yield to Maturity: | 2029 Notes: 2.869% 2031 Notes: 3.250% 2033 Notes: 3.610%
+Par Call: | 2029 Notes: N/A 2031 Notes: On or after October 19, 2031 (1 month prior to maturity) 2033 Notes: On or after September 18, 2033 (2 months prior to maturity)
+Price to Public: | 2029 Notes: 100.000%, plus accrued interest, if any, from November 19, 2026 2031 Notes: 100.000%, plus accrued interest, if any, from November 19, 2026 2033 Notes: 100.000%, plus accrued interest, if any, from November 19, 2026
+Underwriting Discount: | 2029 Notes: 0.450% 2031 Notes: 0.500% 2033 Notes: 0.550%
+Net Proceeds to the Issuer (before expenses): | ¥108,282,250,000
+CUSIP / ISIN / Common Code: | 2029 Notes: 459200 ME8 / XS3569250338 / 356925033 2031 Notes: 459200 MF5 / XS3569250411 / 356925041 2033 Notes: 459200 MG3 / XS3569250502 / 356925050
+*Note: A securities rating is not a recommendation
+to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+**Note: We expect that delivery of the Notes
+will be made to investors on or about November 19, 2026, which will be the fourth business day following the date of this Pricing
+Term Sheet (such settlement being referred to as “T+4”). Under Rule 15c6-1 of the Securities Exchange Act of 1934, as
+amended (the “Exchange Act”), trades in the secondary market generally are required to settle in one New York business day
+(as such term is used for purposes of Rule 15c6-1 of the Exchange Act), unless the parties to any such trade expressly agree otherwise.
+Accordingly, purchasers who wish to trade the Notes on any date prior to the first New York business day preceding the settlement date
+will be required, by virtue of the fact that the Notes will initially settle in T+4, to specify an alternate settlement arrangement at
+the time of any such trade to prevent a failed settlement; such purchasers should consult their own advisors in this regard.
+The Notes will be represented by beneficial
+interests in fully registered global notes, which will be registered in the name of, and shall be deposited on or about November 19,
+2026 with, a common depositary for, and in respect of interests held through, Euroclear Bank S.A./N.V., as operator of the Euroclear System
+(“Euroclear”), and Clearstream Banking, S.A. (“Clearstream”). Any Notes represented by global notes held by a
+nominee of Euroclear or Clearstream will be subject to the then applicable procedures of Euroclear and Clearstream, as applicable.
+The Notes have not been and will not be registered
+under the Financial Instruments and Exchange Law of Japan (Law No. 25 of 1948 of Japan, as amended, the “FIEL”). The
+solicitation relating to the Notes in Japan constitutes a “solicitation targeting QIIs” as defined in Article 23-13,
+Paragraph 1 of the FIEL, and the Notes may not be transferred to any person other than a QII. See “Notice to Prospective Investors
+in Japan” in the Preliminary Prospectus Supplement.
+This Pricing Term Sheet is not a prospectus
+for the purposes of Regulation (EU) 2017/1129 or for the purposes of the Public Offers and Admissions to Trading Regulations 2024 (the
+“POATRs”).
+MiFID II and UK MiFIR – professionals/ECPs-only
+/ No PRIIPs KID or DISC disclosure document – Manufacturer target market (MiFID II and UK MiFIR product governance) is eligible
+counterparties and professional clients only (all distribution channels). No key information document under Regulation (EU) No 1286/2014
+(as amended) or disclosure document required by the FCA Product Disclosure Sourcebook has been prepared as not available to retail investors
+in the EEA or the United Kingdom.
+The communication of this Pricing Term Sheet
+and any other document or materials relating to the issue of the Notes is not being made, and such documents or materials have not been
+approved, by an authorized person for the purposes of Section 21 of the United Kingdom’s Financial Services and Markets Act
+2000, as amended (the “FSMA”). Accordingly, such documents and/or materials are not being distributed to, and must not be
+passed on to, the general public in the United Kingdom. This document and such other documents and/or materials are for distribution only
+to persons who (i) have professional experience in matters relating to investments and who fall within the definition of investment
+professionals (as defined in Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005,
+as amended (the “Financial Promotion Order”)), (ii) fall within Article 49(2)(a) to (d) of the Financial
+Promotion Order, (iii) are outside the United Kingdom, or (iv) are other persons to whom it may otherwise lawfully be made under
+the Financial Promotion Order (all such persons together being referred to as “relevant persons”). This document is directed
+only at relevant persons and must not be acted on or relied on by persons who are not relevant persons. Any investment or investment activity
+to which this Pricing Term Sheet relates will be engaged in only with relevant persons.
+Relevant stabilization regulations including
+FCA/ICMA will apply.
+The Issuer has filed a registration statement
+(including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus
+in that registration statement and other documents the Issuer has filed with the SEC for more complete information about the Issuer and
+this offering. You may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, the Issuer, any
+underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling Mizuho Securities
+USA LLC toll-free at +1-866-271-7403, by emailing MUFG Securities EMEA plc at legal-primarymarkets@int.sc.mufg.jp, or by calling SMBC
+Nikko Securities America, Inc. toll-free at 1-888-868-6856 or emailing prospectus@smbcnikko-si.com.
+Any disclaimers or other notices that may
+appear below are not applicable to this communication and should be disregarded. Such disclaimers or other notices were automatically
+generated as a result of this communication being sent via Bloomberg or another email system.

@@ -1,0 +1,93 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1136869/000119312526449950/d168603dfwp.htm
+ISSUER (SEC filer): ZIMMER BIOMET HOLDINGS, INC.
+FILED: 2026-11-05
+========================================
+FWP
+1
+d168603dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433 under the Securities Act of 1933, as amended
+Registration Statement No. 333-285227
+Supplementing the Preliminary Prospectus Supplement, dated November 5, 2026
+(To Prospectus dated February 25, 2025)
+Zimmer Biomet Holdings, Inc.
+Pricing Term Sheet
+$500,000,000 5.850% Notes due 2036
+November 5, 2026
+The information
+in this pricing term sheet (the “
+Pricing Term Sheet
+”) supplements the information in Zimmer Biomet Holdings, Inc.’s preliminary prospectus supplement, dated November 5, 2026, relating to the Notes (as defined below) (the
+“
+Preliminary Prospectus
+”) and supersedes the information in the Preliminary Prospectus to the extent inconsistent with the information in the Preliminary Prospectus. Otherwise, this Pricing Term Sheet is qualified in its entirety
+by reference to the Preliminary Prospectus. Capitalized terms not otherwise defined herein shall have the meanings ascribed to them in the Preliminary Prospectus.
+Issuer: | Zimmer Biomet Holdings, Inc. (the “Company”)
+Title of Securities: | $500,000,000 5.850% Notes due 2036 (the “Notes”)
+Principal Amount: | $500,000,000
+Price to Public: | 99.993%
+Gross Proceeds: | $499,965,000
+Underwriting Discount: | 0.650%
+Net Proceeds (before expenses): | $496,715,000
+Maturity Date: | November 12, 2036
+Coupon: | 5.850%
+Yield to Maturity: | 5.851%
+Benchmark Treasury: | 4.625% UST due August 15, 2036
+Benchmark Treasury Price; Yield: | 98-13 / 4.831%
+Spread to Benchmark Treasury: | T + 102 basis points
+Interest Payment Dates: | Semi-annually in arrears on May 12 and November 12 of each year, commencing on May 12, 2027
+Redemption Provisions: | Prior to August 12, 2036 (the “Par Call Date”), the Company may redeem the Notes at its option, in whole or in part, at any
+time and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of: (1) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the
+Notes matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate, plus 20 basis points less
+(b) interest accrued to the date of redemption, and (2) 100% of the principal
+amount of the Notes to be redeemed, plus, in either case, accrued and unpaid
+interest thereon to the redemption date. On or after the Par Call Date, the Company
+may redeem the Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the Notes being redeemed plus accrued and unpaid interest thereon to the redemption date.
+Repurchase at the Option of Holders upon a Change of Control Repurchase Event: | If a Change of Control Repurchase Event occurs with respect to the Notes, the Company will be required to offer to repurchase the Notes at a repurchase price equal to 101% of their principal amount, plus accrued and unpaid interest
+on the Notes to be repurchased to the date of repurchase, unless the Notes have been previously redeemed or called for redemption.
+CUSIP: | 98956P BD3
+ISIN: | US98956PBD33
+Expected Ratings*: | Baa2 (Stable) / BBB (Stable) / BBB (Stable)
+Trade Date: | November 5, 2026
+Settlement Date**: | November 12, 2026 (T+4)
+Joint Book-Running Managers: | Barclays Capital Inc. BofA Securities, Inc. J.P. Morgan Securities LLC Mizuho Securities USA LLC SMBC Nikko Securities America, Inc. DNB Carnegie, Inc. BNP Paribas Securities Corp. Citigroup Global Markets Inc. Goldman Sachs & Co. LLC HSBC Securities (USA) Inc. Morgan Stanley & Co. LLC RBC Capital Markets,
+LLC
+Senior Co-Managers: | UBS Securities LLC U.S. Bancorp Investments,
+Inc.
+Co-Managers: | Academy Securities, Inc. Cabrera Capital
+Markets LLC Loop Capital Markets LLC R. Seelaus &
+Co., LLC
+Form of Notes: | Global notes deposited with The Depository Trust Company.
+Denominations: | Minimum denominations of $2,000 and integral multiples of $1,000 in excess thereof.
+Concurrent Offering: | Shortly prior to the commencement of this offering, the Company commenced an offering, by means of a separate prospectus supplement, of an aggregate principal amount of €500,000,000 euro-denominated notes (the “Euro
+Notes” and such offering, the “Euro Notes Offering”). Neither this offering nor the Euro Notes Offering is contingent on the completion of the other, so it is possible that this offering is completed and the Euro Notes Offering is
+not completed, and vice versa. The Company cannot assure you that the Euro Notes Offering will be completed on the terms described in the Preliminary Prospectus, or at all. This Pricing Term Sheet is not an offer to sell or a solicitation of an
+offer to buy any Euro Notes.
+* | A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision
+or withdrawal by the assigning rating organization at any time. Each rating should be evaluated independently of any other rating.
+** | Under Rule 15c6-1 under the Securities Exchange Act of 1934, as
+amended, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes prior to the first business day before
+the delivery of the Notes will be required to specify alternative settlement arrangements to prevent a failed settlement. Purchasers of the Notes who wish to trade Notes prior to their date of delivery hereunder should consult their own advisors.
+This Pricing Term Sheet supplements the Preliminary Prospectus issued by the Company on November 5, 2026 relating to its
+prospectus dated February 25, 2025, Registration Statement
+No. 333-285227.
+The Company has filed
+a registration statement (including a base prospectus) and the Preliminary Prospectus with the U.S. Securities and Exchange Commission (the “
+SEC
+”) for the offering to which this communication relates. Before you invest, you should
+read the Preliminary Prospectus, the accompanying base prospectus in that registration statement, this Pricing Term Sheet and other documents the Company has filed with the SEC for more complete information about the Company and this offering. You
+may obtain these documents for free by visiting EDGAR on the SEC’s website at www.sec.gov. Alternatively, the Company, any underwriter or any dealer participating in the offering will arrange to send you the Preliminary Prospectus, the final
+prospectus supplement (when available) and the accompanying base prospectus if you request it by calling Barclays Capital Inc. toll-free at 1 (888)
+603-5847,
+BofA Securities, Inc. toll-free at 1 (800)
+294-1322,
+J.P. Morgan Securities LLC collect at 1 (212)
+834-4533,
+Mizuho Securities USA LLC toll-free at 1 (866)
+271-7403
+and SMBC
+Nikko Securities America, Inc. toll-free at
+1-888-868-6856.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER
+NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.

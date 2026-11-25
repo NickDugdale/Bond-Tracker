@@ -1,0 +1,72 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/71180/000110465926129136/tm2629719d3_fwp.htm
+ISSUER (SEC filer): NEVADA POWER CO
+FILED: 2026-11-17
+========================================
+FWP
+1
+tm2629719d3_fwp.htm
+FWP
+Issuer Free Writing Prospectus
+(Relating to Preliminary Prospectus Supplement
+Date November 17, 2026)
+Filed Pursuant to Rule 433(d)
+Registration Statement No. 333-283731
+NEVADA POWER COMPANY D/B/A NV ENERGY
+FINAL PRICING TERM SHEET
+November 17, 2026
+This issuer free writing prospectus relates
+only to the securities described below and should be read together with Nevada Power Company’s preliminary prospectus supplement,
+dated November 17, 2026 (the “Preliminary Prospectus Supplement”), the accompanying prospectus, dated December 11, 2024, and
+the documents incorporated and deemed to be incorporated by reference therein.
+Issuer: | Nevada Power Company d/b/a NV Energy
+Legal Format: | SEC-Registered
+Issue: | 5.950% General and Refunding Mortgage Bonds, NPC Series 2026A, due 2037 (the “ Bonds ”)
+Offering Size: | $350,000,000 in aggregate principal amount
+Net Proceeds (before expenses) to Issuer: | $346,958,500
+Coupon and Coupon Payment Dates: | 5.950% per annum, payable semi-annually in arrears on each February 15 and August 15, commencing February 15, 2027
+Trade Date: | November 17, 2026
+Settlement Date: | November 19, 2026 (T+2*)
+Maturity Date: | February 15, 2037
+Benchmark Treasury: | 5.000% due November 15, 2036
+Benchmark Treasury Yield: | 5.107%
+Spread to Benchmark Treasury: | +88 basis points
+Re-offer Yield: | 5.987%
+Price to Public: | 99.731% of the principal amount
+Anticipated Ratings 1 : | A2 (stable) by Moody’s Investors Service, Inc. A (stable) by S&P Global Ratings
+1
+These expected securities ratings have been provided by Moody’s Investors Service, Inc. and S&P Global Ratings. None of these
+ratings are a recommendation to buy, sell or hold these securities. Each rating may be subject to revision or withdrawal at any time.
+Each security rating agency has its own methodology for assigning ratings, and, accordingly, each rating should be evaluated independently
+of any other rating. No report of any rating agency is incorporated by reference herein.
+Optional Redemption: | Prior to November 15, 2036 (the date that is three months prior to their maturity date) (the “ Par Call Date ”), the Bonds will be redeemable, in whole or in part from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of (i) 100% of the principal amount of the Bonds being redeemed and (ii) (a) the sum of the present values of the remaining scheduled payments of principal and interest on the Bonds being redeemed discounted to the redemption date (assuming the Bonds matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 15 basis points, less (b) interest accrued to the date of redemption; plus, in either case, accrued and unpaid interest thereon to, but excluding, the redemption date. On or after the Par Call Date, the Bonds will be redeemable, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the Bonds being redeemed, plus accrued and unpaid interest thereon to, but excluding, the redemption date.
+Call for Tax Credit Event: | In whole but not in part at 101% of the principal amount
+plus accrued and unpaid interest to, but excluding, the redemption date (notice may be sent by the later of (a) the end of the calendar
+year in which the Bonds were issued and (b) six months from the date of issuance of the Bonds, for a redemption no less than 10 days
+nor more than 60 days after notice)
+Joint Book-Running Managers: | BofA Securities, Inc. CIBC World Markets Corp. Citigroup Global Markets Inc. MUFG Securities Americas Inc. SMBC Nikko Securities America, Inc. U.S. Bancorp Investments, Inc. BMO Capital Markets Corp. BNY Mellon Capital Markets, LLC Huntington Securities, Inc. KeyBanc Capital Markets Inc. nabSecurities LLC Regions Securities LLC RBC Capital Markets, LLC Scotia Capital (USA) Inc. TD Securities (USA) LLC Truist Securities, LLC
+Co-Manager: | Loop Capital Markets LLC
+CUSIP: | 641423 CJ5
+ISIN: | US641423CJ56
+*We
+expect that delivery of the Bonds will be made against payment therefor on or about
+November 19
+,
+2026, which will
+be the second business day following the date hereof. This settlement cycle is referred to as “T+2.” Under Rule 15c6-1 under
+the Securities Exchange Act of 1934, as amended (the “Exchange Act”), trades in the secondary market generally are required
+to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade
+Bonds prior to the date that is one business day preceding the settlement date, will be required, by virtue of the fact that the Bonds
+initially will settle T+2, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers
+of Bonds who wish to trade Bonds prior to the date that is one business day preceding the settlement date should consult their own advisors.
+The
+issuer has filed a registration statement (including a prospectus) with the SEC for the offering to which this communication relates.
+Before you invest, you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC
+for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC website
+at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus
+if you request it by calling
+BofA Securities, Inc. (toll-free) at 1-800-294-1322; CIBC World Markets Corp. (toll-free) at
+1-800-282-0822; Citigroup Global Markets Inc. (toll-free) at 1-800-831-9146; MUFG Securities Americas Inc. (toll-free) at 1-877-649-6848;
+SMBC Nikko Securities America, Inc. (toll-free) at 1-888-868-6856 or U.S. Bancorp Investments, Inc. (toll-free) at 1-877-558-2607.
+Any legends, disclaimers or other notices that
+may appear below are not applicable to this communication and should be disregarded. Such legends, disclaimers or other notices have been
+automatically generated as a result of this communication having been sent via Bloomberg or another system.

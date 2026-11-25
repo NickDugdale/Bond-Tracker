@@ -1,0 +1,127 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/931182/000119312526467249/d150566dfwp.htm
+ISSUER (SEC filer): ERP OPERATING LTD PARTNERSHIP
+FILED: 2026-11-18
+========================================
+FWP
+1
+d150566dfwp.htm
+FWP
+FWP
+Filed pursuant to Rule 433 Registration No. 333-287237-01 November 18, 2026
+Issuer Free Writing Prospectus
+PRICING TERM SHEET
+5.600% Notes due December 1, 2031
+Issuer: | ERP Operating Limited Partnership
+Security: | 5.600% Notes due December 1, 2031
+Expected Ratings*: | A3 by Moody’s Investors Service, Inc.
+A by S&P Global Ratings
+Principal Amount Offered: | $400,000,000
+Trade Date: | November 18, 2026
+Settlement Date: | November 24, 2026 (T+4)
+We expect that delivery of the notes will be made against payment thereof on or about November 24, 2026, which will be the fourth business day following the pricing of the notes (such settlement cycle referred to as
+“T+4”). Under Rule 15c6-1 of the Exchange Act, trades in the secondary market generally are required to settle in one business day, unless the parties to a trade expressly agree otherwise.
+Accordingly, purchasers who wish to trade notes prior to the date that is the first business day preceding the settlement date will be required, by virtue of the fact that the notes initially will settle in T+4, to specify alternative settlement
+arrangements to prevent a failed settlement.
+Maturity Date: | December 1, 2031
+Coupon: | 5.600%
+Interest Payment Dates: | Payable semiannually on June 1 and December 1, commencing June 1, 2027
+Price to Public: | 99.865%
+Benchmark Treasury: | 4.750% UST due October 31, 2031
+Benchmark Treasury Price and Yield: | 99-13 3/4 / 4.881%
+Spread to Benchmark Treasury: | +75 basis points
+Re-Offer Yield: | 5.631%
+Make-Whole Call: | Treasury rate plus 15 basis points
+Optional Redemption: | Issuer may redeem at any time in whole or, from time to time in part, at a redemption price equal to the sum of (i) the principal amount being redeemed plus accrued interest thereon to the redemption date and (ii) the
+Make-Whole Amount (as described in the Prospectus), if any; provided, that if the notes are redeemed on or after November 1, 2031 (the date that is one month prior to the maturity date of the notes), the redemption price will not include the
+Make-Whole Amount.
+Net Proceeds Before Expenses: | $397,060,000
+Day Count Convention: | 30 / 360
+Denominations: | $1,000 and integral multiples of $1,000 in excess thereof
+CUSIP / ISIN: | 26884ABT9 / US26884ABT97
+Joint Book-Running Managers: | Morgan Stanley & Co. LLC Wells Fargo
+Securities, LLC BofA Securities, Inc. Goldman
+Sachs & Co. LLC J.P. Morgan Securities LLC Barclays
+Capital Inc. Deutsche Bank Securities Inc. RBC Capital
+Markets, LLC U.S. Bancorp Investments, Inc.
+Senior Co-Managers: | Mizuho Securities USA LLC PNC Capital Markets
+LLC Regions Securities LLC Scotia Capital (USA) Inc. Truist Securities, Inc.
+Co-Managers: | BBVA Securities Inc. BMO Capital Markets
+Corp. BNP Paribas Securities Corp. BNY Mellon Capital
+Markets, LLC Loop Capital Markets LLC Samuel A.
+Ramirez & Company, Inc. TD Securities (USA) LLC
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+The issuer has filed a registration statement including a prospectus and a prospectus supplement
+with the Securities and Exchange Commission (SEC) for the offering to which this communication relates. Before you invest, you should read the prospectus and prospectus supplement in that registration statement and other documents the issuer has
+filed with the SEC for more complete information about the issuer and this offering.
+You may obtain these documents for free by visiting EDGAR on
+the SEC Web site at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus and the prospectus supplement if you request them by calling Morgan Stanley &
+Co. LLC at
+1-866-718-1649,
+Wells Fargo Securities, LLC at
+1-800-645-3751,
+BofA Securities, Inc. at
+1-800-294-1322,
+Goldman Sachs &
+Co. LLC at
+1-866-471-2526,
+or J.P. Morgan Securities LLC collect at
+1-212-834-4533.
+PRICING TERM SHEET
+5.950% Notes due December 1, 2036
+Issuer: | ERP Operating Limited Partnership
+Security: | 5.950% Notes due December 1, 2036
+Expected Ratings*: | A3 by Moody’s Investors Service, Inc.
+A by S&P Global Ratings
+Principal Amount Offered: | $400,000,000
+Trade Date: | November 18, 2026
+Settlement Date: | November 24, 2026 (T+4)
+We expect that delivery of the notes will be made against payment thereof on or about November 24, 2026, which will be the fourth business day following the pricing of the notes (such settlement cycle referred to as
+“T+4”). Under Rule 15c6-1 of the Exchange Act, trades in the secondary market generally are required to settle in one business day, unless the parties to a trade expressly agree otherwise.
+Accordingly, purchasers who wish to trade notes prior to the date that is the first business day preceding the settlement date will be required, by virtue of the fact that the notes initially will settle in T+4, to specify alternative settlement
+arrangements to prevent a failed settlement.
+Maturity Date: | December 1, 2036
+Coupon: | 5.950%
+Interest Payment Dates: | Payable semiannually on June 1 and December 1, commencing June 1, 2027
+Price to Public: | 99.909%
+Benchmark Treasury: | 5.000% UST due November 15, 2036
+Benchmark Treasury Price and Yield: | 99-16+ / 5.062%
+Spread to Benchmark Treasury: | +90 basis points
+Re-Offer Yield: | 5.962%
+Make-Whole Call: | Treasury rate plus 15 basis points
+Optional Redemption: | Issuer may redeem at any time in whole or, from time to time in part, at a redemption price equal to the sum of (i) the principal amount being redeemed plus accrued interest thereon to the redemption date and (ii) the
+Make-Whole Amount (as described in the Prospectus), if any; provided, that if the notes are redeemed on or after September 1, 2036 (the date that is three months prior to the maturity date of the notes), the redemption price will not include
+the Make-Whole Amount.
+Net Proceeds Before Expenses: | $397,036,000
+Day Count Convention: | 30 / 360
+Denominations: | $1,000 and integral multiples of $1,000 in excess thereof
+CUSIP / ISIN: | 26884ABU6 / US26884ABU60
+Joint Book-Running Managers: | Morgan Stanley & Co. LLC Wells Fargo
+Securities, LLC BofA Securities, Inc. Goldman
+Sachs & Co. LLC J.P. Morgan Securities LLC Barclays
+Capital Inc. Deutsche Bank Securities Inc. RBC Capital
+Markets, LLC U.S. Bancorp Investments, Inc.
+Senior Co-Managers: | Mizuho Securities USA LLC PNC Capital Markets
+LLC Regions Securities LLC Scotia Capital (USA) Inc. Truist Securities, Inc.
+Co-Managers: | BBVA Securities Inc. BMO Capital Markets
+Corp. BNP Paribas Securities Corp. BNY Mellon Capital
+Markets, LLC Loop Capital Markets LLC Samuel A.
+Ramirez & Company, Inc. TD Securities (USA) LLC
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+The issuer has filed a registration statement including a prospectus and a prospectus supplement
+with the Securities and Exchange Commission (SEC) for the offering to which this communication relates. Before you invest, you should read the prospectus and prospectus supplement in that registration statement and other documents the issuer has
+filed with the SEC for more complete information about the issuer and this offering.
+You may obtain these documents for free by visiting EDGAR on
+the SEC Web site at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus and the prospectus supplement if you request them by calling Morgan Stanley &
+Co. LLC at
+1-866-718-1649,
+Wells Fargo Securities, LLC at
+1-800-645-3751,
+BofA Securities, Inc. at
+1-800-294-1322,
+Goldman Sachs &
+Co. LLC at
+1-866-471-2526,
+or J.P. Morgan Securities LLC collect at
+1-212-834-4533.

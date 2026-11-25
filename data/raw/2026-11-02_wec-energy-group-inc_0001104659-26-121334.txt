@@ -1,0 +1,62 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/783325/000110465926121334/tm2626690d2_fwp.htm
+ISSUER (SEC filer): WEC ENERGY GROUP, INC.
+FILED: 2026-11-02
+========================================
+FWP
+1
+tm2626690d2_fwp.htm
+FWP
+Pricing Term Sheet
+Filed Pursuant to Rule 433(d)
+Registration No. 333-281253
+November 2, 2026
+Issuer: | WEC Energy Group, Inc.
+Trade Date: | November 2, 2026
+Expected Settlement Date: | T+2, November 4, 2026
+Expected Ratings* (Moody’s/S&P/Fitch): | Baa2 (stable) / BBB (stable) / BBB- (stable)
+Joint Book-Running Managers: | Citigroup Global Markets Inc. J.P. Morgan Securities LLC RBC Capital Markets, LLC TD Securities (USA) LLC Wells Fargo Securities, LLC Barclays Capital Inc. BMO Capital Markets Corp. BofA Securities, Inc. Goldman Sachs & Co. LLC KeyBanc Capital Markets Inc. Mizuho Securities USA LLC Morgan Stanley & Co. LLC MUFG Securities Americas Inc. PNC Capital Markets LLC Scotia Capital (USA) Inc. U.S. Bancorp Investments, Inc.
+Co-Managers: | Academy Securities, Inc. Fifth Third Securities, Inc. Guggenheim Securities, LLC Samuel A. Ramirez & Company, Inc.
+Terms Applicable to 6.750% Series 2026A Fixed-to-Fixed
+Reset Rate Junior Subordinated Notes due August 4, 2057 (the “Series 2026A Notes”)
+Principal Amount: | $1,000,000,000
+Maturity: | August 4, 2057
+Coupon: | The Series 2026A Notes will bear interest (i) from and including the date of original issuance to, but excluding, August 4, 2032 (the “Series 2026A First Reset Date”) at an annual rate of 6.750% and (ii) from and including August 4, 2032 during each Series 2026A Interest Reset Period (as defined in the Preliminary Prospectus Supplement) at an annual rate equal to the Five-Year Treasury Rate (as defined in the Preliminary Prospectus Supplement) as of the most recent Series 2026A Reset Interest Determination Date (as defined in the Preliminary Prospectus Supplement), plus a spread of 2.057%; provided, that the interest rate during any Series 2026A Interest Reset Period will not reset below 6.750% (which equals the initial interest rate on the Series 2026A Notes).
+Initial Price to Public: | 100.00% per Note
+Interest Payment Dates: | February 4 and August 4, commencing February 4, 2027
+Optional Interest Deferral: | From time to time, up to 20 consecutive semi-annual interest payment periods for each deferral period
+Optional Redemption: | In whole or in part, on one or more occasions, (i) on any day in the period commencing on the date falling 90 days prior to the Series 2026A First Reset Date and ending on and including the Series 2026A First Reset Date and (ii) after the Series 2026A First Reset Date, on any interest payment date, in each case at 100% of their principal amount, plus any accrued and unpaid interest to, but excluding, the redemption date.
+Tax Event Redemption: | In whole, but not in part, at 100% of the principal amount, plus any accrued and unpaid interest to, but excluding the redemption date
+Tax Credit Event Redemption: | In whole, but not in part, if a Tax Credit Event
+occurs at 101% of the principal amount, plus accrued and unpaid interest to, but excluding the redemption date (any notice of redemption
+may be issued by the later of (a) December 31, 2026 and (b) six months from the date of issuance).
+Rating Agency Event Redemption: | In whole, but not in part, at 102% of the principal amount, plus any accrued and unpaid interest to, but excluding the redemption date
+CUSIP / ISIN: | 92939U AV8 / US92939UAV89
+Terms Applicable to 6.950% Series 2026B Fixed-to-Fixed
+Reset Rate Junior Subordinated Notes due August 4, 2057 (the “Series 2026B Notes”)
+Principal Amount: | $1,000,000,000
+Maturity: | August 4, 2057
+Coupon: | The Series 2026B Notes will bear interest (i) from and including the date of original issuance to, but excluding, August 4, 2037 (the “Series 2026B First Reset Date”) at an annual rate of 6.950% and (ii) from and including August 4, 2037 during each Series 2026B Interest Reset Period (as defined in the Preliminary Prospectus Supplement) at an annual rate equal to the Five-Year Treasury Rate (as defined in the Preliminary Prospectus Supplement) as of the most recent Series 2026B Reset Interest Determination Date (as defined in the Preliminary Prospectus Supplement), plus a spread of 2.060%; provided, that the interest rate during any Series 2026B Interest Reset Period will not reset below 6.950% (which equals the initial interest rate on the Series 2026B Notes).
+Initial Price to Public: | 100.00% per Note
+Interest Payment Dates: | February 4 and August 4, commencing February 4, 2027
+Optional Interest Deferral: | From time to time, up to 20 consecutive semi-annual interest payment periods for each deferral period
+Optional Redemption: | In whole or in part, on one or more occasions, (i) on any day in the period commencing on the date falling 90 days prior to the Series 2026B First Reset Date and ending on and including the Series 2026B First Reset Date and (ii) after the Series 2026B First Reset Date, on any interest payment date, in each case at 100% of their principal amount, plus any accrued and unpaid interest to, but excluding, the redemption date.
+Tax Event Redemption: | In whole, but not in part, at 100% of the principal amount, plus any accrued and unpaid interest to, but excluding the redemption date
+Tax Credit Event Redemption: | In whole, but not in part, if a Tax Credit Event
+occurs at 101% of the principal amount, plus accrued and unpaid interest to, but excluding the redemption date (any notice of redemption
+may be issued by the later of (a) December 31, 2026 and (b) six months from the date of issuance).
+Rating Agency Event Redemption: | In whole, but not in part, at 102% of the principal amount, plus any accrued and unpaid interest to, but excluding the redemption date
+CUSIP / ISIN: | 92939U AW6 / US92939UAW62
+* Note: A securities rating is not a recommendation
+to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+The terms “Five-Year Treasury Rate,”
+“interest payment period,” “Series 2026A Interest Reset Period,” “Series 2026B Interest Reset Period,”
+“Series 2026A Reset Interest Determination Date,” “Series 2026B Reset Interest Determination Date,” “Rating
+Agency Event,” “Tax Event” and “Tax Credit Event” have the meanings ascribed to them in the Issuer’s
+Preliminary Prospectus Supplement dated November 2, 2026.
+The Issuer has filed a registration statement
+(including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus
+in that registration statement and other documents the Issuer has filed with the SEC for more complete information about the Issuer and
+this offering. You may get these documents for free by visiting EDGAR on the SEC web site at www.sec.gov. Alternatively, the Issuer, any
+underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by contacting Citigroup
+Global Markets Inc. toll-free at (800) 831-9146, J.P. Morgan Securities LLC collect at (212) 834-4533, RBC Capital Markets, LLC toll-free
+at (866) 375-6829, TD Securities (USA) LLC toll-free at (855) 495-9846 or Wells Fargo Securities, LLC toll-free at (800) 645-3751.

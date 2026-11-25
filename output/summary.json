@@ -1,52 +1,56 @@
 {
-  "window_start": "2026-08-20",
-  "window_end": "2026-10-29",
-  "deals": 80,
-  "bonds": 166,
-  "total_usd_bn": 153.5,
-  "avg_deal_usd_m": 1918.0,
-  "avg_bonds_per_deal": 2.1,
+  "window_start": "2026-09-01",
+  "window_end": "2026-11-24",
+  "deals": 145,
+  "bonds": 319,
+  "total_usd_bn": 293.5,
+  "avg_deal_usd_m": 2024.0,
+  "avg_bonds_per_deal": 2.2,
   "volume_by_currency_usd_bn": {
-    "EUR": 11.2,
+    "CAD": 4.7,
+    "EUR": 39.9,
     "GBP": 6.7,
-    "USD": 135.6
+    "JPY": 1.9,
+    "USD": 240.4
   },
   "volume_by_grade_usd_bn": {
-    "HY": 4.3,
-    "IG": 133.1,
-    "Unrated": 16.0
+    "HY": 4.8,
+    "IG": 253.9,
+    "Unrated": 34.8
   },
   "volume_by_sector_usd_bn": {
-    "Financials": 57.2,
-    "Technology": 42.2,
-    "Consumer": 16.7,
-    "Industrials": 14.3,
-    "Healthcare": 7.4,
-    "Utilities": 6.1,
-    "Energy": 4.9,
-    "Government & Agency": 2.8,
-    "Real Estate": 1.0,
-    "Telecoms & Media": 1.0
+    "Technology": 106.0,
+    "Financials": 68.1,
+    "Industrials": 33.4,
+    "Healthcare": 24.2,
+    "Consumer": 18.1,
+    "Utilities": 17.7,
+    "Telecoms & Media": 9.4,
+    "Energy": 9.1,
+    "Government & Agency": 4.2,
+    "Real Estate": 1.8,
+    "Government &amp; Agency": 1.4
   },
   "median_senior_ig_spread_by_tenor_bps": {
-    "1-3y": 63.0,
-    "10y": 102.0,
-    "20y": 96.0,
-    "30y+": 100.0,
-    "5y": 85.0,
-    "7y": 85.0
+    "1-3y": 62.0,
+    "10y": 100.0,
+    "20y": 154.0,
+    "30y+": 102.0,
+    "5y": 80.0,
+    "7y": 88.0
   },
   "median_spread_by_rating_bps": {
-    "A": 71.0,
-    "A+": 73.0,
-    "A-": 70.0,
-    "AA-": 50.0,
+    "A": 76.0,
+    "A+": 69.0,
+    "A-": 81.0,
+    "AA+": 35.0,
+    "AA-": 68.0,
     "AAA": 60.0,
-    "BB": 254.0,
+    "BB": 255.0,
     "BB+": 220.0,
-    "BBB": 98.0,
+    "BBB": 102.0,
     "BBB+": 98.0,
-    "BBB-": 187.0
+    "BBB-": 145.0
   },
   "largest_deals": [
     {
@@ -56,55 +60,55 @@
       "usd_bn": 25.0
     },
     {
+      "issuer": "Meta Platforms, Inc.",
+      "trade_date": "2026-11-03",
+      "bonds": 5,
+      "usd_bn": 15.0
+    },
+    {
       "issuer": "Aon North America, Inc. and Aon Global Holdings plc",
       "trade_date": "2026-09-14",
       "bonds": 7,
       "usd_bn": 13.5
     },
     {
-      "issuer": "JPMorgan Chase & Co.",
-      "trade_date": "2026-10-13",
-      "bonds": 3,
-      "usd_bn": 7.0
-    },
-    {
-      "issuer": "GlaxoSmithKline Capital Inc.",
-      "trade_date": "2026-09-08",
+      "issuer": "Meta Platforms, Inc.",
+      "trade_date": "2026-11-04",
       "bonds": 6,
-      "usd_bn": 6.5
+      "usd_bn": 10.32
     },
     {
-      "issuer": "Amazon.com, Inc.",
-      "trade_date": "2026-09-09",
-      "bonds": 4,
-      "usd_bn": 5.68
+      "issuer": "Oracle Corporation",
+      "trade_date": "2026-11-02",
+      "bonds": 5,
+      "usd_bn": 10.0
     }
   ],
   "top_bookrunners": [
     {
-      "bank": "J.P. Morgan",
-      "deals": 42,
-      "credited_usd_m": 19150.0
-    },
-    {
-      "bank": "HSBC",
-      "deals": 13,
-      "credited_usd_m": 12973.0
-    },
-    {
       "bank": "Citigroup",
-      "deals": 33,
-      "credited_usd_m": 12212.0
+      "deals": 68,
+      "credited_usd_m": 34163.0
     },
     {
-      "bank": "Barclays",
-      "deals": 21,
-      "credited_usd_m": 11818.0
+      "bank": "Morgan Stanley",
+      "deals": 57,
+      "credited_usd_m": 32070.0
+    },
+    {
+      "bank": "J.P. Morgan",
+      "deals": 77,
+      "credited_usd_m": 29557.0
     },
     {
       "bank": "BofA Securities",
-      "deals": 40,
-      "credited_usd_m": 11558.0
+      "deals": 81,
+      "credited_usd_m": 20845.0
+    },
+    {
+      "bank": "HSBC",
+      "deals": 28,
+      "credited_usd_m": 19505.0
     }
   ]
 }

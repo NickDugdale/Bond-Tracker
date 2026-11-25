@@ -1,0 +1,58 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/40211/000119312526443892/d105661dfwp.htm
+ISSUER (SEC filer): GATX CORP
+FILED: 2026-11-02
+========================================
+FWP
+1
+d105661dfwp.htm
+FWP
+FWP
+Pursuant to Rule 433
+Registration
+No. 333-286436
+November 2, 2026
+GATX
+Corporation
+PRICING TERM SHEET
+November 2, 2026
+Issuer: | GATX Corporation
+Pricing Date: | November 2, 2026
+Expected Settlement Date*: | November 6, 2026 (T+4)
+Expected Ratings**: | Moody’s: Baa1 (Stable) / S&P: BBB (Stable) / Fitch: BBB+ (Stable)
+Security: | 5.950% Senior Notes due 2036
+Size: | $300,000,000
+Maturity Date: | November 15, 2036
+Coupon: | 5.950%
+Interest Payment Dates: | May 15 and November 15, beginning May 15, 2027
+Benchmark Treasury: | UST 4.625% due August 15, 2036
+Benchmark Treasury Price and Yield: | 98-01+ / 4.878%
+Spread to Benchmark Treasury: | +110 basis points
+Re-Offer Yield: | 5.978%
+Price to Investors: | 99.789%
+Redemption: | At any time prior to August 15, 2036 (3 months prior to the maturity date) (the “Par Call Date”), at a redemption price
+equal to the greater of (1) 100% of the aggregate principal amount of the notes to be redeemed; or (2)(a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date
+(assuming the notes matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 20 basis
+points less (b) interest accrued to the date of redemption; plus, in either case, accrued and unpaid interest on the notes being redeemed to, but excluding, the redemption date. At any time on or after the Par Call Date, the issuer may redeem the notes at a redemption price equal to 100% of the principal amount of notes being redeemed
+plus accrued and unpaid interest thereon to, but excluding, the redemption date.
+CUSIP/ISIN: | 361448BV4 / US361448BV40
+Joint Book-Running Managers: | BofA Securities, Inc. Citigroup Global Markets
+Inc. Morgan Stanley & Co. LLC PNC Capital Markets
+LLC
+Senior Co-Managers: | BMO Capital Markets Corp. CIBC World Markets Corp. KeyBanc Capital Markets Inc. U.S. Bancorp Investments, Inc. M&T Securities, Inc.
+Co-Managers: | Huntington Securities, Inc. Regions Securities LLC Loop Capital Markets LLC Siebert Williams Shank & Co., LLC MUFG Securities Americas Inc.
+* | We expect to deliver the Securities on or about November 6, 2026, which will be the fourth business day
+following the date of this term sheet (“T+4”). Under Rule 15c6-1 under the Exchange Act, trades in the secondary market generally are required to settle in one business day, unless the parties to
+any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Securities on any day other than the business day preceding the settlement date may be required, by virtue of the fact that the Securities initially will settle
+in T+4, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement and should consult their own advisors.
+** | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+The issuer has filed a registration statement (including a prospectus and a prospectus
+supplement) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus and prospectus supplement in that registration statement and other documents the issuer has filed with the SEC for more
+complete information about the issuer and this offering.
+You may get these documents for free by visiting EDGAR on the SEC Web site at
+www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus and the prospectus supplement if you request it by calling BofA Securities, Inc. toll-free at
+1-800-294-1322,
+Citigroup Global Markets Inc. toll-free at
+1-800-831-9146,
+or Morgan Stanley & Co. LLC at
+1-866-718-1649.

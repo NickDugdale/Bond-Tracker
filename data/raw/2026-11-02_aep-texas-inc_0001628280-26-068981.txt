@@ -1,0 +1,41 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1721781/000162828026068981/aeptexas10-2026fwp.htm
+ISSUER (SEC filer): AEP Texas Inc.
+FILED: 2026-11-02
+========================================
+FWP
+1
+aeptexas10-2026fwp.htm
+FWP
+Document
+Filed pursuant to Rule 433
+Registration No. 333-279418
+November 2, 2026
+PRICING TERM SHEET
+Issuer: | AEP Texas Inc.
+Expected Ratings*: | Baa3 (stable) by Moody’s Investors Service, Inc. BBB+ (stable) by S&P Global Ratings, a division of S&P Global Inc. BBB+ (negative) by Fitch Ratings, Inc.
+Transaction Date: | November 2, 2026
+Settlement Date: | November 4, 2026 (T+2)
+Designation: | Senior Notes, Series R, due 2037
+Principal Amount: | $650,000,000
+Maturity: | January 15, 2037
+Coupon: | 5.95%
+Interest Payment Dates: | January 15 and July 15
+First Interest Payment Date: | July 15, 2027
+Treasury Benchmark: | 4.625% due August 15, 2036
+Treasury Yield: | 4.898%
+Reoffer Spread: | T+110 basis points
+Reoffer Yield: | 5.998%
+Price to Public: | 99.614% of the principal amount thereof
+Redemption Terms:
+Make-whole call: | Prior to October 15, 2036 at a discount rate of the Treasury Rate plus 20 basis points
+Par call: | On or after October 15, 2036 at par
+Tax Credit Event Redemption: | In whole but not in part at a redemption price equal to 101% of the principal amount of the Senior Notes being redeemed, plus unpaid interest accrued to, but excluding, the redemption date (notice of redemption may be issued six months from the date of issuance of the Senior Notes)
+CUSIP/ISIN: | 00108W AW0 / US00108WAW01
+Minimum Denomination: | $2,000 and integral multiples of $1,000 in excess thereof
+Joint Book-Running Managers: | CIBC World Markets Corp. MUFG Securities Americas Inc. PNC Capital Markets LLC
+Co-Managers: | Citizens JMP Securities, LLC Fifth Third Securities, Inc. FNB America Securities LLC Regions Securities LLC Santander US Capital Markets LLC
+*Note:
+A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+Under Rule 15c6-1 under the 1934 Act, trades in the secondary market generally are required to settle in one business day, unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Senior Notes prior to the first business day before delivery of the Senior Notes will be required to specify, by virtue of the fact that the Senior Notes initially settle in T+2, on November 4, 2026, to specify alternative settlement arrangements to prevent a failed settlement.
+The issuer has filed a registration statement (including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will
+arrange to send you the prospectus if you request it by contacting CIBC World Markets Corp. toll-free at (800) 282-0822, MUFG Securities Americas Inc. toll-free at (877) 649-6848 or PNC Capital Markets LLC toll free at (855) 881-0697.

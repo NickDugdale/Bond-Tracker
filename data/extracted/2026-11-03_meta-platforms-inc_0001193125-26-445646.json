@@ -1,0 +1,97 @@
+{
+  "source_file": "2026-11-03_meta-platforms-inc_0001193125-26-445646.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:09:54",
+  "usage": {
+    "input_tokens": 4366,
+    "output_tokens": 1159
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "Meta Platforms, Inc.",
+    "sector": "Technology",
+    "trade_date": "2026-11-03",
+    "settlement_date": "2026-11-05",
+    "rating_moodys": "Aa3",
+    "rating_sp": "AA-",
+    "rating_fitch": null,
+    "bookrunners": [
+      "Citigroup Global Markets Inc.",
+      "Morgan Stanley & Co. LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 3250000000,
+        "coupon_pct": 5.85,
+        "coupon_type": "fixed",
+        "maturity_date": "2031-11-15",
+        "first_call_date": "2031-10-15",
+        "benchmark": "UST 4.750% due October 31, 2031",
+        "spread_bps": 110,
+        "yield_pct": 5.85,
+        "issue_price_pct": 99.998,
+        "seniority": "senior unsecured",
+        "pricing_quote": "T + 110 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 3250000000,
+        "coupon_pct": 6.25,
+        "coupon_type": "fixed",
+        "maturity_date": "2033-11-15",
+        "first_call_date": "2033-09-15",
+        "benchmark": "UST 4.875% due October 31, 2033",
+        "spread_bps": 145,
+        "yield_pct": 6.289,
+        "issue_price_pct": 99.778,
+        "seniority": "senior unsecured",
+        "pricing_quote": "T + 145 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 4000000000,
+        "coupon_pct": 6.55,
+        "coupon_type": "fixed",
+        "maturity_date": "2036-11-15",
+        "first_call_date": "2036-08-15",
+        "benchmark": "UST 4.625% due August 15, 2036",
+        "spread_bps": 160,
+        "yield_pct": 6.552,
+        "issue_price_pct": 99.982,
+        "seniority": "senior unsecured",
+        "pricing_quote": "T + 160 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 1750000000,
+        "coupon_pct": 7.35,
+        "coupon_type": "fixed",
+        "maturity_date": "2046-11-15",
+        "first_call_date": "2046-05-15",
+        "benchmark": "UST 5.125% due August 15, 2046",
+        "spread_bps": 200,
+        "yield_pct": 7.359,
+        "issue_price_pct": 99.903,
+        "seniority": "senior unsecured",
+        "pricing_quote": "T + 200 basis points"
+      },
+      {
+        "currency": "USD",
+        "principal_amount": 2750000000,
+        "coupon_pct": 7.5,
+        "coupon_type": "fixed",
+        "maturity_date": "2056-11-15",
+        "first_call_date": "2056-05-15",
+        "benchmark": "UST 5.000% due May 15, 2056",
+        "spread_bps": 220,
+        "yield_pct": 7.531,
+        "issue_price_pct": 99.629,
+        "seniority": "senior unsecured",
+        "pricing_quote": "T + 220 basis points"
+      }
+    ]
+  }
+}

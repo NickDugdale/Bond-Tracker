@@ -1,0 +1,108 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1916620/000119312526465552/d166172dfwp.htm
+ISSUER (SEC filer): NXP USA, Inc.
+FILED: 2026-11-17
+========================================
+FWP
+1
+d166172dfwp.htm
+FWP
+FWP
+Filed pursuant to Rule 433
+Registration
+No. 333-289512
+Issuer Free Writing Prospectus dated November 17, 2026
+Relating to Preliminary Prospectus Supplement dated November 17, 2026
+NXP B.V.
+NXP FUNDING
+LLC
+NXP USA, INC.
+PRICING TERM SHEET
+November 17, 2026
+€500,000,000 4.625% Senior Notes due 2034
+€500,000,000 4.875% Senior Notes due 2037
+Issuers: | NXP B.V., NXP Funding LLC and NXP USA, Inc. (collectively, the “Issuers” or “we”)
+Guarantor: | The Notes will be guaranteed by NXP Semiconductors N.V., the holding company of NXP B.V.
+Legal Entity Identifier (LEI) Code: | NXP B.V.: 724500RKKW4NOJ9YQF60 NXP Funding LLC: 636700JXX4VD467W1E78 NXP USA, Inc.: 636700I1LDI18XJR7A89 NXP Semiconductors N.V.: 724500M9BY5293JDF951
+Expected Issue Ratings (Moody’s/S&P/Fitch)*: | Moody’s: Baa2; S&P: BBB+; Fitch: BBB+
+Offering Format: | SEC Registered
+Notes: | 4.625% Senior Notes due 2034 (the “2034 Notes”) 4.875% Senior Notes due 2037 (the “2037 Notes”)
+Trade Date: | November 17, 2026
+Settlement Date**: | November 24, 2026 (T+5)
+Size: | 2034 Notes: €500,000,000 2037 Notes:
+€500,000,000
+Price to Public: | 2034 Notes: 99.995% 2037 Notes:
+99.292%
+Maturity: | 2034 Notes: February 24, 2034 2037 Notes:
+November 24, 2037
+Coupon (Interest Rate): | 2034 Notes: 4.625% 2037 Notes:
+4.875%
+Yield to Maturity: | 2034 Notes: 4.629% 2037 Notes:
+4.960%
+Spread to Benchmark Bund: | 2034 Notes: +132.4 basis points 2037 Notes:
++155.6 basis points
+Benchmark Bund: | 2034 Notes: DBR 2.200% due February 15, 2034 2037 Notes: DBR 4.000% due January 4, 2037
+Benchmark Bund Price and Yield: | 2034 Notes: 92.980% / 3.305% 2037 Notes:
+105.030% / 3.404%
+Mid-Swap Yield: | 2034 Notes: 3.409% 2037 Notes:
+3.460%
+Spread to Mid-Swap Yield | 2034 Notes: +122 basis points 2037 Notes: +150
+basis points
+Interest Payment Dates: | 2034 Notes: Annually in arrears on February 24 of each year, commencing on February 24, 2027 2037 Notes: Annually in arrears on November 24 of each year, commencing on November 24, 2027
+Par Call: | 2034 Notes: On or after November 24, 2033 2037 Notes: On or after August 24, 2037
+Optional Redemption: | The 2034 Notes will be redeemable, at the Issuers’ option, in whole or in part from settlement until November 24, 2033 (the date
+that is three months prior to the scheduled maturity date), at a redemption price equal to the greater of (i) 100% of the principal amount of the 2034 Notes to be redeemed and (ii) (a) the sum of the present values of the remaining scheduled
+payments of principal and interest thereon discounted to the redemption date on an annual (ACTUAL/ACTUAL (ICMA)) basis at a rate equal to the Comparable Government Bond Rate plus 20 basis points, less (b) interest accrued but not paid to, but
+excluding, the redemption date, plus, in the case of each of (i) and (ii), accrued and unpaid interest on the 2034 Notes to be redeemed to, but excluding, the date of redemption. The 2037 Notes will be redeemable, at the Issuers’ option, in whole or in part
+from settlement until August 24, 2037 (the date that is three months prior to the scheduled maturity date), at a redemption price equal to the greater of (i) 100% of the principal amount of the 2037 Notes to be redeemed and (ii) (a) the
+sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date on an annual (ACTUAL/ACTUAL (ICMA)) basis at a rate equal to the Comparable Government Bond Rate plus 25 basis points,
+less (b) interest accrued but not paid to, but excluding, the redemption date, plus, in the case of each of (i) and (ii), accrued and unpaid interest on the 2037 Notes to be redeemed to, but excluding, the date of redemption.
+2
+Net Proceeds to Issuer before Expenses: | 2034 Notes: €497,975,000 2037 Notes:
+€494,460,000
+CUSIP / ISIN / Common Code: | 2034 Notes: 62954HBJ6 / XS3575547644 / 357554764 2037 Notes: 62954HBK3 / XS3576683950 / 357668395
+Denominations: | €100,000 and integral multiples of €1,000 in excess thereof
+Day Count Convention: | ACTUAL/ACTUAL (ICMA)
+Listing: | Application will be made to list the Notes on the Nasdaq Bond Exchange
+Stabilization: | FCA/ICMA
+Target Markets/PRIIPs: | UK MiFIR Product Governance Rules professionals/ECPs-only / No EEA PRIIPs KID or UK PRIIPs KID – Manufacturer target market (UK MiFIR Product Governance Rules) is eligible counterparties and professional clients only (all
+distribution channels). No EEA PRIIPs or UK PRIIPs key information document (KID) has been prepared as not available to retail investors in the European Economic Area or the United Kingdom.
+Book-Running Managers: | BNP PARIBAS Coöperatieve Rabobank U.A. Crédit Agricole Corporate and Investment Bank Deutsche
+Bank Aktiengesellschaft SMBC Bank EU AG
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+** | Note: We expect that delivery of the Notes will be made against payment therefor on or about
+November 24, 2026, which will be the fifth business day following the date of the pricing of the Notes (this settlement cycle being referred to as “T+5”). Under Rule 15c6-1 under the Exchange
+Act, trades in the secondary market generally are required to settle in two business days, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes prior to the second business day before
+delivery will be required, by virtue of the fact that the Notes initially will settle in T+5, to specify an alternate settlement arrangement at the time of any such trade to prevent a failed settlement. Purchasers who wish to trade the Notes prior
+to two business days before delivery should consult their own advisors.
+This communication should be read in
+conjunction with the preliminary prospectus supplement and the accompanying base prospectus. The information in this communication supersedes the information in the preliminary prospectus supplement and the accompanying base prospectus to the extent
+inconsistent with the information in the preliminary prospectus supplement and the accompanying base prospectus.
+3
+No prospectus is required, in any member state of the European Economic Area, in
+accordance with Regulation (EU) 2017 / 1129. The Notes are being offered pursuant to an exception from the prohibition of offers of transferrable securities to the public under the Public Offers and Admissions to Trading Regulations 2024.
+No PRIIPs KID / UK CCI– No PRIIPs key information document (KID) / CCI disclosure document has been prepared as not available to
+retail in the EEA or UK.
+MiFID II / UK MiFIR product governance / Professional investors and ECPs only target market. Manufacturer
+target market (MiFID II / UK MiFIR product governance) is eligible counterparties and professional clients only (all distribution channels).
+This Pricing Term Sheet is only for distribution to and directed at: (i) in the United Kingdom, persons having professional experience
+in matters relating to investments falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (as amended) (the “Order”) and high net worth entities falling within Article 49(2)(a) to
+(d) of the Order; (ii) persons who are outside the United Kingdom; and (iii) any other person to whom it can otherwise be lawfully distributed (all such persons together being referred to as “Relevant Persons”). Any
+investment or investment activity to which this Pricing Term Sheet relates is available only to and will be engaged in only with Relevant Persons, and any person who is not a Relevant Person should not rely on it.
+PROHIBITION OF SALES TO UNITED KINGDOM RETAIL INVESTORS
+The Notes are not intended to be offered, sold, distributed or otherwise made available to and should not be offered, sold distributed or
+otherwise made available to any retail investor in the United Kingdom. For these purposes, a retail investor means a person who is not a professional client, as defined in point (8) of Article 2(1) of Regulation (EU) No 600/2014 as it forms
+part of domestic law of the United Kingdom by virtue of the European Union (Withdrawal) Act 2018 (“EUWA”). Consequently no disclosure document required by the FCA Product Disclosure Sourcebook (“DISC”) for offering, selling
+or distributing the Notes or otherwise making them available to retail investors in the UK has been prepared and therefore offering, selling or distributing the Notes or otherwise making them available to any retail investor in the Uk may be
+unlawful under the DISC and the Consumer Composite Investments (Designated Activities) Regulations 2024, as applicable.
+Relevant
+stabilization regulations including FCA/ICMA will apply.
+The Issuers and Guarantor have filed a registration statement (including
+a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents that have been filed with the SEC that are incorporated by
+reference in the prospectus for more complete information about the Issuers and this offering. You may get these documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, the Issuers, the Guarantor, any underwriter or
+any dealer participating in the offering will arrange to send you the prospectus if you request it by calling BNP PARIBAS at +44 (0)20 7595 8222, Coöperatieve Rabobank U.A. at +31 30 712 1591, Crédit Agricole Corporate and Investment
+Bank at +1 866 807 6030, Deutsche Bank Aktiengesellschaftat +49 69 910 30725 and SMBC Bank EU AG at +49 69 2222 9 8200.
+4
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND
+SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER SYSTEM.
+5

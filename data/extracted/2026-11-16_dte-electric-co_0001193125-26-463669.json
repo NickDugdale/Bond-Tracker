@@ -1,0 +1,43 @@
+{
+  "source_file": "2026-11-16_dte-electric-co_0001193125-26-463669.txt",
+  "model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-11-25T19:13:27",
+  "usage": {
+    "input_tokens": 3601,
+    "output_tokens": 475
+  },
+  "data": {
+    "is_bond_pricing": true,
+    "not_bond_reason": null,
+    "issuer": "DTE Electric Company",
+    "sector": "Utilities",
+    "trade_date": "2026-11-16",
+    "settlement_date": "2026-11-24",
+    "rating_moodys": "Aa3",
+    "rating_sp": "A",
+    "rating_fitch": "A+",
+    "bookrunners": [
+      "BMO Capital Markets Corp.",
+      "BNY Mellon Capital Markets, LLC",
+      "Scotia Capital (USA) Inc.",
+      "TD Securities (USA) LLC"
+    ],
+    "use_of_proceeds": null,
+    "tranches": [
+      {
+        "currency": "USD",
+        "principal_amount": 500000000,
+        "coupon_pct": 5.3,
+        "coupon_type": "fixed",
+        "maturity_date": "2029-12-01",
+        "first_call_date": "2029-11-01",
+        "benchmark": "UST 4.625% due November 15, 2029",
+        "spread_bps": 47,
+        "yield_pct": 5.339,
+        "issue_price_pct": 99.891,
+        "seniority": "senior secured",
+        "pricing_quote": "Spread to Benchmark Treasury: +47 bps"
+      }
+    ]
+  }
+}

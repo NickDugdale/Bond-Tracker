@@ -1,0 +1,80 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1037868/000110465926128545/tm2629569d9_fwp.htm
+ISSUER (SEC filer): AMETEK INC/
+FILED: 2026-11-16
+========================================
+FWP
+1
+tm2629569d9_fwp.htm
+FWP
+Filed Pursuant to Rule 433
+Registration Statement File No. 333-299964
+Issuer Free Writing Prospectus dated November
+16, 2026
+Relating to Preliminary Prospectus Supplement
+dated November 12, 2026
+AMETEK, INC.
+€750,000,000 4.150% Senior Notes due 2030
+€750,000,000 4.450% Senior Notes due 2034
+Pricing Term Sheet
+This free writing prospectus relates only to the
+securities described below and should be read together with AMETEK, Inc.’s preliminary prospectus supplement dated November 12,
+2026 (the “Preliminary Prospectus Supplement”), the accompanying prospectus dated November 10, 2026 and the documents incorporated
+and deemed to be incorporated by reference therein.
+Issuer: | AMETEK, Inc.
+Title of Securities: | 4.150% Senior Notes due 2030 (the “2030 Notes”) 4.450% Senior Notes due 2034 (the “2034 Notes”, together with the 2030 Notes, the “Notes”)
+Principal Amount: | 2030 Notes: €750,000,000 2034 Notes: €750,000,000
+Maturity: | 2030 Notes: November 20, 2030 2034 Notes: November 20, 2034
+Coupon (Interest Rate): | 2030 Notes: 4.150% 2034 Notes: 4.450%
+Issue Price (Price to Public): | 2030 Notes: 99.920% of principal amount 2034 Notes: 99.888% of principal amount
+Mid-Swap Benchmark Rate: | 2030 Notes: 3.422% 2034 Notes: 3.417%
+Spread to Mid-Swap Benchmark: | 2030 Notes: 75 basis points 2034 Notes: 105 basis points
+Government Benchmark: | 2030 Notes: OBL 2.20% due October 10, 2030 #192 2034 Notes: DBR 2.60% due August 15, 2034
+Re-offer Spread vs. Government Benchmark: | 2030 Notes: +95.9 basis points 2034 Notes: +115 basis points
+Government Benchmark Price and Yield: | 2030 Notes: 96.345; 3.213% 2034 Notes: 95.165; 3.317%
+Re-Offer Yield | 2030 Notes: 4.172% 2034 Notes: 4.467%
+Interest Payment Dates: | 2030 Notes: November 20, commencing November 20, 2027 2034 Notes: November 20, commencing November 20, 2027
+Optional Redemption Provisions: | 2030 Notes: Comparable Government Bond Rate plus 15 basis points prior to October 20, 2030 (the date that is one month prior to the scheduled maturity date of the Notes).
+At any time on or after October 20, 2030 (the date that is one month prior to the scheduled maturity date of the Notes), we may redeem the Notes at par. Accrued and unpaid interest, if any, will be paid up to, but excluding, the optional redemption date.
+2034 Notes: Comparable Government Bond Rate plus 20 basis points prior to August 20, 2034 (the date that is three months prior to the scheduled maturity date of the Notes).
+At any time on or after August 20, 2034 (the date that is three months prior to the scheduled maturity date of the Notes), we may redeem the Notes at par. Accrued and unpaid interest, if any, will be paid up to, but excluding, the optional redemption date.
+Redemption for Tax Reasons: | As described in the Preliminary Prospectus Supplement dated November 12, 2026.
+Change of Control Offer: | As described in the Preliminary Prospectus Supplement dated November 12, 2026.
+Legal Format: | SEC-registered
+Trade Date: | November 16, 2026
+Settlement Date: | T+4; November 20, 2026
+Joint Book-Running Managers: | Merrill Lynch International J.P. Morgan Securities plc Wells Fargo Securities International Limited BNP Paribas Securities Corp. Commerzbank Aktiengesellschaft NatWest Markets Plc PNC Capital Markets LLC Truist Securities, Inc. U.S. Bancorp Investments, Inc.
+Co-Manager: | Scotiabank (Ireland) Designated Activity Company
+CUSIPs: | 2030 Notes: 031100AG5 2034 Notes: 031100AH3
+ISINs: | 2030 Notes: XS3575445484 2034 Notes: XS3575445997
+Common Codes: | 2030 Notes: 357544548 2034 Notes: 357544599
+Legal Entity Identifier: | 549300WZDEF9KKE40E98
+Listing: | The Issuer intends to apply to list the Notes on the New York Stock Exchange.
+Day Count Conventions: | 2030 Notes: ACTUAL/ACTUAL (ICMA) 2034 Notes: ACTUAL/ACTUAL (ICMA)
+Denominations: | €100,000 and integral multiples of €1,000 in excess thereof
+Issuer Ratings (Moody’s / S&P): | A3 (Stable outlook) / BBB+ (Positive outlook)
+Expected Ratings (Moody’s / S&P)*: | A3 / BBB+
+The underwriters expect to deliver the securities to purchasers
+on or about November 20, 2026, which will be the fourth business day following the date of pricing of the securities (such settlement
+cycle being herein referred to as “T+4”). Under Rule 15c6-1 of the Securities Exchange Act of 1934, as amended, trades in
+the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise.
+Accordingly, purchasers who wish to trade the securities prior to the business day before the delivery of the securities will be required,
+by virtue of the fact that the securities initially will settle in T+4, to specify an alternate settlement cycle at the time of any such
+trade to prevent a failed settlement. Purchasers of the securities who wish to trade the securities prior to the business day before the
+delivery of the securities should consult their own advisor.
+MIFID II AND UK MIFIR PRODUCT GOVERNANCE / PROFESSIONAL INVESTORS
+AND ELIGIBLE COUNTERPARTIES ONLY TARGET MARKET / NO PRIIPs KID OR DISC DISCLOSURE DOCUMENT / EXEMPTION UNDER THE POATRs — Manufacturer
+target market is eligible counterparties and professional clients only (all distribution channels). No key information document (“KID”)
+under Regulation (EU) No. 1286/2014 (as amended, the “PRIIPs Regulation”) or disclosure document required by the FCA Product
+Disclosure Sourcebook (“DISC”) has been prepared as the Notes are not available to retail investors in the European Economic
+Area (the “EEA”) or the United Kingdom (“UK”).
+The issuer has filed a registration statement (including a prospectus)
+with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration
+statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You
+may get these documents for free by visiting EDGAR on the SEC’s website at www.sec.gov.
+Alternatively, the issuer, any underwriter or any dealer participating
+in the offering will arrange to send you the prospectus if you request it by calling Merrill Lynch International toll-free at +1-800-294-1322,
+J.P. Morgan Securities plc toll-free at +44-207-134-2468 (for non-U.S. investors) or J.P. Morgan Securities LLC (collect) at +1-212-834-4533
+(for U.S. investors), Wells Fargo Securities International Limited toll-free at +44-(0)-203-942-8535 and BNP Paribas Securities Corp.
+toll-free at +44-(0)-207-595-8222.
+*
+A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.

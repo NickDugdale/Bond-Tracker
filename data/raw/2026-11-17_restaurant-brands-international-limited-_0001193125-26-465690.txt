@@ -1,0 +1,83 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1618755/000119312526465690/d183362dfwp.htm
+ISSUER (SEC filer): Restaurant Brands International Limited Partnership
+FILED: 2026-11-17
+========================================
+FWP
+1
+d183362dfwp.htm
+FWP
+FWP
+Free Writing Prospectus (To the
+Preliminary Prospectus Supplement dated November 16, 2026) | Filed Pursuant to Rule 433 under the Securities Act Registration Statement File No. 333-300072
+Pricing Term Sheet
+1011778 B.C. Unlimited Liability Company
+New Red Finance, Inc.
+guaranteed by
+Restaurant
+Brands International Inc.
+Restaurant Brands International Limited Partnership
+and
+Certain subsidiaries
+of Restaurant Brands International Limited Partnership
+$500,000,000 6.000% Senior Secured Notes due 2031
+$500,000,000 6.400% Senior Secured Notes due 2036
+This pricing term sheet supplements, and should be read in conjunction with, the Issuers’ and the Guarantors’ preliminary prospectus supplement
+filed with the United States Securities and Exchange Commission (the “SEC”) on November 16, 2026 (the “Preliminary Prospectus Supplement”) which supplemented the base prospectus dated November 16, 2026. Capitalized
+terms used but not defined herein have the meaning set forth in the prospectus. The information in this pricing term sheet supplements the prospectus and updates and supersedes the information in the Preliminary Prospectus Supplement to the extent
+inconsistent with the information therein. Terms used but not defined herein have the meanings assigned in the Preliminary Prospectus Supplement.
+Pricing Term Sheet
+November 17, 2026
+Issuers: | 1011778 B.C. Unlimited Liability Company and New Red Finance, Inc.
+Title of Security: | 6.000% Senior Secured Notes due 2031 (the “2031 Notes”) | 6.400% Senior Secured Notes due 2036 (the “2036 Notes”)
+Expected Ratings (Moody’s/ S&P / Fitch)*: | Ba1/BBB-/BBB-
+Trade Date: | November 17, 2026
+Settlement Date**: | November 24, 2026 (T+5)
+Aggregate Principal Amount to Be Issued: | $500,000,000 | $500,000,000
+Maturity Date: | November 15, 2031 | November 15, 2036
+Coupon: | 6.000% | 6.400%
+Benchmark Treasury: | 4.750% due October 31, 2031 | 5.000% due November 15, 2036
+Benchmark Treasury Price and Yield: | 99-10 1 ⁄ 4 ; 4.906% | 99-06; 5.105%
+Spread to Benchmark Treasury: | T+115 basis points | T +140 basis points
+Yield to Maturity: | 6.056% | 6.505%
+Issue Price: | 99.765% of principal amount | 99.241% of principal amount
+Interest Payment Dates: | Semi-annually in arrears on May 15 and November 15, commencing May 15, 2027 | Semi-annually in arrears on May 15 and November 15, commencing May 15, 2027
+Regular Record Dates | May 1 and November 1 | May 1 and November 1
+Optional Redemption: | At any time and from time to time prior to October 15, 2031 (one month prior to the maturity date) (the “2031 Notes Par Call Date”), the Issuers may redeem the 2031 Notes, in whole or in part, at a redemption price
+equal to the greater of (1)(a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the notes matured on the 2031 Notes Par Call Date) on a semi-annual basis
+(assuming a 360-day year consisting of twelve 30-day months) at the applicable Treasury Rate plus 20 basis points less (b) interest accrued to the date of
+redemption, and (2) 100% of the principal amount of the notes to be redeemed on such redemption date, plus, in each case, accrued and unpaid interest, if any, thereon to, but excluding, the redemption date. | At any time and from time to time prior to August 15, 2036 (three months prior to the maturity date) (the “2036 Notes Par Call Date”), the Issuers may redeem the 2036 Notes, in whole or in part, at a redemption
+price equal to the greater of (1)(a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the notes matured on the 2036 Notes Par Call Date) on a semi-annual
+basis (assuming a 360-day year consisting of twelve 30-day months) at the applicable Treasury Rate plus 25 basis points less (b) interest accrued to the date
+of redemption, and (2) 100% of the principal amount of the notes to be redeemed on such redemption date, plus, in each case, accrued and unpaid interest, if any, thereon to, but excluding, the redemption date.
+At any time and from time to time, on or after the 2031 Notes Par Call Date, the Issuers may redeem the 2031 Notes, in whole or in part, at a redemption price of 100% of the principal amount of the 2031 Notes being redeemed, plus
+accrued and unpaid interest, if any, thereon to, but excluding, the redemption date. | At any time and from time to time, in whole or in part, on or after the 2036 Notes Par Call Date, the Issuers may redeem the 2036 Notes, in whole or in part, at a redemption price of 100% of the principal amount of the 2036 Notes
+being redeemed, plus accrued and unpaid interest, if any, thereon to, but excluding, the redemption date.
+CUSIP: | 68245XAV1 | 68245XAW9
+ISIN: | US68245XAV10 | US68245XAW92
+Joint Book-Running Managers: | J.P. Morgan Securities LLC Morgan Stanley & Co. LLC RBC Capital Markets, LLC Wells Fargo Securities, LLC Barclays Capital Inc. TD Securities (USA) LLC BofA Securities, Inc.
+Co-Managers: | Capital One Securities, Inc. Rabo Securities
+USA, Inc. BNP Paribas Securities Corp. Mizuho Securities USA
+LLC MUFG Securities Americas Inc. PNC Capital Markets LLC Scotia Capital (USA) Inc. Truist Securities, Inc. U.S. Bancorp Investments, Inc.
+Distribution: | SEC Registered Offering
+Denominations: | $2,000 and integral multiples of $1,000 in excess thereof
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+** | Note: We expect that delivery of the notes will be made on or about November 24, 2026 which will be on or
+about the fifth business day following the date of pricing of the notes (this settlement cycle being referred to as “T+5”). Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended,
+purchases or sales in the secondary market generally are required to settle in one business day, unless the parties to any such transactions expressly agree otherwise. Accordingly, purchasers who wish to trade the 2031 Notes and/or the 2036 Notes
+prior to the business day before their date of delivery will be required, by virtue of the fact that the notes initially will settle in T+5, to specify an alternative settlement cycle at the time of any such trade to prevent a failed settlement.
+Purchasers of the notes who wish to make such trades should consult their own advisors.
+This pricing term sheet is not an offer
+to sell the securities and it is not a solicitation of an offer to buy the securities in any jurisdiction to any person to whom it is unlawful to make such offer or solicitation in such jurisdiction.
+The Issuers and the Guarantors have filed a registration statement (including a base prospectus) and the Preliminary Prospectus Supplement with the SEC for
+the offering to which this communication relates. The Guarantors are identified in the registration statement to which this communication relates. Before you invest, you should read the Preliminary Prospectus Supplement and other documents that
+Restaurant Brands International Inc. has filed with the SEC for more complete information about the Issuers and this offering.
+You may get these
+documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, you may obtain a copy of the Preliminary Prospectus Supplement by calling J.P. Morgan Securities LLC collect at
+1-212-834-4533,
+Morgan Stanley & Co. LLC toll-free at
+1-866-718-1649
+or RBC Capital Markets, LLC toll-free at
+1-866-375-6829.
+Any disclaimers or other notices that may appear below are not applicable to
+this communication and should be disregarded. Such disclaimers or other notices were automatically generated as a result of this communication being sent via Bloomberg or another email system.

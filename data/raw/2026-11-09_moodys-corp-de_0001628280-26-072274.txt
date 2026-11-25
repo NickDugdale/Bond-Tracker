@@ -1,0 +1,51 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1059556/000162828026072274/fwp-pricingtermsheet.htm
+ISSUER (SEC filer): MOODYS CORP /DE/
+FILED: 2026-11-09
+========================================
+FWP
+1
+fwp-pricingtermsheet.htm
+FWP
+Document
+Free Writing Prospectus
+Filed Pursuant to Rule 433
+Registration Statement No. 333-293584
+Moody’s Corporation
+Pricing Term Sheet
+November 9, 2026
+Issuer: | Moody’s Corporation
+Trade Date: | November 9, 2026
+Settlement Date: | November 12, 2026 (T+3)
+Ratings:* | A- by S&P Global Ratings BBB+ by Fitch Ratings
+4.125% Senior Notes due 2033 (the “Notes”)
+Principal Amount: | €500,000,000
+Maturity Date: | November 12, 2033
+Coupon: | 4.125%
+Benchmark Bund: | 3.300% due November 15, 2033
+Benchmark Bund Price and Yield: | 100.890 / 3.155%
+Spread to Benchmark Bund: | +110.1 basis points
+Yield to Maturity: | 4.256%
+Mid-Swap Yield: | 3.276%
+Spread to Mid-Swap Yield: | +98 basis points
+Public Offering Price: | 99.221%
+Interest Payment Dates: | Annually on November 12, commencing November 12, 2027
+Day Count Convention: | ACTUAL/ACTUAL (ICMA)
+Business Day Convention: | Any day, other than a Saturday or Sunday, (i) that is not a day on which banking institutions in The City of New York or London are authorized or required by law or executive order to close and (ii) on which the Trans-European Automated Real-time Gross Settlement Express Transfer system (the “T2 system”), or any successor thereto, operates.
+Make-whole Call: | Prior to August 12, 2033 (the “Par Call Date”), make-whole call at the Comparable Government Bond Rate plus 20 basis points plus accrued and unpaid interest, if any.
+Par Call: | Callable on or after August 12, 2033, the date that is three months prior to the Maturity Date, at a redemption price equal to 100% of the principal amount of the Notes being redeemed, plus accrued and unpaid interest, if any.
+ISIN/Common Code: | XS3560950902 / 356095090
+1
+Expected Listing: | The Issuer intends to apply to list the Notes on the New York Stock Exchange and expects trading in the Notes to begin within 30 days of their issuance.
+Denominations: | €100,000 x €1,000
+Joint Book-Running Managers: | BNP PARIBAS Citigroup Global Markets Limited J.P. Morgan Securities plc HSBC Bank plc Merrill Lynch International
+Co-Managers: | Goldman Sachs & Co. LLC Mizuho International plc Wells Fargo Securities International Limited Citizens JMP Securities, LLC Scotiabank (Ireland) Designated Activity Company Standard Chartered Bank TD Global Finance unlimited company Truist Securities, Inc. U.S. Bancorp Investments, Inc. Drexel Hamilton, LLC R. Seelaus & Co., LLC
+*******************************************
+*Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+MiFID II professionals/ECPs-only / No PRIIPs KID – in the European Economic Area (EEA), the manufacturer target market (MiFID II product governance) is eligible counterparties and professional clients only (all distribution channels). No PRIIPs key information document (KID) has been prepared as not available to retail in the EEA.
+UK MiFIR professionals/ECPs-only / No UK retail disclosure document – in the United Kingdom (UK), the manufacturer target market (UK MiFIR product governance) is eligible counterparties and professional clients only (all distribution channels). No disclosure document under the FCA Product Disclosure Sourcebook (DISC) has been prepared as the Notes are not available to retail investors in the UK.
+It is expected that delivery of the Notes will be made to investors on or about November 12, 2026, which will be the third business day following the date of pricing of the Notes (such settlement being referred to as “T+3”). Under Rule 15c6-1 under the U.S. Securities Exchange Act of 1934, as amended, trades in the secondary market are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade Notes prior to the first business day before their date of delivery will be required, by virtue of the fact that the Notes will initially settle in T+3, to specify an alternate settlement arrangement at the time of any such trade
+2
+to prevent a failed settlement. Purchasers of the Notes who wish to trade the Notes prior to the first business day before their date of delivery should consult their own advisors.
+The issuer has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (the “SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Website at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by contacting BNP PARIBAS at 1 (800) 854-5674, Citigroup Global Markets Limited at 1 (800) 831-9146, or J.P. Morgan Securities plc at +44-207-134-2468 (non-U.S. investors) or J.P. Morgan Securities LLC (collect) at 1 (212) 834-4533 (U.S. investors).
+Any disclaimers or other notices that may appear below are not applicable to this communication and should be disregarded. Such disclaimers were automatically generated as a result of this communication being sent via Bloomberg or another email system.
+3

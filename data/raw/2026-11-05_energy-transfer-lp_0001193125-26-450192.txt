@@ -1,0 +1,75 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1276187/000119312526450192/d130122dfwp.htm
+ISSUER (SEC filer): Energy Transfer LP
+FILED: 2026-11-05
+========================================
+FWP
+1
+d130122dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433 of the Securities Act
+Registration
+No. 333-279982
+November 5, 2026
+Final Pricing Terms
+Energy Transfer LP
+$900,000,000 5.450% Senior Notes due 2032
+$900,000,000 5.900% Senior Notes due 2037
+$900,000,000 6.550% Senior Notes due 2057
+Security: | $900,000,000 5.450% Senior Notes due 2032 (the “2032 Notes”) $900,000,000 5.900% Senior Notes due 2037 (the “2037 Notes”) $900,000,000 6.550% Senior Notes due 2057 (the “2057 Notes” and, together with the 2032 Notes and 2037 Notes, the
+“Notes”)
+Issuer: | Energy Transfer LP
+Expected Ratings (Moody’s / S&P / Fitch)*: | Baa2 / BBB / BBB
+Security Type: | Senior Unsecured Notes
+Form: | SEC Registered
+Pricing Date: | November 5, 2026
+Settlement Date (T+10): | November 20, 2026. We expect that delivery of the Notes will be made against payment therefor on or about November 20, 2026, which will be the tenth business day following the date hereof. This settlement cycle
+is referred to as “T+10.” Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), trades in the secondary market generally are required
+to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade Notes prior to the date that is one business day preceding the settlement date, will be required, by virtue of
+the fact that the Notes initially will settle T+10, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement. Purchasers of Notes who wish to trade Notes prior to the date that is one business day
+preceding the settlement date should consult their own advisors.
+Net Proceeds (before offering expenses): | $2,676,852,000
+Ranking: | The Notes will be our general unsecured obligations. The Notes will rank equally in right of payment with all our existing and future senior debt, including debt under our revolving credit facility and our existing
+senior notes, senior in right of payment to our existing and future subordinated debt and junior to the indebtedness and other obligations, including trade payables, of our subsidiaries that do not guarantee the notes. As of September 30, 2026,
+after giving effect to this offering and the application of the net proceeds as set forth under “Use of Proceeds” in the Notes Preliminary Prospectus Supplement (as defined below), we would have had total senior debt of
+$48.7 billion, total junior subordinated debt of $5.55 billion, and we would have been able to incur an additional $5 billion of debt under our revolving credit facility.
+Delivery: | DTC (deliverable through Euroclear and Clearstream)
+$900,000,000 5.450% Senior Notes due 2032 | $900,000,000 5.900% Senior Notes due 2037 | $900,000,000 6.550% Senior Notes due 2057
+Principal Amount: | $900,000,000 | $900,000,000 | $900,000,000
+Maturity Date: | January 15, 2032 | January 15, 2037 | January 15, 2057
+Interest Payment Dates: | January 15 and July 15, beginning July 15, 2027 | January 15 and July 15, beginning July 15, 2027 | January 15 and July 15, beginning July 15, 2027
+Benchmark Treasury: | 4.750% due October 31, 2031 | 4.625% due August 15, 2036 | 5.000% due May 15, 2056
+Benchmark Treasury Price / Yield: | 100-20 3 ⁄ 4 / 4.603% | 98-12 / 4.835% | 96-04+ / 5.259%
+Spread to Benchmark Treasury: | +85 bps | +110 bps | +130 bps
+Yield to Maturity: | 5.453% | 5.935% | 6.559%
+Coupon: | 5.450% | 5.900% | 6.550%
+Public Offering Price: | 99.972% of the Principal Amount | 99.719% of the Principal Amount | 99.862% of the Principal Amount
+Make-Whole Call: | T+15 bps | T+20 bps | T+20 bps
+Call at Par: | On or after December 15, 2031 | On or after October 15, 2036 | On or after July 15, 2056
+CUSIP / ISIN: | 29273V BP4 / US29273VBP40 | 29273V BQ2 / US29273VBQ23 | 29273V BR0 / US29273VBR06
+Joint Book-Running Managers: | Barclays Capital Inc. Deutsche Bank
+Securities Inc. Morgan Stanley & Co. LLC RBC Capital
+Markets, LLC Wells Fargo Securities, LLC BBVA Securities
+Inc. BMO Capital Markets Corp. BofA Securities, Inc. CIBC World Markets Corp. Citigroup Global Markets Inc. Credit Agricole Securities (USA) Inc. Fifth Third Securities,
+Inc. J.P. Morgan Securities LLC Mizuho Securities USA LLC MUFG Securities Americas Inc. PNC Capital Markets LLC Regions Securities LLC Scotia Capital (USA) Inc. SG Americas Securities, LLC SMBC Nikko Securities America,
+Inc. TD Securities (USA) LLC Truist Securities, Inc. U.S. Bancorp Investments, Inc.
+* | Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+Additional Information
+The Issuer has filed a registration statement (including a base prospectus) and a preliminary prospectus supplement with the U.S. Securities and Exchange
+Commission (“SEC”) for this offering (the “Notes Preliminary Prospectus Supplement”). Before you invest, you should read the Notes Preliminary Prospectus Supplement, the base prospectus in that registration statement and
+other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You may obtain these documents for free by visiting EDGAR on the SEC website at http://www.sec.gov. Alternatively, you may obtain a
+copy of the Notes Preliminary Prospectus Supplement and related base prospectus if you request it by calling Barclays Capital Inc. toll free at
+1-888-603-5847,
+Deutsche Bank Securities Inc. toll free at
+1-800-503-4611,
+Morgan Stanley & Co. LLC toll free at
+1-866-718-1649,
+RBC Capital Markets, LLC toll free at
+1-866-375-6829
+or Wells Fargo Securities, LLC toll free at free at
+1-800-645-3751.
+This pricing term sheet
+supplements the Notes Preliminary Prospectus Supplement filed by Energy Transfer LP on November 5, 2026 relating to the base prospectus dated June 5, 2024.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED. SUCH DISCLAIMERS OR OTHER NOTICES
+WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.

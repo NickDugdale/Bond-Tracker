@@ -1,0 +1,65 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1581776/000119312526443688/d181903dfwp.htm
+ISSUER (SEC filer): Mid-America Apartments, L.P.
+FILED: 2026-11-02
+========================================
+FWP
+1
+d181903dfwp.htm
+FWP
+FWP
+Filed Pursuant to Rule 433
+Registration Statement
+No. 333-279076-01
+Relating to Preliminary Prospectus Supplement dated November 2, 2026
+to Prospectus dated May 2, 2024
+November 2, 2026
+Mid-America
+Apartments, L.P.
+$350,000,000 5.350% Senior Notes due 2031
+Pricing Term Sheet
+This pricing term
+sheet relates only to the securities described below and should be read together with
+Mid-America
+Apartments, L.P.’s preliminary prospectus supplement dated November 2, 2026 (the “preliminary
+prospectus supplement”) and the accompanying prospectus dated May 2, 2024 and the documents incorporated and deemed to be incorporated by reference therein.
+Issuer: | Mid-America Apartments, L.P.
+Security Title: | 5.350% Senior Notes due 2031
+Principal Amount: | $350,000,000
+Trade Date: | November 2, 2026
+Settlement Date: | November 12, 2026 (T+7)
+Maturity Date: | December 15, 2031
+Interest Payment Dates: | Payable semi-annually on June 15 and December 15, commencing June 15, 2027
+Coupon Rate: | 5.350% per year, accruing from November 12, 2026
+Price to Public: | 99.584% of the principal amount, plus accrued interest, if any, from November 12, 2026
+Benchmark Treasury: | 4.750% due October 31, 2031
+Benchmark Treasury Price / Yield: | 100-08 / 4.693%
+Spread to Benchmark Treasury: | +75 basis points
+Yield to Maturity: | 5.443%
+Optional Redemption: | Prior to November 15, 2031, make-whole redemption at the Treasury Rate (as defined) plus 15 basis points (except as otherwise provided in the preliminary prospectus supplement) plus accrued and unpaid interest. On and after
+November 15, 2031, at a redemption price equal to 100% of the principal amount plus accrued and unpaid interest. See the preliminary prospectus supplement for the definition of “Treasury Rate” and for further terms and provisions
+applicable to optional redemption.
+CUSIP / ISIN: | 59523U AZ0 / US59523UAZ03
+Joint Book-Running Managers: | J.P. Morgan Securities LLC Mizuho Securities
+USA LLC Truist Securities, Inc. U.S. Bancorp Investments,
+Inc. Wells Fargo Securities, LLC KeyBanc Capital Markets
+Inc.
+Senior Co-Managers: | Regions Securities LLC Scotia Capital (USA)
+Inc. SMBC Nikko Securities America, Inc. Fifth Third
+Securities, Inc. Huntington Securities, Inc.
+Co-Managers: | Citigroup Global Markets Inc. PNC Capital
+Markets LLC TD Securities (USA) LLC
+The issuer has filed a registration statement (including a prospectus) with the SEC for the offering to which this communication relates. Before you
+invest, you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on
+the SEC Web site at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling J.P. Morgan Securities LLC collect at
+1-212-834-4533,
+Mizuho Securities USA LLC toll-free at
+1-866-271-7403,
+Truist Securities, Inc. toll-free at
+1-800-685-4786,
+U.S. Bancorp
+Investments, Inc. toll-free at
+1-877-558-2607
+or Wells Fargo Securities, LLC toll-free at
+1-800-645-3751.
+Any disclaimer or other notice that may appear
+below is not applicable to this communication and should be disregarded. Such disclaimer or notice was automatically generated as a result of this communication being sent by Bloomberg or another email system.
