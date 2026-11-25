@@ -83,7 +83,10 @@ def deal_table(d):
 def short_name(name):
     """'Aon North America, Inc. and Aon Global Holdings plc' -> 'Aon North America'"""
     name = re.split(r"\s+and\s+|,", name)[0]
-    return re.sub(r"\b(Inc|Corporation|Corp|plc|LLC|L\.L\.C|Ltd|Company|Co|S\.A|N\.V)\b\.?", "", name).strip(" .,")
+    # Strip legal suffixes as whole words only (so "Co-operative Bank" survives)
+    name = re.sub(r"(?i)(?<![\w-])(Inc|Corporation|Corp|plc|LLC|L\.L\.C|Ltd|Company|Co|S\.A|N\.V)(?![\w-])\.?", "", name)
+    name = re.sub(r"^The\s+", "", name.strip())       # "The Procter & Gamble" -> "Procter & Gamble"
+    return name.strip(" .,&")                           # "JPMorgan Chase &" -> "JPMorgan Chase"
 
 
 MIN_BONDS = 3   # fewer bonds than this in a tenor bucket = no meaningful median
@@ -139,7 +142,9 @@ def build_facts(df, period, start, end, label):
     # "a quiet week" means quiet relative to recent activity.
     days_per_period = 7 if period == "week" else 30.4
     covered = (start - prior_start).days
-    n_prior = max(1, round(covered / days_per_period))
+    # Fractional periods: 41 days of history is 1.35 months, not "1 month",
+    # otherwise the average overstates a typical month's volume.
+    n_prior = max(covered / days_per_period, 1e-9)
     # Only quote an average if the data covers at least one full prior
     # period; otherwise "avg" would really be a few days' worth.
     has_full_prior = covered >= 0.9 * days_per_period
@@ -166,12 +171,15 @@ def build_facts(df, period, start, end, label):
         "senior_ig_spreads_by_tenor": curve,
         "prior_period": {
             "from": prior_start.strftime("%d %b %Y"),
-            f"{period}s": n_prior,
+            f"{period}s": round(n_prior, 1),
             f"avg_{period}ly_volume_usd_bn": round(before["size_usd_m"].sum() / 1000 / n_prior, 1)
                                              if len(before) and has_full_prior else None,
         },
         "chart_window_from": chart_from.strftime("%d %b %Y"),
         "notable_deals": deals.head(6).to_dict("records"),
+        # Counted here so the model never has to count for itself
+        "notable_deals_count": int(min(6, len(deals))),
+        "notable_deals_count_by_sector": deals.head(6)["sector"].value_counts().to_dict(),
     }
 
 
@@ -208,7 +216,19 @@ STRICT RULES
 3. These are CREDIT SPREADS, not interest rates. Never use yield-curve terms
    such as steepening, flattening, bull or bear.
 4. Don't contradict yourself between the summary and the themes.
-5. Write amounts as $7.1bn, spreads as +90bp."""
+5. Write amounts as $7.1bn, spreads as +90bp.
+6. Never count, tally or rank anything yourself (e.g. "3 of the top 6 deals").
+   Use only counts given in the fact sheet, such as notable_deals_count_by_sector."""
+
+
+def count_claims_ok(text, facts):
+    """Catch claims like '4 of the top 6 deals': the number check alone
+    passed this once, because both 4 and 6 appear somewhere in the facts."""
+    sector_counts = set(facts["notable_deals_count_by_sector"].values())
+    for n, top in re.findall(r"(\d+) of (?:the )?top (\d+)", text):
+        if int(top) != facts["notable_deals_count"] or int(n) not in sector_counts:
+            return False
+    return True
 
 
 def numbers_in(text):
@@ -240,11 +260,14 @@ def write_commentary(facts):
         out = next(b for b in response.content if b.type == "tool_use").input
         text = out["summary"] + " " + " ".join(out["themes"])
         unverified = sorted(numbers_in(text) - allowed)
-        if not unverified:
+        counts_ok = count_claims_ok(text, facts)
+        if not unverified and counts_ok:
             print(f"Commentary check: every number traced to the fact sheet (attempt {attempt}).")
             return out
-        print(f"Attempt {attempt}: numbers not in the fact sheet: {unverified}. "
-              + ("Retrying..." if attempt == 1 else "Using it, but CHECK these before sending."))
+        problem = (f"numbers not in the fact sheet: {unverified}" if unverified
+                   else "a 'N of the top M' count doesn't match the notable deals table")
+        print(f"Attempt {attempt}: {problem}. "
+              + ("Retrying..." if attempt == 1 else "Using it, but CHECK this before sending."))
     return out
 
 
@@ -368,8 +391,11 @@ def build_docx(facts, words, results, docx_out):
         for i, cell in enumerate(row.cells):
             cell.width = Cm(widths[i])
             cell.paragraphs[0].paragraph_format.space_after = Pt(0)
-    para(doc, "* includes subordinated or hybrid bonds. Spreads over each bond's benchmark "
-              "(UST for USD, Bunds/mid-swaps for EUR, gilts for GBP).", size=6.5, color=GREY, space_after=0)
+    # Only explain the asterisk if a deal in the table actually has one
+    has_star = any(d["hybrid_or_sub"] for d in facts["notable_deals"])
+    para(doc, ("* includes subordinated or hybrid bonds. " if has_star else "")
+              + "Spreads over each bond's benchmark (UST for USD, Bunds/mid-swaps for EUR, "
+              "gilts for GBP).", size=6.5, color=GREY, space_after=0)
 
     # --- Charts (last 30 days of context)
     heading(doc, f"Pricing context: {facts['chart_window_from']} to {facts['end']}")
@@ -395,7 +421,8 @@ def build_docx(facts, words, results, docx_out):
         if g and s:
             accuracy = (f" Extraction QC: {g['grounded_pct']}% of {g['values_checked']} extracted "
                         f"values traced to source filings; {s['accuracy_pct']}% correct on a manual "
-                        f"spot check of {s['values_checked']} values.")
+                        f"spot check of {s['values_checked']} values from {s['deals']} randomly "
+                        f"sampled deals ({pd.Timestamp(results['date_scored']).strftime('%b %Y')}).")
     small = (
         f"Source: SEC EDGAR pricing term sheets (form FWP), {p['from']} to {facts['end']}. "
         f"Terms extracted from filings with Claude ({config.MODEL}); all figures computed in Python "
